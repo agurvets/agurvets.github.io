@@ -18,13 +18,13 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
 
     <!--  Custom CSS  -->
-    <link href="./static/css/style.css" rel="stylesheet">
-
+    <link href="/static/css/style.css" rel="stylesheet">
+    
     <!--  Favicons  -->
-    <link rel="apple-touch-icon" href="./static/img/apple-touch-icon.png" sizes="180x180">
-    <link rel="icon" href="./static/img/favicon-32x32.png" sizes="32x32" type="image/png">
-    <link rel="icon" href="./static/img/favicon-16x16.png" sizes="16x16" type="image/png">
-    <link rel="icon" href="./static/img/favicon.ico">
+    <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" href="/static/img/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="/static/img/favicon-16x16.png" sizes="16x16" type="image/png">
+    <link rel="icon" href="/static/img/favicon.ico">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178244916-1"></script>
@@ -41,40 +41,117 @@
 <main role="main">
     <div class="container-fluid">
         <div class="row">
-            {% for key, items in stories.items() %}
+            
             <div class="col">
                 <div class="header">
                     <h3 class="col-header">Hacker, MD</h3>
                 </div>
                 <div class="stories">
-                    {% for item in items %}
+                    
                     <article class="item-wrapper">
                         <div class="item">
-                            <a class="title" href="{{ item.url or item.hn_url }}" target="_blank">
-                            {{ item.title}}
+                            <a class="title" href="https://www.thevast.net/post/breaking-new-species-of-whale-discovered" target="_blank">
+                            A New species of whale has been discovered off the western coast of Mexico
                             </a>
-                            {% if item.domain %}
+                            
                             <span class="subtitle">
-                                <a class="domain-link" href="https://news.ycombinator.com/from?site={{ item.domain }}" target="_blank">({{ item.domain }})</a>
+                                <a class="domain-link" href="https://news.ycombinator.com/from?site=thevast.net" target="_blank">(thevast.net)</a>
                             </span>
-                            {% endif %}
+                            
                             <div class="d-flex justify-content-between align-items-center">
                                 <small class="text-muted text-left subtitle">
-                                    {{ item.score }} points by <a href="{{ item.user_url }}" target="_blank">{{ item.by
-                                    }}</a> {{ item.time }}
-                                    {% if item.descendants|int > 0 %}
-                                    <a href="{{ item.hn_url }}" target="_blank">{{ item.descendants }} comments</a>
-                                    {% else %}
-                                    <a href="{{ item.hn_url }}" target="_blank">discuss</a>
-                                    {% endif %}
+                                    117 points by <a href="https://news.ycombinator.com/user?id=williamsharris" target="_blank">williamsharris</a> 3 days ago
+                                    
+                                    <a href="https://news.ycombinator.com/item?id=25370430" target="_blank">26 comments</a>
+                                    
                                 </small>
                             </div>
                         </div>
                     </article>
-                    {% endfor %}
+                    
+                    <article class="item-wrapper">
+                        <div class="item">
+                            <a class="title" href="https://royalsocietypublishing.org/doi/10.1098/rsos.201912#d1e1637" target="_blank">
+                            Vitamin D and Covid-19: evidence and recommendations for supplementation
+                            </a>
+                            
+                            <span class="subtitle">
+                                <a class="domain-link" href="https://news.ycombinator.com/from?site=royalsocietypublishing.org" target="_blank">(royalsocietypublishing.org)</a>
+                            </span>
+                            
+                            <div class="d-flex justify-content-between align-items-center">
+                                <small class="text-muted text-left subtitle">
+                                    27 points by <a href="https://news.ycombinator.com/user?id=chaimkut" target="_blank">chaimkut</a> a day ago
+                                    
+                                    <a href="https://news.ycombinator.com/item?id=25400788" target="_blank">7 comments</a>
+                                    
+                                </small>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <article class="item-wrapper">
+                        <div class="item">
+                            <a class="title" href="https://news.ycombinator.com/item?id=25401590" target="_blank">
+                            Ask HN: Most interesting things you&#39;ve learned/discovered in 2020?
+                            </a>
+                            
+                            <div class="d-flex justify-content-between align-items-center">
+                                <small class="text-muted text-left subtitle">
+                                    18 points by <a href="https://news.ycombinator.com/user?id=rayalez" target="_blank">rayalez</a> a day ago
+                                    
+                                    <a href="https://news.ycombinator.com/item?id=25401590" target="_blank">11 comments</a>
+                                    
+                                </small>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <article class="item-wrapper">
+                        <div class="item">
+                            <a class="title" href="http://www.zonicweb.net/badalbmcvrs/index.htm" target="_blank">
+                            Museum of Bad Album Covers
+                            </a>
+                            
+                            <span class="subtitle">
+                                <a class="domain-link" href="https://news.ycombinator.com/from?site=zonicweb.net" target="_blank">(zonicweb.net)</a>
+                            </span>
+                            
+                            <div class="d-flex justify-content-between align-items-center">
+                                <small class="text-muted text-left subtitle">
+                                    192 points by <a href="https://news.ycombinator.com/user?id=gscott" target="_blank">gscott</a> 2 days ago
+                                    
+                                    <a href="https://news.ycombinator.com/item?id=25383623" target="_blank">108 comments</a>
+                                    
+                                </small>
+                            </div>
+                        </div>
+                    </article>
+                    
+                    <article class="item-wrapper">
+                        <div class="item">
+                            <a class="title" href="https://edition.cnn.com/2020/12/09/asia/shibasaki-japan-youtube-star-spc-intl/index.html" target="_blank">
+                            A 73-year-old Japanese artist took YouTube by storm
+                            </a>
+                            
+                            <span class="subtitle">
+                                <a class="domain-link" href="https://news.ycombinator.com/from?site=edition.cnn.com" target="_blank">(edition.cnn.com)</a>
+                            </span>
+                            
+                            <div class="d-flex justify-content-between align-items-center">
+                                <small class="text-muted text-left subtitle">
+                                    258 points by <a href="https://news.ycombinator.com/user?id=williamsharris" target="_blank">williamsharris</a> 3 days ago
+                                    
+                                    <a href="https://news.ycombinator.com/item?id=25372620" target="_blank">50 comments</a>
+                                    
+                                </small>
+                            </div>
+                        </div>
+                    </article>
+                    
                 </div>
             </div>
-            {% endfor %}
+            
         </div>
     </div>
 </main>
