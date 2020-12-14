@@ -10,7 +10,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     stories = {}
-    with open('/home/agurvets/agurvets.github.io/top.csv') as file:
+    with open('../top.csv') as file:
         reader = csv.DictReader(file)
         items = []
         for item in list(reader):
