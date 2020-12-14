@@ -1,15 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-oftenwrong,220,25418676,218,1607960040,"Insulation: First the body, then the home (2011)",story,https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html,,lowtechmagazine.com
-rkearns,1,25421539,14,1607972038,Data Catalogs Are Dead; Long Live Data Discovery,story,https://www.montecarlodata.com/data-catalogs-are-dead-long-live-data-discovery/,,montecarlodata.com
+rkearns,2,25421539,17,1607972038,Data Catalogs Are Dead; Long Live Data Discovery,story,https://www.montecarlodata.com/data-catalogs-are-dead-long-live-data-discovery/,,montecarlodata.com
+oftenwrong,224,25418676,221,1607960040,"Insulation: First the body, then the home (2011)",story,https://www.lowtechmagazine.com/2011/02/body-insulation-thermal-underwear.html,,lowtechmagazine.com
 cookingoils,49,25411997,203,1607905860,Human Clock,story,https://humanclock.com/,,humanclock.com
 sillybilly,0,25412572,25,1607910355,The World’s First Medical Records,story,https://lithub.com/what-the-worlds-first-medical-records-tell-us-about-ancient-life/,,lithub.com
-metahost,13,25406233,48,1607863811,Akku: Experimental Bluetooth headset battery monitoring application for macOS,story,https://github.com/jariz/Akku,,github.com
+metahost,13,25406233,49,1607863811,Akku: Experimental Bluetooth headset battery monitoring application for macOS,story,https://github.com/jariz/Akku,,github.com
 wallflower,209,25399086,156,1607789226,How Pfizer delivered a Covid vaccine in record time,story,https://www.wsj.com/articles/how-pfizer-delivered-a-covid-vaccine-in-record-time-crazy-deadlines-a-pushy-ceo-11607740483,,wsj.com
 hindsightbias,21,25413427,63,1607918773,Nature's 'Brita Filter' Is Dying and Nobody Knows Why (2019),story,https://www.wuwm.com/post/natures-brita-filter-dying-and-nobody-knows-why,,wuwm.com
 pjmlp,121,25405645,135,1607856350,Casio Graphing Scientific Calculator Fx-9860GIII Comes with MicroPython,story,https://edu.casio.com/products/graphic/fx9860g3/,,edu.casio.com
 fortran77,97,25402610,103,1607813949,Understanding mRNA Covid-19 vaccines,story,https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html,,cdc.gov
-andreasley,3,25418205,20,1607957683,FSB Team of Chemical Weapon Experts Implicated in Navalny Novichok Poisoning,story,https://www.bellingcat.com/news/uk-and-europe/2020/12/14/fsb-team-of-chemical-weapon-experts-implicated-in-alexey-navalny-novichok-poisoning/,,bellingcat.com
 Luc,5,25408405,30,1607881749,Hacker’s Discovery Changes Understanding of the Antikythera Mechanism,story,https://hackaday.com/2020/12/12/hackers-discovery-changes-understanding-of-the-antikythera-mechanism/,,hackaday.com
+andreasley,3,25418205,20,1607957683,FSB Team of Chemical Weapon Experts Implicated in Navalny Novichok Poisoning,story,https://www.bellingcat.com/news/uk-and-europe/2020/12/14/fsb-team-of-chemical-weapon-experts-implicated-in-alexey-navalny-novichok-poisoning/,,bellingcat.com
 ikeboy,4,25406452,32,1607866535,"Physicists Prove Anyons Exist, a Third Type of Particle in the Universe",story,https://www.discovermagazine.com/the-sciences/physicists-prove-anyons-exist-a-third-type-of-particle-in-the-universe,,discovermagazine.com
 drdee,1,25394199,14,1607735853,"I Say Happiness: Mary Wollstonecraft communes with nature, and walks alone",story,https://www.laphamsquarterly.org/roundtable/i-say-happiness,,laphamsquarterly.org
 vanilla-almond,17,25405790,20,1607858487,UK supermarkets report a surge in vegan food sales while expanding ranges,story,https://www.theguardian.com/business/2020/dec/12/veganattone-and-no-turkey-crowns-its-a-merry-vegan-christmas-for-uk-retailers,,theguardian.com
