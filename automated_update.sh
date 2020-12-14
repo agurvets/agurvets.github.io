@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/agurvets/agurvets.github.io
+cd /Users/alexgurvets/projects/hackermd-github-pages/agurvets.github.io
 git pull
 python3 fetch_data.py
 python3 frozen_flask.py
