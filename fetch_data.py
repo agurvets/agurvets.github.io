@@ -12,6 +12,7 @@ def scrape_item(story):
     if not item:
         return
     item.pop('kids', None)
+    item.pop('parts', None)
     fields = list(item.keys())
     if 'url' not in fields:
         fields.append('url')
