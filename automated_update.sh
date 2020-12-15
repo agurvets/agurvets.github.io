@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -x
 cd /Users/alexgurvets/projects/hackermd-github-pages/agurvets.github.io
 git pull
 python3 fetch_data.py
