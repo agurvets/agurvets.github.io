@@ -3,6 +3,7 @@ date
 set -e
 set -x
 cd /Users/alexgurvets/projects/hackermd-github-pages/agurvets.github.io
+whoami
 git pull
 pip3 install requests Frozen-Flask humanize
 /usr/bin/python3 fetch_data.py
