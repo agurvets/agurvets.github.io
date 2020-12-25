@@ -1,15 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-moj3,1,25524460,21,1608775868,Fitting all human knowledge in a box,story,https://monadical.com/posts/knowledge-in-box.html,,monadical.com
-g_p,102,25529178,124,1608829227,Hackers threaten to leak plastic surgery pictures,story,https://www.bbc.co.uk/news/technology-55439190,,bbc.co.uk
-luu,16,25512752,34,1608680186,The NeurIPS 2020 broader impacts experiment,story,https://statmodeling.stat.columbia.edu/2020/12/21/the-neurips-2020-broader-impacts-experiment/,,statmodeling.stat.columbia.edu
-rdegges,30,25526104,150,1608801278,The Mystery of Deceased Hiker ‘Mostly Harmless’ Is at Long Last Solved,story,https://www.adventure-journal.com/2020/12/the-mystery-of-deceased-hiker-mostly-harmless-is-at-long-last-solved/,,adventure-journal.com
+moj3,1,25524460,25,1608775868,Fitting all human knowledge in a box,story,https://monadical.com/posts/knowledge-in-box.html,,monadical.com
+luu,20,25512752,35,1608680186,The NeurIPS 2020 broader impacts experiment,story,https://statmodeling.stat.columbia.edu/2020/12/21/the-neurips-2020-broader-impacts-experiment/,,statmodeling.stat.columbia.edu
+g_p,112,25529178,132,1608829227,Hackers threaten to leak plastic surgery pictures,story,https://www.bbc.co.uk/news/technology-55439190,,bbc.co.uk
+finphil,4,25530753,11,1608839049,"Another new Covid-19 virus variant found in Nigeria, says Africa CDC",story,https://www.reuters.com/article/us-health-coronavirus-africa-idUSKBN28Y1B7,,reuters.com
+rdegges,31,25526104,153,1608801278,The Mystery of Deceased Hiker ‘Mostly Harmless’ Is at Long Last Solved,story,https://www.adventure-journal.com/2020/12/the-mystery-of-deceased-hiker-mostly-harmless-is-at-long-last-solved/,,adventure-journal.com
 ahelwer,1,25529869,15,1608833652,"Edmund M. Clarke, recipient of 2007 Turing Award, passes away from Covid-19",story,https://www.linkedin.com/posts/james-clarke-a343b77_my-father-edmund-m-clarke-passed-away-from-activity-6747317728551538688-BLoN,,linkedin.com
 partingshots,125,25520729,296,1608749441,Google/Fitbit will monetise health data and harm consumers [pdf],story,https://cepr.org/sites/default/files/policy_insights/PolicyInsight107.pdf,,cepr.org
-gmays,99,25518831,341,1608738754,Anti-diarrhoea drug drives cancer cells to cell death,story,https://aktuelles.uni-frankfurt.de/englisch/anti-diarrhoea-drug-drives-cancer-cells-to-cell-death/,,aktuelles.uni-frankfurt.de
+gmays,99,25518831,342,1608738754,Anti-diarrhoea drug drives cancer cells to cell death,story,https://aktuelles.uni-frankfurt.de/englisch/anti-diarrhoea-drug-drives-cancer-cells-to-cell-death/,,aktuelles.uni-frankfurt.de
 williamsharris,131,25525400,123,1608790076,Covid: France rewards frontline immigrant workers with citizenship,story,https://www.bbc.com/news/world-europe-55423257,,bbc.com
-lawrenceyan,85,25528493,106,1608824907,"The Google Fitbit Deal: Hazardous to competition, privacy, and our health [pdf]",story,https://www.democraticmedia.org/sites/default/files/field/public-files/2020/googlefitbitdeal020820.pdf,,democraticmedia.org
 devy,0,25525794,18,1608796458,Scientists make a sodium-ion battery density breakthrough,story,https://electrek.co/2020/12/15/sodium-ion-rechargeable-battery-density/,,electrek.co
-pseudolus,277,25516712,301,1608725235,Google told its scientists to ‘strike a positive tone’ in AI research,story,https://www.reuters.com/article/us-alphabet-google-research-focus/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSKBN28X1CB,,reuters.com
+lawrenceyan,86,25528493,106,1608824907,"The Google Fitbit Deal: Hazardous to competition, privacy, and our health [pdf]",story,https://www.democraticmedia.org/sites/default/files/field/public-files/2020/googlefitbitdeal020820.pdf,,democraticmedia.org
+pseudolus,278,25516712,301,1608725235,Google told its scientists to ‘strike a positive tone’ in AI research,story,https://www.reuters.com/article/us-alphabet-google-research-focus/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSKBN28X1CB,,reuters.com
 pseudolus,9,25505366,31,1608637814,"Scientists and philosopher team up, propose a new way to categorize minerals",story,https://phys.org/news/2020-12-scientists-philosopher-team-categorize-minerals.html,,phys.org
 rmeertens,3,25504887,16,1608633409,Painting by Prime Number (2018),story,http://www.pinchofintelligence.com/painting-by-prime-number/,,pinchofintelligence.com
 Link-,1,25521844,16,1608755507,World Health Organization Open Source Communication Channel,story,https://github.com/WorldHealthOrganization/open-source-communication-channel,,github.com
