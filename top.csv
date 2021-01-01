@@ -1,28 +1,31 @@
 by,descendants,id,score,time,title,type,url,text,domain
-respinal,32,25548342,38,1609036438,"Oxford and AstraZeneca Covid-19 vaccine: ""potency miscalculation""",story,https://www.reuters.com/article/us-health-coronavirus-britain-vaccine-sp-idUKKBN28Y0XU,,reuters.com
-dnetesn,2,25536070,61,1608899158,The Mystery of Mistletoe’s Missing Genes,story,http://abstractions.nautil.us/article/656/the-mystery-of-mistletoes-missing-genes,,abstractions.nautil.us
-bookofjoe,11,25536288,44,1608902240,On the Many Mysteries of the European Eel,story,https://lithub.com/on-the-many-mysteries-of-the-european-eel/,,lithub.com
-dnetesn,2,25536066,46,1608899099,"Reading, That Strange and Uniquely Human Thing",story,http://nautil.us/issue/94/evolving/reading-that-strange-and-uniquely-human-thing,,nautil.us
-svrma,42,25534645,114,1608876736,Eyes hint at hidden mental-health conditions (2019),story,https://www.nature.com/articles/d41586-019-01114-9,,nature.com
-Circumnavigate,268,25538589,291,1608926029,Mutated Covid-19 strain confirmed in Japan as case tally hits record high,story,https://www.japantimes.co.jp/news/2020/12/25/national/tokyo-coronavirus-884-cases/,,japantimes.co.jp
-mikesabbagh,5,25546211,13,1609014424,Chinese economy to overtake US 'by 2028' due to Covid,story,https://www.bbc.com/news/world-asia-china-55454146,,bbc.com
-g_p,151,25529178,170,1608829227,Hackers threaten to leak plastic surgery pictures,story,https://www.bbc.co.uk/news/technology-55439190,,bbc.co.uk
-rdegges,36,25526104,177,1608801278,The Mystery of Deceased Hiker ‘Mostly Harmless’ Is at Long Last Solved,story,https://www.adventure-journal.com/2020/12/the-mystery-of-deceased-hiker-mostly-harmless-is-at-long-last-solved/,,adventure-journal.com
-benbreen,8,25523898,53,1608769472,Ancient DNA Shows Humans Settled Caribbean in 2 Distinct Waves,story,https://www.nytimes.com/2020/12/23/science/dna-caribbean-islands.html,,nytimes.com
-alokrai,5,25533846,24,1608865562,Programming Languages as Objects in Nature,story,https://parentheticallyspeaking.org/articles/pls-nature/,,parentheticallyspeaking.org
-ta988,2,25539725,23,1608936864,About those new Covid mutations,story,https://blogs.sciencemag.org/pipeline/archives/2020/12/22/the-new-mutations,,blogs.sciencemag.org
-luu,52,25512752,58,1608680186,The NeurIPS 2020 broader impacts experiment,story,https://statmodeling.stat.columbia.edu/2020/12/21/the-neurips-2020-broader-impacts-experiment/,,statmodeling.stat.columbia.edu
-sologuardsman2,0,25530840,12,1608839646,The Wave/Particle Duality of Git Commits,story,https://www.thirtythreeforty.net/posts/2020/01/the-wave-particle-duality-of-git-commits/,,thirtythreeforty.net
-partingshots,130,25520729,300,1608749441,Google/Fitbit will monetise health data and harm consumers [pdf],story,https://cepr.org/sites/default/files/policy_insights/PolicyInsight107.pdf,,cepr.org
-gmays,99,25518831,354,1608738754,Anti-diarrhoea drug drives cancer cells to cell death,story,https://aktuelles.uni-frankfurt.de/englisch/anti-diarrhoea-drug-drives-cancer-cells-to-cell-death/,,aktuelles.uni-frankfurt.de
-finphil,8,25530753,25,1608839049,"Another new Covid-19 virus variant found in Nigeria, says Africa CDC",story,https://www.reuters.com/article/us-health-coronavirus-africa-idUSKBN28Y1B7,,reuters.com
-pseudolus,271,25516712,303,1608725235,Google told its scientists to ‘strike a positive tone’ in AI research,story,https://www.reuters.com/article/us-alphabet-google-research-focus/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSKBN28X1CB,,reuters.com
-eightysteele,31,25512699,96,1608679740,Unraveling the role of the microbiome in major depressive disorder,story,https://journals.lww.com/hrpjournal/Fulltext/2020/01000/Gutted__Unraveling_the_Role_of_the_Microbiome_in.4.aspx,,journals.lww.com
-moj3,4,25524460,39,1608775868,Fitting all human knowledge in a box,story,https://monadical.com/posts/knowledge-in-box.html,,monadical.com
-SQL2219,10,25531614,13,1608845408,"Possible Aerosol Transmission of Covid-19 Through HVAC in Seoul, South Korea",story,https://www.sciencedirect.com/science/article/pii/S1201971220325583,,sciencedirect.com
-Link-,1,25521844,17,1608755507,World Health Organization Open Source Communication Channel,story,https://github.com/WorldHealthOrganization/open-source-communication-channel,,github.com
-williamsharris,137,25525400,124,1608790076,Covid: France rewards frontline immigrant workers with citizenship,story,https://www.bbc.com/news/world-europe-55423257,,bbc.com
-devy,0,25525794,19,1608796458,Scientists make a sodium-ion battery density breakthrough,story,https://electrek.co/2020/12/15/sodium-ion-rechargeable-battery-density/,,electrek.co
-akbarnama,3,25535611,21,1608892182,“This Is How Black People Get Killed”: Doctor in Video Before Covid Death,story,https://www.ndtv.com/world-news/this-is-how-black-people-get-killed-doctor-in-video-before-covid-death-2343370,,ndtv.com
-elijahparker,0,25513923,22,1608692379,3D Modeling Finds Surprising Source of the Shots That Killed Iranian Scientist,story,https://www.forbes.com/sites/davidhambling/2020/12/22/3d-modeling-finds-suprising-source-of-shots-that-killed-iranian-scientist/,,forbes.com
-ahelwer,2,25529869,18,1608833652,"Edmund M. Clarke, recipient of 2007 Turing Award, passes away from Covid-19",story,https://www.linkedin.com/posts/james-clarke-a343b77_my-father-edmund-m-clarke-passed-away-from-activity-6747317728551538688-BLoN,,linkedin.com
+elijahparker,6,25592093,16,1609418317,The culinary rediscovery of Colombia’s biodiversity,story,https://news.mongabay.com/2020/12/geography-on-the-plate-the-culinary-rediscovery-of-colombias-biodiversity/,,news.mongabay.com
+flancian,90,25573523,156,1609268981,Show HN: The Agora – an experimental social network,story,http://anagora.org/node/agora,,anagora.org
+burnthrow,30,25594815,22,1609436075,Some healthcare workers refuse to take Covid-19 vaccine,story,https://www.latimes.com/california/story/2020-12-31/healthcare-workers-refuse-covid-19-vaccine-access,,latimes.com
+mellosouls,80,25588888,139,1609381288,"Well, Actually – Physics Answers",story,http://backreaction.blogspot.com/2020/12/well-actually-10-physics-answers.html,,backreaction.blogspot.com
+miobrien,131,25560295,212,1609171744,A singular mind: Roger Penrose on his Nobel Prize,story,https://www.spectator.co.uk/article/a-singular-mind-roger-penrose-on-his-nobel-prize,,spectator.co.uk
+Bologo,443,25581997,146,1609338816,Self-driving vehicles against human drivers: Equal safety is far from enough,story,https://pubmed.ncbi.nlm.nih.gov/32202821/,,pubmed.ncbi.nlm.nih.gov
+mrfusion,25,25592825,27,1609424072,Despairing America: The Astonishing Psychological Cost of Lockdown – AIER,story,https://www.aier.org/article/despairing-america-the-astonishing-psychological-cost-of-lockdown/,,aier.org
+anthonysarkis,2,25587487,22,1609370282,Show HN: Diffgram – Human Supervision of AI Data,story,https://diffgram.com/,,diffgram.com
+delbarital,347,25585833,343,1609360861,"Israeli startup claims Covid-19 likely originated in a lab, willing to bet on it",story,https://www.rootclaim.com/analysis/what-is-the-source-of-covid-19-sars-cov-2,,rootclaim.com
+bergstromm466,6,25592312,15,1609420369,Doctors need to be paid less and it needs to be easier to become a doctor.,story,https://twitter.com/tiredgenerally/status/1341461217810939906,,twitter.com
+wwarner,1,25583573,28,1609348837,"Rainer Weiss: Black Holes, Gravitational Waves, and Nobel Prizes [audio]",story,http://imagination.ucsd.edu/_wp/podcast/105-nobel-laureate-rainer-weiss/,,imagination.ucsd.edu
+respinal,243,25577215,284,1609290994,Messengers of hope: two mRNA Covid-19 vaccines herald a new era for vaccinology,story,https://www.nature.com/articles/s41587-020-00807-1,,nature.com
+paddlesteamer,77,25562273,152,1609183274,Experimenting on My Hearing Loss,story,https://0x90.psaux.io/2020/12/19/Experimenting-On-My-Hearing-Loss/,,0x90.psaux.io
+timdaub,9,25569112,50,1609245074,Show HN: I built a virtual concert venue for artists,story,https://timdaub.github.io/2020/12/27/wasm-stream/,,timdaub.github.io
+ystad,11,25570759,59,1609256456,"10,800 Years Ago, Early Humans Planted Forest Islands in Amazonia's Grasslands",story,https://www.discovermagazine.com/planet-earth/10-800-years-ago-early-humans-planted-forest-islands-in-amazonias-grasslands,,discovermagazine.com
+gmays,4,25572558,14,1609264540,Self-learning algorithms analyze medical imaging data,story,https://www.tum.de/nc/en/about-tum/news/press-releases/details/36399/,,tum.de
+ystad,80,25567029,39,1609219710,Covid-19 Vaccinations in the United States,story,https://covid.cdc.gov/covid-data-tracker/#vaccinations,,covid.cdc.gov
+cmurf,15,25579954,14,1609318951,L.A. was uniquely vulnerable to this Covid catastrophe. Here is what went wrong,story,https://www.latimes.com/california/story/2020-12-28/why-covid-19-cases-have-spread-wildly-in-l-a,,latimes.com
+elsewhen,195,25569963,170,1609251876,"We should administer Covid-19 vaccines as fast as possible, not reserve doses",story,https://www.theglobeandmail.com/canada/article-new-data-favour-administering-covid-19-vaccines-as-fast-as-possible/,,theglobeandmail.com
+fortran77,2,25587187,29,1609368546,They did everything right. But after one at-home haircut couple died of Covid-19,story,https://www.cnn.com/2020/12/29/us/covid-coronavirus-victim-story-haircut-chicago-trnd/index.html,,cnn.com
+vanburen,35,25558902,61,1609160761,Scientists turn CO2 into jet fuel,story,https://www.engadget.com/co2-converted-into-jet-fuel-224318943.html,,engadget.com
+fortran77,8,25583192,15,1609346683,Covid bill calls for Pentagon and spy agencies to say what they know about UFOs,story,https://nypost.com/2020/12/29/covid-19-bill-started-a-180-day-countdown-for-ufo-disclosures/,,nypost.com
+jameslk,10,25584712,17,1609354519,You can’t sue Pfizer or Moderna if you have severe Covid vaccine side effects,story,https://www.cnbc.com/2020/12/16/covid-vaccine-side-effects-compensation-lawsuit.html,,cnbc.com
+jbegley,56,25593504,46,1609428600,Hospital employee fired for ‘intentionally’ ruining 500 doses of vaccine,story,https://www.washingtonpost.com/nation/2020/12/31/covid-vaccines-destroyed-wisconsin-hospital/#click=https://t.co/F4ZJXST2tX,,washingtonpost.com
+lousyd,56,25581282,43,1609333432,The Scientific Case for Two Spaces After a Period (2018),story,https://www.theatlantic.com/science/archive/2018/05/two-spaces-after-a-period/559304/,,theatlantic.com
+fortran77,7,25570675,38,1609256004,"U.S. government has media restrictions at hospitals, to reduce pandemic images",story,https://theintercept.com/2020/12/27/covid-photography-hospitals/,,theintercept.com
+onetimemanytime,24,25559188,23,1609163960,Unhealthy snacks to be banned from checkouts at supermarkets in England,story,https://www.theguardian.com/business/2020/dec/28/unhealthy-snacks-to-be-banned-from-checkouts-supermarkets-in-england,,theguardian.com
+respinal,1,25578473,14,1609301936,The rich reaction to bubonic plague has eerie similarities to Covid-19 pandemic,story,https://theconversation.com/how-the-rich-reacted-to-the-bubonic-plague-has-eerie-similarities-to-todays-pandemic-135925,,theconversation.com
+respinal,10,25579569,16,1609314978,"Spain will register people who refuse Covid vaccine, says health minister",story,https://www.theguardian.com/world/2020/dec/29/spain-to-keep-registry-of-people-who-refuse-covid-vaccine,,theguardian.com
+belltaco,183,25577754,103,1609295924,"In Covid Surge, LA hospitals turn away ambulances and put patients in gift shops",story,https://www.latimes.com/california/story/2020-12-29/l-a-county-hospitals-at-the-breaking-point-turn-away-ambulances,,latimes.com
