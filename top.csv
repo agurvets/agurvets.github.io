@@ -1,16 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-gscott,73,25602602,166,1609501755,White House wins ruling on disclosing health care prices,story,https://apnews.com/article/donald-trump-politics-kayleigh-mcenany-courts-f0700210fe86004255f68f15d12e9932,,apnews.com
-GordonS,86,25604671,76,1609520935,"Avoid using wood burning stoves if possible, warn health experts",story,https://www.theguardian.com/environment/2021/jan/01/avoid-using-wood-burning-stoves-if-possible-warn-health-experts,,theguardian.com
+gscott,73,25602602,171,1609501755,White House wins ruling on disclosing health care prices,story,https://apnews.com/article/donald-trump-politics-kayleigh-mcenany-courts-f0700210fe86004255f68f15d12e9932,,apnews.com
 jkuria,8,25600999,16,1609477367,Simplifying the Treatment of Snake Bites,story,https://www.economist.com/science-and-technology/2021/01/02/how-to-simplify-the-treatment-of-snake-bites,,economist.com
-occamschainsaw,3,25604013,21,1609515850,Indian Govt proposes to buy bulk subscriptions of all scientific journals,story,https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/,,indianexpress.com
+GordonS,90,25604671,79,1609520935,"Avoid using wood burning stoves if possible, warn health experts",story,https://www.theguardian.com/environment/2021/jan/01/avoid-using-wood-burning-stoves-if-possible-warn-health-experts,,theguardian.com
+occamschainsaw,4,25604013,23,1609515850,Indian Govt proposes to buy bulk subscriptions of all scientific journals,story,https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/,,indianexpress.com
 samvher,1,25602553,15,1609500921,Why markets boomed in a year of human misery,story,https://www.nytimes.com/2021/01/01/upshot/why-markets-boomed-2020.html,,nytimes.com
 yarapavan,2,25591935,11,1609416620,The economics of the human hair trade,story,https://thehustle.co/the-economics-of-the-human-hair-trade/,,thehustle.co
 elijahparker,8,25592093,18,1609418317,The culinary rediscovery of Colombia’s biodiversity,story,https://news.mongabay.com/2020/12/geography-on-the-plate-the-culinary-rediscovery-of-colombias-biodiversity/,,news.mongabay.com
 flancian,91,25573523,157,1609268981,Show HN: The Agora – an experimental social network,story,http://anagora.org/node/agora,,anagora.org
-miobrien,134,25560295,213,1609171744,A singular mind: Roger Penrose on his Nobel Prize,story,https://www.spectator.co.uk/article/a-singular-mind-roger-penrose-on-his-nobel-prize,,spectator.co.uk
-Bologo,443,25581997,146,1609338816,Self-driving vehicles against human drivers: Equal safety is far from enough,story,https://pubmed.ncbi.nlm.nih.gov/32202821/,,pubmed.ncbi.nlm.nih.gov
+miobrien,135,25560295,213,1609171744,A singular mind: Roger Penrose on his Nobel Prize,story,https://www.spectator.co.uk/article/a-singular-mind-roger-penrose-on-his-nobel-prize,,spectator.co.uk
+Bologo,444,25581997,146,1609338816,Self-driving vehicles against human drivers: Equal safety is far from enough,story,https://pubmed.ncbi.nlm.nih.gov/32202821/,,pubmed.ncbi.nlm.nih.gov
 mellosouls,80,25588888,141,1609381288,"Well, Actually – Physics Answers",story,http://backreaction.blogspot.com/2020/12/well-actually-10-physics-answers.html,,backreaction.blogspot.com
-mellosouls,64,25604281,40,1609517916,Covid-19: New variant 'raises R number by up to 0.7',story,https://www.bbc.co.uk/news/health-55507012,,bbc.co.uk
+mellosouls,66,25604281,40,1609517916,Covid-19: New variant 'raises R number by up to 0.7',story,https://www.bbc.co.uk/news/health-55507012,,bbc.co.uk
 delbarital,348,25585833,350,1609360861,"Israeli startup claims Covid-19 likely originated in a lab, willing to bet on it",story,https://www.rootclaim.com/analysis/what-is-the-source-of-covid-19-sars-cov-2,,rootclaim.com
 mrfusion,26,25592825,28,1609424072,Despairing America: The Astonishing Psychological Cost of Lockdown – AIER,story,https://www.aier.org/article/despairing-america-the-astonishing-psychological-cost-of-lockdown/,,aier.org
 paddlesteamer,77,25562273,154,1609183274,Experimenting on My Hearing Loss,story,https://0x90.psaux.io/2020/12/19/Experimenting-On-My-Hearing-Loss/,,0x90.psaux.io
@@ -25,5 +25,3 @@ ystad,80,25567029,39,1609219710,Covid-19 Vaccinations in the United States,story
 cmurf,15,25579954,14,1609318951,L.A. was uniquely vulnerable to this Covid catastrophe. Here is what went wrong,story,https://www.latimes.com/california/story/2020-12-28/why-covid-19-cases-have-spread-wildly-in-l-a,,latimes.com
 elsewhen,195,25569963,170,1609251876,"We should administer Covid-19 vaccines as fast as possible, not reserve doses",story,https://www.theglobeandmail.com/canada/article-new-data-favour-administering-covid-19-vaccines-as-fast-as-possible/,,theglobeandmail.com
 vanburen,35,25558902,61,1609160761,Scientists turn CO2 into jet fuel,story,https://www.engadget.com/co2-converted-into-jet-fuel-224318943.html,,engadget.com
-fortran77,2,25587187,29,1609368546,They did everything right. But after one at-home haircut couple died of Covid-19,story,https://www.cnn.com/2020/12/29/us/covid-coronavirus-victim-story-haircut-chicago-trnd/index.html,,cnn.com
-fortran77,8,25583192,15,1609346683,Covid bill calls for Pentagon and spy agencies to say what they know about UFOs,story,https://nypost.com/2020/12/29/covid-19-bill-started-a-180-day-countdown-for-ufo-disclosures/,,nypost.com
