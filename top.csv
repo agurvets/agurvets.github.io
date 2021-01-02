@@ -1,23 +1,25 @@
 by,descendants,id,score,time,title,type,url,text,domain
-gscott,77,25602602,179,1609501755,White House wins ruling on disclosing health care prices,story,https://apnews.com/article/donald-trump-politics-kayleigh-mcenany-courts-f0700210fe86004255f68f15d12e9932,,apnews.com
+thesephist,57,25609321,224,1609551189,Horrifying PDF Experiments,story,https://github.com/osnr/horrifying-pdf-experiments,,github.com
+gscott,84,25602602,193,1609501755,White House wins ruling on disclosing health care prices,story,https://apnews.com/article/donald-trump-politics-kayleigh-mcenany-courts-f0700210fe86004255f68f15d12e9932,,apnews.com
 jkuria,8,25600999,16,1609477367,Simplifying the Treatment of Snake Bites,story,https://www.economist.com/science-and-technology/2021/01/02/how-to-simplify-the-treatment-of-snake-bites,,economist.com
-occamschainsaw,4,25604013,24,1609515850,Indian Govt proposes to buy bulk subscriptions of all scientific journals,story,https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/,,indianexpress.com
-GordonS,99,25604671,80,1609520935,"Avoid using wood burning stoves if possible, warn health experts",story,https://www.theguardian.com/environment/2021/jan/01/avoid-using-wood-burning-stoves-if-possible-warn-health-experts,,theguardian.com
+tosh,3,25608776,15,1609546356,Robin Williams suffered with undiagnosed Lewy body dementia before suicide,story,https://www.theguardian.com/film/2021/jan/01/robin-williamss-widow-there-were-so-many-misunderstandings-about-what-had-happened-to-him,,theguardian.com
 flancian,91,25573523,157,1609268981,Show HN: The Agora – an experimental social network,story,http://anagora.org/node/agora,,anagora.org
+occamschainsaw,6,25604013,25,1609515850,Indian Govt proposes to buy bulk subscriptions of all scientific journals,story,https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/,,indianexpress.com
 elijahparker,8,25592093,18,1609418317,The culinary rediscovery of Colombia’s biodiversity,story,https://news.mongabay.com/2020/12/geography-on-the-plate-the-culinary-rediscovery-of-colombias-biodiversity/,,news.mongabay.com
+GordonS,104,25604671,81,1609520935,"Avoid using wood burning stoves if possible, warn health experts",story,https://www.theguardian.com/environment/2021/jan/01/avoid-using-wood-burning-stoves-if-possible-warn-health-experts,,theguardian.com
 yarapavan,2,25591935,11,1609416620,The economics of the human hair trade,story,https://thehustle.co/the-economics-of-the-human-hair-trade/,,thehustle.co
-samvher,1,25602553,15,1609500921,Why markets boomed in a year of human misery,story,https://www.nytimes.com/2021/01/01/upshot/why-markets-boomed-2020.html,,nytimes.com
 miobrien,135,25560295,213,1609171744,A singular mind: Roger Penrose on his Nobel Prize,story,https://www.spectator.co.uk/article/a-singular-mind-roger-penrose-on-his-nobel-prize,,spectator.co.uk
-Bologo,444,25581997,146,1609338816,Self-driving vehicles against human drivers: Equal safety is far from enough,story,https://pubmed.ncbi.nlm.nih.gov/32202821/,,pubmed.ncbi.nlm.nih.gov
+Bologo,445,25581997,146,1609338816,Self-driving vehicles against human drivers: Equal safety is far from enough,story,https://pubmed.ncbi.nlm.nih.gov/32202821/,,pubmed.ncbi.nlm.nih.gov
+samvher,1,25602553,15,1609500921,Why markets boomed in a year of human misery,story,https://www.nytimes.com/2021/01/01/upshot/why-markets-boomed-2020.html,,nytimes.com
 mellosouls,80,25588888,141,1609381288,"Well, Actually – Physics Answers",story,http://backreaction.blogspot.com/2020/12/well-actually-10-physics-answers.html,,backreaction.blogspot.com
-delbarital,348,25585833,350,1609360861,"Israeli startup claims Covid-19 likely originated in a lab, willing to bet on it",story,https://www.rootclaim.com/analysis/what-is-the-source-of-covid-19-sars-cov-2,,rootclaim.com
 paddlesteamer,77,25562273,154,1609183274,Experimenting on My Hearing Loss,story,https://0x90.psaux.io/2020/12/19/Experimenting-On-My-Hearing-Loss/,,0x90.psaux.io
-mellosouls,70,25604281,41,1609517916,Covid-19: New variant 'raises R number by up to 0.7',story,https://www.bbc.co.uk/news/health-55507012,,bbc.co.uk
+delbarital,348,25585833,350,1609360861,"Israeli startup claims Covid-19 likely originated in a lab, willing to bet on it",story,https://www.rootclaim.com/analysis/what-is-the-source-of-covid-19-sars-cov-2,,rootclaim.com
 respinal,245,25577215,285,1609290994,Messengers of hope: two mRNA Covid-19 vaccines herald a new era for vaccinology,story,https://www.nature.com/articles/s41587-020-00807-1,,nature.com
 mrfusion,26,25592825,28,1609424072,Despairing America: The Astonishing Psychological Cost of Lockdown – AIER,story,https://www.aier.org/article/despairing-america-the-astonishing-psychological-cost-of-lockdown/,,aier.org
 anthonysarkis,2,25587487,22,1609370282,Show HN: Diffgram – Human Supervision of AI Data,story,https://diffgram.com/,,diffgram.com
 timdaub,9,25569112,51,1609245074,Show HN: I built a virtual concert venue for artists,story,https://timdaub.github.io/2020/12/27/wasm-stream/,,timdaub.github.io
 wwarner,1,25583573,29,1609348837,"Rainer Weiss: Black Holes, Gravitational Waves, and Nobel Prizes [audio]",story,http://imagination.ucsd.edu/_wp/podcast/105-nobel-laureate-rainer-weiss/,,imagination.ucsd.edu
+mellosouls,70,25604281,42,1609517916,Covid-19: New variant 'raises R number by up to 0.7',story,https://www.bbc.co.uk/news/health-55507012,,bbc.co.uk
 bergstromm466,7,25592312,16,1609420369,Doctors need to be paid less and it needs to be easier to become a doctor.,story,https://twitter.com/tiredgenerally/status/1341461217810939906,,twitter.com
 ystad,11,25570759,59,1609256456,"10,800 Years Ago, Early Humans Planted Forest Islands in Amazonia's Grasslands",story,https://www.discovermagazine.com/planet-earth/10-800-years-ago-early-humans-planted-forest-islands-in-amazonias-grasslands,,discovermagazine.com
 gmays,4,25572558,14,1609264540,Self-learning algorithms analyze medical imaging data,story,https://www.tum.de/nc/en/about-tum/news/press-releases/details/36399/,,tum.de
