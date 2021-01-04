@@ -1,16 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-rbanffy,626,25623858,1196,1609699045,Uber discovered they’d been defrauded out of 2/3 of their ad spend,story,https://twitter.com/nandoodles/status/1345774768746852353,,twitter.com
-MrXOR,8,25620339,28,1609660421,E.O. Wilson on Becoming a Great Scientist,story,https://fs.blog/2015/12/e-o-wilson-how-science-works/,,fs.blog
-mpereira,66,25622756,196,1609691548,"How to open a file in Emacs: a story about Lisp, technology, and human progress",story,https://www.murilopereira.com/how-to-open-a-file-in-emacs/,,murilopereira.com
-apsec112,99,25623616,205,1609697686,Philly scientist behind COVID vaccine tech was demoted by UPenn,story,https://billypenn.com/2020/12/29/university-pennsylvania-covid-vaccine-mrna-kariko-demoted-biontech-pfizer/,,billypenn.com
-doener,1,25626532,31,1609718667,Britney Spears' Guide to Semiconductor Physics,story,http://britneyspears.ac/lasers.htm,,britneyspears.ac
-sandGorgon,59,25621809,266,1609682632,Indian Government proposes to buy bulk subscriptions of all scientific journals,story,https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/,,indianexpress.com
-kken,0,25625440,34,1609709465,mRNA: How a once-dismissed idea became a leading Covid vaccine,story,https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/,,statnews.com
-rbanffy,19,25612362,38,1609590564,The “Uncanny Valley” and How Artists Have Explored It,story,https://www.artsy.net/article/artsy-editorial-artists-love-eerie-sensation-characters-human,,artsy.net
+rbanffy,652,25623858,1248,1609699045,Uber discovered they’d been defrauded out of 2/3 of their ad spend,story,https://twitter.com/nandoodles/status/1345774768746852353,,twitter.com
+MrXOR,8,25620339,37,1609660421,E.O. Wilson on Becoming a Great Scientist,story,https://fs.blog/2015/12/e-o-wilson-how-science-works/,,fs.blog
+mpereira,71,25622756,204,1609691548,"How to open a file in Emacs: a story about Lisp, technology, and human progress",story,https://www.murilopereira.com/how-to-open-a-file-in-emacs/,,murilopereira.com
+apsec112,103,25623616,225,1609697686,Philly scientist behind COVID vaccine tech was demoted by UPenn,story,https://billypenn.com/2020/12/29/university-pennsylvania-covid-vaccine-mrna-kariko-demoted-biontech-pfizer/,,billypenn.com
+doener,2,25626532,46,1609718667,Britney Spears' Guide to Semiconductor Physics,story,http://britneyspears.ac/lasers.htm,,britneyspears.ac
+kken,0,25625440,38,1609709465,mRNA: How a once-dismissed idea became a leading Covid vaccine,story,https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/,,statnews.com
+rbanffy,19,25612362,39,1609590564,The “Uncanny Valley” and How Artists Have Explored It,story,https://www.artsy.net/article/artsy-editorial-artists-love-eerie-sensation-characters-human,,artsy.net
 mastermojo,54,25620176,41,1609658078,Superhuman is Sublime Text for Email,story,http://www.growthalytics.com/startups/programming/product/2021/01/02/the-sublime-text-editor-of-x/,,growthalytics.com
 based2,5,25621936,27,1609684000,Varlink: Interface description format and protocol for humans and machines,story,https://varlink.org/FAQ,,varlink.org
-say_it_as_it_is,56,25613294,323,1609600306,The Yale Manual for Psilocybin-Assisted Therapy of Depression,story,https://psyarxiv.com/u6v9y,,psyarxiv.com
-marojejian,4,25624242,20,1609701453,The prevalence of long Covid symptoms and Covid-19 complications,story,https://www.ons.gov.uk/news/statementsandletters/theprevalenceoflongcovidsymptomsandcovid19complications,,ons.gov.uk
+sandGorgon,59,25621809,267,1609682632,Indian Government proposes to buy bulk subscriptions of all scientific journals,story,https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/,,indianexpress.com
+say_it_as_it_is,56,25613294,324,1609600306,The Yale Manual for Psilocybin-Assisted Therapy of Depression,story,https://psyarxiv.com/u6v9y,,psyarxiv.com
+marojejian,4,25624242,22,1609701453,The prevalence of long Covid symptoms and Covid-19 complications,story,https://www.ons.gov.uk/news/statementsandletters/theprevalenceoflongcovidsymptomsandcovid19complications,,ons.gov.uk
 thesephist,168,25609321,476,1609551189,Horrifying PDF Experiments,story,https://github.com/osnr/horrifying-pdf-experiments,,github.com
 paulyg,13,25622113,35,1609685984,Scientists Believe US Embassy and CIA Officers Hit with High-Power Microwaves,story,https://scitechdaily.com/scientists-believe-us-embassy-staff-and-cia-officers-were-hit-with-high-power-microwaves-heres-how-the-weapons-work/,,scitechdaily.com
 prostoalex,0,25613118,28,1609598832,Best Foods for Better Sleep,story,https://www.nytimes.com/2020/12/10/well/eat/sleep-foods-diet.html,,nytimes.com
@@ -18,19 +18,19 @@ raptor111,16,25616609,139,1609622119,"Backdoor account discovered in more than 1
 gscott,85,25602602,207,1609501755,White House wins ruling on disclosing health care prices,story,https://apnews.com/article/donald-trump-politics-kayleigh-mcenany-courts-f0700210fe86004255f68f15d12e9932,,apnews.com
 doener,92,25612593,100,1609592842,Meals based on vegetable protein sources (beans and peas) are more satiating (2016),story,https://pubmed.ncbi.nlm.nih.gov/27765144/,,pubmed.ncbi.nlm.nih.gov
 taf2,121,25618273,103,1609635208,Lack of Vitamin D is associated with SARS-CoV-2 infection and mortality,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489890/,,ncbi.nlm.nih.gov
-SQL2219,19,25621689,45,1609681167,NewYork-Presbyterian Hospital Price List,story,https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency/shoppable-services,,nyp.org
 jkuria,9,25600999,18,1609477367,Simplifying the Treatment of Snake Bites,story,https://www.economist.com/science-and-technology/2021/01/02/how-to-simplify-the-treatment-of-snake-bites,,economist.com
+SQL2219,19,25621689,45,1609681167,NewYork-Presbyterian Hospital Price List,story,https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency/shoppable-services,,nyp.org
 eigenvalue,65,25595791,53,1609440961,"Nobel Prize speech from the inventor of PCR, Kary Mullis (1993)",story,https://www.nobelprize.org/prizes/chemistry/1993/mullis/lecture/,,nobelprize.org
 tylerjwilk00,46,25619582,44,1609649807,Another French Study Looks Into The Use of Nicotine Against Covid-19,story,https://www.vapingpost.com/2020/12/10/another-french-study-looks-into-the-use-of-nicotine-against-covid-19/,,vapingpost.com
 1cvmask,6,25612568,17,1609592578,"Backdoor account discovered in more than 100k Zyxel firewalls, VPN gateways",story,https://www.zdnet.com/article/backdoor-account-discovered-in-more-than-100000-zyxel-firewalls-vpn-gateways/,,zdnet.com
-dalemyers,1,25620792,11,1609667666,South Korea vs. UK re-entry during Covid,story,https://threadreaderapp.com/thread/1345210393715564544.html,,threadreaderapp.com
 occamschainsaw,7,25604013,29,1609515850,Indian Govt proposes to buy bulk subscriptions of all scientific journals,story,https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/,,indianexpress.com
+dalemyers,1,25620792,11,1609667666,South Korea vs. UK re-entry during Covid,story,https://threadreaderapp.com/thread/1345210393715564544.html,,threadreaderapp.com
 fjdjsmsm,20,25613422,29,1609601348,"Covid wards 'full of children' for first time in pandemic, warn nurses",story,https://www.yahoo.com/news/covid-wards-full-children-first-145710680.html,,yahoo.com
 samvher,1,25602553,15,1609500921,Why markets boomed in a year of human misery,story,https://www.nytimes.com/2021/01/01/upshot/why-markets-boomed-2020.html,,nytimes.com
+tosh,3,25608776,18,1609546356,Robin Williams suffered with undiagnosed Lewy body dementia before suicide,story,https://www.theguardian.com/film/2021/jan/01/robin-williamss-widow-there-were-so-many-misunderstandings-about-what-had-happened-to-him,,theguardian.com
 GordonS,108,25604671,85,1609520935,"Avoid using wood burning stoves if possible, warn health experts",story,https://www.theguardian.com/environment/2021/jan/01/avoid-using-wood-burning-stoves-if-possible-warn-health-experts,,theguardian.com
 mrfusion,26,25592825,28,1609424072,Despairing America: The Astonishing Psychological Cost of Lockdown – AIER,story,https://www.aier.org/article/despairing-america-the-astonishing-psychological-cost-of-lockdown/,,aier.org
-tosh,3,25608776,17,1609546356,Robin Williams suffered with undiagnosed Lewy body dementia before suicide,story,https://www.theguardian.com/film/2021/jan/01/robin-williamss-widow-there-were-so-many-misunderstandings-about-what-had-happened-to-him,,theguardian.com
 tin7in,129,25614324,83,1609607852,Why Markets Boomed in a Year of Human Misery,story,https://www.nytimes.com/2021/01/01/upshot/why-markets-boomed-2020.html,,nytimes.com
 bergstromm466,7,25592312,16,1609420369,Doctors need to be paid less and it needs to be easier to become a doctor.,story,https://twitter.com/tiredgenerally/status/1341461217810939906,,twitter.com
+ekianjo,1,25609103,11,1609548964,Vitamin D and Covid 19: The Evidence for Prevention and Treatment of Coronavirus,story,https://www.youtube.com/watch?v=ha2mLz-Xdpg,,youtube.com
 mellosouls,77,25604281,42,1609517916,Covid-19: New variant 'raises R number by up to 0.7',story,https://www.bbc.co.uk/news/health-55507012,,bbc.co.uk
-tonyztan,0,25610899,12,1609569317,China Is Making It Harder to Solve the Mystery of How Covid Began,story,https://www.bloomberg.com/news/features/2020-12-30/china-is-making-it-harder-to-solve-the-mystery-of-how-covid-began,,bloomberg.com
