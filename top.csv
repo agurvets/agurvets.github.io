@@ -1,14 +1,14 @@
 by,descendants,id,score,time,title,type,url,text,domain
-simonpure,146,25645938,96,1609857533,FDA statement on following the authorized dosing schedules for Covid-19 vaccines,story,https://www.fda.gov/news-events/press-announcements/fda-statement-following-authorized-dosing-schedules-covid-19-vaccines,,fda.gov
-todsacerdoti,189,25633483,1215,1609777634,Ditherpunk: The article I wish I had about monochrome image dithering,story,https://surma.dev/things/ditherpunk/,,surma.dev
-parsecs,78,25646376,180,1609859963,"Sci-Hub: Scientists, Academics, Teachers and Students Protest Blocking Lawsuit",story,https://torrentfreak.com/sci-hub-scientists-academics-teachers-and-students-protest-blocking-lawsuit-050121/,,torrentfreak.com
-leoschwartz,6,25647919,30,1609867364,Surveillance in the Name of Covid-19,story,https://restofworld.org/2021/trace-together-forever/,,restofworld.org
-sytelus,52,25641817,52,1609818323,Physics Without Probability (2015) [video],story,https://www.youtube.com/watch?v=wfzSE4Hoxbc,,youtube.com
+simonpure,151,25645938,98,1609857533,FDA statement on following the authorized dosing schedules for Covid-19 vaccines,story,https://www.fda.gov/news-events/press-announcements/fda-statement-following-authorized-dosing-schedules-covid-19-vaccines,,fda.gov
+todsacerdoti,189,25633483,1216,1609777634,Ditherpunk: The article I wish I had about monochrome image dithering,story,https://surma.dev/things/ditherpunk/,,surma.dev
+parsecs,79,25646376,185,1609859963,"Sci-Hub: Scientists, Academics, Teachers and Students Protest Blocking Lawsuit",story,https://torrentfreak.com/sci-hub-scientists-academics-teachers-and-students-protest-blocking-lawsuit-050121/,,torrentfreak.com
+leoschwartz,6,25647919,31,1609867364,Surveillance in the Name of Covid-19,story,https://restofworld.org/2021/trace-together-forever/,,restofworld.org
+sytelus,52,25641817,53,1609818323,Physics Without Probability (2015) [video],story,https://www.youtube.com/watch?v=wfzSE4Hoxbc,,youtube.com
 Gaessaki,24,25641518,99,1609815498,Evidence for entropy maximisation in human free choice behaviour,story,https://psyarxiv.com/3ntku/,,psyarxiv.com
 psawaya,65,25640658,254,1609809073,An experimental open source memristor / programmable “diode”,story,https://bigattichouse.medium.com/an-experimental-open-source-memristor-programmable-diode-4476c1874d72,,bigattichouse.medium.com
 oedmarap,42,25630318,121,1609762372,30 years since the Human Genome Project began – what's next?,story,https://www.wired.com/story/30-years-since-the-human-genome-project-began-whats-next/,,wired.com
 rbanffy,884,25623858,1769,1609699045,Uber discovered they’d been defrauded out of 2/3 of their ad spend,story,https://twitter.com/nandoodles/status/1345774768746852353,,twitter.com
-jweir,33,25636498,95,1609788087,"Amazon, Berkshire Hathaway, JPMorgan End Health-Care Venture Haven",story,https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html,,cnbc.com
+jweir,34,25636498,96,1609788087,"Amazon, Berkshire Hathaway, JPMorgan End Health-Care Venture Haven",story,https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html,,cnbc.com
 mpereira,92,25622756,247,1609691548,"How to open a file in Emacs: a story about Lisp, technology, and human progress",story,https://www.murilopereira.com/how-to-open-a-file-in-emacs/,,murilopereira.com
 thesephist,175,25609321,488,1609551189,Horrifying PDF Experiments,story,https://github.com/osnr/horrifying-pdf-experiments,,github.com
 say_it_as_it_is,62,25613294,334,1609600306,The Yale Manual for Psilocybin-Assisted Therapy of Depression,story,https://psyarxiv.com/u6v9y,,psyarxiv.com
@@ -16,8 +16,8 @@ mastermojo,59,25620176,51,1609658078,Superhuman is Sublime Text for Email,story,
 doener,111,25626532,167,1609718667,Britney Spears' Guide to Semiconductor Physics (2007),story,http://britneyspears.ac/lasers.htm,,britneyspears.ac
 apsec112,179,25623616,310,1609697686,Philly scientist behind COVID vaccine tech was demoted by UPenn,story,https://billypenn.com/2020/12/29/university-pennsylvania-covid-vaccine-mrna-kariko-demoted-biontech-pfizer/,,billypenn.com
 MrXOR,27,25620339,89,1609660421,E.O. Wilson on Becoming a Great Scientist,story,https://fs.blog/2015/12/e-o-wilson-how-science-works/,,fs.blog
-iNic,109,25630854,112,1609765938,An automated pipeline for the discovery of conspiracy theories,story,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879,,journals.plos.org
 rbanffy,19,25612362,41,1609590564,The “Uncanny Valley” and How Artists Have Explored It,story,https://www.artsy.net/article/artsy-editorial-artists-love-eerie-sensation-characters-human,,artsy.net
+iNic,109,25630854,112,1609765938,An automated pipeline for the discovery of conspiracy theories,story,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879,,journals.plos.org
 YeGoblynQueenne,21,25629755,52,1609757836,Squatters issue death threats to archaeologist who discovered Caral,story,https://www.theguardian.com/world/2021/jan/03/squatters-ancient-ruins-peru-death-threats-archeologist-caral,,theguardian.com
 admiralspoo,10,25634743,40,1609781395,"Haven, Amazon-Berkshire-JPMorgan venture to disrupt healthcare, is disbanding",story,https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html,,cnbc.com
 prostoalex,0,25613118,31,1609598832,Best Foods for Better Sleep,story,https://www.nytimes.com/2020/12/10/well/eat/sleep-foods-diet.html,,nytimes.com
