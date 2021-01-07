@@ -1,37 +1,22 @@
 by,descendants,id,score,time,title,type,url,text,domain
-talles,10,25653954,20,1609898623,Doctor Who HiFive – Inventor Coding Kit,story,https://www.hifiveinventor.com/,,hifiveinventor.com
-simonpure,165,25645938,106,1609857533,FDA statement on following the authorized dosing schedules for Covid-19 vaccines,story,https://www.fda.gov/news-events/press-announcements/fda-statement-following-authorized-dosing-schedules-covid-19-vaccines,,fda.gov
-todsacerdoti,190,25633483,1219,1609777634,Ditherpunk: The article I wish I had about monochrome image dithering,story,https://surma.dev/things/ditherpunk/,,surma.dev
-parsecs,80,25646376,191,1609859963,"Sci-Hub: Scientists, Academics, Teachers and Students Protest Blocking Lawsuit",story,https://torrentfreak.com/sci-hub-scientists-academics-teachers-and-students-protest-blocking-lawsuit-050121/,,torrentfreak.com
-Triv888,1,25653491,17,1609894444,"Covid-19 Attacks the Brain and May, in Severe Cases, Cause Lasting Damage",story,https://www.npr.org/sections/health-shots/2021/01/05/953705563/how-covid-19-attacks-the-brain-and-may-cause-lasting-damage,,npr.org
-sytelus,53,25641817,54,1609818323,Physics Without Probability (2015) [video],story,https://www.youtube.com/watch?v=wfzSE4Hoxbc,,youtube.com
-leoschwartz,8,25647919,32,1609867364,Surveillance in the Name of Covid-19,story,https://restofworld.org/2021/trace-together-forever/,,restofworld.org
-Gaessaki,24,25641518,101,1609815498,Evidence for entropy maximisation in human free choice behaviour,story,https://psyarxiv.com/3ntku/,,psyarxiv.com
-psawaya,65,25640658,255,1609809073,An experimental open source memristor / programmable “diode”,story,https://bigattichouse.medium.com/an-experimental-open-source-memristor-programmable-diode-4476c1874d72,,bigattichouse.medium.com
-rbanffy,886,25623858,1772,1609699045,Uber discovered they’d been defrauded out of 2/3 of their ad spend,story,https://twitter.com/nandoodles/status/1345774768746852353,,twitter.com
-oedmarap,42,25630318,122,1609762372,30 years since the Human Genome Project began – what's next?,story,https://www.wired.com/story/30-years-since-the-human-genome-project-began-whats-next/,,wired.com
-mpereira,92,25622756,248,1609691548,"How to open a file in Emacs: a story about Lisp, technology, and human progress",story,https://www.murilopereira.com/how-to-open-a-file-in-emacs/,,murilopereira.com
+paulshen,19,25662628,89,1609967894,Show HN: Experimental Semantic Code Explorer,story,https://artifacts.bypaulshen.com/code-explorer/02/,,artifacts.bypaulshen.com
+kawera,11,25644586,74,1609847582,Synchronized violin players reveal uniqueness of human networks,story,https://arstechnica.com/science/2021/01/synchronized-violin-players-reveal-uniqueness-of-human-networks/,,arstechnica.com
+todsacerdoti,198,25633483,1258,1609777634,Ditherpunk: The article I wish I had about monochrome image dithering,story,https://surma.dev/things/ditherpunk/,,surma.dev
+talles,20,25653954,30,1609898623,Doctor Who HiFive – Inventor Coding Kit,story,https://www.hifiveinventor.com/,,hifiveinventor.com
+biomene,322,25663726,258,1609973155,London will be overwhelmed by Covid in a fortnight says leaked NHS briefing,story,https://www.hsj.co.uk/acute-care/exclusive-london-will-be-overwhelmed-by-covid-in-a-fortnight-says-leaked-nhs-england-briefing/7029264.article,,hsj.co.uk
+williamsharris,316,25655066,273,1609913616,US doctor forgives $650k in medical bills for cancer patients,story,https://www.bbc.com/news/world-us-canada-55544496,,bbc.com
+parsecs,86,25646376,203,1609859963,"Sci-Hub: Scientists, Academics, Teachers and Students Protest Blocking Lawsuit",story,https://torrentfreak.com/sci-hub-scientists-academics-teachers-and-students-protest-blocking-lawsuit-050121/,,torrentfreak.com
+simonpure,176,25645938,111,1609857533,FDA statement on following the authorized dosing schedules for Covid-19 vaccines,story,https://www.fda.gov/news-events/press-announcements/fda-statement-following-authorized-dosing-schedules-covid-19-vaccines,,fda.gov
+apress,0,25658282,14,1609945099,Why Haven Healthcare Failed,story,https://hbr.org/2021/01/why-haven-healthcare-failed,,hbr.org
+sytelus,67,25641817,56,1609818323,Physics Without Probability (2015) [video],story,https://www.youtube.com/watch?v=wfzSE4Hoxbc,,youtube.com
+Gaessaki,24,25641518,103,1609815498,Evidence for entropy maximisation in human free choice behaviour,story,https://psyarxiv.com/3ntku/,,psyarxiv.com
+Triv888,4,25653491,22,1609894444,"Covid-19 Attacks the Brain and May, in Severe Cases, Cause Lasting Damage",story,https://www.npr.org/sections/health-shots/2021/01/05/953705563/how-covid-19-attacks-the-brain-and-may-cause-lasting-damage,,npr.org
+psawaya,65,25640658,256,1609809073,An experimental open source memristor / programmable “diode”,story,https://bigattichouse.medium.com/an-experimental-open-source-memristor-programmable-diode-4476c1874d72,,bigattichouse.medium.com
+leoschwartz,11,25647919,32,1609867364,Surveillance in the Name of Covid-19,story,https://restofworld.org/2021/trace-together-forever/,,restofworld.org
 jweir,34,25636498,96,1609788087,"Amazon, Berkshire Hathaway, JPMorgan End Health-Care Venture Haven",story,https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html,,cnbc.com
-thesephist,176,25609321,488,1609551189,Horrifying PDF Experiments,story,https://github.com/osnr/horrifying-pdf-experiments,,github.com
-say_it_as_it_is,62,25613294,334,1609600306,The Yale Manual for Psilocybin-Assisted Therapy of Depression,story,https://psyarxiv.com/u6v9y,,psyarxiv.com
-mastermojo,59,25620176,51,1609658078,Superhuman is Sublime Text for Email,story,http://www.growthalytics.com/startups/programming/product/2021/01/02/the-sublime-text-editor-of-x/,,growthalytics.com
-apsec112,179,25623616,310,1609697686,Philly scientist behind COVID vaccine tech was demoted by UPenn,story,https://billypenn.com/2020/12/29/university-pennsylvania-covid-vaccine-mrna-kariko-demoted-biontech-pfizer/,,billypenn.com
-doener,111,25626532,167,1609718667,Britney Spears' Guide to Semiconductor Physics (2007),story,http://britneyspears.ac/lasers.htm,,britneyspears.ac
-rbanffy,19,25612362,41,1609590564,The “Uncanny Valley” and How Artists Have Explored It,story,https://www.artsy.net/article/artsy-editorial-artists-love-eerie-sensation-characters-human,,artsy.net
-MrXOR,27,25620339,89,1609660421,E.O. Wilson on Becoming a Great Scientist,story,https://fs.blog/2015/12/e-o-wilson-how-science-works/,,fs.blog
-iNic,109,25630854,112,1609765938,An automated pipeline for the discovery of conspiracy theories,story,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233879,,journals.plos.org
-YeGoblynQueenne,21,25629755,52,1609757836,Squatters issue death threats to archaeologist who discovered Caral,story,https://www.theguardian.com/world/2021/jan/03/squatters-ancient-ruins-peru-death-threats-archeologist-caral,,theguardian.com
 admiralspoo,10,25634743,40,1609781395,"Haven, Amazon-Berkshire-JPMorgan venture to disrupt healthcare, is disbanding",story,https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html,,cnbc.com
-prostoalex,0,25613118,31,1609598832,Best Foods for Better Sleep,story,https://www.nytimes.com/2020/12/10/well/eat/sleep-foods-diet.html,,nytimes.com
-based2,5,25621936,29,1609684000,Varlink: Interface description format and protocol for humans and machines,story,https://varlink.org/FAQ,,varlink.org
-kken,2,25625440,46,1609709465,mRNA: How a once-dismissed idea became a leading Covid vaccine,story,https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/,,statnews.com
-sandGorgon,62,25621809,278,1609682632,Indian Government proposes to buy bulk subscriptions of all scientific journals,story,https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/,,indianexpress.com
 gmays,0,25634683,14,1609781236,New battery chemistry results in first rechargeable zinc-air battery,story,https://arstechnica.com/science/2020/12/lose-the-alkaline-keep-the-zinc-for-a-new-battery-chemistry/,,arstechnica.com
-coldtea,2,25629873,25,1609758859,"Painting a Selfie Girl, with Maths",story,https://www.youtube.com/watch?v=8--5LwHRhjk&feature=youtu.be,,youtube.com
-sytelus,14,25619627,11,1609650337,The smallest possible money unit When money crashes into the laws of physics,story,https://www.sciencedirect.com/science/article/pii/S0378437120305975?via%3Dihub,,sciencedirect.com
-marojejian,4,25624242,23,1609701453,The prevalence of long Covid symptoms and Covid-19 complications,story,https://www.ons.gov.uk/news/statementsandletters/theprevalenceoflongcovidsymptomsandcovid19complications,,ons.gov.uk
-paulyg,17,25622113,37,1609685984,Scientists Believe US Embassy and CIA Officers Hit with High-Power Microwaves,story,https://scitechdaily.com/scientists-believe-us-embassy-staff-and-cia-officers-were-hit-with-high-power-microwaves-heres-how-the-weapons-work/,,scitechdaily.com
-giuliomagnifico,2,25650655,11,1609878880,China blocks entry to WHO team studying Covid's origins,story,https://www.theguardian.com/world/2021/jan/05/china-blocks-entry-to-who-team-studying-covids-origins,,theguardian.com
-doener,94,25612593,101,1609592842,Meals based on vegetable protein sources (beans and peas) are more satiating (2016),story,https://pubmed.ncbi.nlm.nih.gov/27765144/,,pubmed.ncbi.nlm.nih.gov
-raptor111,17,25616609,143,1609622119,"Backdoor account discovered in more than 100k Zyxel firewalls, VPN gateways",story,https://www.zdnet.com/article/backdoor-account-discovered-in-more-than-100000-zyxel-firewalls-vpn-gateways/,,zdnet.com
-taf2,129,25618273,106,1609635208,Lack of Vitamin D is associated with SARS-CoV-2 infection and mortality,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489890/,,ncbi.nlm.nih.gov
+0xmohit,0,25636151,11,1609786603,Singapore police can access Covid-19 contact tracing data,story,https://www.zdnet.com/article/singapore-police-can-access-covid-19-contact-tracing-data-for-criminal-investigations/,,zdnet.com
+fortran77,59,25636680,38,1609788837,The science and pseudoscience of diagnosing mental illness,story,https://www.nybooks.com/articles/2021/01/14/changing-psychiatrys-mind/,,nybooks.com
+giuliomagnifico,2,25650655,13,1609878880,China blocks entry to WHO team studying Covid's origins,story,https://www.theguardian.com/world/2021/jan/05/china-blocks-entry-to-who-team-studying-covids-origins,,theguardian.com
+nicoburns,219,25637253,50,1609791409,Covid: New lockdown for England as cases surge,story,https://www.bbc.co.uk/news/uk-55538937,,bbc.co.uk
