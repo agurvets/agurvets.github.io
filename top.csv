@@ -1,22 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-paulshen,21,25662628,90,1609967894,Show HN: Experimental Semantic Code Explorer,story,https://artifacts.bypaulshen.com/code-explorer/02/,,artifacts.bypaulshen.com
-kawera,11,25644586,76,1609847582,Synchronized violin players reveal uniqueness of human networks,story,https://arstechnica.com/science/2021/01/synchronized-violin-players-reveal-uniqueness-of-human-networks/,,arstechnica.com
-todsacerdoti,198,25633483,1260,1609777634,Ditherpunk: The article I wish I had about monochrome image dithering,story,https://surma.dev/things/ditherpunk/,,surma.dev
+Anon84,11,25657191,46,1609936989,The Atlas for the Aspiring Network Scientist,story,https://arxiv.org/abs/2101.00863,,arxiv.org
+lawrenceyan,19,25677339,73,1610052956,A noninflammatory mRNA vaccine for treatment of autoimmune encephalomyelitis,story,https://science.sciencemag.org/content/371/6525/145,,science.sciencemag.org
+mtmail,58,25670303,91,1610022872,MakAir: Covid-19 ventilator with a Raspberry Pi,story,https://blog.senx.io/makair-covid-19-ventilator-with-a-raspberry-pi/,,senx.io
+paulshen,25,25662628,115,1609967894,Show HN: Experimental Semantic Code Explorer,story,https://artifacts.bypaulshen.com/code-explorer/02/,,artifacts.bypaulshen.com
+kawera,16,25644586,84,1609847582,Synchronized violin players reveal uniqueness of human networks,story,https://arstechnica.com/science/2021/01/synchronized-violin-players-reveal-uniqueness-of-human-networks/,,arstechnica.com
+sandGorgon,39,25667663,27,1609998231,Scandinavian 'Nabob' of the British Empire: Discovery of a New Colonial Archive,story,https://thewire.in/history/sweden-british-empire-joseph-stephens,,thewire.in
+mchusma,1,25666956,27,1609990289,Microsoft DeBERTa surpasses human performance on the SuperGLUE benchmark,story,https://www.microsoft.com/en-us/research/blog/microsoft-deberta-surpasses-human-performance-on-the-superglue-benchmark/,,microsoft.com
+parsecs,87,25646376,210,1609859963,"Sci-Hub: Scientists, Academics, Teachers and Students Protest Blocking Lawsuit",story,https://torrentfreak.com/sci-hub-scientists-academics-teachers-and-students-protest-blocking-lawsuit-050121/,,torrentfreak.com
 talles,20,25653954,30,1609898623,Doctor Who HiFive – Inventor Coding Kit,story,https://www.hifiveinventor.com/,,hifiveinventor.com
-williamsharris,316,25655066,273,1609913616,US doctor forgives $650k in medical bills for cancer patients,story,https://www.bbc.com/news/world-us-canada-55544496,,bbc.com
-parsecs,86,25646376,203,1609859963,"Sci-Hub: Scientists, Academics, Teachers and Students Protest Blocking Lawsuit",story,https://torrentfreak.com/sci-hub-scientists-academics-teachers-and-students-protest-blocking-lawsuit-050121/,,torrentfreak.com
-simonpure,176,25645938,111,1609857533,FDA statement on following the authorized dosing schedules for Covid-19 vaccines,story,https://www.fda.gov/news-events/press-announcements/fda-statement-following-authorized-dosing-schedules-covid-19-vaccines,,fda.gov
-biomene,323,25663726,258,1609973155,London will be overwhelmed by Covid in a fortnight says leaked NHS briefing,story,https://www.hsj.co.uk/acute-care/exclusive-london-will-be-overwhelmed-by-covid-in-a-fortnight-says-leaked-nhs-england-briefing/7029264.article,,hsj.co.uk
-sytelus,67,25641817,56,1609818323,Physics Without Probability (2015) [video],story,https://www.youtube.com/watch?v=wfzSE4Hoxbc,,youtube.com
+simonpure,178,25645938,111,1609857533,FDA statement on following the authorized dosing schedules for Covid-19 vaccines,story,https://www.fda.gov/news-events/press-announcements/fda-statement-following-authorized-dosing-schedules-covid-19-vaccines,,fda.gov
+williamsharris,329,25655066,275,1609913616,US doctor forgives $650k in medical bills for cancer patients,story,https://www.bbc.com/news/world-us-canada-55544496,,bbc.com
 apress,0,25658282,14,1609945099,Why Haven Healthcare Failed,story,https://hbr.org/2021/01/why-haven-healthcare-failed,,hbr.org
-Gaessaki,24,25641518,103,1609815498,Evidence for entropy maximisation in human free choice behaviour,story,https://psyarxiv.com/3ntku/,,psyarxiv.com
-psawaya,65,25640658,256,1609809073,An experimental open source memristor / programmable “diode”,story,https://bigattichouse.medium.com/an-experimental-open-source-memristor-programmable-diode-4476c1874d72,,bigattichouse.medium.com
-Triv888,4,25653491,22,1609894444,"Covid-19 Attacks the Brain and May, in Severe Cases, Cause Lasting Damage",story,https://www.npr.org/sections/health-shots/2021/01/05/953705563/how-covid-19-attacks-the-brain-and-may-cause-lasting-damage,,npr.org
-leoschwartz,11,25647919,32,1609867364,Surveillance in the Name of Covid-19,story,https://restofworld.org/2021/trace-together-forever/,,restofworld.org
-jweir,34,25636498,96,1609788087,"Amazon, Berkshire Hathaway, JPMorgan End Health-Care Venture Haven",story,https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html,,cnbc.com
-admiralspoo,10,25634743,40,1609781395,"Haven, Amazon-Berkshire-JPMorgan venture to disrupt healthcare, is disbanding",story,https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html,,cnbc.com
-gmays,0,25634683,14,1609781236,New battery chemistry results in first rechargeable zinc-air battery,story,https://arstechnica.com/science/2020/12/lose-the-alkaline-keep-the-zinc-for-a-new-battery-chemistry/,,arstechnica.com
-0xmohit,0,25636151,11,1609786603,Singapore police can access Covid-19 contact tracing data,story,https://www.zdnet.com/article/singapore-police-can-access-covid-19-contact-tracing-data-for-criminal-investigations/,,zdnet.com
-fortran77,59,25636680,38,1609788837,The science and pseudoscience of diagnosing mental illness,story,https://www.nybooks.com/articles/2021/01/14/changing-psychiatrys-mind/,,nybooks.com
-giuliomagnifico,2,25650655,13,1609878880,China blocks entry to WHO team studying Covid's origins,story,https://www.theguardian.com/world/2021/jan/05/china-blocks-entry-to-who-team-studying-covids-origins,,theguardian.com
-nicoburns,219,25637253,50,1609791409,Covid: New lockdown for England as cases surge,story,https://www.bbc.co.uk/news/uk-55538937,,bbc.co.uk
+Triv888,4,25653491,23,1609894444,"Covid-19 Attacks the Brain and May, in Severe Cases, Cause Lasting Damage",story,https://www.npr.org/sections/health-shots/2021/01/05/953705563/how-covid-19-attacks-the-brain-and-may-cause-lasting-damage,,npr.org
+leoschwartz,11,25647919,33,1609867364,Surveillance in the Name of Covid-19,story,https://restofworld.org/2021/trace-together-forever/,,restofworld.org
+biomene,364,25663726,266,1609973155,London will be overwhelmed by Covid in a fortnight says leaked NHS briefing,story,https://www.hsj.co.uk/acute-care/exclusive-london-will-be-overwhelmed-by-covid-in-a-fortnight-says-leaked-nhs-england-briefing/7029264.article,,hsj.co.uk
+giuliomagnifico,2,25650655,15,1609878880,China blocks entry to WHO team studying Covid's origins,story,https://www.theguardian.com/world/2021/jan/05/china-blocks-entry-to-who-team-studying-covids-origins,,theguardian.com
