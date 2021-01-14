@@ -1,18 +1,20 @@
 by,descendants,id,score,time,title,type,url,text,domain
-rayrag,38,25753908,172,1610486541,Beaker Browser – experimental peer to peer web browser,story,https://beakerbrowser.com/,,beakerbrowser.com
-miljen,68,25750156,206,1610472674,BioNTech CEO applies Covid-19 vaccine's mRNA tech to multiple sclerosis,story,https://www.fiercebiotech.com/research/biontech-ceo-turns-covid-19-vaccine-s-mrna-tech-against-multiple-sclerosis,,fiercebiotech.com
-Element_,402,25752000,359,1610479201,U.S. to require negative Covid-19 tests for international air passengers,story,https://www.reuters.com/article/us-health-coronavirus-airlines/u-s-to-require-negative-covid-19-tests-for-international-air-passengers-sources-idUSKBN29H2KD,,reuters.com
-fortran77,1,25754501,14,1610488765,The Scientist and Engineer's Guide to Digital Signal Processing,story,http://www.dspguide.com/,,dspguide.com
-metalwhale,140,25741729,368,1610420610,Theseus: A modern experimental OS written from scratch in Rust,story,https://github.com/theseus-os/Theseus,,github.com
-omarhaneef,0,25749991,13,1610472014,Bitcoin is rediscovering history and recreating the traditional financial system,story,https://www.bloomberg.com/opinion/articles/2021-01-12/don-t-forget-your-bitcoins,,bloomberg.com
-mrfusion,2,25740104,36,1610409491,Researchers Find Covid Survivors Have Long-Lasting Immunity to Re-Infection,story,https://timesofsandiego.com/tech/2021/01/10/san-diego-researchers-find-covid-survivors-have-long-term-immunity-to-re-infection/,,timesofsandiego.com
-jonplackett,3,25754445,14,1610488563,"In the UK, Covid rules have changed 64 times in 10 months",story,https://www.theguardian.com/world/2021/jan/12/england-covid-lockdown-rules-have-changed-64-times-says-barrister,,theguardian.com
+rustoo,191,25763863,371,1610554092,"Workaholism leads to health problems, work addiction risk depends on occupation",story,https://www.hse.ru/en/news/research/433782660.html,,hse.ru
+737min,8,25770389,31,1610586426,Senior NASA scientist pleads guilty om China ties,story,https://www.nasdaq.com/articles/nasa-scientist-pleads-guilty-to-lying-about-china-ties-2021-01-13,,nasdaq.com
+rayrag,58,25753908,244,1610486541,Beaker Browser – experimental peer to peer web browser,story,https://beakerbrowser.com/,,beakerbrowser.com
+samizdis,4,25767330,12,1610568667,Oldest known cave painting found in Indonesia,story,https://phys.org/news/2021-01-world-oldest-cave-indonesia.html,,phys.org
+metalwhale,146,25741729,375,1610420610,Theseus: A modern experimental OS written from scratch in Rust,story,https://github.com/theseus-os/Theseus,,github.com
+Element_,425,25752000,373,1610479201,U.S. to require negative Covid-19 tests for international air passengers,story,https://www.reuters.com/article/us-health-coronavirus-airlines/u-s-to-require-negative-covid-19-tests-for-international-air-passengers-sources-idUSKBN29H2KD,,reuters.com
+siquick,14,25760345,38,1610534210,Google admits to running experiments which remove some media sites from results,story,https://www.theguardian.com/technology/2021/jan/13/google-admits-to-running-experiments-which-remove-some-media-sites-from-its-search-results,,theguardian.com
+axihack,45,25759362,77,1610524136,Top scientists warn of 'ghastly future of mass extinction' and climate disruptio,story,https://www.theguardian.com/environment/2021/jan/13/top-scientists-warn-of-ghastly-future-of-mass-extinction-and-climate-disruption-aoe,,theguardian.com
+fortran77,1,25754501,22,1610488765,The Scientist and Engineer's Guide to Digital Signal Processing,story,http://www.dspguide.com/,,dspguide.com
+miljen,71,25750156,214,1610472674,BioNTech CEO applies Covid-19 vaccine's mRNA tech to multiple sclerosis,story,https://www.fiercebiotech.com/research/biontech-ceo-turns-covid-19-vaccine-s-mrna-tech-against-multiple-sclerosis,,fiercebiotech.com
+Udik,12,25760385,28,1610534652,We are Israel's largest human rights group – and we are calling this apartheid,story,https://www.theguardian.com/commentisfree/2021/jan/12/israel-largest-human-rights-group-apartheid,,theguardian.com
+zenincognito,8,25759014,12,1610520547,Google blocks Australian news in 'experiment',story,https://www.afr.com/companies/media-and-marketing/google-blocks-australian-news-in-experiment-20210113-p56tqd,,afr.com
 brunoac,10,25720731,107,1610317297,Discovering and exploring mmap using Go,story,https://brunocalza.me/2021/01/10/discovering-and-exploring-mmap-using-go/,,brunocalza.me
-rustoo,184,25730949,325,1610381785,Study: All non-violent criminals jailed on minor drug offence should be released,story,https://www.newkerala.com/news/2021/4866.htm,,newkerala.com
-Tomte,283,25715781,345,1610293494,Chemistry of Cast-Iron Seasoning (2010),story,http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/,,sherylcanter.com
-CapitalistCartr,11,25712475,51,1610268526,A Breakthrough in Measuring the Building Blocks of Nature,story,http://m.nautil.us/blog/a-breakthrough-in-measuring-the-building-blocks-of-nature,,m.nautil.us
+mrfusion,3,25740104,36,1610409491,Researchers Find Covid Survivors Have Long-Lasting Immunity to Re-Infection,story,https://timesofsandiego.com/tech/2021/01/10/san-diego-researchers-find-covid-survivors-have-long-term-immunity-to-re-infection/,,timesofsandiego.com
+Tomte,283,25715781,346,1610293494,Chemistry of Cast-Iron Seasoning (2010),story,http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/,,sherylcanter.com
+CapitalistCartr,11,25712475,52,1610268526,A Breakthrough in Measuring the Building Blocks of Nature,story,http://m.nautil.us/blog/a-breakthrough-in-measuring-the-building-blocks-of-nature,,m.nautil.us
+rustoo,184,25730949,327,1610381785,Study: All non-violent criminals jailed on minor drug offence should be released,story,https://www.newkerala.com/news/2021/4866.htm,,newkerala.com
+omarhaneef,0,25749991,15,1610472014,Bitcoin is rediscovering history and recreating the traditional financial system,story,https://www.bloomberg.com/opinion/articles/2021-01-12/don-t-forget-your-bitcoins,,bloomberg.com
 doener,1,25736436,32,1610397787,YouTube and TikTok Put Human Rights in Jeopardy in Turkey,story,https://www.eff.org/deeplinks/2021/01/youtube-and-tiktok-put-human-rights-jeopardy-turkey,,eff.org
-stuartbman,2,25716685,14,1610298098,Secure and blinded medical data analysis with OpenSAFELY,story,https://explainthispaper.com/identifying-covid-risk-factors-new-secure-analytics-platform/,,explainthispaper.com
-edent,23,25700026,89,1610197346,Falsehoods programmers believe about Biometrics,story,https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/,,shkspr.mobi
-notknifescience,108,25701446,119,1610208283,Early clinical trial shows anti-depressant prevents hospitalization from Covid,story,https://jamanetwork.com/journals/jama/fullarticle/2773108,,jamanetwork.com
-sytelus,44,25698410,150,1610177956,They spent 12 years solving a puzzle. It yielded the first Covid-19 vaccines,story,https://www.nationalgeographic.com/science/2020/12/these-scientists-spent-twelve-years-solving-puzzle-yielded-coronavirus-vaccines/,,nationalgeographic.com
