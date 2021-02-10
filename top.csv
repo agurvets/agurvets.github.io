@@ -1,12 +1,12 @@
 by,descendants,id,score,time,title,type,url,text,domain
-MKais,2,26081058,14,1612896109,SARS-CoV-2 infection is effectively treated and prevented by EIDD-2801 (In mice),story,https://www.nature.com/articles/s41586-021-03312-w,,nature.com
-bschne,281,26070262,556,1612819013,"Hacker increased chemical level at Oldsmar's city water system, sheriff says",story,https://www.wtsp.com/article/news/local/pinellascounty/pinellas-oldsmar-water-system-computer-intrustion/67-512b2bab-9f94-44d7-841e-5169fdb0a0bd,,wtsp.com
+bschne,281,26070262,558,1612819013,"Hacker increased chemical level at Oldsmar's city water system, sheriff says",story,https://www.wtsp.com/article/news/local/pinellascounty/pinellas-oldsmar-water-system-computer-intrustion/67-512b2bab-9f94-44d7-841e-5169fdb0a0bd,,wtsp.com
+MKais,2,26081058,15,1612896109,SARS-CoV-2 infection is effectively treated and prevented by EIDD-2801 (In mice),story,https://www.nature.com/articles/s41586-021-03312-w,,nature.com
 decrypt,440,26060839,805,1612759018,Barcode scanner app on Google Play infects 10M users with one update,story,https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/,,malwarebytes.com
 theafh,0,26067455,37,1612805272,Brain’s ‘Background Noise’ May Hold Clues to Persistent Mysteries,story,https://www.quantamagazine.org/brains-background-noise-may-hold-clues-to-persistent-mysteries-20210208/,,quantamagazine.org
 BerislavLopac,62,26053882,89,1612691479,Google app analyzes selfies and finds doppelgangers in museum portraits (2018),story,https://www.openculture.com/2018/01/googles-free-app-analyzes-your-selfie-and-then-finds-your-doppelganger-in-museum-portraits.html,,openculture.com
 infodocket,4,26070047,12,1612818075,"Deepfake Detectors Can Be Defeated, Computer Scientists Show for the First Time",story,https://ucsdnews.ucsd.edu/pressrelease/defeating_deepfake_detectors,,ucsdnews.ucsd.edu
 pseudolus,62,26035433,242,1612526874,‘Smallest reptile on earth’ discovered in Madagascar,story,https://www.bbc.com/news/world-africa-55945948,,bbc.com
-nradov,2,26079918,16,1612890550,Mount Sinai study finds Apple Watch can predict Covid-19 diagnosis before test,story,https://techcrunch.com/2021/02/09/mount-sinai-study-finds-apple-watch-can-predict-covid-19-diagnosis-up-to-a-week-before-testing/,,techcrunch.com
+nradov,2,26079918,20,1612890550,Mount Sinai study finds Apple Watch can predict Covid-19 diagnosis before test,story,https://techcrunch.com/2021/02/09/mount-sinai-study-finds-apple-watch-can-predict-covid-19-diagnosis-up-to-a-week-before-testing/,,techcrunch.com
 Tomte,3,26053779,40,1612689883,An amateur cloud society that rattled the scientific community (2016),story,https://www.nytimes.com/2016/05/08/magazine/the-amateur-cloud-society-that-sort-of-rattled-the-scientific-community.html,,nytimes.com
 dnetesn,52,26035268,99,1612525273,Deep Nose may one day be the best diagnostician in medicine,story,https://nautil.us/issue/95/escape/the-doctor-will-sniff-you-now,,nautil.us
 unpredict,343,26056934,189,1612722614,The Feminine Physique: On Women's Bodybuilding,story,https://believermag.com/the-feminine-physique/,,believermag.com
@@ -18,7 +18,7 @@ pseudolus,23,26037041,168,1612537509,Galaxy-Size Gravitational-Wave Detector Hin
 CharlesW,301,26037613,407,1612540426,Fecal transplant turns cancer immunotherapy non-responders into responders,story,https://www.eurekalert.org/pub_releases/2021-02/uop-ftt012921.php,,eurekalert.org
 pm24601,16,26067059,42,1612803522,Wombat poop: Scientists reveal mystery behind cube-shaped droppings (2018),story,https://www.bbc.com/news/world-australia-46258616,,bbc.com
 rbanffy,23,26050896,42,1612652179,Scientific community on report of a strange chemical at Venus: Probably not,story,https://arstechnica.com/science/2021/02/scientific-community-on-report-of-a-strange-chemical-at-venus-probably-not/,,arstechnica.com
-markus_zhang,90,26057818,86,1612728901,Cixin Liu's Postscript for the American Edition for “The Three Body Problem”,story,http://reader.epubee.com/books/mobile/29/294c9e5c56c501ef2b2965341b7abb89/text/part0042.html,,reader.epubee.com
+markus_zhang,92,26057818,86,1612728901,Cixin Liu's Postscript for the American Edition for “The Three Body Problem”,story,http://reader.epubee.com/books/mobile/29/294c9e5c56c501ef2b2965341b7abb89/text/part0042.html,,reader.epubee.com
 whatrocks,106,26041001,204,1612558182,Notes on My Chemotherapy,story,https://www.charlieharrington.com/chemotherapy,,charlieharrington.com
 Tomte,156,26046461,245,1612619399,I told a cat food company how much they’d save by using taller cans (2020),story,https://twitter.com/mathematicsprof/status/1235553604016070656,,twitter.com
 sbmthakur,13,26039032,57,1612547264,"Rich countries block India, South Africa's bid to ban Covid vaccine patents",story,https://dw.com/en/rich-countries-block-india-south-africas-bid-to-ban-covid-vaccine-patents/a-56460175,,dw.com
