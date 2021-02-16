@@ -1,14 +1,14 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Tomte,20,26142082,67,1613392139,The Physics of baking good Pizza [pdf],story,https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf,,arxiv.org
-ericjang,35,26127387,78,1613253677,Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning,story,https://blog.evjang.com/2021/02/backprop.html,,evjang.com
-Bluestein,77,26147477,28,1613423502,The Libet experiment doesn't disprove free will (2019),story,https://blogs.scientificamerican.com/observations/how-a-flawed-experiment-proved-that-free-will-doesnt-exist/,,blogs.scientificamerican.com
-lazycrazyowl,425,26140086,438,1613374061,Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine,story,https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2,,reuters.com
-YeGoblynQueenne,52,26145869,76,1613415475,The evidence linking nitrates and nitrites to cancer,story,https://www.theguardian.com/news/2018/mar/01/bacon-cancer-processed-meats-nitrates-nitrites-sausages,,theguardian.com
-peter_d_sherman,63,26132726,163,1613313460,Nyuzi – An Experimental Open-Source FPGA GPGPU Processor,story,https://github.com/jbush001/NyuziProcessor/,,github.com
+Tomte,23,26142082,74,1613392139,The Physics of baking good Pizza [pdf],story,https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf,,arxiv.org
+ericjang,35,26127387,80,1613253677,Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning,story,https://blog.evjang.com/2021/02/backprop.html,,evjang.com
+Bluestein,80,26147477,28,1613423502,The Libet experiment doesn't disprove free will (2019),story,https://blogs.scientificamerican.com/observations/how-a-flawed-experiment-proved-that-free-will-doesnt-exist/,,blogs.scientificamerican.com
+lazycrazyowl,425,26140086,441,1613374061,Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine,story,https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2,,reuters.com
+peter_d_sherman,64,26132726,163,1613313460,Nyuzi – An Experimental Open-Source FPGA GPGPU Processor,story,https://github.com/jbush001/NyuziProcessor/,,github.com
 carwyn,70,26136667,164,1613340015,A Warning to Users of NurseryCam,story,https://cybergibbons.com/security-2/a-warning-to-users-of-nurserycam/,,cybergibbons.com
+YeGoblynQueenne,52,26145869,76,1613415475,The evidence linking nitrates and nitrites to cancer,story,https://www.theguardian.com/news/2018/mar/01/bacon-cancer-processed-meats-nitrates-nitrites-sausages,,theguardian.com
 furtively,74,26116488,132,1613152738,How Covid brought the future back,story,https://worksinprogress.co/issue/how-covid-brought-the-future-back/,,worksinprogress.co
-pmiller2,133,26134181,228,1613323714,No Qualified Immunity for Cops Who Made Stuff Up to Justify Phone Seizure,story,https://www.techdirt.com/articles/20210106/18521446009/no-qualified-immunity-cops-who-made-stuff-up-to-justify-seizing-mans-phone-twelve-days.shtml,,techdirt.com
-lazycrazyowl,622,26125145,492,1613238517,US raises ‘deep concerns’ over WHO report on Covid’s Wuhan origins,story,https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN2AD0FX,,reuters.com
+pmiller2,136,26134181,228,1613323714,No Qualified Immunity for Cops Who Made Stuff Up to Justify Phone Seizure,story,https://www.techdirt.com/articles/20210106/18521446009/no-qualified-immunity-cops-who-made-stuff-up-to-justify-seizing-mans-phone-twelve-days.shtml,,techdirt.com
+lazycrazyowl,622,26125145,493,1613238517,US raises ‘deep concerns’ over WHO report on Covid’s Wuhan origins,story,https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN2AD0FX,,reuters.com
 mgh2,440,26126183,774,1613245938,"50 Years Ago, Sugar Industry Quietly Paid Scientists to Blame Fat (2016)",story,https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat,,npr.org
 jger15,397,26128752,838,1613265359,Statement on New York Times Article,story,https://astralcodexten.substack.com/p/statement-on-new-york-times-article,,astralcodexten.substack.com
 elsewhen,98,26133516,99,1613319181,Researchers propose that humidity from masks may lessen severity of Covid-19,story,https://www.nih.gov/news-events/news-releases/researchers-propose-humidity-masks-may-lessen-severity-covid-19,,nih.gov
@@ -17,4 +17,3 @@ neom,365,26116833,90,1613154711,An experiment in giving cash to recently homeles
 tomtung,69,26127174,79,1613252144,WHO scientists: NYT misquoted us to fit a prescribed narrative,story,https://twitter.com/TheaKFischer/status/1360590441817772034,,twitter.com
 finphil,3,26125671,22,1613242245,"Antioxidant in green tea may increase levels of p53, an anti-cancer protein",story,https://nuadox.com/post/643030841522536448/green-tea-p53-protein,,nuadox.com
 underdeserver,1,26134713,13,1613327014,"Pfizer vaccine reduces risk of serious Covid-19 by 92%, 1.2M-people study finds",story,https://www.jpost.com/health-science/clalit-data-pfizer-vaccine-reduces-risk-of-serious-covid-19-658959,,jpost.com
-option,0,26121462,12,1613191510,China refuses to give WHO investigation data on early Covid cases,story,https://www.wsj.com/articles/china-refuses-to-give-who-raw-data-on-early-covid-19-cases-11613150580,,wsj.com
