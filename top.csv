@@ -1,17 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-ericjang,26,26127387,56,1613253677,Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning,story,https://blog.evjang.com/2021/02/backprop.html,,evjang.com
-Bluestein,37,26147477,13,1613423502,The Libet experiment doesn't disprove free will (2019),story,https://blogs.scientificamerican.com/observations/how-a-flawed-experiment-proved-that-free-will-doesnt-exist/,,blogs.scientificamerican.com
-lazycrazyowl,415,26140086,431,1613374061,Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine,story,https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2,,reuters.com
-Tomte,4,26142082,19,1613392139,The Physics of baking good Pizza [pdf],story,https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf,,arxiv.org
-YeGoblynQueenne,49,26145869,69,1613415475,The evidence linking nitrates and nitrites to cancer,story,https://www.theguardian.com/news/2018/mar/01/bacon-cancer-processed-meats-nitrates-nitrites-sausages,,theguardian.com
-carwyn,67,26136667,163,1613340015,A Warning to Users of NurseryCam,story,https://cybergibbons.com/security-2/a-warning-to-users-of-nurserycam/,,cybergibbons.com
+Tomte,13,26142082,41,1613392139,The Physics of baking good Pizza [pdf],story,https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf,,arxiv.org
+ericjang,32,26127387,68,1613253677,Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning,story,https://blog.evjang.com/2021/02/backprop.html,,evjang.com
+Bluestein,61,26147477,24,1613423502,The Libet experiment doesn't disprove free will (2019),story,https://blogs.scientificamerican.com/observations/how-a-flawed-experiment-proved-that-free-will-doesnt-exist/,,blogs.scientificamerican.com
+lazycrazyowl,424,26140086,436,1613374061,Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine,story,https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2,,reuters.com
+YeGoblynQueenne,52,26145869,75,1613415475,The evidence linking nitrates and nitrites to cancer,story,https://www.theguardian.com/news/2018/mar/01/bacon-cancer-processed-meats-nitrates-nitrites-sausages,,theguardian.com
 peter_d_sherman,63,26132726,163,1613313460,Nyuzi – An Experimental Open-Source FPGA GPGPU Processor,story,https://github.com/jbush001/NyuziProcessor/,,github.com
+carwyn,68,26136667,164,1613340015,A Warning to Users of NurseryCam,story,https://cybergibbons.com/security-2/a-warning-to-users-of-nurserycam/,,cybergibbons.com
 furtively,74,26116488,132,1613152738,How Covid brought the future back,story,https://worksinprogress.co/issue/how-covid-brought-the-future-back/,,worksinprogress.co
-pmiller2,131,26134181,227,1613323714,No Qualified Immunity for Cops Who Made Stuff Up to Justify Phone Seizure,story,https://www.techdirt.com/articles/20210106/18521446009/no-qualified-immunity-cops-who-made-stuff-up-to-justify-seizing-mans-phone-twelve-days.shtml,,techdirt.com
-lazycrazyowl,619,26125145,492,1613238517,US raises ‘deep concerns’ over WHO report on Covid’s Wuhan origins,story,https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN2AD0FX,,reuters.com
-mgh2,440,26126183,772,1613245938,"50 Years Ago, Sugar Industry Quietly Paid Scientists to Blame Fat (2016)",story,https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat,,npr.org
+pmiller2,133,26134181,227,1613323714,No Qualified Immunity for Cops Who Made Stuff Up to Justify Phone Seizure,story,https://www.techdirt.com/articles/20210106/18521446009/no-qualified-immunity-cops-who-made-stuff-up-to-justify-seizing-mans-phone-twelve-days.shtml,,techdirt.com
+lazycrazyowl,622,26125145,492,1613238517,US raises ‘deep concerns’ over WHO report on Covid’s Wuhan origins,story,https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN2AD0FX,,reuters.com
+mgh2,440,26126183,773,1613245938,"50 Years Ago, Sugar Industry Quietly Paid Scientists to Blame Fat (2016)",story,https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat,,npr.org
+jger15,397,26128752,836,1613265359,Statement on New York Times Article,story,https://astralcodexten.substack.com/p/statement-on-new-york-times-article,,astralcodexten.substack.com
 elsewhen,98,26133516,99,1613319181,Researchers propose that humidity from masks may lessen severity of Covid-19,story,https://www.nih.gov/news-events/news-releases/researchers-propose-humidity-masks-may-lessen-severity-covid-19,,nih.gov
-jger15,397,26128752,832,1613265359,Statement on New York Times Article,story,https://astralcodexten.substack.com/p/statement-on-new-york-times-article,,astralcodexten.substack.com
 neom,365,26116833,90,1613154711,An experiment in giving cash to recently homeless people [video],story,https://www.bbc.com/reel/video/p096hf4z/the-7-500-universal-basic-income-experiment,,bbc.com
 1experience,29,26127752,118,1613256679,Food Order Has Significant Impact on Glucose and Insulin Levels (2015),story,https://news.weill.cornell.edu/news/2015/06/food-order-has-significant-impact-on-glucose-and-insulin-levels-louis-aronne,,news.weill.cornell.edu
 tomtung,69,26127174,79,1613252144,WHO scientists: NYT misquoted us to fit a prescribed narrative,story,https://twitter.com/TheaKFischer/status/1360590441817772034,,twitter.com
