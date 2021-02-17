@@ -1,7 +1,7 @@
 by,descendants,id,score,time,title,type,url,text,domain
-happy-go-lucky,58,26164879,188,1613557964,Python Programming and Numerical Methods: A Guide for Engineers and Scientists,story,https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html,,pythonnumericalmethods.berkeley.edu
-bananapear,6,26168403,19,1613580343,QCovid: Personal Covid-19 risk calculator developed by Oxford University,story,https://qcovid.org/Calculation,,qcovid.org
-hacka22,92,26163904,258,1613549352,European Citizens' Initiative for a ban on biometric mass surveillance,story,https://reclaimyourface.eu/,,reclaimyourface.eu
+happy-go-lucky,60,26164879,196,1613557964,Python Programming and Numerical Methods: A Guide for Engineers and Scientists,story,https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html,,pythonnumericalmethods.berkeley.edu
+bananapear,7,26168403,21,1613580343,QCovid: Personal Covid-19 risk calculator developed by Oxford University,story,https://qcovid.org/Calculation,,qcovid.org
+hacka22,92,26163904,262,1613549352,European Citizens' Initiative for a ban on biometric mass surveillance,story,https://reclaimyourface.eu/,,reclaimyourface.eu
 mikesabbagh,26,26161884,31,1613528699,Most healthcare apps not up to NHS standards,story,https://www.bbc.com/news/technology-56083231,,bbc.com
 BellLabradors,10,26164749,22,1613556615,Covid-19: World's first human trials given green light in UK,story,https://www.bbc.co.uk/news/health-56097088,,bbc.co.uk
 alokrai,15,26136520,64,1613338788,Reforming the Mathematical Language of Physics (2002) [pdf],story,http://worrydream.com/refs/Hestenes-ReformingTheMathematicalLanguageOfPhysics.pdf,,worrydream.com
@@ -13,5 +13,5 @@ carwyn,71,26136667,166,1613340015,A Warning to Users of NurseryCam,story,https:/
 simonebrunozzi,3,26163837,15,1613548628,Covid/Vitamin D: Much More Than You Wanted to Know,story,https://astralcodexten.substack.com/p/covidvitamin-d-much-more-than-you,,astralcodexten.substack.com
 pmiller2,139,26134181,233,1613323714,No Qualified Immunity for Cops Who Made Stuff Up to Justify Phone Seizure,story,https://www.techdirt.com/articles/20210106/18521446009/no-qualified-immunity-cops-who-made-stuff-up-to-justify-seizing-mans-phone-twelve-days.shtml,,techdirt.com
 jger15,0,26159382,18,1613513345,Covid/Vitamin D: Much More Than You Wanted to Know,story,https://astralcodexten.substack.com/p/covidvitamin-d-much-more-than-you,,astralcodexten.substack.com
-elsewhen,98,26133516,99,1613319181,Researchers propose that humidity from masks may lessen severity of Covid-19,story,https://www.nih.gov/news-events/news-releases/researchers-propose-humidity-masks-may-lessen-severity-covid-19,,nih.gov
+elsewhen,99,26133516,99,1613319181,Researchers propose that humidity from masks may lessen severity of Covid-19,story,https://www.nih.gov/news-events/news-releases/researchers-propose-humidity-masks-may-lessen-severity-covid-19,,nih.gov
 YeGoblynQueenne,52,26145869,79,1613415475,The evidence linking nitrates and nitrites to cancer,story,https://www.theguardian.com/news/2018/mar/01/bacon-cancer-processed-meats-nitrates-nitrites-sausages,,theguardian.com
