@@ -1,16 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-giuliomagnifico,68,26263942,100,1614267685,Scientists begin building highly accurate digital twin of our planet,story,https://ethz.ch/en/news-and-events/eth-news/news/2021/02/a-highly-accurate-digital-twin-of-our-planet.html,,ethz.ch
-vo2maxer,5,26244829,38,1614125389,Scientists create new class of “Turing patterns” in colonies of E. coli,story,https://arstechnica.com/science/2021/02/scientists-create-new-class-of-turing-patterns-in-colonies-of-e-coli/,,arstechnica.com
-DanielleMolloy,4,26267886,33,1614285173,SARS-CoV-2 causes brain inflammation and induces Lewy body formation in macaques,story,https://www.biorxiv.org/content/10.1101/2021.02.23.432474v1,,biorxiv.org
-Svip,119,26268699,123,1614289324,Italy demands €733M in fines from food delivery platforms,story,https://www.politico.eu/article/italy-demands-733-million-euros-in-fines-from-food-delivery-platforms/,,politico.eu
-ekatzenstein,4,26268303,11,1614287017,"Show HN: Covid Vaccine Availability for CVS, Duane Reade, Rite Aid, Walgreens",story,https://getmyvaccine.org/zips/90011,,getmyvaccine.org
-tempestn,62,26248002,154,1614156636,"Common asthma drug cuts Covid-19 hospitalization, recovery time – Oxford study",story,https://www.reuters.com/article/uk-health-coronavirus-asthma-treatment-idUKKBN2A92L0,,reuters.com
-Kipters,14,26262118,34,1614256177,Potential Apple M1 Flaw Discovered by Hector Martin,story,https://twitter.com/marcan42/status/1364603530271625216,,twitter.com
+weare138,17,26280727,27,1614379285,Medical chatbot using OpenAI’s GPT-3 told a fake patient to kill themselves,story,https://artificialintelligence-news.com/2020/10/28/medical-chatbot-openai-gpt3-patient-kill-themselves/,,artificialintelligence-news.com
+bbirnbaum,154,26273925,165,1614340858,The Covid Zoom Boom Is Reshaping Sign Language,story,https://www.scientificamerican.com/article/the-covid-zoom-boom-is-reshaping-sign-language/,,scientificamerican.com
+pkarnakov,12,26272642,93,1614328965,Show HN: Interactive real-time chemistry and fluids: water electrolysis,story,https://cselab.github.io/aphros/wasm/electrochem.html,,cselab.github.io
+Pete-Codes,16,26276390,20,1614356438,Covid career change – from cruise ship cleaner to developer,story,https://www.nocsdegree.com/cleaner-developer-covid-career-change/,,nocsdegree.com
+giuliomagnifico,76,26263942,121,1614267685,Scientists begin building highly accurate digital twin of our planet,story,https://ethz.ch/en/news-and-events/eth-news/news/2021/02/a-highly-accurate-digital-twin-of-our-planet.html,,ethz.ch
+vo2maxer,5,26244829,42,1614125389,Scientists create new class of “Turing patterns” in colonies of E. coli,story,https://arstechnica.com/science/2021/02/scientists-create-new-class-of-turing-patterns-in-colonies-of-e-coli/,,arstechnica.com
+etxm,3,26264045,13,1614268030,Humidifier: Healthy or Harmful?,story,https://blog.getawair.com/awair-investigates-how-your-humidifiers-water-affects-your-health,,getawair.com
+tempestn,63,26248002,154,1614156636,"Common asthma drug cuts Covid-19 hospitalization, recovery time – Oxford study",story,https://www.reuters.com/article/uk-health-coronavirus-asthma-treatment-idUKKBN2A92L0,,reuters.com
+DanielleMolloy,5,26267886,40,1614285173,SARS-CoV-2 causes brain inflammation and induces Lewy body formation in macaques,story,https://www.biorxiv.org/content/10.1101/2021.02.23.432474v1,,biorxiv.org
 metaversemaker,120,26234614,220,1614064316,Scientists break through the wall of sleep to the untapped world of dreams,story,https://beta.nsf.gov/science-matters/scientists-break-through-wall-sleep-untapped-world-dreams,,beta.nsf.gov
+ekatzenstein,6,26268303,13,1614287017,"Show HN: Covid Vaccine Availability for CVS, Duane Reade, Rite Aid, Walgreens",story,https://getmyvaccine.org/zips/90011,,getmyvaccine.org
 typical182,30,26240692,120,1614104469,Add experimental fuzz test support for Go 1.17,story,https://github.com/golang/go/issues/44551,,github.com
-brianjunyinchan,19,26242702,39,1614113499,Ask HN: How do you watch for health emergencies for elder family members?,story,,"How do you check their health is okay, or if there are any emergencies? Especially if they have any medical conditions?<p>Do you wish something better existed?",
-colinprince,18,26249459,28,1614172277,Shoot Paintballs With Boston Dynamics' Robot Spot,story,https://www.dailydot.com/debug/boston-dynamics-robot-spot-paintball-mschf/,,dailydot.com
-hdante,11,26233314,33,1614048387,How many years left until 100 vaccination doses per 100 people?,story,https://howmanyleft.info/,,howmanyleft.info
-ArekDymalski,7,26239310,23,1614098209,"Physicist thrashes simulation theory, says it's basically a religion",story,https://futurism.com/physicist-trashes-simulation-theory-religion,,futurism.com
-ingve,1,26231918,43,1614035325,Norway to Decriminalize Personal Drug Use in ‘Historic’ Shift,story,https://www.bloomberg.com/news/articles/2021-02-19/norway-to-decriminalize-personal-drug-use-in-historic-shift,,bloomberg.com
-alextapper,2,26255188,17,1614197819,The Next Evolution of Data Catalogs: Data Discovery Platforms,story,https://medium.com/selectstar/the-evolution-of-data-catalogs-the-data-discovery-platform-1627772ca760,,medium.com
+Svip,139,26268699,131,1614289324,Italy demands €733M in fines from food delivery platforms,story,https://www.politico.eu/article/italy-demands-733-million-euros-in-fines-from-food-delivery-platforms/,,politico.eu
+giuliomagnifico,3,26272143,72,1614323910,Dutch parliament: China's treatment of Uighurs is genocide,story,https://www.reuters.com/article/us-netherlands-china-uighurs/dutch-parliament-chinas-treatment-of-uighurs-is-genocide-idUSKBN2AP2CI,,reuters.com
+Kipters,14,26262118,35,1614256177,Potential Apple M1 Flaw Discovered by Hector Martin,story,https://twitter.com/marcan42/status/1364603530271625216,,twitter.com
+brianjunyinchan,19,26242702,40,1614113499,Ask HN: How do you watch for health emergencies for elder family members?,story,,"How do you check their health is okay, or if there are any emergencies? Especially if they have any medical conditions?<p>Do you wish something better existed?",
