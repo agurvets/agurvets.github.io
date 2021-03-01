@@ -1,19 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-protomyth,52,26289621,160,1614472949,A 'Lamborghini' of Chariots Is Discovered at Pompeii,story,https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed,,npr.org
-cpncrunch,4,26289245,55,1614469481,First vaccine to immunize against malaria builds on pandemic-driven RNA tech,story,https://academictimes.com/first-vaccine-to-fully-immunize-against-malaria-builds-on-pandemic-driven-rna-tech/,,academictimes.com
-gmays,4,26286734,40,1614449248,Exercise generates immune cells in bone,story,https://www.nature.com/articles/d41586-021-00419-y,,nature.com
-jds375,82,26282433,72,1614398052,What is an NFT from an artist’s perspective?,story,https://alex-pardee.medium.com/what-is-an-nft-from-an-artists-perspective-db348bbde0b1,,alex-pardee.medium.com
-tchalla,35,26287381,52,1614453834,Private contact discovery for Signal (2017),story,https://signal.org/blog/private-contact-discovery/,,signal.org
+protomyth,61,26289621,164,1614472949,A 'Lamborghini' of Chariots Is Discovered at Pompeii,story,https://www.npr.org/2021/02/27/972118983/a-lamborghini-of-chariots-is-discovered-at-pompeii-archaeologists-are-wowed,,npr.org
+gmays,5,26286734,43,1614449248,Exercise generates immune cells in bone,story,https://www.nature.com/articles/d41586-021-00419-y,,nature.com
+cpncrunch,4,26289245,59,1614469481,First vaccine to immunize against malaria builds on pandemic-driven RNA tech,story,https://academictimes.com/first-vaccine-to-fully-immunize-against-malaria-builds-on-pandemic-driven-rna-tech/,,academictimes.com
+jds375,82,26282433,73,1614398052,What is an NFT from an artist’s perspective?,story,https://alex-pardee.medium.com/what-is-an-nft-from-an-artists-perspective-db348bbde0b1,,alex-pardee.medium.com
+tchalla,36,26287381,53,1614453834,Private contact discovery for Signal (2017),story,https://signal.org/blog/private-contact-discovery/,,signal.org
+bbirnbaum,176,26273925,185,1614340858,The Covid Zoom Boom Is Reshaping Sign Language,story,https://www.scientificamerican.com/article/the-covid-zoom-boom-is-reshaping-sign-language/,,scientificamerican.com
 alokrai,0,26286015,11,1614444522,Gene Therapy in One Eye Improves Vision in Both Eyes,story,https://www.the-scientist.com/news-opinion/gene-therapy-in-one-eye-improves-vision-in-both-eyes-68255,,the-scientist.com
-bbirnbaum,175,26273925,185,1614340858,The Covid Zoom Boom Is Reshaping Sign Language,story,https://www.scientificamerican.com/article/the-covid-zoom-boom-is-reshaping-sign-language/,,scientificamerican.com
-unnamed76ri,83,26282119,112,1614393155,Can You Identify This Mysterious Old Writing?,story,https://www.wnep.com/mobile/article/news/local/wayne-county/can-you-identify-this-mysterious-old-writing/523-c317eaf7-5810-4cce-ab5f-3c669ef0ab2b,,wnep.com
+unnamed76ri,84,26282119,112,1614393155,Can You Identify This Mysterious Old Writing?,story,https://www.wnep.com/mobile/article/news/local/wayne-county/can-you-identify-this-mysterious-old-writing/523-c317eaf7-5810-4cce-ab5f-3c669ef0ab2b,,wnep.com
 lermontov,30,26276520,58,1614357062,When Death Comes: An Oncology Nurse Finds Solace in Mary Oliver,story,https://lithub.com/when-death-comes-an-oncology-nurse-finds-solace-in-mary-oliver/,,lithub.com
 pkarnakov,12,26272642,98,1614328965,Show HN: Interactive real-time chemistry and fluids: water electrolysis,story,https://cselab.github.io/aphros/wasm/electrochem.html,,cselab.github.io
-weare138,109,26280727,176,1614379285,Medical chatbot using OpenAI’s GPT-3 told a fake patient to kill themselves,story,https://artificialintelligence-news.com/2020/10/28/medical-chatbot-openai-gpt3-patient-kill-themselves/,,artificialintelligence-news.com
+weare138,109,26280727,178,1614379285,Medical chatbot using OpenAI’s GPT-3 told a fake patient to kill themselves,story,https://artificialintelligence-news.com/2020/10/28/medical-chatbot-openai-gpt3-patient-kill-themselves/,,artificialintelligence-news.com
 vo2maxer,5,26244829,42,1614125389,Scientists create new class of “Turing patterns” in colonies of E. coli,story,https://arstechnica.com/science/2021/02/scientists-create-new-class-of-turing-patterns-in-colonies-of-e-coli/,,arstechnica.com
 giuliomagnifico,76,26263942,122,1614267685,Scientists begin building highly accurate digital twin of our planet,story,https://ethz.ch/en/news-and-events/eth-news/news/2021/02/a-highly-accurate-digital-twin-of-our-planet.html,,ethz.ch
 tempestn,63,26248002,156,1614156636,"Common asthma drug cuts Covid-19 hospitalization, recovery time – Oxford study",story,https://www.reuters.com/article/uk-health-coronavirus-asthma-treatment-idUKKBN2A92L0,,reuters.com
 etxm,4,26264045,13,1614268030,Humidifier: Healthy or Harmful?,story,https://blog.getawair.com/awair-investigates-how-your-humidifiers-water-affects-your-health,,getawair.com
 metaversemaker,120,26234614,220,1614064316,Scientists break through the wall of sleep to the untapped world of dreams,story,https://beta.nsf.gov/science-matters/scientists-break-through-wall-sleep-untapped-world-dreams,,beta.nsf.gov
-drocer88,2,26281221,14,1614383337,Lufthansa to launch a “Corona Lounge” in Moscow to immunise rich Germans,story,https://intellinews.com/lufthansa-to-launch-a-first-class-corona-lounge-in-moscow-to-immunise-rich-germans-203885/,,intellinews.com
-typical182,30,26240692,121,1614104469,Add experimental fuzz test support for Go 1.17,story,https://github.com/golang/go/issues/44551,,github.com
