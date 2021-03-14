@@ -1,10 +1,10 @@
 by,descendants,id,score,time,title,type,url,text,domain
-chwolfe,5,26450096,43,1615670417,Experimental Nintendo Switch Emulator written in C#,story,https://github.com/Ryujinx/Ryujinx,,github.com
-mrfusion,38,26449377,93,1615665045,"Vaccines should end the pandemic, despite the variants, say experts",story,https://news.harvard.edu/gazette/story/2021/02/vaccines-should-end-the-pandemic-despite-the-variants-say-experts/,,news.harvard.edu
+chwolfe,30,26450096,84,1615670417,Experimental Nintendo Switch Emulator written in C#,story,https://github.com/Ryujinx/Ryujinx,,github.com
+mrfusion,49,26449377,123,1615665045,"Vaccines should end the pandemic, despite the variants, say experts",story,https://news.harvard.edu/gazette/story/2021/02/vaccines-should-end-the-pandemic-despite-the-variants-say-experts/,,news.harvard.edu
 breitling,1,26438724,52,1615572173,Cancer death rates rising near Fermi nuclear plant,story,https://www.13abc.com/2021/03/11/report-cancer-death-rates-rising-near-fermi-nuclear-plant/,,13abc.com
 vector_spaces,11,26442425,31,1615593237,Web Crawler Latency Experiment,story,https://sites.google.com/view/webcrawlerlatency/experiment,,sites.google.com
-theonlyklas,246,26440702,245,1615582093,"Hospitals lift curtain on prices, reveals giant swings for hips, knees and more",story,https://www.medtechdive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596593/,,medtechdive.com
-telotortium,115,26442021,178,1615590111,Humble tokamak physicist owns generations of cosmological wankers,story,https://scottlocklin.wordpress.com/2021/03/12/humble-tokamak-physicist-owns-generations-of-cosmological-wankers/,,scottlocklin.wordpress.com
+theonlyklas,247,26440702,245,1615582093,"Hospitals lift curtain on prices, reveals giant swings for hips, knees and more",story,https://www.medtechdive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596593/,,medtechdive.com
+telotortium,116,26442021,178,1615590111,Humble tokamak physicist owns generations of cosmological wankers,story,https://scottlocklin.wordpress.com/2021/03/12/humble-tokamak-physicist-owns-generations-of-cosmological-wankers/,,scottlocklin.wordpress.com
 ssklash,33,26427372,103,1615487949,IceCube detection of a high-energy particle proves 60-year-old theory,story,https://icecube.wisc.edu/news/press-releases/2021/03/icecube-detection-of-a-high-energy-particle-proves-60-year-old-theory/,,icecube.wisc.edu
 bookofjoe,0,26426230,16,1615482045,Could the gut microbiome be linked to autism?,story,https://www.nature.com/articles/d41586-020-00198-y,,nature.com
 rmitra1,4,26428346,19,1615492912,CBD Inhibits SARS-CoV-2 Replication and Promotes the Host Innate Immune Response,story,https://www.biorxiv.org/content/10.1101/2021.03.10.432967v1,,biorxiv.org
