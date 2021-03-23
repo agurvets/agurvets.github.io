@@ -1,23 +1,27 @@
 by,descendants,id,score,time,title,type,url,text,domain
-undefined1,433,26543259,190,1616431495,EU vaccine rollout severely lags behind,story,https://www.statista.com/chart/24471/covid-19-vaccine-doses-per-100-people/,,statista.com
-pasttense01,256,26537812,198,1616398641,"AstraZeneca vaccine safe and effective in U.S., Chile, Peru trials",story,https://www.reuters.com/article/us-health-coronavirus-astrazeneca-usa/astrazeneca-vaccine-79-effective-in-u-s-trial-panel-finds-no-higher-risk-of-clots-idUSKBN2BE0NJ,,reuters.com
-dsr12,61,26544651,59,1616437340,What is consciousness? Some new perspectives from our physics project,story,https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/,,writings.stephenwolfram.com
-dmurthy,17,26521766,33,1616231502,Dear Young Artist [pdf],story,http://www.stephenshore.net/writing/lettertoayoungartist.pdf,,stephenshore.net
+Kaibeezy,154,26552375,202,1616487471,Result from LHCb experiment challenges the Standard Model,story,https://www.bbc.co.uk/news/science-environment-56491033,,bbc.co.uk
+discocrisco,230,26554410,187,1616504052,The virus that causes the common cold can effectively boot the Covid virus out,story,http://bbc.com/news/health-56483445,,bbc.com
+JPLeRouzic,35,26552942,90,1616492695,Alternative interpretations of classical physics (2019),story,https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.062107,,journals.aps.org
+cryptomeleon,5,26541376,17,1616423636,Show HN: Opytimizer – A Nature-Inspired Python Optimizer,story,,"<a href=""https:&#x2F;&#x2F;github.com&#x2F;gugarosa&#x2F;opytimizer"" rel=""nofollow"">https:&#x2F;&#x2F;github.com&#x2F;gugarosa&#x2F;opytimizer</a><p>Did you ever reach a bottleneck in your computational experiments? Are you tired of selecting suitable parameters for a chosen technique? If yes, Opytimizer is the real deal! This package provides an easy-to-go implementation of meta-heuristic optimizations. From agents to search space, from internal functions to external communication, we will foster all research related to optimizing stuff.<p>Use Opytimizer if you need a library or wish to:<p><pre><code>    - Create your optimization algorithm;
+    - Design or use pre-loaded optimization tasks;
+    - Mix-and-match different strategies to solve your problem;
+    - Because it is fun to optimize things.
+</code></pre>
+Read the docs at opytimizer.readthedocs.io.<p>Opytimizer is compatible with: Python 3.6+.",
+giuliomagnifico,0,26554851,12,1616507020,Netz: Discover internet-wide misconfigurations while drinking coffee,story,https://github.com/spectralops/netz,,github.com
+jbegley,13,26557086,27,1616517895,Amazon Delivery Drivers Forced to Sign 'Biometric Consent' Form or Lose Job,story,https://www.vice.com/en/article/dy8n3j/amazon-delivery-drivers-forced-to-sign-biometric-consent-form-or-lose-job,,vice.com
+sebastialonso,74,26555150,59,1616508399,My survey article on P vs. NP (2017),story,https://www.scottaaronson.com/blog/?p=3095,,scottaaronson.com
+Hooke,4,26533810,48,1616359426,"Archaeologists Solve Mystery of 5,600-Year-Old Skull Found in Italian Cave",story,https://www.smithsonianmag.com/smart-news/archaeologists-solve-mystery-stone-age-head-cave-180977149/,,smithsonianmag.com
+undefined1,649,26543259,235,1616431495,EU vaccine rollout severely lags behind,story,https://www.statista.com/chart/24471/covid-19-vaccine-doses-per-100-people/,,statista.com
+dsr12,85,26544651,82,1616437340,What is consciousness? Some new perspectives from our physics project,story,https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/,,writings.stephenwolfram.com
+pasttense01,282,26537812,200,1616398641,"AstraZeneca vaccine safe and effective in U.S., Chile, Peru trials",story,https://www.reuters.com/article/us-health-coronavirus-astrazeneca-usa/astrazeneca-vaccine-79-effective-in-u-s-trial-panel-finds-no-higher-risk-of-clots-idUSKBN2BE0NJ,,reuters.com
+room271,3,26552633,15,1616489856,CERN experiment hints at new force of nature,story,https://www.theguardian.com/science/2021/mar/23/large-hadron-collider-scientists-particle-physics,,theguardian.com
+accountinhn,509,26532588,327,1616350922,"As U.S. schools shuttered, student mental health cratered, survey finds",story,https://www.reuters.com/investigates/special-report/health-coronavirus-students/,,reuters.com
+WaitWaitWha,2,26549639,11,1616461223,"Spacecraft in a ‘warp bubble’ could travel faster than light, claims physicist",story,https://physicsworld.com/a/spacecraft-in-a-warp-bubble-could-travel-faster-than-light-claims-physicist/,,physicsworld.com
+luu,75,26537775,81,1616398078,Attributes and predictors of long Covid,story,https://www.nature.com/articles/s41591-021-01292-y,,nature.com
 1cvmask,71,26540042,21,1616417198,EU rebuffs UK calls to ship AstraZeneca Covid vaccines from Europe,story,https://www.reuters.com/article/us-health-coronavirus-eu-uk-idUSKBN2BD0RZ,,reuters.com
-luu,72,26537775,80,1616398078,Attributes and predictors of long Covid,story,https://www.nature.com/articles/s41591-021-01292-y,,nature.com
-accountinhn,501,26532588,324,1616350922,"As U.S. schools shuttered, student mental health cratered, survey finds",story,https://www.reuters.com/investigates/special-report/health-coronavirus-students/,,reuters.com
-dataflow,0,26539499,19,1616413461,Scientists Detect 55 Chemicals Never Before Reported in People,story,https://scitechdaily.com/scientists-detect-55-chemicals-never-before-reported-in-people-42-mystery-chemicals-whose-sources-are-unknown/,,scitechdaily.com
-fireball_blaze,0,26545412,11,1616440650,"Amazon Illegally Interrogated Worker Who Led First Covid-19 Strikes, NLRB Says",story,https://www.vice.com/en/article/dy8ngk/amazon-interrogated-worker-who-led-first-covid-19-strikes-nlrb-says,,vice.com
-elorant,3,26524743,34,1616262766,Chronic stress directly affects the body's immune system,story,https://academictimes.com/chronic-stress-directly-affects-the-bodys-immune-system/,,academictimes.com
-mhb,34,26523055,101,1616246632,AI and Drug Discovery: Attacking the Right Problems,story,https://blogs.sciencemag.org/pipeline/archives/2021/03/19/ai-and-drug-discovery-attacking-the-right-problems,,blogs.sciencemag.org
-davesailer,16,26527068,27,1616285452,How does my mind talk to my body? [audio],story,https://www.bbc.co.uk/programmes/w3cszv75,,bbc.co.uk
-shezi,11,26539021,24,1616409965,Scientists Discover Cause of Blood Clots from AstraZeneca Covid-19 Vaccine,story,https://www.ibtimes.com/scientists-discover-cause-blood-clots-astrazeneca-covid-19-vaccine-3166638,,ibtimes.com
-romaintailhurat,23,26521763,136,1616231300,Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image,story,https://infinite-nature.github.io/,,infinite-nature.github.io
+dataflow,0,26539499,20,1616413461,Scientists Detect 55 Chemicals Never Before Reported in People,story,https://scitechdaily.com/scientists-detect-55-chemicals-never-before-reported-in-people-42-mystery-chemicals-whose-sources-are-unknown/,,scitechdaily.com
 fireeyed,0,26532081,28,1616347504,List of Unsolved Problems in Physics,story,https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics,,en.wikipedia.org
-srameshc,106,26517124,240,1616180512,Scientist behind Covid-19 mRNA vaccine says her team's next target is cancer,story,https://www.cbc.ca/news/health/covid-19-scientist-mrna-cancer-1.5956150,,cbc.ca
-apsec112,8,26525534,26,1616268949,The US needs a 9/11 Commission style reckoning with COVID policy failures,story,https://www.mattbell.us/the-covid-19-post-mortem/,,mattbell.us
-11thEarlOfMar,253,26531207,224,1616341033,"Neutralizing antibodies against SARS-CoV-2 variants after infection, vaccination",story,https://jamanetwork.com/journals/jama/fullarticle/2777898,,jamanetwork.com
-bezout,13,26516892,42,1616179085,Brazil stares into the abyss as Covid intensive care units fill up everywhere,story,https://www.theguardian.com/world/2021/mar/19/brazil-coronavirus-intensive-care-unit-capacity,,theguardian.com
-YeGoblynQueenne,26,26519208,15,1616196538,Why is electroshock therapy still a mainstay of psychiatry?,story,https://aeon.co/essays/why-is-electroshock-therapy-still-a-mainstay-of-psychiatry,,aeon.co
-belltaco,9,26527076,16,1616285615,Pfizer warns EU to back down on vaccine threats to UK,story,https://www.standard.co.uk/news/uk/pfizer-eu-covid-vaccine-threats-uk-b925289.html,,standard.co.uk
-HieronymusBosch,13,26522257,30,1616238727,French drugs haul 'was strawberry Haribo',story,https://www.bbc.com/news/world-europe-56461868,,bbc.com
+fireball_blaze,0,26545412,13,1616440650,"Amazon Illegally Interrogated Worker Who Led First Covid-19 Strikes, NLRB Says",story,https://www.vice.com/en/article/dy8ngk/amazon-interrogated-worker-who-led-first-covid-19-strikes-nlrb-says,,vice.com
+shezi,11,26539021,24,1616409965,Scientists Discover Cause of Blood Clots from AstraZeneca Covid-19 Vaccine,story,https://www.ibtimes.com/scientists-discover-cause-blood-clots-astrazeneca-covid-19-vaccine-3166638,,ibtimes.com
+11thEarlOfMar,254,26531207,224,1616341033,"Neutralizing antibodies against SARS-CoV-2 variants after infection, vaccination",story,https://jamanetwork.com/journals/jama/fullarticle/2777898,,jamanetwork.com
