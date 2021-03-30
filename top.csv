@@ -1,12 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-agomez314,98,26609492,230,1616931581,How to Criticize Computer Scientists (2001),story,https://www.cs.purdue.edu/homes/dec/essay.criticize.html,,cs.purdue.edu
-rbanffy,56,26625745,41,1617040872,"In the deepest despair, electroconvulsive therapy offers hope",story,https://psyche.co/ideas/in-the-deepest-despair-electroconvulsive-therapy-offers-hope,,psyche.co
-mikeortman,98,26616973,263,1616983496,Robots.txt for the NYT has a specific exclusion for an 1996 news article,story,https://twitter.com/oliviasolon/status/1171200746240372737,,twitter.com
+prostoalex,2,26613527,39,1616960184,The untold story of the doctor who fuelled a drug crisis,story,https://torontolife.com/city/the-untold-story-of-the-doctor-who-fuelled-a-drug-crisis/,,torontolife.com
+MaurizioPz,9,26634151,22,1617109834,Urban Fish Ponds: Low-Tech Sewage Treatment for Towns and Cities,story,https://www.lowtechmagazine.com/2021/03/urban-fish-ponds-low-tech-sewage-treatment-for-towns-and-cities.html,,lowtechmagazine.com
+dberhane,0,26634348,18,1617110852,Covid: Half of UK has antibodies from vaccination or infection,story,https://www.bbc.co.uk/news/health-56576094,,bbc.co.uk
+agomez314,98,26609492,231,1616931581,How to Criticize Computer Scientists (2001),story,https://www.cs.purdue.edu/homes/dec/essay.criticize.html,,cs.purdue.edu
+mikeortman,98,26616973,265,1616983496,Robots.txt for the NYT has a specific exclusion for an 1996 news article,story,https://twitter.com/oliviasolon/status/1171200746240372737,,twitter.com
+rbanffy,59,26625745,41,1617040872,"In the deepest despair, electroconvulsive therapy offers hope",story,https://psyche.co/ideas/in-the-deepest-despair-electroconvulsive-therapy-offers-hope,,psyche.co
 donohoe,7,26627203,63,1617046911,The mysterious user editing a global open-source map in China’s favor,story,https://restofworld.org/2021/the-mysterious-user-editing-a-global-open-source-map-in-chinas-favor/,,restofworld.org
+webmaven,39,26607006,220,1616891743,High schooler invented color-changing sutures to detect infection,story,https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/,,smithsonianmag.com
+clouddrover,150,26610476,126,1616940124,A new model for faster-than-light travel that uses conventional physics,story,https://www.popularmechanics.com/science/a35820869/warp-drive-possible-with-conventional-physics/,,popularmechanics.com
 vijayer,1,26629429,12,1617059102,"Show HN: Statsig – feature gates, dynamic config, experiments and more for devs",story,https://statsig.com,,statsig.com
-clouddrover,146,26610476,124,1616940124,A new model for faster-than-light travel that uses conventional physics,story,https://www.popularmechanics.com/science/a35820869/warp-drive-possible-with-conventional-physics/,,popularmechanics.com
 hartem_,49,26614733,75,1616966517,Intriguing new result from the LHCb experiment at CERN,story,https://home.cern/news/news/physics/intriguing-new-result-lhcb-experiment-cern,,home.cern
-webmaven,39,26607006,218,1616891743,High schooler invented color-changing sutures to detect infection,story,https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/,,smithsonianmag.com
 userbinator,4,26607815,19,1616903706,Discovering a new VGA mode (2016),story,https://hackaday.io/project/6150-beckman-du-600-reverse-engineering/log/50756-discovering-a-new-vga-mode,,hackaday.io
 MontagFTB,1,26628606,17,1617054351,Scientists built a perfectly self-replicating synthetic cell,story,https://www.livescience.com/synthetic-cell-division.html,,livescience.com
 Hooke,33,26600405,83,1616826439,Bronze Age mining sites received deliveries of pre-processed foods,story,https://phys.org/news/2021-03-bronze-age-sites-deliveries-pre-processed.html,,phys.org
@@ -15,8 +18,7 @@ ibraheemdev,236,26602243,153,1616852702,Facebook freezes Venezuela president Mad
 debruinf,6,26609394,18,1616930265,Show HN: Fooder – a private digital kitchen notebook,story,https://usefooder.com,,usefooder.com
 jsomers,19,26586922,91,1616714574,The Pastry A.I. That Learned to Fight Cancer,story,https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer,,newyorker.com
 lelf,84,26591858,84,1616765252,Physicist 3D-printed a Lamborghini because his son liked one (2019),story,https://www.autoblog.com/2019/10/07/diy-3d-printed-lamborghini-aventador/,,autoblog.com
-latexr,6,26623668,18,1617033175,"Stanford Scientists Reverse Engineer Moderna Vaccine, Post Code on GitHub",story,https://www.vice.com/en/article/7k9gya/stanford-scientists-reverse-engineer-moderna-vaccine-post-code-on-github,,vice.com
 vinni2,31,26600806,85,1616832732,'Ice-cream toothache': Cold food and drinks pain explained,story,https://www.bbc.co.uk/news/health-56536300,,bbc.co.uk
+latexr,6,26623668,18,1617033175,"Stanford Scientists Reverse Engineer Moderna Vaccine, Post Code on GitHub",story,https://www.vice.com/en/article/7k9gya/stanford-scientists-reverse-engineer-moderna-vaccine-post-code-on-github,,vice.com
 sdan,148,26609064,137,1616924439,"Gender, race, and entrepreneurship: A randomized field experiment on investors",story,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301982,,papers.ssrn.com
 fireeyed,10,26599099,109,1616809578,DoD is poisoning communities across the US with toxic chemicals,story,https://www.theguardian.com/commentisfree/2021/mar/25/us-military-toxic-chemicals-us-states,,theguardian.com
-marc__1,1,26607620,17,1616901098,Scientists can now sequence an entire genome overnight,story,https://www.nytimes.com/interactive/2021/03/25/magazine/genome-sequencing-covid-variants.html,,nytimes.com
