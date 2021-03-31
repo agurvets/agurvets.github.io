@@ -1,16 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-JNRowe,8,26640915,33,1617140542,What does a PGP signature on a Git commit prove?,story,https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove,,people.kernel.org
-wglb,1,26627809,14,1617050069,SwRI scientists discover a new auroral feature on Jupiter,story,https://www.swri.org/press-release/swri-scientists-discover-new-auroral-feature-jupiter,,swri.org
-prostoalex,5,26613527,54,1616960184,The untold story of the doctor who fuelled a drug crisis,story,https://torontolife.com/city/the-untold-story-of-the-doctor-who-fuelled-a-drug-crisis/,,torontolife.com
-churp,1,26641442,11,1617143968,Covid-19 paused climate emissions – but they're rising again,story,https://www.bbc.com/future/article/20210312-covid-19-paused-climate-emissions-but-theyre-rising-again,,bbc.com
-mellosouls,14,26641149,29,1617141794,AstraZeneca vaccine – was it really worth it?,story,https://www.bbc.com/news/business-56570364,,bbc.com
+JNRowe,9,26640915,39,1617140542,What does a PGP signature on a Git commit prove?,story,https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove,,people.kernel.org
+wglb,2,26627809,16,1617050069,SwRI scientists discover a new auroral feature on Jupiter,story,https://www.swri.org/press-release/swri-scientists-discover-new-auroral-feature-jupiter,,swri.org
+prostoalex,6,26613527,54,1616960184,The untold story of the doctor who fuelled a drug crisis,story,https://torontolife.com/city/the-untold-story-of-the-doctor-who-fuelled-a-drug-crisis/,,torontolife.com
+mellosouls,16,26641149,33,1617141794,AstraZeneca vaccine – was it really worth it?,story,https://www.bbc.com/news/business-56570364,,bbc.com
+churp,1,26641442,12,1617143968,Covid-19 paused climate emissions – but they're rising again,story,https://www.bbc.com/future/article/20210312-covid-19-paused-climate-emissions-but-theyre-rising-again,,bbc.com
 MaurizioPz,11,26634151,25,1617109834,Urban Fish Ponds: Low-Tech Sewage Treatment for Towns and Cities,story,https://www.lowtechmagazine.com/2021/03/urban-fish-ponds-low-tech-sewage-treatment-for-towns-and-cities.html,,lowtechmagazine.com
-dberhane,0,26634348,23,1617110852,Covid: Half of UK has antibodies from vaccination or infection,story,https://www.bbc.co.uk/news/health-56576094,,bbc.co.uk
+dberhane,0,26634348,24,1617110852,Covid: Half of UK has antibodies from vaccination or infection,story,https://www.bbc.co.uk/news/health-56576094,,bbc.co.uk
 booleandilemma,73,26639722,74,1617134794,"Toxic people could become a reality, scientists researching snake venom say",story,https://www.irishexaminer.com/world/arid-40254002.html,,irishexaminer.com
 agomez314,100,26609492,231,1616931581,How to Criticize Computer Scientists (2001),story,https://www.cs.purdue.edu/homes/dec/essay.criticize.html,,cs.purdue.edu
 mikeortman,98,26616973,266,1616983496,Robots.txt for the NYT has a specific exclusion for an 1996 news article,story,https://twitter.com/oliviasolon/status/1171200746240372737,,twitter.com
 rbanffy,59,26625745,42,1617040872,"In the deepest despair, electroconvulsive therapy offers hope",story,https://psyche.co/ideas/in-the-deepest-despair-electroconvulsive-therapy-offers-hope,,psyche.co
-donohoe,7,26627203,64,1617046911,The mysterious user editing a global open-source map in China’s favor,story,https://restofworld.org/2021/the-mysterious-user-editing-a-global-open-source-map-in-chinas-favor/,,restofworld.org
+donohoe,7,26627203,65,1617046911,The mysterious user editing a global open-source map in China’s favor,story,https://restofworld.org/2021/the-mysterious-user-editing-a-global-open-source-map-in-chinas-favor/,,restofworld.org
 clouddrover,151,26610476,126,1616940124,A new model for faster-than-light travel that uses conventional physics,story,https://www.popularmechanics.com/science/a35820869/warp-drive-possible-with-conventional-physics/,,popularmechanics.com
 hartem_,49,26614733,75,1616966517,Intriguing new result from the LHCb experiment at CERN,story,https://home.cern/news/news/physics/intriguing-new-result-lhcb-experiment-cern,,home.cern
 vijayer,1,26629429,12,1617059102,"Show HN: Statsig – feature gates, dynamic config, experiments and more for devs",story,https://statsig.com,,statsig.com
