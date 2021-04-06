@@ -1,19 +1,24 @@
 by,descendants,id,score,time,title,type,url,text,domain
-samizdis,88,26697354,201,1617619531,Soviet TV version of Lord of the Rings rediscovered after 30 years,story,https://www.theguardian.com/world/2021/apr/05/soviet-tv-version-lord-of-the-rings-rediscovered-after-30-years,,theguardian.com
+Anon84,28,26717795,50,1617745727,Google AI scientist Bengio resigns after colleagues' firings – email,story,https://www.reuters.com/article/us-alphabet-google-research-bengio/google-ai-scientist-bengio-resigns-after-colleagues-firings-email-idUSKBN2BT2JT,,reuters.com
+dgudkov,7,26716309,23,1617737405,Scientists pinpoint source of “impossible” EmDrive's thrust,story,https://newatlas.com/space/emdrive-dead-thrust-refuted/,,newatlas.com
+andyxor,78,26709053,154,1617693988,Neuroscientists discover molecular mechanism that allows memories to form (2020),story,https://news.mit.edu/2020/engram-memories-form-1005,,news.mit.edu
+nradov,113,26713188,150,1617723546,A majority of uninfected adults show pre-existing antibodies against SARS-CoV-2,story,https://insight.jci.org/articles/view/146316,,insight.jci.org
+zeristor,92,26708457,64,1617689167,Vitamin D: The truth about an alleged Covid ‘cover-up’,story,https://www.bbc.co.uk/news/health-56180921,,bbc.co.uk
+cwwc,293,26706187,106,1617666502,FDA approves new ADHD drug for children,story,https://www.axios.com/fda-approves-new-adhd-drug-for-children-d7bb24d4-7bf2-4a5e-a505-833ed57dee7a.html,,axios.com
+mulvya,135,26708324,159,1617688086,Contaminated surface has under 1 in 10k chance of causing an infection,story,https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/surface-transmission.html,,cdc.gov
+samizdis,95,26697354,208,1617619531,Soviet TV version of Lord of the Rings rediscovered after 30 years,story,https://www.theguardian.com/world/2021/apr/05/soviet-tv-version-lord-of-the-rings-rediscovered-after-30-years,,theguardian.com
 MrJagil,2,26688341,33,1617532883,Blackwater photography is helping scientists gain insights into fish larvae,story,https://www.nytimes.com/2021/03/30/science/blackwater-photography-fish-larvae.html,,nytimes.com
-luu,61,26691749,63,1617561276,Antidepressants and medical uncertainty,story,https://acesounderglass.com/2021/04/02/antidepressants-and-medical-uncertainty/,,acesounderglass.com
-yellowyacht,110,26699466,162,1617633037,"We sampled tap water across the US – and found arsenic, lead and toxic chemicals",story,https://www.theguardian.com/us-news/2021/mar/31/americas-tap-water-samples-forever-chemicals,,theguardian.com
-BillFranklin,46,26684792,198,1617484360,Show HN: Blogosphere – Discover independent technical blogs,story,https://bilbof.com/blogosphere,,bilbof.com
-MKais,249,26690751,641,1617553437,New HIV vaccine with a 97% antibody response rate in phase I human trials,story,https://www.europeanpharmaceuticalreview.com/news/141892/novel-hiv-vaccine-approach-shows-promise-in-landmark-first-in-human-trial/,,europeanpharmaceuticalreview.com
-DecayingOrganic,306,26685244,578,1617488261,How Doctors Die (2013),story,https://www.saturdayeveningpost.com/2013/03/how-doctors-die/,,saturdayeveningpost.com
-mrfusion,1,26698382,34,1617627779,"Covid Super Strains? There Are None, Says Virologist",story,https://www.thestreet.com/latest-news/there-are-no-covid-super-strains-yet-says-virologist-vincent-racaniello,,thestreet.com
-cwwc,99,26706187,35,1617666502,FDA approves new ADHD drug for children,story,https://www.axios.com/fda-approves-new-adhd-drug-for-children-d7bb24d4-7bf2-4a5e-a505-833ed57dee7a.html,,axios.com
-pabo,68,26689643,65,1617546340,Sputnik V vaccine-neutralization escape by SARS-CoV-2 Spike variants,story,https://www.medrxiv.org/content/10.1101/2021.03.31.21254660v1,,medrxiv.org
-rustoo,29,26678812,80,1617431665,Exercise may help slow cognitive decline in some people with Parkinson’s disease,story,https://www.aan.com/PressRoom/Home/PressRelease/4877,,aan.com
+bko,15,26712242,17,1617719667,Ask HN: Why is the stock market up 30%+ from pre-Covid levels?,story,,"I&#x27;ve been thinking about this for a while, and wrote about it in my blog (in profile) as I&#x27;ve been trying to hedge what I see as the inevitable market blow up.<p>Does anyone have any explanation as to why asset prices are up so much across the board apart from fed easy money policy? Is there any way this could end well, or continue trucking on indefinitely (3-5 year time-frame)? And what are some effective ways to mitigate downside risk?",
+AndrewBissell,1,26708736,21,1617691322,The U.S. Helped the Biggest Cartel in Mexico Traffic Drugs and Commit Murders,story,https://narco.news/hail-to-the-king,,narco.news
+luu,68,26691749,69,1617561276,Antidepressants and medical uncertainty,story,https://acesounderglass.com/2021/04/02/antidepressants-and-medical-uncertainty/,,acesounderglass.com
+BillFranklin,47,26684792,198,1617484360,Show HN: Blogosphere – Discover independent technical blogs,story,https://bilbof.com/blogosphere,,bilbof.com
+yellowyacht,115,26699466,166,1617633037,"We sampled tap water across the US – and found arsenic, lead and toxic chemicals",story,https://www.theguardian.com/us-news/2021/mar/31/americas-tap-water-samples-forever-chemicals,,theguardian.com
+MKais,254,26690751,656,1617553437,New HIV vaccine with a 97% antibody response rate in phase I human trials,story,https://www.europeanpharmaceuticalreview.com/news/141892/novel-hiv-vaccine-approach-shows-promise-in-landmark-first-in-human-trial/,,europeanpharmaceuticalreview.com
+DecayingOrganic,313,26685244,580,1617488261,How Doctors Die (2013),story,https://www.saturdayeveningpost.com/2013/03/how-doctors-die/,,saturdayeveningpost.com
+vl,3,26707677,14,1617679724,Is Outside Air Covid Safe? Are Masks Needed Outdoors?,story,https://cliffmass.blogspot.com/2021/04/is-outside-air-covid-safe-are-masks.html,,cliffmass.blogspot.com
 mellosouls,20,26686241,11,1617500068,Should Stephen Hawking Have Won the Nobel Prize?,story,http://backreaction.blogspot.com/2021/04/should-stephen-hawking-have-won-nobel.html,,backreaction.blogspot.com
+giansegato,148,26684519,311,1617482375,“Why We Sleep” Is Riddled with Scientific and Factual Errors,story,https://guzey.com/books/why-we-sleep/,,guzey.com
+pabo,68,26689643,65,1617546340,Sputnik V vaccine-neutralization escape by SARS-CoV-2 Spike variants,story,https://www.medrxiv.org/content/10.1101/2021.03.31.21254660v1,,medrxiv.org
+rainhacker,57,26704765,38,1617656938,Vitamin D: The truth about an alleged Covid ‘cover-up’,story,https://www.bbc.com/news/health-56180921,,bbc.com
+mrfusion,1,26698382,34,1617627779,"Covid Super Strains? There Are None, Says Virologist",story,https://www.thestreet.com/latest-news/there-are-no-covid-super-strains-yet-says-virologist-vincent-racaniello,,thestreet.com
 danboarder,8,26695980,27,1617604913,The Rich Got Richer During Covid-19,story,https://www.visualcapitalist.com/the-rich-got-richer-during-covid-19-heres-how-american-billionaires-performed/,,visualcapitalist.com
-giansegato,145,26684519,309,1617482375,“Why We Sleep” Is Riddled with Scientific and Factual Errors,story,https://guzey.com/books/why-we-sleep/,,guzey.com
-elorant,9,26671204,38,1617369740,Covid-19 vanishing in Israel as vaccinations kick-in,story,https://en.globes.co.il/en/article-covid19-vanishing-in-israel-as-vaccinations-kick-in-1001365803,,en.globes.co.il
-reese_john,268,26674279,311,1617388008,"IRS guidance for thieves, drug dealers, and corrupt officials",story,https://taxfoundation.org/irs-guidance-thieves-drug-dealers-and-corrupt-officials/,,taxfoundation.org
-curmudgeon22,197,26671748,226,1617374273,Almost third of UK Covid hospital patients readmitted within four months,story,https://www.theguardian.com/world/2021/apr/01/almost-third-of-uk-covid-hospital-patients-readmitted-within-four-months,,theguardian.com
-rainhacker,52,26704765,35,1617656938,Vitamin D: The truth about an alleged Covid ‘cover-up’,story,https://www.bbc.com/news/health-56180921,,bbc.com
