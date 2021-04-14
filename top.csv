@@ -1,9 +1,10 @@
 by,descendants,id,score,time,title,type,url,text,domain
-donohoe,79,26805463,148,1618398605,Man found to have defamed Singapore prime minister by sharing news article,story,https://restofworld.org/2021/singapore-facebook-ruling/,,restofworld.org
-bmc7505,3,26808991,12,1618416312,The Wolfram Physics Project: A One-Year Update,story,https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/,,writings.stephenwolfram.com
-osivertsson,107,26806250,72,1618404146,EU Commission to end AstraZeneca and J&J vaccine contracts at expiry,story,https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU,,reuters.com
-reddotX,246,26805369,144,1618397934,Denmark to permanently cease using AstraZeneca vaccine,story,https://www.reuters.com/article/idUSKBN2C118T,,reuters.com
-kjakm,1040,26790881,450,1618314053,US agencies call for pause in Johnson & Johnson vaccine,story,https://www.bbc.co.uk/news/world-us-canada-56733715,,bbc.co.uk
+bmc7505,36,26808991,37,1618416312,The Wolfram Physics Project: A One-Year Update,story,https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/,,writings.stephenwolfram.com
+donohoe,112,26805463,180,1618398605,Man found to have defamed Singapore prime minister by sharing news article,story,https://restofworld.org/2021/singapore-facebook-ruling/,,restofworld.org
+volgo,6,26807738,44,1618411370,"Regulartors ban hospitals from using “noindex, nofollow” on pricing pages",story,https://github.com/CMSgov/price-transparency-guide/commit/bc8e96e5467202ea8f78f50582adfd221b91a948,,github.com
+osivertsson,130,26806250,91,1618404146,EU Commission to end AstraZeneca and J&J vaccine contracts at expiry,story,https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU,,reuters.com
+reddotX,266,26805369,151,1618397934,Denmark to permanently cease using AstraZeneca vaccine,story,https://www.reuters.com/article/idUSKBN2C118T,,reuters.com
+kjakm,1044,26790881,451,1618314053,US agencies call for pause in Johnson & Johnson vaccine,story,https://www.bbc.co.uk/news/world-us-canada-56733715,,bbc.co.uk
 jakecopp,9,26786670,97,1618272593,Student's physics homework picked up by Amazon quantum researchers,story,https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html,,sydney.edu.au
 walterbell,112,26799961,107,1618351617,Previous Covid-19 may cut risk of reinfection 84%,story,https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84,,cidrap.umn.edu
 pepys,4,26757715,29,1618013548,Biological Warfare in Eighteenth-Century America: Beyond Jeffery Amherst (2000),story,https://www.jstor.org/stable/2567577?mag=how-commonly-was-smallpox-used-as-a-biological-weapon&seq=1#metadata_info_tab_contents,,jstor.org
