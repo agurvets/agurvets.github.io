@@ -1,22 +1,21 @@
 by,descendants,id,score,time,title,type,url,text,domain
-bmc7505,36,26808991,37,1618416312,The Wolfram Physics Project: A One-Year Update,story,https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/,,writings.stephenwolfram.com
-donohoe,112,26805463,180,1618398605,Man found to have defamed Singapore prime minister by sharing news article,story,https://restofworld.org/2021/singapore-facebook-ruling/,,restofworld.org
-volgo,6,26807738,44,1618411370,"Regulartors ban hospitals from using “noindex, nofollow” on pricing pages",story,https://github.com/CMSgov/price-transparency-guide/commit/bc8e96e5467202ea8f78f50582adfd221b91a948,,github.com
-osivertsson,130,26806250,91,1618404146,EU Commission to end AstraZeneca and J&J vaccine contracts at expiry,story,https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU,,reuters.com
-reddotX,266,26805369,151,1618397934,Denmark to permanently cease using AstraZeneca vaccine,story,https://www.reuters.com/article/idUSKBN2C118T,,reuters.com
-kjakm,1044,26790881,451,1618314053,US agencies call for pause in Johnson & Johnson vaccine,story,https://www.bbc.co.uk/news/world-us-canada-56733715,,bbc.co.uk
+donohoe,131,26805463,207,1618398605,Man found to have defamed Singapore prime minister by sharing news article,story,https://restofworld.org/2021/singapore-facebook-ruling/,,restofworld.org
+bmc7505,66,26808991,64,1618416312,The Wolfram Physics Project: A One-Year Update,story,https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/,,writings.stephenwolfram.com
+osivertsson,148,26806250,104,1618404146,EU Commission to end AstraZeneca and J&J vaccine contracts at expiry,story,https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU,,reuters.com
+reddotX,271,26805369,153,1618397934,Denmark to permanently cease using AstraZeneca vaccine,story,https://www.reuters.com/article/idUSKBN2C118T,,reuters.com
+kjakm,1047,26790881,452,1618314053,US agencies call for pause in Johnson & Johnson vaccine,story,https://www.bbc.co.uk/news/world-us-canada-56733715,,bbc.co.uk
 jakecopp,9,26786670,97,1618272593,Student's physics homework picked up by Amazon quantum researchers,story,https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html,,sydney.edu.au
 walterbell,112,26799961,107,1618351617,Previous Covid-19 may cut risk of reinfection 84%,story,https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84,,cidrap.umn.edu
 pepys,4,26757715,29,1618013548,Biological Warfare in Eighteenth-Century America: Beyond Jeffery Amherst (2000),story,https://www.jstor.org/stable/2567577?mag=how-commonly-was-smallpox-used-as-a-biological-weapon&seq=1#metadata_info_tab_contents,,jstor.org
-DanBC,57,26799016,66,1618346686,Suicide trends in the early months of the Covid-19 pandemic,story,https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext,,thelancet.com
 docuru,7,26787128,18,1618276553,MS Paint from the 90s,story,https://paint.js.org,,paint.js.org
+DanBC,58,26799016,66,1618346686,Suicide trends in the early months of the Covid-19 pandemic,story,https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext,,thelancet.com
 rainhacker,229,26774145,388,1618180780,"Anxiety is in your body, not your mind",story,https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb,,elemental.medium.com
 dredmorbius,0,26799715,20,1618350121,Elite philanthropy created vaccine apartheid,story,https://pluralistic.net/2021/04/13/public-interest-pharma/#gates-foundation,,pluralistic.net
 ooboe,13,26778436,29,1618229220,NHS Covid-19 app update blocked for breaking Apple and Google's rules,story,https://www.bbc.com/news/technology-56713017,,bbc.com
-forlorn,7,26782551,19,1618249529,A Mysterious Suicide Cluster,story,https://www.newyorker.com/magazine/2021/04/19/a-mysterious-suicide-cluster,,newyorker.com
 Ovah,15,26769091,79,1618135659,Surgeons Perform First Human Tracheal Transplant Surgery,story,https://www.mountsinai.org/about/newsroom/2021/mount-sinai-surgeons-perform-first-human-tracheal-transplant-surgery,,mountsinai.org
-Redoubts,13,26790664,24,1618312333,U.S. Calls for Pause on Johnson and Johnson Vaccine After Clotting Cases,story,https://www.nytimes.com/2021/04/13/us/politics/johnson-johnson-vaccine-blood-clots-fda-cdc.html,,nytimes.com
+forlorn,7,26782551,19,1618249529,A Mysterious Suicide Cluster,story,https://www.newyorker.com/magazine/2021/04/19/a-mysterious-suicide-cluster,,newyorker.com
 deng,4,26769079,29,1618135483,Inhaled budesonide in the treatment of early Covid-19,story,https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00160-0/fulltext,,thelancet.com
+Redoubts,13,26790664,24,1618312333,U.S. Calls for Pause on Johnson and Johnson Vaccine After Clotting Cases,story,https://www.nytimes.com/2021/04/13/us/politics/johnson-johnson-vaccine-blood-clots-fda-cdc.html,,nytimes.com
 p49k,7,26786302,21,1618269051,'This has never happened': San Jose State's wildfire lab makes scary discovery,story,https://www.sfgate.com/bayarea/article/fuel-moisture-content-California-wildfire-16087019.php,,sfgate.com
 prashantsengar,24,26760562,109,1618052277,I won’t review or write for Elsevier and other commercial scientific journals,story,https://science.thewire.in/the-sciences/why-i-wont-review-or-write-for-elsevier-and-other-commercial-scientific-journals/,,science.thewire.in
 rustoo,15,26768097,19,1618124410,"Artists in the Stone Age Were High at Work, New Study Suggests",story,https://designtaxi.com/news/413614/Artists-In-The-Stone-Age-Were-High-At-Work-New-Study-Suggests/,,designtaxi.com
