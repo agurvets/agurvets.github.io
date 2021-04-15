@@ -1,13 +1,14 @@
 by,descendants,id,score,time,title,type,url,text,domain
-feross,18,26821306,147,1618498915,"A collection of open source, experimental, tiny tools",story,https://tinytools.directory/,,tinytools.directory
-lsllc,4,26821018,20,1618497278,Risk of rare blood clotting higher for Covid-19 than for vaccines,story,https://www.ox.ac.uk/news/2021-04-15-risk-rare-blood-clotting-higher-covid-19-vaccines,,ox.ac.uk
-curmudgeon22,1,26821880,19,1618501520,"Mexico’s War on Obesity Sends Global Junk-Food, Sugary-Drink Giants Scrambling",story,https://wolfstreet.com/2021/04/13/mexicos-war-on-obesity-sends-global-junk-food-sugary-drink-giants-scrambling/,,wolfstreet.com
-rafaelc,4,26824145,19,1618510264,Pfizer CEO says third Covid vaccine dose likely needed within 12 months,story,https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html,,cnbc.com
+feross,21,26821306,172,1618498915,"A collection of open source, experimental, tiny tools",story,https://tinytools.directory/,,tinytools.directory
+Austin_Conlon,3,26824683,22,1618512737,Amazon pauses vesting when you’re on medical or parental leave,story,https://twitter.com/quinnypig/status/1382705991188381697,,twitter.com
+lsllc,4,26821018,21,1618497278,Risk of rare blood clotting higher for Covid-19 than for vaccines,story,https://www.ox.ac.uk/news/2021-04-15-risk-rare-blood-clotting-higher-covid-19-vaccines,,ox.ac.uk
+curmudgeon22,2,26821880,22,1618501520,"Mexico’s War on Obesity Sends Global Junk-Food, Sugary-Drink Giants Scrambling",story,https://wolfstreet.com/2021/04/13/mexicos-war-on-obesity-sends-global-junk-food-sugary-drink-giants-scrambling/,,wolfstreet.com
+rafaelc,6,26824145,22,1618510264,Pfizer CEO says third Covid vaccine dose likely needed within 12 months,story,https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html,,cnbc.com
 osivertsson,192,26806250,132,1618404146,EU Commission to end AstraZeneca and J&J vaccine contracts at expiry,story,https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU,,reuters.com
 reddotX,308,26805369,176,1618397934,Denmark to permanently cease using AstraZeneca vaccine,story,https://www.reuters.com/article/idUSKBN2C118T,,reuters.com
 kjakm,1053,26790881,454,1618314053,US agencies call for pause in Johnson & Johnson vaccine,story,https://www.bbc.co.uk/news/world-us-canada-56733715,,bbc.co.uk
+evo_9,7,26813980,17,1618439938,Vitamin D for Preventing Covid: Hype or Hope?: Shots – Health News,story,https://www.npr.org/sections/health-shots/2021/04/14/985863133/a-year-in-heres-what-we-know-about-vitamin-d-for-preventing-covid,,npr.org
 awb,2,26813961,23,1618439829,Mystery of Who Cracked the San Bernardino Shooter's iPhone for the FBI Solved,story,https://gizmodo.com/mystery-of-who-cracked-the-san-bernardino-shooters-ipho-1846683814/,,gizmodo.com
-evo_9,7,26813980,16,1618439938,Vitamin D for Preventing Covid: Hype or Hope?: Shots – Health News,story,https://www.npr.org/sections/health-shots/2021/04/14/985863133/a-year-in-heres-what-we-know-about-vitamin-d-for-preventing-covid,,npr.org
 bashtoni,12,26813928,51,1618439629,Medical company uploads secrets to GitHub; threatens reporter with legal action,story,https://robdyke.com/howto-disclose/,,robdyke.com
 bmc7505,146,26808991,98,1618416312,The Wolfram Physics Project: A One-Year Update,story,https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/,,writings.stephenwolfram.com
 jakecopp,9,26786670,98,1618272593,Student's physics homework picked up by Amazon quantum researchers,story,https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html,,sydney.edu.au
