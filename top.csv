@@ -1,13 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-feross,11,26821306,83,1618498915,"A collection of open source, experimental, tiny tools",story,https://tinytools.directory/,,tinytools.directory
+feross,18,26821306,147,1618498915,"A collection of open source, experimental, tiny tools",story,https://tinytools.directory/,,tinytools.directory
+lsllc,4,26821018,20,1618497278,Risk of rare blood clotting higher for Covid-19 than for vaccines,story,https://www.ox.ac.uk/news/2021-04-15-risk-rare-blood-clotting-higher-covid-19-vaccines,,ox.ac.uk
+curmudgeon22,1,26821880,19,1618501520,"Mexico’s War on Obesity Sends Global Junk-Food, Sugary-Drink Giants Scrambling",story,https://wolfstreet.com/2021/04/13/mexicos-war-on-obesity-sends-global-junk-food-sugary-drink-giants-scrambling/,,wolfstreet.com
+rafaelc,4,26824145,19,1618510264,Pfizer CEO says third Covid vaccine dose likely needed within 12 months,story,https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html,,cnbc.com
 osivertsson,192,26806250,132,1618404146,EU Commission to end AstraZeneca and J&J vaccine contracts at expiry,story,https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU,,reuters.com
-reddotX,307,26805369,175,1618397934,Denmark to permanently cease using AstraZeneca vaccine,story,https://www.reuters.com/article/idUSKBN2C118T,,reuters.com
+reddotX,308,26805369,176,1618397934,Denmark to permanently cease using AstraZeneca vaccine,story,https://www.reuters.com/article/idUSKBN2C118T,,reuters.com
 kjakm,1053,26790881,454,1618314053,US agencies call for pause in Johnson & Johnson vaccine,story,https://www.bbc.co.uk/news/world-us-canada-56733715,,bbc.co.uk
 awb,2,26813961,23,1618439829,Mystery of Who Cracked the San Bernardino Shooter's iPhone for the FBI Solved,story,https://gizmodo.com/mystery-of-who-cracked-the-san-bernardino-shooters-ipho-1846683814/,,gizmodo.com
-evo_9,6,26813980,16,1618439938,Vitamin D for Preventing Covid: Hype or Hope?: Shots – Health News,story,https://www.npr.org/sections/health-shots/2021/04/14/985863133/a-year-in-heres-what-we-know-about-vitamin-d-for-preventing-covid,,npr.org
-bashtoni,12,26813928,50,1618439629,Medical company uploads secrets to GitHub; threatens reporter with legal action,story,https://robdyke.com/howto-disclose/,,robdyke.com
-bmc7505,144,26808991,98,1618416312,The Wolfram Physics Project: A One-Year Update,story,https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/,,writings.stephenwolfram.com
-jakecopp,9,26786670,97,1618272593,Student's physics homework picked up by Amazon quantum researchers,story,https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html,,sydney.edu.au
+evo_9,7,26813980,16,1618439938,Vitamin D for Preventing Covid: Hype or Hope?: Shots – Health News,story,https://www.npr.org/sections/health-shots/2021/04/14/985863133/a-year-in-heres-what-we-know-about-vitamin-d-for-preventing-covid,,npr.org
+bashtoni,12,26813928,51,1618439629,Medical company uploads secrets to GitHub; threatens reporter with legal action,story,https://robdyke.com/howto-disclose/,,robdyke.com
+bmc7505,146,26808991,98,1618416312,The Wolfram Physics Project: A One-Year Update,story,https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/,,writings.stephenwolfram.com
+jakecopp,9,26786670,98,1618272593,Student's physics homework picked up by Amazon quantum researchers,story,https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html,,sydney.edu.au
 docuru,8,26787128,18,1618276553,MS Paint from the 90s,story,https://paint.js.org,,paint.js.org
 walterbell,116,26799961,109,1618351617,Previous Covid-19 may cut risk of reinfection 84%,story,https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84,,cidrap.umn.edu
 DanBC,58,26799016,66,1618346686,Suicide trends in the early months of the Covid-19 pandemic,story,https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext,,thelancet.com
@@ -15,6 +18,3 @@ forlorn,7,26782551,19,1618249529,A Mysterious Suicide Cluster,story,https://www.
 dredmorbius,0,26799715,20,1618350121,Elite philanthropy created vaccine apartheid,story,https://pluralistic.net/2021/04/13/public-interest-pharma/#gates-foundation,,pluralistic.net
 p49k,7,26786302,21,1618269051,'This has never happened': San Jose State's wildfire lab makes scary discovery,story,https://www.sfgate.com/bayarea/article/fuel-moisture-content-California-wildfire-16087019.php,,sfgate.com
 Redoubts,13,26790664,24,1618312333,U.S. Calls for Pause on Johnson and Johnson Vaccine After Clotting Cases,story,https://www.nytimes.com/2021/04/13/us/politics/johnson-johnson-vaccine-blood-clots-fda-cdc.html,,nytimes.com
-jonplackett,18,26791041,15,1618315350,Show HN: Things you never worry about doing that are riskier than the AZ vaccine,story,http://whatoneinamillionmeans.com/,,whatoneinamillionmeans.com
-edandersen,0,26789555,11,1618302120,"NHS Covid-19 app update blocked by Apple, Google over location privacy fears",story,https://www.theregister.com/2021/04/13/uk_covid_app/,,theregister.com
-run2arun,0,26781862,11,1618246732,Bill Gates Impeded Global Access to Covid Vaccines,story,https://newrepublic.com/article/162000/bill-gates-impeded-global-access-covid-vaccines,,newrepublic.com
