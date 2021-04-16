@@ -1,16 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-paulpauper,112,26832636,145,1618573153,A top audio engineer explains NPR’s signature sound (2015),story,https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/,,current.org
-pseudolus,139,26832589,170,1618572843,'Whitest ever' paint reflects 98% of sunlight,story,https://www.bbc.com/news/science-environment-56749105,,bbc.com
-glotgizmo,1,26832621,17,1618573031,'Whitest ever' paint reflects 98% of sunlight,story,https://www.bbc.co.uk/news/science-environment-56749105,,bbc.co.uk
-zhte415,59,26816964,67,1618469888,Out of thin air: the mystery of the man who fell from the sky,story,https://www.theguardian.com/world/2021/apr/15/man-who-fell-from-the-sky-airplane-stowaway-kenya-london,,theguardian.com
-bko,0,26834180,20,1618582668,Where did the $12T of Covid spending go? Part 5: USD as global reserve currency,story,https://mleverything.substack.com/p/where-did-the-12-trillion-of-covid-014,,mleverything.substack.com
-feross,25,26821306,247,1618498915,"Open source, experimental, and tiny tools roundup",story,https://tinytools.directory/,,tinytools.directory
-Austin_Conlon,18,26824683,57,1618512737,Amazon pauses vesting when you’re on medical or parental leave,story,https://twitter.com/quinnypig/status/1382705991188381697,,twitter.com
-lsllc,13,26821018,30,1618497278,Risk of rare blood clotting higher for Covid-19 than for vaccines,story,https://www.ox.ac.uk/news/2021-04-15-risk-rare-blood-clotting-higher-covid-19-vaccines,,ox.ac.uk
+paulpauper,131,26832636,192,1618573153,A top audio engineer explains NPR’s signature sound (2015),story,https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/,,current.org
+pseudolus,172,26832589,209,1618572843,'Whitest ever' paint reflects 98% of sunlight,story,https://www.bbc.com/news/science-environment-56749105,,bbc.com
+glotgizmo,1,26832621,20,1618573031,'Whitest ever' paint reflects 98% of sunlight,story,https://www.bbc.co.uk/news/science-environment-56749105,,bbc.co.uk
+zhte415,59,26816964,68,1618469888,Out of thin air: the mystery of the man who fell from the sky,story,https://www.theguardian.com/world/2021/apr/15/man-who-fell-from-the-sky-airplane-stowaway-kenya-london,,theguardian.com
+feross,25,26821306,251,1618498915,"Open source, experimental, and tiny tools roundup",story,https://tinytools.directory/,,tinytools.directory
+bko,0,26834180,27,1618582668,Where did the $12T of Covid spending go? Part 5: USD as global reserve currency,story,https://mleverything.substack.com/p/where-did-the-12-trillion-of-covid-014,,mleverything.substack.com
+Austin_Conlon,18,26824683,58,1618512737,Amazon pauses vesting when you’re on medical or parental leave,story,https://twitter.com/quinnypig/status/1382705991188381697,,twitter.com
 osivertsson,192,26806250,133,1618404146,EU Commission to end AstraZeneca and J&J vaccine contracts at expiry,story,https://www.reuters.com/article/reutersComService_2_MOLT/idUSKBN2C10MU,,reuters.com
+lsllc,13,26821018,30,1618497278,Risk of rare blood clotting higher for Covid-19 than for vaccines,story,https://www.ox.ac.uk/news/2021-04-15-risk-rare-blood-clotting-higher-covid-19-vaccines,,ox.ac.uk
 8bitsrule,7,26829538,13,1618548002,Whitest paint ever reflects 98 per cent of light and could cool homes,story,https://www.newscientist.com/article/2274809-whitest-paint-ever-reflects-98-per-cent-of-light-and-could-cool-homes/,,newscientist.com
-curmudgeon22,2,26821880,31,1618501520,"Mexico’s War on Obesity Sends Global Junk-Food, Sugary-Drink Giants Scrambling",story,https://wolfstreet.com/2021/04/13/mexicos-war-on-obesity-sends-global-junk-food-sugary-drink-giants-scrambling/,,wolfstreet.com
+curmudgeon22,4,26821880,31,1618501520,"Mexico’s War on Obesity Sends Global Junk-Food, Sugary-Drink Giants Scrambling",story,https://wolfstreet.com/2021/04/13/mexicos-war-on-obesity-sends-global-junk-food-sugary-drink-giants-scrambling/,,wolfstreet.com
 reddotX,309,26805369,177,1618397934,Denmark to permanently cease using AstraZeneca vaccine,story,https://www.reuters.com/article/idUSKBN2C118T,,reuters.com
+herogreen,0,26824616,11,1618512461,BPA-like chemicals likely causing “alarming” damage to brain cells,story,https://newatlas.com/science/bpa-chemicals-plasticizers-damage-brain-cells/,,newatlas.com
 evo_9,7,26813980,18,1618439938,Vitamin D for Preventing Covid: Hype or Hope?: Shots – Health News,story,https://www.npr.org/sections/health-shots/2021/04/14/985863133/a-year-in-heres-what-we-know-about-vitamin-d-for-preventing-covid,,npr.org
 awb,2,26813961,23,1618439829,Mystery of Who Cracked the San Bernardino Shooter's iPhone for the FBI Solved,story,https://gizmodo.com/mystery-of-who-cracked-the-san-bernardino-shooters-ipho-1846683814/,,gizmodo.com
 nabla9,4,26826654,13,1618523869,Bill Gates Impeded Global Access to Covid Vaccines,story,https://newrepublic.com/article/162000/bill-gates-impeded-global-access-covid-vaccines,,newrepublic.com
@@ -19,4 +20,3 @@ bmc7505,146,26808991,98,1618416312,The Wolfram Physics Project: A One-Year Updat
 rafaelc,7,26824145,25,1618510264,Pfizer CEO says third Covid vaccine dose likely needed within 12 months,story,https://www.cnbc.com/2021/04/15/pfizer-ceo-says-third-covid-vaccine-dose-likely-needed-within-12-months.html,,cnbc.com
 walterbell,116,26799961,110,1618351617,Previous Covid-19 may cut risk of reinfection 84%,story,https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84,,cidrap.umn.edu
 DanBC,58,26799016,66,1618346686,Suicide trends in the early months of the Covid-19 pandemic,story,https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext,,thelancet.com
-dredmorbius,0,26799715,20,1618350121,Elite philanthropy created vaccine apartheid,story,https://pluralistic.net/2021/04/13/public-interest-pharma/#gates-foundation,,pluralistic.net
