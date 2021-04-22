@@ -1,27 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-p1necone,30,26901070,139,1619087115,Software Engineering Body of Knowledge,story,https://www.computer.org/education/bodies-of-knowledge/software-engineering,,computer.org
-axtonpitt,19,26900366,80,1619081202,Show HN: Litmaps – Visual Research Discovery Tool,story,https://app.litmaps.co,,app.litmaps.co
-hoffmannesque,66,26900347,44,1619080956,Waking Up During Surgery (2019),story,https://mosaicscience.com/story/anaesthesia-anesthesia-awake-awareness-surgery-operation-or-paralysed/,,mosaicscience.com
-guerrilla,26,26899109,64,1619069730,MEPs call for European AI rules to ban biometric surveillance in public,story,https://www.yahoo.com/news/meps-call-european-ai-rules-201215526.html,,yahoo.com
-theafh,13,26890244,109,1619015991,DNA of giant ‘corpse flower’ parasite surprises biologists,story,https://www.quantamagazine.org/dna-of-giant-corpse-flower-parasite-surprises-biologists-20210421/,,quantamagazine.org
-timonbimon,109,26860743,139,1618824833,On the bare necessity of psychological safety,story,https://medium.com/luminovo/on-the-bare-necessity-of-psychological-safety-bdb34e311b8c,,medium.com
-elsewhen,208,26876195,206,1618933561,mRNA vaccines – a new era in vaccinology (2018),story,https://www.nature.com/articles/nrd.2017.243,,nature.com
-thinkingemote,13,26893268,45,1619028332,Smoking and Covid-19 Again,story,https://velvetgloveironfist.blogspot.com/2021/04/smoking-and-covid-19-again.html,,velvetgloveironfist.blogspot.com
+p1necone,55,26901070,210,1619087115,Software Engineering Body of Knowledge,story,https://www.computer.org/education/bodies-of-knowledge/software-engineering,,computer.org
+axtonpitt,27,26900366,104,1619081202,Show HN: Litmaps – Visual Research Discovery Tool,story,https://app.litmaps.co,,app.litmaps.co
+open-source-ux,9,26905868,18,1619114766,Finding the UK’s dominant Covid-19 variant and the race to understand its impact,story,https://publichealthmatters.blog.gov.uk/2021/04/22/disease-detectives-finding-the-uks-dominant-covid-19-variant-and-the-race-to-understand-its-impact/,,publichealthmatters.blog.gov.uk
+hoffmannesque,94,26900347,66,1619080956,Waking Up During Surgery (2019),story,https://mosaicscience.com/story/anaesthesia-anesthesia-awake-awareness-surgery-operation-or-paralysed/,,mosaicscience.com
+guerrilla,27,26899109,69,1619069730,MEPs call for European AI rules to ban biometric surveillance in public,story,https://www.yahoo.com/news/meps-call-european-ai-rules-201215526.html,,yahoo.com
+theafh,14,26890244,114,1619015991,DNA of giant ‘corpse flower’ parasite surprises biologists,story,https://www.quantamagazine.org/dna-of-giant-corpse-flower-parasite-surprises-biologists-20210421/,,quantamagazine.org
+dfine,101,26905259,60,1619111848,"Vaccine Hesitancy for Covid-19: State, County, and Local Estimates",story,https://aspe.hhs.gov/pdf-report/vaccine-hesitancy,,aspe.hhs.gov
+thinkingemote,13,26893268,46,1619028332,Smoking and Covid-19 Again,story,https://velvetgloveironfist.blogspot.com/2021/04/smoking-and-covid-19-again.html,,velvetgloveironfist.blogspot.com
 miles,21,26893078,37,1619027494,Tinnitus reports grow amid Covid-19 vaccinations,story,https://www.drugdiscoverytrends.com/tinnitus-reports-grow-amid-covid-19-vaccinations/,,drugdiscoverytrends.com
-bwb,149,26871660,303,1618903158,"Show HN: Shepherd.com – Discover books in a new way, like wandering a bookstore",story,https://shepherd.com/,,shepherd.com
-weinzierl,196,26860150,410,1618819378,Large-Scale Abuse of Contact Discovery in Mobile Messengers [pdf],story,https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf,,ndss-symposium.org
-gablusky,125,26898889,87,1619067405,India's massive COVID surge puzzles scientists,story,https://www.nature.com/articles/d41586-021-01059-y,,nature.com
-harperlee,84,26860627,221,1618823809,Deriving the piano keyboard from biological principles using clustering,story,https://fiftysevendegreesofrad.github.io/JupyterNotes/piano.html,,fiftysevendegreesofrad.github.io
-tndl,57,26858935,200,1618803619,Job board to work on problems like climate change and food insecurity,story,https://goodjobs.careers/,,goodjobs.careers
-febin,13,26898823,13,1619066642,"Ask HN: What books, courses, practices helped your mental health last year?",story,,,
-NN88,2,26870592,18,1618892031,Most artists are not making money off NFTs and here are some graphs to prove it,story,https://thatkimparker.medium.com/most-artists-are-not-making-money-off-nfts-and-here-are-some-graphs-to-prove-it-c65718d4a1b8,,thatkimparker.medium.com
-isomorph,167,26863490,185,1618844603,"The terrifyingly prescient ‘Serial Experiments Lain,’ 20 years later (2018)",story,https://www.theringer.com/tv/2018/7/9/17544220/serial-experiments-lain-anime-20-years,,theringer.com
-pseudolus,83,26867366,121,1618862782,Born secret – the heavy burden of bomb physics,story,https://www.nature.com/articles/d41586-021-01024-9,,nature.com
-reddotX,102,26899652,39,1619074853,EU preparing legal case against AstraZeneca over vaccine shortfalls,story,https://www.politico.eu/article/eu-preparing-legal-case-against-astrazeneca-over-vaccine-shortfalls/,,politico.eu
+jbredeche,65,26894572,28,1619034784,Amazon is bringing palm-scanning payment system to Whole Foods stores,story,https://www.cnbc.com/2021/04/21/amazon-whole-foods-getting-palm-scanning-payment-system.html,,cnbc.com
+gablusky,134,26898889,89,1619067405,India's massive COVID surge puzzles scientists,story,https://www.nature.com/articles/d41586-021-01059-y,,nature.com
+febin,13,26898823,17,1619066642,"Ask HN: What books, courses, practices helped your mental health last year?",story,,,
 vanilla-almond,1,26889853,23,1619013937,COVID in India: A devastating second wave is eclipsing global records,story,https://twitter.com/jburnmurdoch/status/1384782949879517185,,twitter.com
-juxhindb,6,26851708,52,1618746951,Rediscovering Hamming Code,story,https://blog.digital-horror.com/rediscovering-hamming-code/,,digital-horror.com
-Hooke,2,26840644,21,1618620248,Poetry in the Abstract: What happens when scientists write haiku?,story,https://theamericanscholar.org/poetry-in-the-abstract/,,theamericanscholar.org
-wideareanetwork,468,26850913,323,1618736370,"Ask HN: I bought Voltaren at the chemist, now Google shows me ads for it. Why?",story,,How does google know I bought Voltaren?<p>Is my bank purchase history shared with google somehow?<p>I guess it could just be coincidence?,
-giuliomagnifico,64,26891757,38,1619022275,Fitted Filtration Efficiency of Double Masking During the COVID-19 Pandemic,story,https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2778913,,jamanetwork.com
-atum47,12,26849194,20,1618711581,Show HN: Pixel Physics,story,https://victorribeiro.com/pixelPhysics/,,victorribeiro.com
-gainof-function,14,26859026,41,1618805378,Ten scientific reasons in support of airborne transmission of SARS-CoV-2,story,https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext,,thelancet.com
+reddotX,104,26899652,39,1619074853,EU preparing legal case against AstraZeneca over vaccine shortfalls,story,https://www.politico.eu/article/eu-preparing-legal-case-against-astrazeneca-over-vaccine-shortfalls/,,politico.eu
+giuliomagnifico,65,26891757,38,1619022275,Fitted Filtration Efficiency of Double Masking During the COVID-19 Pandemic,story,https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2778913,,jamanetwork.com
+elorant,12,26889066,14,1619010033,"Facebook Said It’d Stop Covid Anti-Vaxxers, but It’s Letting Them Run Wild",story,https://www.vice.com/en/article/y3dz5w/facebook-is-failing-miserably-at-stopping-covid-conspiracy-teh,,vice.com
+elorant,61,26880210,99,1618947188,Suicide rates are rising among U.S. nurses,story,https://resetyoureveryday.com/suicide-rates-are-rising-among-u-s-nurses-finds-new-study/,,resetyoureveryday.com
+dsisson,48,26884254,36,1618967569,Augmented reality will exacerbate our unhealthy relationship with technology,story,https://www.danielsisson.com/articles/augmented-reality-will-be-awful,,danielsisson.com
