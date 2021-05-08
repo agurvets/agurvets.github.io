@@ -1,21 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-achou,112,27065938,85,1620319561,Researchers chart path to drastically lower administrative costs of health care,story,http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA,,med.stanford.edu
-chrispai,6,27066345,22,1620321398,Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope,story,https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/,,quantamagazine.org
-airstrike,35,27062477,75,1620305746,Persuading the Body to Regenerate Its Limbs,story,https://www.newyorker.com/magazine/2021/05/10/persuading-the-body-to-regenerate-its-limbs,,newyorker.com
-goerz,55,27051468,377,1620229853,Orbit: an experimental platform for small tasks repeated over time,story,https://github.com/andymatuschak/orbit,,github.com
-mattkohl,152,27059935,134,1620283914,Covid: US backs waiver on vaccine intellectual property,story,https://www.bbc.co.uk/news/world-us-canada-57004302,,bbc.co.uk
-laurex,53,27053836,32,1620239557,Are we screening too much for skin cancer? It's complicated,story,https://undark.org/2021/01/25/debate-over-melanoma-diagnosis/,,undark.org
-aluket,288,27047148,314,1620199766,Doctors investigate mystery brain disease in Canada,story,https://www.bbc.com/news/world-us-canada-56910393,,bbc.com
+stefanv,1,27061405,32,1620298540,Whole body regeneration in marine life,story,https://pubmed.ncbi.nlm.nih.gov/33937252/,,pubmed.ncbi.nlm.nih.gov
+clumsysmurf,8,27080535,25,1620419461,European food safety panel reclassifies titanium dioxide food additive as unsafe,story,https://newatlas.com/health-wellbeing/european-food-safety-panel-e171-unsafe/,,newatlas.com
+dataflow,489,27071432,434,1620355367,The origin of Covid: Did people or nature open Pandora’s box?,story,https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/,,thebulletin.org
+airstrike,68,27062477,133,1620305746,Persuading the Body to Regenerate Its Limbs,story,https://www.newyorker.com/magazine/2021/05/10/persuading-the-body-to-regenerate-its-limbs,,newyorker.com
+goerz,56,27051468,384,1620229853,Orbit: an experimental platform for small tasks repeated over time,story,https://github.com/andymatuschak/orbit,,github.com
+achou,212,27065938,136,1620319561,Researchers chart path to drastically lower administrative costs of health care,story,http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA,,med.stanford.edu
+chrispai,46,27066345,84,1620321398,Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope,story,https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/,,quantamagazine.org
+aluket,299,27047148,314,1620199766,Doctors investigate mystery brain disease in Canada,story,https://www.bbc.com/news/world-us-canada-56910393,,bbc.com
+laurex,63,27053836,34,1620239557,Are we screening too much for skin cancer? It's complicated,story,https://undark.org/2021/01/25/debate-over-melanoma-diagnosis/,,undark.org
 dnetesn,7,27035966,36,1620124347,When will your elevator arrive? Two physicists do the math,story,https://phys.org/news/2021-05-elevator-physicists-math.html,,phys.org
+mattkohl,168,27059935,136,1620283914,Covid: US backs waiver on vaccine intellectual property,story,https://www.bbc.co.uk/news/world-us-canada-57004302,,bbc.co.uk
 drdee,83,27034144,128,1620103378,A sorceress’ kit was discovered in the ashes of Pompeii (2019),story,https://www.smithsonianmag.com/smart-news/sorceresss-kit-was-discovered-ashes-pompeii-180972907/,,smithsonianmag.com
-caseyross,0,27057407,16,1620258622,Nature at its craziest: Trillions of cicadas about to emerge,story,https://apnews.com/article/brood-x-cicadas-emerging-c8b67952ac321c8bbbfb62af48efebf0,,apnews.com
+dberhane,6,27067102,15,1620324626,"Covid-19: Sputnik vaccine rockets, thanks to Lancet boost",story,https://www.bmj.com/content/373/bmj.n1108,,bmj.com
 eciffo,53,27033751,90,1620098727,A blood test may help the diagnosis and treatment of depression,story,https://www.economist.com/science-and-technology/2021/05/03/a-blood-test-may-help-the-diagnosis-and-treatment-of-depression,,economist.com
-ethanpil,6,27059007,18,1620273288,US declares support for patent waiver on Covid-19 vaccines,story,https://www.theguardian.com/world/2021/may/05/us-declares-support-for-patent-waiver-on-covid-19-vaccines,,theguardian.com
-benkuhn,1,27054194,12,1620241346,Greg Packer has been quoted in hundreds of articles as a “man on the street”,story,https://en.wikipedia.org/wiki/Greg_Packer,,en.wikipedia.org
-walterbell,64,27029534,51,1620069736,"In Singapore, Covid vs. privacy is no contest",story,https://www.lowyinstitute.org/the-interpreter/singapore-covid-vs-privacy-no-contest,,lowyinstitute.org
-seriousquestion,41,27037838,48,1620137859,"For some, diligence against Covid-19 remains an expression of political identity",story,https://www.theatlantic.com/politics/archive/2021/05/liberals-covid-19-science-denial-lockdown/618780/,,theatlantic.com
-haddadda,2,27034128,11,1620103219,Show HN: I built Camino – like Credit Karma for your health,story,http://caminohealthapp.com,,caminohealthapp.com
-kvee,126,27035457,112,1620119183,"Teens, tech and mental health: Oxford study finds no link",story,https://www.bbc.com/news/technology-56970368,,bbc.com
-oli5679,1,27056327,12,1620251666,The origin of Covid: Did people or nature open Pandora’s box at Wuhan?,story,https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/,,thebulletin.org
-nnx,46,27037096,69,1620133342,"No ID, no vaccines for Indonesia’s invisible people",story,https://restofworld.org/2021/indonesias-invisible-people-face-discrimination-and-sometimes-death-by-database/,,restofworld.org
-todd8,7,27034382,18,1620106761,Looks like the EM drive is officially dead – experiments fail,story,https://www.youtube.com/watch?v=ZKDeIu13sSI,,youtube.com
+Tomte,1,27065854,11,1620319229,Scientists Want You to Lucid Dream (2019),story,https://medium.com/s/reasonable-doubt/scientists-want-you-to-lucid-dream-7d76eb3f0858,,medium.com
+caseyross,0,27057407,17,1620258622,Nature at its craziest: Trillions of cicadas about to emerge,story,https://apnews.com/article/brood-x-cicadas-emerging-c8b67952ac321c8bbbfb62af48efebf0,,apnews.com
