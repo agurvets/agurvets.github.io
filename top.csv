@@ -1,17 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-stefanv,2,27061405,57,1620298540,Whole body regeneration in marine life,story,https://pubmed.ncbi.nlm.nih.gov/33937252/,,pubmed.ncbi.nlm.nih.gov
-dataflow,505,27071432,446,1620355367,The origin of Covid: Did people or nature open Pandora’s box?,story,https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/,,thebulletin.org
-underscore_ku,3,27085102,15,1620462584,"European leaders urge U.S., Britain to match EU generosity on vaccine exports",story,https://www.euronews.com/2021/05/07/european-leaders-urge-u-s-britain-to-match-eu-generosity-on-vaccine-exports,,euronews.com
-clumsysmurf,10,27080535,26,1620419461,European food safety panel reclassifies titanium dioxide food additive as unsafe,story,https://newatlas.com/health-wellbeing/european-food-safety-panel-e171-unsafe/,,newatlas.com
-goerz,56,27051468,385,1620229853,Orbit: an experimental platform for small tasks repeated over time,story,https://github.com/andymatuschak/orbit,,github.com
-airstrike,69,27062477,134,1620305746,Persuading the Body to Regenerate Its Limbs,story,https://www.newyorker.com/magazine/2021/05/10/persuading-the-body-to-regenerate-its-limbs,,newyorker.com
-aluket,301,27047148,315,1620199766,Doctors investigate mystery brain disease in Canada,story,https://www.bbc.com/news/world-us-canada-56910393,,bbc.com
+stefanv,2,27061405,59,1620298540,Whole body regeneration in marine life,story,https://pubmed.ncbi.nlm.nih.gov/33937252/,,pubmed.ncbi.nlm.nih.gov
+itbeho,14,27088077,35,1620488187,Medical errors now third leading cause of death in United States (2016),story,https://www.washingtonpost.com/news/to-your-health/wp/2016/05/03/researchers-medical-errors-now-third-leading-cause-of-death-in-united-states/,,washingtonpost.com
+dataflow,518,27071432,449,1620355367,The origin of Covid: Did people or nature open Pandora’s box?,story,https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/,,thebulletin.org
+airstrike,69,27062477,135,1620305746,Persuading the Body to Regenerate Its Limbs,story,https://www.newyorker.com/magazine/2021/05/10/persuading-the-body-to-regenerate-its-limbs,,newyorker.com
+clumsysmurf,11,27080535,28,1620419461,European food safety panel reclassifies titanium dioxide food additive as unsafe,story,https://newatlas.com/health-wellbeing/european-food-safety-panel-e171-unsafe/,,newatlas.com
 achou,212,27065938,137,1620319561,Researchers chart path to drastically lower administrative costs of health care,story,http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA,,med.stanford.edu
 chrispai,46,27066345,84,1620321398,Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope,story,https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/,,quantamagazine.org
-fortran77,1,27083607,15,1620445332,Why Did It Take So Long to Accept the Facts About Covid?,story,https://www.nytimes.com/2021/05/07/opinion/coronavirus-airborne-transmission.html,,nytimes.com
-laurex,64,27053836,34,1620239557,Are we screening too much for skin cancer? It's complicated,story,https://undark.org/2021/01/25/debate-over-melanoma-diagnosis/,,undark.org
-dnetesn,7,27035966,36,1620124347,When will your elevator arrive? Two physicists do the math,story,https://phys.org/news/2021-05-elevator-physicists-math.html,,phys.org
-drdee,83,27034144,128,1620103378,A sorceress’ kit was discovered in the ashes of Pompeii (2019),story,https://www.smithsonianmag.com/smart-news/sorceresss-kit-was-discovered-ashes-pompeii-180972907/,,smithsonianmag.com
+underscore_ku,3,27085102,16,1620462584,"European leaders urge U.S., Britain to match EU generosity on vaccine exports",story,https://www.euronews.com/2021/05/07/european-leaders-urge-u-s-britain-to-match-eu-generosity-on-vaccine-exports,,euronews.com
 mattkohl,169,27059935,136,1620283914,Covid: US backs waiver on vaccine intellectual property,story,https://www.bbc.co.uk/news/world-us-canada-57004302,,bbc.co.uk
-eciffo,53,27033751,90,1620098727,A blood test may help the diagnosis and treatment of depression,story,https://www.economist.com/science-and-technology/2021/05/03/a-blood-test-may-help-the-diagnosis-and-treatment-of-depression,,economist.com
 dberhane,6,27067102,15,1620324626,"Covid-19: Sputnik vaccine rockets, thanks to Lancet boost",story,https://www.bmj.com/content/373/bmj.n1108,,bmj.com
+fortran77,1,27083607,18,1620445332,Why Did It Take So Long to Accept the Facts About Covid?,story,https://www.nytimes.com/2021/05/07/opinion/coronavirus-airborne-transmission.html,,nytimes.com
+caseyross,0,27057407,17,1620258622,Nature at its craziest: Trillions of cicadas about to emerge,story,https://apnews.com/article/brood-x-cicadas-emerging-c8b67952ac321c8bbbfb62af48efebf0,,apnews.com
+Tomte,1,27065854,11,1620319229,Scientists Want You to Lucid Dream (2019),story,https://medium.com/s/reasonable-doubt/scientists-want-you-to-lucid-dream-7d76eb3f0858,,medium.com
+ethanpil,7,27059007,18,1620273288,US declares support for patent waiver on Covid-19 vaccines,story,https://www.theguardian.com/world/2021/may/05/us-declares-support-for-patent-waiver-on-covid-19-vaccines,,theguardian.com
