@@ -1,39 +1,35 @@
 by,descendants,id,score,time,title,type,url,text,domain
-pseudolus,25,27164171,19,1621076674,Was cancer less likely in a pre-industrial world?,story,https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world,,nationalgeographic.com
-kzrdude,39,27153198,87,1620992974,Nobel archives reveal judges’ safety fears for Aleksandr Solzhenitsyn,story,https://www.theguardian.com/books/2021/may/14/nobel-archives-reveal-judges-safety-fears-for-aleksandr-solzhenitsyn,,theguardian.com
-gmays,21,27158566,49,1621019877,Study in zebrafish examines how tumors alter whole-body metabolism,story,https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/,,source.wustl.edu
-pabs3,1,27161139,21,1621038594,BlueHydra – Bluetooth device discovery service,story,https://github.com/pwnieexpress/blue_hydra,,github.com
-throwkeep,199,27156859,289,1621012647,Delaying a Covid vaccine’s second dose boosts immune response,story,https://www.nature.com/articles/d41586-021-01299-y,,nature.com
-AndrewBissell,25,27158489,71,1621019479,Setting the record straight: There is no 'Covid heart',story,https://www.statnews.com/2021/05/14/setting-the-record-straight-there-is-no-covid-heart/,,statnews.com
-dsr12,835,27145275,300,1620929243,"Vaccinated Americans now may go without masks in most places, the CDC said",story,https://www.nytimes.com/2021/05/13/health/cdc-masks-guidance.html,,nytimes.com
-edward,134,27151407,141,1620974179,A paradigm shift to combat indoor respiratory infection,story,https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view,,drive.google.com
-Ice_cream_suit,3,27162982,12,1621060773,Irish health service shuts down after ‘sophisticated’ ransomware attack,story,https://www.cnbc.com/2021/05/14/irish-health-service-hit-by-sophisticated-ransomware-attack.html,,cnbc.com
+pseudolus,141,27164171,109,1621076674,Was cancer less likely in a pre-industrial world?,story,https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world,,nationalgeographic.com
+jeffbee,148,27165307,169,1621087174,"ML model can classify sex from retinal photograph, clinicians can't",story,https://rdcu.be/ckFPK,,rdcu.be
+kzrdude,83,27153198,130,1620992974,Nobel archives reveal judges’ safety fears for Aleksandr Solzhenitsyn,story,https://www.theguardian.com/books/2021/may/14/nobel-archives-reveal-judges-safety-fears-for-aleksandr-solzhenitsyn,,theguardian.com
+throwkeep,209,27156859,306,1621012647,Delaying a Covid vaccine’s second dose boosts immune response,story,https://www.nature.com/articles/d41586-021-01299-y,,nature.com
+dsr12,860,27145275,304,1620929243,"Vaccinated Americans now may go without masks in most places, the CDC said",story,https://www.nytimes.com/2021/05/13/health/cdc-masks-guidance.html,,nytimes.com
+edward,136,27151407,144,1620974179,A paradigm shift to combat indoor respiratory infection,story,https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view,,drive.google.com
+pabs3,1,27161139,23,1621038594,BlueHydra – Bluetooth device discovery service,story,https://github.com/pwnieexpress/blue_hydra,,github.com
+gmays,23,27158566,51,1621019877,Study in zebrafish examines how tumors alter whole-body metabolism,story,https://source.wustl.edu/2021/05/cancer-has-ripple-effect-on-distant-tissues/,,source.wustl.edu
+AndrewBissell,26,27158489,72,1621019479,Setting the record straight: There is no 'Covid heart',story,https://www.statnews.com/2021/05/14/setting-the-record-straight-there-is-no-covid-heart/,,statnews.com
 MrUssek,104,27144764,183,1620926787,Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?,story,https://stefanzukin.com/enigma/,,stefanzukin.com
-kjakm,147,27152402,148,1620984390,Irish health service hit by cyber attack,story,https://www.bbc.co.uk/news/world-europe-57111615,,bbc.co.uk
+kjakm,148,27152402,148,1620984390,Irish health service hit by cyber attack,story,https://www.bbc.co.uk/news/world-europe-57111615,,bbc.co.uk
 samizdis,3,27140114,42,1620897159,"Letter reveals Einstein's thinking on bees, birds and physics",story,https://phys.org/news/2021-05-previously-unknown-letter-reveals-einstein.html,,phys.org
-asymmetric,106,27139371,246,1620890914,Study finds alarming levels of ‘forever chemicals’ in US mothers’ breast milk,story,https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study,,theguardian.com
-breck,68,27136775,126,1620864534,WHO List of Essential Medicines,story,https://list.essentialmeds.org/,,list.essentialmeds.org
-AndrewBissell,3,27159274,24,1621023769,"As opioid epidemic raged, drug company executives made fun of West Virginians",story,https://mountainstatespotlight.org/2021/05/13/opioid-company-executives-made-fun-of-west-virginians/,,mountainstatespotlight.org
-vedangsati,359,27140647,324,1620902591,Movies every physics lover should watch (2020),story,https://www.wondersofphysics.com/2020/04/best-physics-movies.html,,wondersofphysics.com
-hamilyon2,29,27134429,131,1620849394,Air Pollution Linked to Increased Mental Health Outpatient Visits,story,https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/,,medicine.yale.edu
-souradip,70,27146975,90,1620937603,A new era of personalised medicine: or how I got myself sequenced for free,story,https://souradip.mookerj.ee/blog/free-sequencing,,souradip.mookerj.ee
-clairity,86,27148435,71,1620945906,"Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts",story,https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce,,latimes.com
-BigBalli,5,27149860,39,1620958160,Research: Just 12 People Are Behind Most Vaccine Hoaxes on Social Media,story,https://www.npr.org/2021/05/13/996570855/disinformation-dozen-test-facebooks-twitters-ability-to-curb-vaccine-hoaxes,,npr.org
+asymmetric,107,27139371,248,1620890914,Study finds alarming levels of ‘forever chemicals’ in US mothers’ breast milk,story,https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study,,theguardian.com
+breck,68,27136775,127,1620864534,WHO List of Essential Medicines,story,https://list.essentialmeds.org/,,list.essentialmeds.org
+Ice_cream_suit,3,27162982,13,1621060773,Irish health service shuts down after ‘sophisticated’ ransomware attack,story,https://www.cnbc.com/2021/05/14/irish-health-service-hit-by-sophisticated-ransomware-attack.html,,cnbc.com
+hamilyon2,29,27134429,132,1620849394,Air Pollution Linked to Increased Mental Health Outpatient Visits,story,https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/,,medicine.yale.edu
+vedangsati,361,27140647,326,1620902591,Movies every physics lover should watch (2020),story,https://www.wondersofphysics.com/2020/04/best-physics-movies.html,,wondersofphysics.com
+souradip,71,27146975,90,1620937603,A new era of personalised medicine: or how I got myself sequenced for free,story,https://souradip.mookerj.ee/blog/free-sequencing,,souradip.mookerj.ee
+cwwc,48,27167668,78,1621103399,The Covid lab-leak theory goes mainstream,story,https://www.axios.com/coronavirus-lab-leak-conspiracy-theory-research-fa0b8315-1406-45b9-b63b-1c6c4407f7bd.html,,axios.com
+AndrewBissell,3,27159274,25,1621023769,"As opioid epidemic raged, drug company executives made fun of West Virginians",story,https://mountainstatespotlight.org/2021/05/13/opioid-company-executives-made-fun-of-west-virginians/,,mountainstatespotlight.org
 nsoonhui,8,27140443,73,1620900440,Scientists Catch Jumping Genes Rewiring Genomes,story,https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/,,quantamagazine.org
+clairity,86,27148435,72,1620945906,"Microfarms come to South L.A. frontyards, bringing fresh produce to food deserts",story,https://www.latimes.com/california/story/2021-05-13/asante-microfarms-jamiah-hargins-south-la-fresh-food-produce,,latimes.com
+BigBalli,6,27149860,41,1620958160,Research: Just 12 People Are Behind Most Vaccine Hoaxes on Social Media,story,https://www.npr.org/2021/05/13/996570855/disinformation-dozen-test-facebooks-twitters-ability-to-curb-vaccine-hoaxes,,npr.org
 curmudgeon22,0,27144644,18,1620926116,Immune System Evolves to Fight Coronavirus Variants,story,https://www.scientificamerican.com/article/your-immune-system-evolves-to-fight-coronavirus-variants/,,scientificamerican.com
+ArkanExplorer,4,27139861,41,1620895152,Chemical giants hid dangers of ‘forever chemicals’ in food packaging,story,https://www.theguardian.com/environment/2021/may/12/chemical-giants-hid-dangers-pfas-forever-chemicals-food-packaging-dupont,,theguardian.com
 colinscape,7,27151924,16,1620979673,US officials confirm 130 incidents of mysterious Havana syndrome brain injury,story,https://www.theguardian.com/us-news/2021/may/13/havana-syndrome-brain-injury-130-incidents,,theguardian.com
-ArkanExplorer,4,27139861,40,1620895152,Chemical giants hid dangers of ‘forever chemicals’ in food packaging,story,https://www.theguardian.com/environment/2021/may/12/chemical-giants-hid-dangers-pfas-forever-chemicals-food-packaging-dupont,,theguardian.com
-superjan,12,27128760,44,1620816215,Why Covid-19 patients become critically ill,story,https://www.amsterdamumc.org/research/news/why-corona-patients-become-critically-ill-.htm,,amsterdamumc.org
+superjan,13,27128760,45,1620816215,Why Covid-19 patients become critically ill,story,https://www.amsterdamumc.org/research/news/why-corona-patients-become-critically-ill-.htm,,amsterdamumc.org
 rrauenza,0,27146986,14,1620937650,A neuroscientist who lost her mind says it can happen to anyone – Quartz,story,https://qz.com/1423416/a-neuroscientist-who-lost-her-mind-explains-the-brain/,,qz.com
-omnibrain,6,27151905,25,1620979447,The 60-Year-Old Scientific Screwup That Helped Covid Kill,story,https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/,,wired.com
-throwkeep,3,27148781,30,1620948413,Investigate the Origins of Covid-19,story,https://science.sciencemag.org/content/372/6543/694.1,,science.sciencemag.org
 anigbrowl,7,27136404,19,1620861587,"Facebook moderator describes 'awful' content, told to try 'karaoke or painting'",story,https://thehill.com/policy/technology/553244-facebook-moderator-describes-awful-content-told-to-try-karaoke-or-painting,,thehill.com
+mrfusion,1,27161573,12,1621043649,"Use of fear to control behaviour in Covid was ‘totalitarian’, admit scientists",story,https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid/,,telegraph.co.uk
+throwkeep,3,27148781,31,1620948413,Investigate the Origins of Covid-19,story,https://science.sciencemag.org/content/372/6543/694.1,,science.sciencemag.org
+omnibrain,6,27151905,27,1620979447,The 60-Year-Old Scientific Screwup That Helped Covid Kill,story,https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/,,wired.com
 bryanrasmussen,1,27138542,13,1620881545,How the Personal Computer Broke the Human Body,story,https://www.vice.com/en/article/y3dda7/how-the-personal-computer-broke-the-human-body,,vice.com
 samatman,1,27148232,12,1620944491,Medical Consensus on Aerosol Transmission Was Wrong for Decades,story,https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/,,wired.com
-julienchastang,0,27146671,19,1620936150,Scientists Call for Deeper Investigation into Covid-19 Origin,story,https://www.wsj.com/articles/scientists-call-for-deeper-investigation-into-covid-19-origin-11620928801,,wsj.com
-laurex,78,27145171,59,1620928822,Ohio Lottery to Give 5 People $1M Each to Encourage Vaccination,story,https://www.nytimes.com/2021/05/12/us/ohio-lottery-coronavirus-vaccine.html,,nytimes.com
-_Microft,7,27135008,29,1620852606,"Ethereum Creator, Vitalik Buterin, Donates over $1B to India Covid Relief",story,https://www.thestreet.com/crypto/ethereum/vitalik-buterin-gives-1-billion-to-india-covid-relief-after-memecoin-selloff,,thestreet.com
-disabled,159,27138146,123,1620877477,"Covid-19 Was 'A Preventable Disaster,' WHO-Ordered Report Says",story,https://www.wbur.org/npr/996284927/covid-19-was-a-preventable-disaster-who-ordered-report-states,,wbur.org
-smohnot,1,27135361,11,1620854990,Vitalik Donates $1B of $SHIB and $Akita Tokens to India Covid Relief,story,https://twitter.com/CryptoMichNL/status/1392551836318588941,,twitter.com
-sampo,1,27130291,14,1620827434,Why Covid's Airborne Transmission Was Acknowledged So Late,story,https://www.nytimes.com/2021/05/07/opinion/coronavirus-airborne-transmission.html,,nytimes.com
-80mph,82,27135669,46,1620856816,Texas lawmakers approve bill banning 'meat' & 'beef' on plant-based food labels,story,https://thehill.com/homenews/state-watch/552805-texas-lawmakers-approve-bill-banning-meat-and-beef-from-labels-of-plant,,thehill.com
