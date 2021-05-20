@@ -1,24 +1,20 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Engineering-MD,22,27193602,62,1621339892,"From apes to birds, there are 65 animal species that “laugh”",story,https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/,,arstechnica.com
-yarapavan,32,27205724,124,1621410268,Advice for Young Scientists–and Curious People in General,story,https://fs.blog/2021/05/advice-for-young-scientists/,,fs.blog
-ColinWright,140,27192685,589,1621330047,AMP pages no longer get preferential treatment in Google search,story,https://plausible.io/blog/google-amp,,plausible.io
-adrian_mrd,237,27205726,201,1621410272,How corporations buy and food made with prison labor,story,https://thecounter.org/how-corporations-buy-and-sell-food-made-with-prison-labor/,,thecounter.org
-andrewl,56,27208370,43,1621431425,Junk – Mark Bittman’s History of Why We Eat Bad Food,story,https://www.thenation.com/article/society/mark-bittman-animal-vegetable-junk/,,thenation.com
-BerislavLopac,0,27208662,15,1621432584,UK Government Wants to Sell Your Medical Records – Here’s How to Opt-Out,story,https://bylinetimes.com/2021/05/19/the-government-wants-to-sell-your-gp-medical-records-heres-how-to-opt-out/,,bylinetimes.com
-tareqak,210,27202570,370,1621379946,"Researchers, lawmakers want Facebook's mental health research",story,https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree,,npr.org
-pessimizer,400,27186436,527,1621275819,A police dog who cried drugs at every traffic stop,story,https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/,,reason.com
-tuxxy,26,27193492,57,1621338854,The 1788 Doctors' Riot,story,https://en.wikipedia.org/wiki/1788_doctors%27_riot,,en.wikipedia.org
-avibu,77,27192055,143,1621322692,Nearly 200K Medical Records of US Military Veterans Leaked,story,https://securethoughts.com/us-military-veterans-medical-data-leakage/,,securethoughts.com
-rblion,139,27205201,124,1621405144,"Last year, more people in San Francisco died of overdoses than of Covid-19",story,https://www.economist.com/united-states/2021/05/15/last-year-more-people-in-san-francisco-died-of-overdoses-than-of-covid-19,,economist.com
+ColinWright,153,27192685,615,1621330047,AMP pages no longer get preferential treatment in Google search,story,https://plausible.io/blog/google-amp,,plausible.io
+Engineering-MD,44,27193602,109,1621339892,"From apes to birds, animal species that “laugh”",story,https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/,,arstechnica.com
+yarapavan,50,27205724,172,1621410268,Advice for young scientists and curious people in general,story,https://fs.blog/2021/05/advice-for-young-scientists/,,fs.blog
+tareqak,216,27202570,376,1621379946,"Researchers, lawmakers want Facebook's mental health research",story,https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree,,npr.org
+lovasoa,68,27206263,33,1621416044,Show HN: How does the French health pass work?,story,https://sanipasse.fr/french-health-pass,,sanipasse.fr
+adrian_mrd,259,27205726,215,1621410272,How corporations buy and food made with prison labor,story,https://thecounter.org/how-corporations-buy-and-sell-food-made-with-prison-labor/,,thecounter.org
+pessimizer,405,27186436,530,1621275819,A police dog who cried drugs at every traffic stop,story,https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/,,reason.com
+BerislavLopac,4,27208662,29,1621432584,UK Government Wants to Sell Your Medical Records – Here’s How to Opt-Out,story,https://bylinetimes.com/2021/05/19/the-government-wants-to-sell-your-gp-medical-records-heres-how-to-opt-out/,,bylinetimes.com
+andrewl,67,27208370,48,1621431425,Junk – Mark Bittman’s History of Why We Eat Bad Food,story,https://www.thenation.com/article/society/mark-bittman-animal-vegetable-junk/,,thenation.com
+tuxxy,28,27193492,57,1621338854,The 1788 Doctors' Riot,story,https://en.wikipedia.org/wiki/1788_doctors%27_riot,,en.wikipedia.org
+avibu,77,27192055,144,1621322692,Nearly 200K Medical Records of US Military Veterans Leaked,story,https://securethoughts.com/us-military-veterans-medical-data-leakage/,,securethoughts.com
 pepys,1,27180238,16,1621228086,The Mysterious Origins of the Cerne Abbas Giant,story,https://www.newyorker.com/magazine/2021/05/24/the-mysterious-origins-of-the-cerne-abbas-giant,,newyorker.com
-shalmanese,101,27183698,151,1621261116,US investigates second suspected case of mystery 'syndrome' near White House,story,https://www.cnn.com/2021/05/17/politics/us-investigates-second-case-mystery-syndrome-white-house/index.html,,cnn.com
+shalmanese,101,27183698,152,1621261116,US investigates second suspected case of mystery 'syndrome' near White House,story,https://www.cnn.com/2021/05/17/politics/us-investigates-second-case-mystery-syndrome-white-house/index.html,,cnn.com
 dricornelius,18,27188394,40,1621285262,Horseshoe crab blood: miracle vaccine ingredient that's saved millions of lives,story,https://www.nhm.ac.uk/discover/horseshoe-crab-blood-miracle-vaccine-ingredient.html,,nhm.ac.uk
+rblion,160,27205201,125,1621405144,"Last year, more people in San Francisco died of overdoses than of Covid-19",story,https://www.economist.com/united-states/2021/05/15/last-year-more-people-in-san-francisco-died-of-overdoses-than-of-covid-19,,economist.com
 emptybits,3,27202076,12,1621376687,The Body’s Most Embarrassing Organ Is an Evolutionary Marvel,story,https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/,,theatlantic.com
 disgrunt,3,27195726,27,1621350786,Texas records zero Covid-19 deaths for first day in over a year,story,https://www.houstonchronicle.com/news/houston-texas/health/article/Texas-records-zero-COVID-19-deaths-for-first-day-16182915.php,,houstonchronicle.com
-AndrewBissell,1,27195743,18,1621350875,The billionaire boom: How the super-rich soaked up Covid cash,story,https://www.ft.com/content/747a76dd-f018-4d0d-a9f3-4069bf2f5a93,,ft.com
 hhs,3,27183592,31,1621260566,AT&T announces $43B deal to merge WarnerMedia with Discovery,story,https://www.cnbc.com/2021/05/17/att-to-combine-warnermedia-and-discovery-assets-to-create-a-new-standalone-company.html,,cnbc.com
-prostoalex,0,27179554,12,1621219042,Largest nurses’ union condemns new CDC guidance on masks,story,https://slate.com/news-and-politics/2021/05/nurses-united-union-condemns-cdc-guidance-masks.html?via=rss,,slate.com
-lovasoa,67,27206263,28,1621416044,Show HN: How does the French health pass work?,story,https://sanipasse.fr/french-health-pass,,sanipasse.fr
-madspindel,2,27176643,16,1621195996,AT&T Is Preparing to Merge Media Assets with Discovery,story,https://www.bloomberg.com/news/articles/2021-05-16/at-t-is-said-in-talks-to-combine-content-assets-with-discovery-kor6r2uj,,bloomberg.com
-nojito,1,27189942,15,1621297216,The Seychelles is the most vaccinated nation on Earth. But Covid has surged,story,https://www.cnbc.com/2021/05/13/seychelles-most-vaccinated-nation-on-earth-but-covid-19-has-surged.html,,cnbc.com
-kiyanwang,10,27180386,26,1621230155,Health boss unsure how many patients were overdosed due to Windows upgrade,story,https://www.abc.net.au/news/2021-05-07/sa-health-unsure-of-patient-impact-of-medication-dosage-bungle/100122958,,abc.net.au
+AndrewBissell,1,27195743,18,1621350875,The billionaire boom: How the super-rich soaked up Covid cash,story,https://www.ft.com/content/747a76dd-f018-4d0d-a9f3-4069bf2f5a93,,ft.com
