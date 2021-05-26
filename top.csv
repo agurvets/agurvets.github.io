@@ -1,9 +1,9 @@
 by,descendants,id,score,time,title,type,url,text,domain
-AndrewBissell,9,27281712,31,1621972255,Children's Hospital Colorado declares mental health state of emergency,story,https://coloradosun.com/2021/05/25/mental-health-emergency-children-teen-colorado/,,coloradosun.com
+AndrewBissell,11,27281712,31,1621972255,Children's Hospital Colorado declares mental health state of emergency,story,https://coloradosun.com/2021/05/25/mental-health-emergency-children-teen-colorado/,,coloradosun.com
 robfig,50,27264542,236,1621865398,Rf: an experimental refactoring tool for Go,story,https://pkg.go.dev/rsc.io/rf,,pkg.go.dev
 bmau5,14,27268537,193,1621883869,Scientists use optogenetics to help a blind patient see again,story,https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/,,statnews.com
-rbanffy,10,27265197,77,1621868696,Discovering Goroutine Leaks with Semgrep,story,https://www.trailofbits.com/post/discovering-goroutine-leaks-with-semgrep,,trailofbits.com
-bioinformatics,18,27271290,67,1621902018,Some stealth edits Vox made to its article debunking “conspiracy theories”,story,https://twitter.com/paulg/status/1396769717805780994,,twitter.com
+rbanffy,10,27265197,78,1621868696,Discovering Goroutine Leaks with Semgrep,story,https://www.trailofbits.com/post/discovering-goroutine-leaks-with-semgrep,,trailofbits.com
+bioinformatics,20,27271290,69,1621902018,Some stealth edits Vox made to its article debunking “conspiracy theories”,story,https://twitter.com/paulg/status/1396769717805780994,,twitter.com
 mnw21cam,194,27262788,316,1621852090,Cheese photo leads to Liverpool drug dealer's downfall,story,https://www.bbc.co.uk/news/uk-england-merseyside-57226165,,bbc.co.uk
 mmastrac,138,27260756,200,1621825672,HIV mRNA Vaccines-Progress and Future Paths,story,https://pubmed.ncbi.nlm.nih.gov/33562203/,,pubmed.ncbi.nlm.nih.gov
 walterbell,50,27267852,73,1621880359,SARS-CoV-2 infection induces long-lived bone marrow plasma cells in humans,story,https://www.nature.com/articles/s41586-021-03647-4,,nature.com
