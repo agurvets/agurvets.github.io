@@ -1,17 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-AndrewBissell,11,27281712,31,1621972255,Children's Hospital Colorado declares mental health state of emergency,story,https://coloradosun.com/2021/05/25/mental-health-emergency-children-teen-colorado/,,coloradosun.com
-robfig,50,27264542,236,1621865398,Rf: an experimental refactoring tool for Go,story,https://pkg.go.dev/rsc.io/rf,,pkg.go.dev
-bmau5,14,27268537,193,1621883869,Scientists use optogenetics to help a blind patient see again,story,https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/,,statnews.com
-rbanffy,10,27265197,78,1621868696,Discovering Goroutine Leaks with Semgrep,story,https://www.trailofbits.com/post/discovering-goroutine-leaks-with-semgrep,,trailofbits.com
-bioinformatics,20,27271290,69,1621902018,Some stealth edits Vox made to its article debunking “conspiracy theories”,story,https://twitter.com/paulg/status/1396769717805780994,,twitter.com
-mnw21cam,194,27262788,316,1621852090,Cheese photo leads to Liverpool drug dealer's downfall,story,https://www.bbc.co.uk/news/uk-england-merseyside-57226165,,bbc.co.uk
-mmastrac,138,27260756,200,1621825672,HIV mRNA Vaccines-Progress and Future Paths,story,https://pubmed.ncbi.nlm.nih.gov/33562203/,,pubmed.ncbi.nlm.nih.gov
-walterbell,50,27267852,73,1621880359,SARS-CoV-2 infection induces long-lived bone marrow plasma cells in humans,story,https://www.nature.com/articles/s41586-021-03647-4,,nature.com
-pseudolus,340,27259953,443,1621816415,Wuhan lab staff sought hospital care before Covid-19 outbreak disclosed,story,https://www.wsj.com/articles/intelligence-on-sick-staff-at-wuhan-lab-fuels-debate-on-covid-19-origin-11621796228,,wsj.com
-mistersquid,19,27255934,44,1621785347,The Mystery of Magic’s Greatest Card Trick,story,https://www.nytimes.com/2021/05/23/style/berglas-effect-card-trick.html,,nytimes.com
-billyharris,17,27272484,86,1621915477,Moderna to take mRNA flu and HIV vaccines into Phase 1 trials this year,story,https://www.biopharma-reporter.com/Article/2021/04/15/Moderna-to-take-mRNA-flu-and-HIV-vaccines-into-Phase-1-trials-this-year,,biopharma-reporter.com
-Meekro,25,27259574,53,1621812436,Reopening Texas Had No Discernible Impact on Covid-19 Cases or Deaths,story,https://reason.com/2021/05/21/a-new-study-confirms-that-reopening-texas-100-percent-had-no-discernible-impact-on-covid-19-cases-or-deaths/,,reason.com
-nradov,37,27257862,71,1621798587,Intelligence on Sick Staff at Wuhan Lab Fuels Debate on Covid-19 Origin,story,https://www.wsj.com/articles/intelligence-on-sick-staff-at-wuhan-lab-fuels-debate-on-covid-19-origin-11621796228,,wsj.com
-helsinkiandrew,1,27261717,12,1621839858,Faster than a PCR test: dogs detect Covid in under a second,story,https://www.theguardian.com/world/2021/may/24/faster-than-pcr-test-dogs-detect-covid-coronavirus-london-bmj,,theguardian.com
-js2,5,27250937,13,1621723689,"Australia Exhumes the Somerton Man, and His 70-Year Mystery",story,https://www.nytimes.com/2021/05/22/world/australia/who-was-somerton-man.html,,nytimes.com
-laborat,65,27272544,52,1621916153,Pfizer vaccine reprograms innate immune responses,story,https://www.news-medical.net/news/20210510/Research-suggests-Pfizer-BioNTech-COVID-19-vaccine-reprograms-innate-immune-responses.aspx,,news-medical.net
+Kaibeezy,0,27288184,22,1622021187,First results from UK experiment point to a solution for fusion’s heat problems,story,https://ccfe.ukaea.uk/first-results-from-uk-experiment-point-to-a-solution-to-one-of-fusions-hottest-problems/,,ccfe.ukaea.uk
+dsr12,91,27286326,99,1622003133,Mild Covid-19 induces lasting antibody protection,story,https://medicine.wustl.edu/news/good-news-mild-covid-19-induces-lasting-antibody-protection/,,medicine.wustl.edu
+robfig,50,27264542,239,1621865398,Rf: an experimental refactoring tool for Go,story,https://pkg.go.dev/rsc.io/rf,,pkg.go.dev
+bmau5,14,27268537,195,1621883869,Scientists use optogenetics to help a blind patient see again,story,https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/,,statnews.com
+bioinformatics,31,27271290,85,1621902018,Some stealth edits Vox made to its article debunking “conspiracy theories”,story,https://twitter.com/paulg/status/1396769717805780994,,twitter.com
+plank_time,6,27285242,26,1621994110,U.S. CDC looking into heart inflammation in some young vaccine recipients,story,https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-investigating-heart-problem-few-young-vaccine-recipients-nyt-2021-05-22/,,reuters.com
+mnw21cam,197,27262788,318,1621852090,Cheese photo leads to Liverpool drug dealer's downfall,story,https://www.bbc.co.uk/news/uk-england-merseyside-57226165,,bbc.co.uk
+rbanffy,10,27265197,81,1621868696,Discovering Goroutine Leaks with Semgrep,story,https://www.trailofbits.com/post/discovering-goroutine-leaks-with-semgrep,,trailofbits.com
+AndrewBissell,18,27281712,32,1621972255,Children's Hospital Colorado declares mental health state of emergency,story,https://coloradosun.com/2021/05/25/mental-health-emergency-children-teen-colorado/,,coloradosun.com
+mmastrac,138,27260756,202,1621825672,HIV mRNA Vaccines-Progress and Future Paths,story,https://pubmed.ncbi.nlm.nih.gov/33562203/,,pubmed.ncbi.nlm.nih.gov
+walterbell,50,27267852,74,1621880359,SARS-CoV-2 infection induces long-lived bone marrow plasma cells in humans,story,https://www.nature.com/articles/s41586-021-03647-4,,nature.com
+pseudolus,341,27259953,447,1621816415,Wuhan lab staff sought hospital care before Covid-19 outbreak disclosed,story,https://www.wsj.com/articles/intelligence-on-sick-staff-at-wuhan-lab-fuels-debate-on-covid-19-origin-11621796228,,wsj.com
+mistersquid,19,27255934,45,1621785347,The Mystery of Magic’s Greatest Card Trick,story,https://www.nytimes.com/2021/05/23/style/berglas-effect-card-trick.html,,nytimes.com
+tmfi,10,27286879,23,1622008531,Covid is surging in the world’s most vaccinated country. Why?,story,https://theconversation.com/covid-is-surging-in-the-worlds-most-vaccinated-country-why-160869,,theconversation.com
+billyharris,18,27272484,86,1621915477,Moderna to take mRNA flu and HIV vaccines into Phase 1 trials this year,story,https://www.biopharma-reporter.com/Article/2021/04/15/Moderna-to-take-mRNA-flu-and-HIV-vaccines-into-Phase-1-trials-this-year,,biopharma-reporter.com
