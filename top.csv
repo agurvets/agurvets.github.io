@@ -1,23 +1,29 @@
 by,descendants,id,score,time,title,type,url,text,domain
-adlha,31,27367948,197,1622637331,Show HN: Render Jupyter notebooks as interactive articles,story,https://deepnote.com/viewer,,deepnote.com
-tlochhead,149,27369752,181,1622647368,Microsoft's low-code strategy paints a target on UIPath and other RPA companies,story,https://www.infoq.com/articles/cloud-vendors-low-code/,,infoq.com
-chirau,8,27374293,16,1622669709,Open Database of 100M Hospital Prices,story,https://www.dolthub.com/repositories/dolthub/hospital-price-transparency-v2/doc/master,,dolthub.com
-JPLeRouzic,71,27352217,135,1622539952,A possible link between childhood trauma and Alzheimer disease,story,https://padiracinnovation.org/News/2021/06/a-possible-link-between-childhood-trauma-and-alzheimer-disease,,padiracinnovation.org
-AndrewBissell,0,27374372,15,1622670249,Israel sees probable link between Pfizer vaccine and myocarditis cases,story,https://www.reuters.com/world/middle-east/israel-sees-probable-link-between-pfizer-vaccine-small-number-myocarditis-cases-2021-06-01/,,reuters.com
-1915cb1f,66,27359269,259,1622572629,DARPA Awards Moderna a Grant for Up to $25M to Develop mRNA Therapeutics (2013),story,https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop,,investors.modernatx.com
-kevinbowman,8,27357933,42,1622567637,Covid: Zero daily deaths announced in UK for first time,story,https://www.bbc.co.uk/news/uk-57320320,,bbc.co.uk
-tjwds,0,27367340,16,1622632883,The Mystery of the $113 Millıon Deli,story,https://www.nytimes.com/2021/06/02/magazine/your-hometown-deli.html,,nytimes.com
-07121941,21,27363155,41,1622592669,Israel reports link between rare cases of heart inflammation and MRNA Vaccine,story,https://www.sciencemag.org/news/2021/06/israel-reports-link-between-rare-cases-heart-inflammation-and-covid-19-vaccination,,sciencemag.org
-rmason,49,27362254,48,1622586331,Manicure robot in San Francisco is now painting nails in 10 minutes for just $8,story,https://ktla.com/morning-news/technology/clockwork-manicure-robot-san-francisco/,,ktla.com
-astdb,127,27362415,170,1622587365,Covid deaths plunge after 75% of town's adults vaccinated,story,https://www.bbc.com/news/world-latin-america-57309538,,bbc.com
-gozmike,41,27354815,78,1622556860,Digging into Quebec's electronic proof of vaccination,story,https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/,,mikkel.ca
+the-mitr,14,27365755,91,1622616914,Scientific Data Repositories,story,https://www.nature.com/sdata/policies/repositories,,nature.com
+pseudolus,9,27360411,35,1622577470,The extraordinary story of two Pacific voyages of discovery a 1000 years apart,story,https://www.thenewatlantis.com/publications/chasing-the-sun,,thenewatlantis.com
+femto,45,27375856,89,1622681324,Complete protection by single dose skin patch delivered SARS-CoV-2 spike vaccine,story,https://www.biorxiv.org/content/10.1101/2021.05.30.446357v1,,biorxiv.org
+adlha,32,27367948,212,1622637331,Show HN: Render Jupyter notebooks as interactive articles,story,https://deepnote.com/viewer,,deepnote.com
+tlochhead,169,27369752,212,1622647368,Microsoft's low-code strategy paints a target on UIPath and other RPA companies,story,https://www.infoq.com/articles/cloud-vendors-low-code/,,infoq.com
+decide,6,27372165,32,1622658239,Facebook’s causal mental health harm and a regulatory strategy (Comment to FTC),story,https://www.regulations.gov/comment/FTC-2021-0019-0118,,regulations.gov
+vinsci,4,27379320,15,1622716950,States Have Banned Vaccine Passports,story,https://www.usnews.com/news/best-states/articles/which-states-have-banned-vaccine-passports,,usnews.com
+JPLeRouzic,74,27352217,137,1622539952,A possible link between childhood trauma and Alzheimer disease,story,https://padiracinnovation.org/News/2021/06/a-possible-link-between-childhood-trauma-and-alzheimer-disease,,padiracinnovation.org
+fortran77,7,27376539,26,1622686963,"Don’t eat cicadas if you’re allergic to seafood, the FDA warns",story,https://www.washingtonpost.com/food/2021/06/02/cicadas-fda-warning/,,washingtonpost.com
+rainhacker,3,27376366,20,1622685573,Nestlé document says majority of its food portfolio is unhealthy,story,https://www.ft.com/content/4c98d410-38b1-4be8-95b2-d029e054f492,,ft.com
+chirau,12,27374293,24,1622669709,Open Database of 100M Hospital Prices,story,https://www.dolthub.com/repositories/dolthub/hospital-price-transparency-v2/doc/master,,dolthub.com
+jbegley,4,27375820,15,1622680991,The Mystery of the $113M Deli,story,https://www.nytimes.com/2021/06/02/magazine/your-hometown-deli.html,,nytimes.com
+1915cb1f,66,27359269,260,1622572629,DARPA Awards Moderna a Grant for Up to $25M to Develop mRNA Therapeutics (2013),story,https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop,,investors.modernatx.com
+kevinbowman,8,27357933,43,1622567637,Covid: Zero daily deaths announced in UK for first time,story,https://www.bbc.co.uk/news/uk-57320320,,bbc.co.uk
+07121941,21,27363155,42,1622592669,Israel reports link between rare cases of heart inflammation and MRNA Vaccine,story,https://www.sciencemag.org/news/2021/06/israel-reports-link-between-rare-cases-heart-inflammation-and-covid-19-vaccination,,sciencemag.org
 blending,26,27335247,130,1622398814,Somewhere Under My Left Ribs: A Nurse’s Story (2018),story,https://longreads.com/2018/05/31/somewhere-under-my-left-ribs-a-nurses-story/,,longreads.com
-shashasha2,131,27351970,119,1622537141,Swiss Covid Certificate – Technical documentation of the swiss Covid certificate,story,https://github.com/admin-ch/CovidCertificate-Documents,,github.com
-pier25,92,27349469,102,1622506311,Chinese ‘Artificial Sun’ experimental fusion reactor sets world record,story,https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time,,nation.com.pk
-ve55,118,27347818,159,1622493320,Sodium rutin extends lifespan and health span in mice by 10%,story,https://pubmed.ncbi.nlm.nih.gov/33555034/,,pubmed.ncbi.nlm.nih.gov
+gozmike,41,27354815,79,1622556860,Digging into Quebec's electronic proof of vaccination,story,https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/,,mikkel.ca
+tjwds,0,27367340,16,1622632883,The Mystery of the $113 Millıon Deli,story,https://www.nytimes.com/2021/06/02/magazine/your-hometown-deli.html,,nytimes.com
+astdb,127,27362415,171,1622587365,Covid deaths plunge after 75% of town's adults vaccinated,story,https://www.bbc.com/news/world-latin-america-57309538,,bbc.com
+rmason,55,27362254,48,1622586331,Manicure robot in San Francisco is now painting nails in 10 minutes for just $8,story,https://ktla.com/morning-news/technology/clockwork-manicure-robot-san-francisco/,,ktla.com
+AndrewBissell,0,27374372,20,1622670249,Israel sees probable link between Pfizer vaccine and myocarditis cases,story,https://www.reuters.com/world/middle-east/israel-sees-probable-link-between-pfizer-vaccine-small-number-myocarditis-cases-2021-06-01/,,reuters.com
 antismarm,3,27335236,11,1622398733,The Madman as Painter (2016),story,https://www.city-journal.org/html/madman-painter-14347.html,,city-journal.org
-hardmaru,88,27341265,61,1622446182,"In big tech’s dystopia, cat videos earn millions while real artists beg for tips",story,https://www.theguardian.com/commentisfree/2021/may/30/big-tech-cat-video-artists-tips-musicians-spotify-donation,,theguardian.com
+pier25,95,27349469,103,1622506311,Chinese ‘Artificial Sun’ experimental fusion reactor sets world record,story,https://nation.com.pk/29-May-2021/chinese-artificial-sun-experimental-fusion-reactor-sets-world-record-for-superheated-plasma-time,,nation.com.pk
+ve55,119,27347818,159,1622493320,Sodium rutin extends lifespan and health span in mice by 10%,story,https://pubmed.ncbi.nlm.nih.gov/33555034/,,pubmed.ncbi.nlm.nih.gov
+shashasha2,133,27351970,119,1622537141,Swiss Covid Certificate – Technical documentation of the swiss Covid certificate,story,https://github.com/admin-ch/CovidCertificate-Documents,,github.com
+hardmaru,89,27341265,61,1622446182,"In big tech’s dystopia, cat videos earn millions while real artists beg for tips",story,https://www.theguardian.com/commentisfree/2021/may/30/big-tech-cat-video-artists-tips-musicians-spotify-donation,,theguardian.com
+pseudolus,0,27354132,11,1622554325,Scientists say active early learning shapes the adult brain,story,https://medicalxpress.com/news/2021-06-scientists-early-adult-brain.html,,medicalxpress.com
 birriel,6,27326632,45,1622308105,Balancing DNA Methylation May Decrease Biological Age by 3.23 Years in 8 Weeks,story,https://www.aging-us.com/article/202913,,aging-us.com
-elorant,6,27348698,15,1622499710,The UFO Sightings Don't Impress This Physicist,story,https://www.nytimes.com/2021/05/30/opinion/ufo-sightings-report.html,,nytimes.com
-yourabstraction,49,27327687,87,1622316820,The reason people don't read the article: They just want to socialize,story,,"Many people here like to think HN is some bastion of intellectual conversation, and it is to some extent, but it&#x27;s still a social network. Or maybe just a social space, because there isn&#x27;t much of a network since profiles aren&#x27;t used much.<p>Post titles are a jumping off point to socializing, and generally reading the article isn&#x27;t necessary to converse with strangers on the internet. I won&#x27;t write more, you probably won&#x27;t read it :)",
-JohnJamesRambo,118,27335421,190,1622399930,Molecular biology clues portray SARS-CoV-2 as a lab manipulation of RaTG13,story,https://pubs.acs.org/doi/10.1021/acsmedchemlett.1c00274,,pubs.acs.org
