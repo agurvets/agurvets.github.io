@@ -1,21 +1,31 @@
 by,descendants,id,score,time,title,type,url,text,domain
-feross,1,27451914,14,1623266247,Drug Users Use a Lot of Drugs,story,https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs,,astralcodexten.substack.com
-youcould,57,27431253,151,1623133724,Trying to study textbooks effectively: a year of experimentation,story,https://www.lesswrong.com/posts/79dP94fEhGGcGmyDE/trying-to-study-textbooks-effectively-a-year-of,,lesswrong.com
-smartmic,100,27439638,141,1623180251,Perl Data Language: Scientific Computing with Perl,story,http://pdl.perl.org/,,pdl.perl.org
-andrewnicolalde,119,27427096,443,1623100782,Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification,story,https://www.infoq.com/news/2021/04/intel-hidden-instructions/,,infoq.com
-mdeck_,95,27434243,206,1623155393,How the government set up a fake bank to launder drug money (2012),story,https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money,,npr.org
-Ice_cream_suit,96,27431217,72,1623133224,"Machine learning is booming in medicine, but also facing a credibility crisis",story,https://www.statnews.com/2021/06/02/machine-learning-ai-methodology-research-flaws/,,statnews.com
-jonbaer,2,27449522,11,1623254815,China is vaccinating a staggering 20M people a day,story,https://www.nature.com/articles/d41586-021-01545-3,,nature.com
-smarm,2,27427593,47,1623102882,Lab Cultures: An Interview with an Anonymous Biologist (2019),story,https://logicmag.io/nature/lab-cultures-an-interview-with-an-anonymous-biologist/,,logicmag.io
-joshuakelly,0,27437246,16,1623169315,Explore Verifiable Health Records,story,https://developer.apple.com/videos/play/wwdc2021/10089/,,developer.apple.com
-sebastian_io,68,27432101,145,1623143212,Snowtrack – a new version control software for graphic designers and 3D artists,story,http://snowtrack.io/,,snowtrack.io
-drx,45,27443580,59,1623205716,"San Francisco may be first major US city to hit herd immunity, experts say",story,https://www.theguardian.com/us-news/2021/jun/08/san-francisco-covid-herd-immunity,,theguardian.com
-happy-go-lucky,17,27425789,32,1623088685,US approves first new Alzheimer's drug in 20 years,story,https://www.bbc.com/news/health-57383763,,bbc.com
-mardiyah,13,27434139,51,1623154790,Tiny particles power chemical reactions – Massachusetts Institute of Technology,story,https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607,,news.mit.edu
-elsewhen,0,27440855,17,1623186664,How Academic Pirate Alexandra Elbakyan Is Fighting Scientific Misinformation,story,https://www.vice.com/en/article/v7ev3x/how-academic-pirate-alexandra-elbakyan-is-fighting-scientific-misinformation,,vice.com
-unifiedtheory,203,27435972,243,1623164011,A walk in nature is better than microdosing,story,https://victorrotariu.com/2021/06/better-than-microdosing-walks-in-nature/,,victorrotariu.com
-paulpauper,2,27423889,11,1623080518,UN: Cost of food rises at fastest pace in over a decade,story,https://www.bbc.com/news/business-57353624,,bbc.com
-gtirloni,4,27427882,39,1623104080,MIT Engineers Have Discovered a Completely New Way of Generating Electricity,story,https://scitechdaily.com/mit-engineers-have-discovered-a-completely-new-way-of-generating-electricity/,,scitechdaily.com
-infodocket,3,27427969,17,1623104398,CDC COVID-19: mRNA Vaccines Reduce Risk of Infection 91% for Fully Vaccinated,story,https://www.cdc.gov/media/releases/2021/p0607-mrna-reduce-risks.html,,cdc.gov
-avonmach,74,27440977,35,1623187135,Most Expensive Drugs in the U.S.,story,https://www.goodrx.com/blog/most-expensive-drugs-period/,,goodrx.com
-marc__1,5,27423595,18,1623079069,"FDA approves Biogen’s Alzheimer’s drug, the first therapy in nearly two decades",story,https://www.cnbc.com/2021/06/07/fda-approves-biogens-alzheimers-drug-the-first-new-therapy-for-the-disease-in-nearly-two-decades.html,,cnbc.com
+unpredict,9,27478493,27,1623445587,J. Kenji López-Alt is Seattle’s reluctant powerful food influencer,story,https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/,,seattletimes.com
+johntfella,27,27470104,42,1623394161,Sperm DNA methylation epimutation biomarker for paternal offspring autism,story,https://doi.org/10.1186/s13148-020-00995-2,,doi.org
+barry-cotter,9,27458135,31,1623311885,The Teaching of Arithmetic I: The Story of an experiment (1935),story,http://www.inference.org.uk/sanjoy/benezet/1.html,,inference.org.uk
+mrfusion,185,27472107,222,1623412682,Third member of U.S. FDA advisory panel resigns over Alzheimer’s drug approval,story,https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/,,reuters.com
+bryan0,54,27466887,180,1623365254,Mysterious fast radio bursts come in two distinct flavours,story,https://www.nature.com/articles/d41586-021-01560-4,,nature.com
+nacc,63,27466709,130,1623364296,FDA approves drug to treat smallpox,story,https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox,,fda.gov
+alok-g,42,27466151,128,1623360934,Physicists measure the gravitational force between the smallest masses yet,story,https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/,,scientificamerican.com
+rbanffy,124,27458555,191,1623315838,"DNA jumps between animal species, but no one knows how often",story,https://www.quantamagazine.org/dna-jumps-between-animal-species-no-one-knows-how-often-20210609/,,quantamagazine.org
+nceqs3,38,27468756,72,1623379362,Three FDA Advisers Resign over Agency’s Approval of Alzheimer’s Drug,story,https://www.nytimes.com/2021/06/10/health/aduhelm-fda-resign-alzheimers.html,,nytimes.com
+uncertainrhymes,164,27467215,256,1623366738,Chrome abandons 'simplified domain experiment' in omnibar,story,https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75,,bugs.chromium.org
+bananapizza,349,27453721,272,1623275449,Evaluating necessity of Covid-19 vaccination in previously infected individuals,story,https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2,,medrxiv.org
+drdee,0,27456946,18,1623302406,Sacred objects: From police evidence to museum pieces,story,https://www.bbc.com/news/world-latin-america-57306362,,bbc.com
+AndrewBissell,21,27469092,47,1623383482,Third member of FDA panel resigns over approval of Biogen Alzheimer's drug,story,https://www.cnbc.com/2021/06/10/third-member-of-prestigious-fda-panel-resigns-over-approval-of-biogens-alzheimers-drug.html,,cnbc.com
+Anon84,39,27459515,129,1623325241,The physics of financial networks,story,https://arxiv.org/abs/2103.05623,,arxiv.org
+feross,178,27451914,174,1623266247,Drug users use a lot of drugs,story,https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs,,astralcodexten.substack.com
+fnubbly,19,27450568,51,1623259344,Positive Psychology Goes to War,story,https://www.chronicle.com/article/positive-psychology-goes-to-war,,chronicle.com
+smaili,346,27463732,456,1623349157,Heart inflammation cases in young men higher than expected after mRNA vaccines,story,https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/,,reuters.com
+nhf,20,27456881,91,1623301752,"A mystery cube, a secret identity, and a puzzle solved after 15 years",story,https://www.wired.co.uk/article/perplex-city-satoshi,,wired.co.uk
+bryan0,2,27462459,27,1623342131,Social distancing mandates highly effective in reducing Covid-19 transmission,story,https://www.nature.com/articles/s41467-021-23404-5,,nature.com
+rustoo,3,27462988,18,1623344904,India’s govt has inappropriately prioritised people for Covid-19 vaccination,story,https://www.bmj.com/company/newsroom/indias-national-government-has-inappropriately-prioritised-people-for-covid-19-vaccination/,,bmj.com
+peanutbutter_,85,27465294,75,1623356561,Biggest health insurer plans to deny ER bills if it doubts you had an emergency,story,https://arstechnica.com/science/2021/06/biggest-health-insurer-plans-to-deny-er-bills-if-it-doubts-you-had-an-emergency/,,arstechnica.com
+sixtyfourbits,1,27452407,53,1623268876,How Academic Pirate Alexandra Elbakyan Is Fighting Scientific Misinformation,story,https://www.vice.com/en/article/v7ev3x/how-academic-pirate-alexandra-elbakyan-is-fighting-scientific-misinformation,,vice.com
+zeeshanqureshi,4,27457806,11,1623309106,Algorithm correctly identifies Covid-19 only by the sound of coughs,story,https://www.bbc.com/news/technology-54780460,,bbc.com
+AndrewBissell,2,27466742,15,1623364520,CDC plans “emergency meeting” on rare heart inflammation following Covid vaccine,story,https://www.cbsnews.com/news/covid-19-vaccine-myocarditis-heart-inflammation-cdc/,,cbsnews.com
+thrusong,2,27462500,16,1623342377,Heart inflammation cases higher in ages 16-24 after 2nd mRNA Covid-19 shot: CDC,story,https://globalnews.ca/news/7937894/heart-inflammation-mrna-covid-19-vaccine/,,globalnews.ca
+HiroProtagonist,72,27465481,32,1623357512,How processed foods became so unhealthy,story,https://www.bbc.com/future/article/20210608-what-were-the-first-processed-foods,,bbc.com
+jonbaer,3,27449522,12,1623254815,China is vaccinating a staggering 20M people a day,story,https://www.nature.com/articles/d41586-021-01545-3,,nature.com
+blacktulip,550,27466374,669,1623362436,Linus Torvalds on mRNA Vaccines,story,https://lore.kernel.org/ksummit/CAHk-=wiB6FJknDC5PMfpkg4gZrbSuC3d391VyReM4Wb0+JYXXA@mail.gmail.com/,,lore.kernel.org
+arkadiyt,2,27469448,86,1623387475,Google abandons experiment to show simplified domain URLs in Chrome,story,https://therecord.media/google-abandons-experiment-to-show-simplified-domain-urls-in-chrome/,,therecord.media
+yawaramin,241,27466344,234,1623362263,Linus Torvalds: Get vaccinated. Stop believing the anti-vax lies,story,https://lkml.org/lkml/2021/6/10/957,,lkml.org
