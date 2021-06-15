@@ -1,44 +1,34 @@
 by,descendants,id,score,time,title,type,url,text,domain
-scoopertrooper,44,27481736,127,1623474876,MS Paint IDE,story,https://ms-paint-i.de/,,ms-paint-i.de
-thanato0s,65,27491286,185,1623578773,Git for Computer Scientists,story,https://eagain.net/articles/git-for-computer-scientists/,,eagain.net
-throwkeep,108,27493994,175,1623602205,“YouTube is shutting down dissenting Biology PhDs and MDs”,story,https://twitter.com/EricRWeinstein/status/1403915244473253893,,twitter.com
-donohoe,26,27494288,34,1623604529,McDonald's AI drive-thru bot accused of breaking biometrics privacy law,story,https://www.theregister.com/2021/06/10/mcdonalds_ai_lawsuit/,,theregister.com
-pseudolus,1,27491621,14,1623583194,An Apple Detective Rediscovered 7 Kinds of Apples Thought to Be Extinct,story,https://www.npr.org/2021/06/11/1005418986/several-types-of-apples-thought-to-be-extinct-have-been-rediscovered,,npr.org
-AndrewBissell,10,27495439,15,1623612038,Covid Spike Protein Elicits Signaling in Host Cells: Implications for Vaccines,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7827936/,,ncbi.nlm.nih.gov
-ColinWright,0,27483954,18,1623500590,A cinematic approach to drug resistance (2016),story,https://news.harvard.edu/gazette/story/2016/09/a-cinematic-approach-to-drug-resistance/,,news.harvard.edu
-jdmark,24,27485881,141,1623518127,Subatomic particle seen changing to antiparticle and back for the first time,story,https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time,,ox.ac.uk
-qznc,10,27486460,66,1623522358,Open Source and Mental Health,story,https://www.redox-os.org/news/open-source-mental-health/,,redox-os.org
-birriel,134,27483949,196,1623500458,Particle seen switching between matter and antimatter at CERN,story,https://newatlas.com/physics/charm-meson-particle-matter-antimatter/,,newatlas.com
-fybs,74,27485288,83,1623513294,Scientists find second ‘short sleep’ gene (2019),story,https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene,,ucsf.edu
-rustoo,14,27489927,21,1623561193,A study used data from phones to predict depression and personalized treatment,story,https://ucsdnews.ucsd.edu/pressrelease/how-your-phone-can-predict-depression-and-lead-to-personalized-treatment,,ucsdnews.ucsd.edu
+doublerebel,12,27509258,76,1623710538,Baseball's dirty little secret is out – we decided to experiment,story,https://www.thescore.com/mlb/news/2180019,,thescore.com
+k1m,28,27500502,48,1623659437,Filtering out newsletter signup forms embedded in web articles,story,https://www.fivefilters.org/2021/newsletter-signup-forms/,,fivefilters.org
+parsecs,0,27503520,12,1623683512,Monitoring the Health of Precursor’s TRNGs,story,https://www.bunniestudios.com/blog/?p=6097,,bunniestudios.com
+yarapavan,9,27501846,41,1623674342,Novavax Covid-19 vaccine highly effective in late-stage trial,story,https://www.statnews.com/2021/06/14/novavax-covid-19-vaccine-highly-effective-in-late-stage-trial/,,statnews.com
+elorant,80,27496712,243,1623620003,An Omega-3 that’s poison for cancer tumors,story,https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/,,scitechdaily.com
+scoopertrooper,100,27481736,235,1623474876,MS Paint IDE,story,https://ms-paint-i.de/,,ms-paint-i.de
+thanato0s,95,27491286,253,1623578773,Git for Computer Scientists (2010),story,https://eagain.net/articles/git-for-computer-scientists/,,eagain.net
+lnyan,13,27498711,27,1623638334,Scientists remotely controlled the social behavior of mice with light,story,https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light,,sciencenews.org
+jameslk,3,27503357,25,1623682700,Novavax vaccine trial shows 90% efficacy in combating Covid-19,story,https://www.ft.com/content/6035dac5-9226-4890-a5e7-a0ed71bd1609,,ft.com
+type0,75,27497080,56,1623622793,Ivermectin as a Covid-19 Therapy,story,https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy,,blogs.sciencemag.org
+jdmark,26,27485881,147,1623518127,Subatomic particle seen changing to antiparticle and back for the first time,story,https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time,,ox.ac.uk
+qznc,12,27486460,79,1623522358,Open Source and Mental Health,story,https://www.redox-os.org/news/open-source-mental-health/,,redox-os.org
+birriel,138,27483949,199,1623500458,Particle seen switching between matter and antimatter at CERN,story,https://newatlas.com/physics/charm-meson-particle-matter-antimatter/,,newatlas.com
+donohoe,40,27494288,61,1623604529,McDonald's AI drive-thru bot accused of breaking biometrics privacy law,story,https://www.theregister.com/2021/06/10/mcdonalds_ai_lawsuit/,,theregister.com
+pseudolus,1,27491621,35,1623583194,An Apple Detective Rediscovered 7 Kinds of Apples Thought to Be Extinct,story,https://www.npr.org/2021/06/11/1005418986/several-types-of-apples-thought-to-be-extinct-have-been-rediscovered,,npr.org
+fybs,79,27485288,85,1623513294,Scientists find second ‘short sleep’ gene (2019),story,https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene,,ucsf.edu
 newest,1,27479840,42,1623454743,"The strange case of Charles Kellogg, nature singer",story,https://tedgioia.substack.com/p/the-man-who-put-out-fires-with-music,,tedgioia.substack.com
-johntfella,49,27470104,75,1623394161,Sperm DNA methylation epimutation biomarker for paternal offspring autism,story,https://doi.org/10.1186/s13148-020-00995-2,,doi.org
-rbanffy,127,27458555,194,1623315838,"DNA jumps between animal species, but no one knows how often",story,https://www.quantamagazine.org/dna-jumps-between-animal-species-no-one-knows-how-often-20210609/,,quantamagazine.org
-bryan0,55,27466887,181,1623365254,Mysterious fast radio bursts come in two distinct flavours,story,https://www.nature.com/articles/d41586-021-01560-4,,nature.com
-unpredict,155,27478493,282,1623445587,J. Kenji López-Alt is Seattle’s reluctant powerful food influencer,story,https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/,,seattletimes.com
-bananapizza,351,27453721,272,1623275449,Evaluating necessity of Covid-19 vaccination in previously infected individuals,story,https://www.medrxiv.org/content/10.1101/2021.06.01.21258176v2,,medrxiv.org
-barry-cotter,11,27458135,37,1623311885,The Teaching of Arithmetic I: The Story of an experiment (1935),story,http://www.inference.org.uk/sanjoy/benezet/1.html,,inference.org.uk
-nacc,65,27466709,132,1623364296,FDA approves drug to treat smallpox,story,https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox,,fda.gov
-alok-g,42,27466151,134,1623360934,Physicists measure the gravitational force between the smallest masses yet,story,https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/,,scientificamerican.com
-SQL2219,3,27488458,14,1623541872,Screening reveals coeliac disease cases in children have doubled in 25 years,story,https://www.eurekalert.org/pub_releases/2021-06/esfp-src052421.php,,eurekalert.org
-feross,182,27451914,177,1623266247,Drug users use a lot of drugs,story,https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs,,astralcodexten.substack.com
-turadg,6,27477223,18,1623438099,Google's Airtable competitor experiment graduating to full product,story,https://support.google.com/area120-tables/answer/10831919,,support.google.com
-fnubbly,19,27450568,52,1623259344,Positive Psychology Goes to War,story,https://www.chronicle.com/article/positive-psychology-goes-to-war,,chronicle.com
-Anon84,46,27459515,131,1623325241,The physics of financial networks,story,https://arxiv.org/abs/2103.05623,,arxiv.org
+ColinWright,0,27483954,19,1623500590,A cinematic approach to drug resistance (2016),story,https://news.harvard.edu/gazette/story/2016/09/a-cinematic-approach-to-drug-resistance/,,news.harvard.edu
+rustoo,14,27489927,23,1623561193,A study used data from phones to predict depression and personalized treatment,story,https://ucsdnews.ucsd.edu/pressrelease/how-your-phone-can-predict-depression-and-lead-to-personalized-treatment,,ucsdnews.ucsd.edu
+unpredict,155,27478493,286,1623445587,J. Kenji López-Alt is Seattle’s reluctant powerful food influencer,story,https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/,,seattletimes.com
+throwkeep,285,27493994,311,1623602205,“YouTube is shutting down dissenting Biology PhDs and MDs”,story,https://twitter.com/EricRWeinstein/status/1403915244473253893,,twitter.com
+vezycash,1,27493881,12,1623601480,Google ends Simplified URL experiment in Chrome,story,https://www.ghacks.net/2021/06/11/google-ends-simplified-url-experiment-in-chrome/,,ghacks.net
+turadg,6,27477223,19,1623438099,Google's Airtable competitor experiment graduating to full product,story,https://support.google.com/area120-tables/answer/10831919,,support.google.com
 zekrioca,9,27480433,38,1623460447,Nobel Laureates Warn 'Humanity Taking Colossal Risks with Our Common Future',story,https://www.commondreams.org/news/2021/06/03/126-nobel-laureates-warn-humanity-taking-colossal-risks-our-common-future,,commondreams.org
-optimalsolver,76,27486841,107,1623525750,Diabetes Drug Metformin Reduces All-Cause Mortality and Diseases of Aging (2017),story,https://pubmed.ncbi.nlm.nih.gov/28802803/,,pubmed.ncbi.nlm.nih.gov
-drdee,0,27456946,19,1623302406,Sacred objects: From police evidence to museum pieces,story,https://www.bbc.com/news/world-latin-america-57306362,,bbc.com
+AndrewBissell,14,27495439,24,1623612038,Covid Spike Protein Elicits Signaling in Host Cells: Implications for Vaccines,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7827936/,,ncbi.nlm.nih.gov
 fumblebee,1,27482545,41,1623484501,Covid: Is there a limit to how much worse variants can get?,story,https://www.bbc.co.uk/news/health-57431420,,bbc.co.uk
-mrfusion,203,27472107,243,1623412682,Third member of U.S. FDA advisory panel resigns over Alzheimer’s drug approval,story,https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/,,reuters.com
-nceqs3,39,27468756,75,1623379362,Three FDA Advisers Resign over Agency’s Approval of Alzheimer’s Drug,story,https://www.nytimes.com/2021/06/10/health/aduhelm-fda-resign-alzheimers.html,,nytimes.com
-LinuxBender,2,27488026,12,1623537864,New discovery shows human cells can write RNA sequences into DNA,story,https://www.sciencedaily.com/releases/2021/06/210611174037.htm,,sciencedaily.com
-uncertainrhymes,198,27467215,265,1623366738,Chrome abandons 'simplified domain experiment' in omnibar,story,https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75,,bugs.chromium.org
-threatofrain,17,27489453,18,1623554272,Anti-vaxxers are weaponizing Yelp to punish bars that require vaccine proof,story,https://www.technologyreview.com/2021/06/12/1026213/anti-vaxxers-negative-yelp-google-reviews-restaurants-bars/,,technologyreview.com
-nhf,20,27456881,92,1623301752,"A mystery cube, a secret identity, and a puzzle solved after 15 years",story,https://www.wired.co.uk/article/perplex-city-satoshi,,wired.co.uk
-cratermoon,15,27489612,17,1623556356,Virtually all hospitalized Covid patients have one thing in common: unvaccinated,story,https://www.nbcnews.com/health/health-news/virtually-all-hospitalized-covid-patients-have-one-thing-common-they-n1270482,,nbcnews.com
-smaili,364,27463732,462,1623349157,Heart inflammation cases in young men higher than expected after mRNA vaccines,story,https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/,,reuters.com
-AndrewBissell,21,27469092,49,1623383482,Third member of FDA panel resigns over approval of Biogen Alzheimer's drug,story,https://www.cnbc.com/2021/06/10/third-member-of-prestigious-fda-panel-resigns-over-approval-of-biogens-alzheimers-drug.html,,cnbc.com
+SQL2219,3,27488458,14,1623541872,Screening reveals coeliac disease cases in children have doubled in 25 years,story,https://www.eurekalert.org/pub_releases/2021-06/esfp-src052421.php,,eurekalert.org
+optimalsolver,77,27486841,107,1623525750,Diabetes Drug Metformin Reduces All-Cause Mortality and Diseases of Aging (2017),story,https://pubmed.ncbi.nlm.nih.gov/28802803/,,pubmed.ncbi.nlm.nih.gov
 fortran77,0,27481020,15,1623466141,The Drug That Could Break American Health Care,story,https://www.theatlantic.com/ideas/archive/2021/06/aduhelm-drug-alzheimers-cost-medicare/619169/,,theatlantic.com
+LinuxBender,2,27488026,12,1623537864,New discovery shows human cells can write RNA sequences into DNA,story,https://www.sciencedaily.com/releases/2021/06/210611174037.htm,,sciencedaily.com
 gmays,2,27474984,11,1623427047,The Covid lab-leak hypothesis: what scientists do and don’t know,story,https://www.nature.com/articles/d41586-021-01529-3,,nature.com
-bryan0,2,27462459,28,1623342131,Social distancing mandates highly effective in reducing Covid-19 transmission,story,https://www.nature.com/articles/s41467-021-23404-5,,nature.com
-sixtyfourbits,1,27452407,57,1623268876,How Academic Pirate Alexandra Elbakyan Is Fighting Scientific Misinformation,story,https://www.vice.com/en/article/v7ev3x/how-academic-pirate-alexandra-elbakyan-is-fighting-scientific-misinformation,,vice.com
+threatofrain,21,27489453,18,1623554272,Anti-vaxxers are weaponizing Yelp to punish bars that require vaccine proof,story,https://www.technologyreview.com/2021/06/12/1026213/anti-vaxxers-negative-yelp-google-reviews-restaurants-bars/,,technologyreview.com
+cratermoon,17,27489612,17,1623556356,Virtually all hospitalized Covid patients have one thing in common: unvaccinated,story,https://www.nbcnews.com/health/health-news/virtually-all-hospitalized-covid-patients-have-one-thing-common-they-n1270482,,nbcnews.com
