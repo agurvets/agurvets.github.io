@@ -1,34 +1,36 @@
 by,descendants,id,score,time,title,type,url,text,domain
-doublerebel,12,27509258,76,1623710538,Baseball's dirty little secret is out – we decided to experiment,story,https://www.thescore.com/mlb/news/2180019,,thescore.com
-k1m,28,27500502,48,1623659437,Filtering out newsletter signup forms embedded in web articles,story,https://www.fivefilters.org/2021/newsletter-signup-forms/,,fivefilters.org
-parsecs,0,27503520,12,1623683512,Monitoring the Health of Precursor’s TRNGs,story,https://www.bunniestudios.com/blog/?p=6097,,bunniestudios.com
-yarapavan,9,27501846,41,1623674342,Novavax Covid-19 vaccine highly effective in late-stage trial,story,https://www.statnews.com/2021/06/14/novavax-covid-19-vaccine-highly-effective-in-late-stage-trial/,,statnews.com
-elorant,80,27496712,243,1623620003,An Omega-3 that’s poison for cancer tumors,story,https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/,,scitechdaily.com
-scoopertrooper,100,27481736,235,1623474876,MS Paint IDE,story,https://ms-paint-i.de/,,ms-paint-i.de
-thanato0s,95,27491286,253,1623578773,Git for Computer Scientists (2010),story,https://eagain.net/articles/git-for-computer-scientists/,,eagain.net
-lnyan,13,27498711,27,1623638334,Scientists remotely controlled the social behavior of mice with light,story,https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light,,sciencenews.org
-jameslk,3,27503357,25,1623682700,Novavax vaccine trial shows 90% efficacy in combating Covid-19,story,https://www.ft.com/content/6035dac5-9226-4890-a5e7-a0ed71bd1609,,ft.com
-type0,75,27497080,56,1623622793,Ivermectin as a Covid-19 Therapy,story,https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy,,blogs.sciencemag.org
+susam,4,27515974,11,1623767166,"Gravitational Lensing by Spinning Black Holes in Astrophysics, and Interstellar",story,https://arxiv.org/abs/1502.03808,,arxiv.org
+ColinWright,33,27513944,79,1623757946,Apple and Google investigated by UK competition body,story,https://www.bbc.co.uk/news/technology-57484720,,bbc.co.uk
+sturza,11,27511649,61,1623734971,The Structure of Scientific Revolutions,story,https://www.uky.edu/~eushe2/Pajares/Kuhn.html,,uky.edu
+k1m,34,27500502,53,1623659437,Filtering out newsletter signup forms embedded in web articles,story,https://www.fivefilters.org/2021/newsletter-signup-forms/,,fivefilters.org
+ashwal,13,27507675,29,1623701546,Low-Hanging Fruit in Automating Biology,story,https://adamashwal.com/fruit,,adamashwal.com
+rbanffy,8,27480269,28,1623458827,Genetic diseases that puzzle lab scientists worked on by quantitative biologists,story,https://nautil.us/issue/102/hidden-truths/data-crunchers-to-the-rescue,,nautil.us
+doublerebel,47,27509258,137,1623710538,Baseball's dirty little secret is out – we decided to experiment,story,https://www.thescore.com/mlb/news/2180019,,thescore.com
+codpiece,209,27514005,148,1623758312,Ask HN: How did an adult ADHD diagnosis help you?,story,,"My therapist wants to explore an ADHD diagnosis, run tests and dive deep. My question to you is; how did this help you or impact your life?<p>I am in the later half of an adventurous and successful career. I continue to grow, have a long-term stable marriage, good savings, great life. I went to my therapist to handle a lingering family issue and now we&#x27;ve come up to the ADHD talk.<p>They want to run neurological tests, said I&#x27;m &#x27;twice exceptional&#x27; and I see this as an expensive and time consuming diversion of my goals. I do admit that there is some validity in the idea, I do see symptoms, but how would this help me at this point in my life?",
+elorant,81,27496712,252,1623620003,An Omega-3 that’s poison for cancer tumors,story,https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/,,scitechdaily.com
+thanato0s,99,27491286,255,1623578773,Git for Computer Scientists (2010),story,https://eagain.net/articles/git-for-computer-scientists/,,eagain.net
+scoopertrooper,103,27481736,239,1623474876,MS Paint IDE,story,https://ms-paint-i.de/,,ms-paint-i.de
+parsecs,0,27503520,14,1623683512,Monitoring the Health of Precursor’s TRNGs,story,https://www.bunniestudios.com/blog/?p=6097,,bunniestudios.com
+yarapavan,10,27501846,43,1623674342,Novavax Covid-19 vaccine highly effective in late-stage trial,story,https://www.statnews.com/2021/06/14/novavax-covid-19-vaccine-highly-effective-in-late-stage-trial/,,statnews.com
+birriel,138,27483949,201,1623500458,Particle seen switching between matter and antimatter at CERN,story,https://newatlas.com/physics/charm-meson-particle-matter-antimatter/,,newatlas.com
 jdmark,26,27485881,147,1623518127,Subatomic particle seen changing to antiparticle and back for the first time,story,https://www.ox.ac.uk/news/2021-06-08-subatomic-particle-seen-changing-antiparticle-and-back-first-time,,ox.ac.uk
-qznc,12,27486460,79,1623522358,Open Source and Mental Health,story,https://www.redox-os.org/news/open-source-mental-health/,,redox-os.org
-birriel,138,27483949,199,1623500458,Particle seen switching between matter and antimatter at CERN,story,https://newatlas.com/physics/charm-meson-particle-matter-antimatter/,,newatlas.com
-donohoe,40,27494288,61,1623604529,McDonald's AI drive-thru bot accused of breaking biometrics privacy law,story,https://www.theregister.com/2021/06/10/mcdonalds_ai_lawsuit/,,theregister.com
+qznc,12,27486460,81,1623522358,Open Source and Mental Health,story,https://www.redox-os.org/news/open-source-mental-health/,,redox-os.org
+lnyan,13,27498711,27,1623638334,Scientists remotely controlled the social behavior of mice with light,story,https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light,,sciencenews.org
+type0,79,27497080,58,1623622793,Ivermectin as a Covid-19 Therapy,story,https://blogs.sciencemag.org/pipeline/archives/2021/06/07/ivermectin-as-a-covid-19-therapy,,blogs.sciencemag.org
+fybs,80,27485288,85,1623513294,Scientists find second ‘short sleep’ gene (2019),story,https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene,,ucsf.edu
+donohoe,41,27494288,62,1623604529,McDonald's AI drive-thru bot accused of breaking biometrics privacy law,story,https://www.theregister.com/2021/06/10/mcdonalds_ai_lawsuit/,,theregister.com
 pseudolus,1,27491621,35,1623583194,An Apple Detective Rediscovered 7 Kinds of Apples Thought to Be Extinct,story,https://www.npr.org/2021/06/11/1005418986/several-types-of-apples-thought-to-be-extinct-have-been-rediscovered,,npr.org
-fybs,79,27485288,85,1623513294,Scientists find second ‘short sleep’ gene (2019),story,https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene,,ucsf.edu
 newest,1,27479840,42,1623454743,"The strange case of Charles Kellogg, nature singer",story,https://tedgioia.substack.com/p/the-man-who-put-out-fires-with-music,,tedgioia.substack.com
+jameslk,3,27503357,26,1623682700,Novavax vaccine trial shows 90% efficacy in combating Covid-19,story,https://www.ft.com/content/6035dac5-9226-4890-a5e7-a0ed71bd1609,,ft.com
 ColinWright,0,27483954,19,1623500590,A cinematic approach to drug resistance (2016),story,https://news.harvard.edu/gazette/story/2016/09/a-cinematic-approach-to-drug-resistance/,,news.harvard.edu
-rustoo,14,27489927,23,1623561193,A study used data from phones to predict depression and personalized treatment,story,https://ucsdnews.ucsd.edu/pressrelease/how-your-phone-can-predict-depression-and-lead-to-personalized-treatment,,ucsdnews.ucsd.edu
 unpredict,155,27478493,286,1623445587,J. Kenji López-Alt is Seattle’s reluctant powerful food influencer,story,https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/,,seattletimes.com
-throwkeep,285,27493994,311,1623602205,“YouTube is shutting down dissenting Biology PhDs and MDs”,story,https://twitter.com/EricRWeinstein/status/1403915244473253893,,twitter.com
-vezycash,1,27493881,12,1623601480,Google ends Simplified URL experiment in Chrome,story,https://www.ghacks.net/2021/06/11/google-ends-simplified-url-experiment-in-chrome/,,ghacks.net
+rustoo,14,27489927,23,1623561193,A study used data from phones to predict depression and personalized treatment,story,https://ucsdnews.ucsd.edu/pressrelease/how-your-phone-can-predict-depression-and-lead-to-personalized-treatment,,ucsdnews.ucsd.edu
 turadg,6,27477223,19,1623438099,Google's Airtable competitor experiment graduating to full product,story,https://support.google.com/area120-tables/answer/10831919,,support.google.com
+throwkeep,285,27493994,313,1623602205,“YouTube is shutting down dissenting Biology PhDs and MDs”,story,https://twitter.com/EricRWeinstein/status/1403915244473253893,,twitter.com
+vezycash,1,27493881,13,1623601480,Google ends Simplified URL experiment in Chrome,story,https://www.ghacks.net/2021/06/11/google-ends-simplified-url-experiment-in-chrome/,,ghacks.net
 zekrioca,9,27480433,38,1623460447,Nobel Laureates Warn 'Humanity Taking Colossal Risks with Our Common Future',story,https://www.commondreams.org/news/2021/06/03/126-nobel-laureates-warn-humanity-taking-colossal-risks-our-common-future,,commondreams.org
-AndrewBissell,14,27495439,24,1623612038,Covid Spike Protein Elicits Signaling in Host Cells: Implications for Vaccines,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7827936/,,ncbi.nlm.nih.gov
 fumblebee,1,27482545,41,1623484501,Covid: Is there a limit to how much worse variants can get?,story,https://www.bbc.co.uk/news/health-57431420,,bbc.co.uk
+AndrewBissell,14,27495439,24,1623612038,Covid Spike Protein Elicits Signaling in Host Cells: Implications for Vaccines,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7827936/,,ncbi.nlm.nih.gov
 SQL2219,3,27488458,14,1623541872,Screening reveals coeliac disease cases in children have doubled in 25 years,story,https://www.eurekalert.org/pub_releases/2021-06/esfp-src052421.php,,eurekalert.org
 optimalsolver,77,27486841,107,1623525750,Diabetes Drug Metformin Reduces All-Cause Mortality and Diseases of Aging (2017),story,https://pubmed.ncbi.nlm.nih.gov/28802803/,,pubmed.ncbi.nlm.nih.gov
 fortran77,0,27481020,15,1623466141,The Drug That Could Break American Health Care,story,https://www.theatlantic.com/ideas/archive/2021/06/aduhelm-drug-alzheimers-cost-medicare/619169/,,theatlantic.com
-LinuxBender,2,27488026,12,1623537864,New discovery shows human cells can write RNA sequences into DNA,story,https://www.sciencedaily.com/releases/2021/06/210611174037.htm,,sciencedaily.com
-gmays,2,27474984,11,1623427047,The Covid lab-leak hypothesis: what scientists do and don’t know,story,https://www.nature.com/articles/d41586-021-01529-3,,nature.com
-threatofrain,21,27489453,18,1623554272,Anti-vaxxers are weaponizing Yelp to punish bars that require vaccine proof,story,https://www.technologyreview.com/2021/06/12/1026213/anti-vaxxers-negative-yelp-google-reviews-restaurants-bars/,,technologyreview.com
-cratermoon,17,27489612,17,1623556356,Virtually all hospitalized Covid patients have one thing in common: unvaccinated,story,https://www.nbcnews.com/health/health-news/virtually-all-hospitalized-covid-patients-have-one-thing-common-they-n1270482,,nbcnews.com
