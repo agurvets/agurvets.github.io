@@ -1,12 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-uniqueid,45,27615700,95,1624529093,Hospitals are selling treasure troves of medical data – what could go wrong?,story,https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research,,theverge.com
-elorant,8,27608387,67,1624473824,Drug researchers discover class of molecules that kills malaria parasite,story,https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite,,monash.edu
-elijahparker,119,27612835,145,1624498272,"Tucson copter cop says mysterious, ‘sophisticated’ super-drone ‘like no other’",story,https://dronedj.com/2021/06/23/update-tucson-copter-cop-says-mysterious-sophisticated-super-drone-like-no-other/,,dronedj.com
-gumby,297,27609919,318,1624480320,Scientist finds early virus sequences that had been mysteriously deleted,story,https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html,,nytimes.com
-prostoalex,71,27612404,47,1624494593,The Health Benefits of Coffee,story,https://www.nytimes.com/2021/06/14/well/eat/coffee-health-benefits.html,,nytimes.com
+uniqueid,60,27615700,128,1624529093,Hospitals are selling troves of medical data,story,https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research,,theverge.com
+mrfusion,0,27621947,11,1624559506,"Pandemic policies must be evaluated on all costs and benefits, not only Covid-19",story,https://collateralglobal.org/article/no-free-lunch/,,collateralglobal.org
+hheikinh,18,27617313,12,1624542453,"Face masks, public policies and slowing the spread of Covid-19",story,https://www.sciencedirect.com/science/article/pii/S0167629621000606?via%3Dihub,,sciencedirect.com
+elorant,8,27608387,68,1624473824,Drug researchers discover class of molecules that kills malaria parasite,story,https://www.monash.edu/medicine/news/latest/2021-articles/drug-researchers-discover-potent-class-of-molecules-that-kills-malaria-parasite,,monash.edu
+gumby,317,27609919,323,1624480320,Scientist finds early virus sequences that had been mysteriously deleted,story,https://www.nytimes.com/2021/06/23/science/coronavirus-sequences.html,,nytimes.com
+JonathanBuchh,1,27618767,15,1624547497,"The mRNA Vaccines Are Extraordinary, but Novavax Is Even Better",story,https://www.theatlantic.com/health/archive/2021/06/novavax-now-best-covid-19-vaccine/619276/,,theatlantic.com
+elijahparker,124,27612835,148,1624498272,"Tucson copter cop says mysterious, ‘sophisticated’ super-drone ‘like no other’",story,https://dronedj.com/2021/06/23/update-tucson-copter-cop-says-mysterious-sophisticated-super-drone-like-no-other/,,dronedj.com
+prostoalex,74,27612404,48,1624494593,The Health Benefits of Coffee,story,https://www.nytimes.com/2021/06/14/well/eat/coffee-health-benefits.html,,nytimes.com
 billyharris,3,27613517,18,1624504546,Physics explains why there is no information on social media,story,https://www.zdnet.com/article/physics-explains-why-there-is-no-information-on-social-media/,,zdnet.com
 masijo,55,27581108,159,1624295116,The agony and the ecstasy of deep brain stimulation surgery,story,https://tmrwedition.com/2021/06/13/the-agony-and-the-ecstacy-of-deep-brain-stimulation-surgery/,,tmrwedition.com
-lisper,1,27609748,21,1624479716,Seattle scientist digs up deleted coronavirus genetic data,story,https://www.washingtonpost.com/health/coronavirus-origin-nih-gene-sequence-deletion/2021/06/23/186e87d0-d437-11eb-a53a-3b5450fdca7a_story.html,,washingtonpost.com
+lisper,1,27609748,23,1624479716,Seattle scientist digs up deleted coronavirus genetic data,story,https://www.washingtonpost.com/health/coronavirus-origin-nih-gene-sequence-deletion/2021/06/23/186e87d0-d437-11eb-a53a-3b5450fdca7a_story.html,,washingtonpost.com
 bigdict,70,27595879,58,1624389321,Why is AI hard and physics simple?,story,https://arxiv.org/abs/2104.00008,,arxiv.org
 elorant,10,27593533,21,1624378464,Microbes and solar power ‘could produce 10 times more food than plants’,story,https://www.theguardian.com/environment/2021/jun/21/microbes-and-solar-power-could-produce-10-times-more-food-than-plants,,theguardian.com
 sahin,5,27595385,18,1624386937,CVS Health Records for 1.1B Customers Exposed,story,https://threatpost.com/cvs-health-records-billion-customers-exposed/167011/,,threatpost.com
