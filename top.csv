@@ -1,23 +1,24 @@
 by,descendants,id,score,time,title,type,url,text,domain
-whytai,43,27689412,60,1625065406,NYC Election Board re-counting votes after 130k are discovered from a test run,story,https://twitter.com/bobhardt/status/1410055272308121603,,twitter.com
-wglb,57,27676066,90,1624976216,Physicists confirm two cases of “elusive” black hole/neutron star mergers,story,https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/,,arstechnica.com
-shaicoleman,9,27690627,14,1625071172,Ivermectin and the odds of hospitalization due to Covid-19,story,https://osf.io/preprints/socarxiv/r93g4/,,osf.io
-edward,66,27682809,39,1625007211,Reviving extinct species may soon be possible,story,https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible,,economist.com
-graderjs,58,27650201,56,1624788663,Mystery as 5k homing pigeons vanish,story,https://www.walesonline.co.uk/news/uk-news/mystery-5000-homing-pigeons-birds-20907818,,walesonline.co.uk
-rehto21,49,27650064,159,1624786971,Protein found in robins’ eyes has all the hallmarks of a magnetoreceptor,story,https://www.the-scientist.com/news-opinion/new-study-fuels-debate-about-source-of-birds-magnetic-sense-68917,,the-scientist.com
-theptip,2,27653237,11,1624813637,Porting VaccinateCA to Django,story,https://simonwillison.net/2021/Apr/12/porting-vaccinateca-to-django/,,simonwillison.net
-shivbhatt,210,27676666,233,1624978452,Walmart unveils low-price analog insulin amid rising diabetes drug costs,story,https://www.cnbc.com/2021/06/29/walmart-unveils-low-price-analog-insulin-amid-rising-diabetes-drug-costs.html,,cnbc.com
-turtlegrids,2,27685600,21,1625034867,It’s Finally Clear Why Amazon Bought Whole Foods,story,https://slate.com/business/2021/06/why-amazon-bought-whole-foods-groceries-online.html,,slate.com
+hprotagonist,12,27682177,80,1625003433,A sharp-eyed scientist became biology’s image detective,story,https://www.newyorker.com/science/elements/how-a-sharp-eyed-scientist-became-biologys-image-detective,,newyorker.com
+gmays,24,27700221,127,1625153787,Vaccine made of live malaria parasites shows early success,story,https://www.nature.com/articles/d41586-021-01806-1,,nature.com
+_Microft,65,27696774,204,1625120594,Physicists observationally confirm Hawking’s black hole theorem for first time,story,https://news.mit.edu/2021/hawkings-black-hole-theorem-confirm-0701,,news.mit.edu
+nradov,5,27703866,17,1625169406,"Underlying Medical Conditions Among 540,667 Adults Hospitalized with Covid-19",story,https://www.cdc.gov/pcd/issues/2021/21_0123.htm,,cdc.gov
+benbreen,31,27672375,111,1624946719,"Hierapolis, Turkey's mysterious 'portal to the underworld'",story,https://www.bbc.com/travel/article/20210629-turkeys-mysterious-portal-to-the-underworld,,bbc.com
+morisy,3,27700010,47,1625152885,Chicago Suburb Spent Entire Federal Covid-19 Relief Funding on Police Payroll,story,https://www.ciceroindependiente.com/english/cicero-cares-relief-police-covid,,ciceroindependiente.com
+spekcular,123,27696055,131,1625110902,"Alcohol, health, and the ruthless logic of the Asian flush",story,https://dynomight.net/alcohol/,,dynomight.net
+gmays,21,27694222,99,1625092117,Success in reversing dementia in mice sets the stage for human clinical trials,story,https://www.tohoku.ac.jp/en/press/eversing_dementia_stage_set_for_human_clinical_trials.html,,tohoku.ac.jp
+curmudgeon22,4,27695316,22,1625101673,Associations between BMI and Covid-19 severity in 6·9 M people in England,story,https://www.thelancet.com/journals/landia/article/PIIS2213-8587(21)00089-9/fulltext,,thelancet.com
+wglb,57,27676066,94,1624976216,Physicists confirm two cases of “elusive” black hole/neutron star mergers,story,https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/,,arstechnica.com
+m_j_g,2,27695869,27,1625108627,Veritasium: A Physics Prof Bet Me $10k I'm Wrong,story,https://www.youtube.com/watch?v=yCsgoLc_fzI,,youtube.com
+furcyd,5,27696621,18,1625118624,A Physics Prof Bet Me $10k I'm Wrong,story,https://www.youtube.com/watch?v=yCsgoLc_fzI&ab_channel=Veritasium,,youtube.com
 optimalsolver,82,27663200,135,1624894344,This Chemical Does Not Exist,story,https://www.thischemicaldoesnotexist.com/,,thischemicaldoesnotexist.com
-brudgers,16,27647452,131,1624754844,Early Van Gogh sketches discovered in a book,story,https://www.theartnewspaper.com/blog/van-gogh-found-tucked-into-a-novel,,theartnewspaper.com
-williamsharris,9,27673764,34,1624959960,Apple Makes Employees Wear Body Cameras to Control Leaks,story,https://www.macworld.co.uk/news/apple-employees-wear-cameras-3806157/,,macworld.co.uk
-jcarpio,330,27677875,220,1624982814,Pfizer and Moderna vaccines may produce lasting immunity,story,https://www.nature.com/articles/s41586-021-03738-2,,nature.com
+edward,66,27682809,42,1625007211,Reviving extinct species may soon be possible,story,https://www.economist.com/technology-quarterly/2021/06/15/reviving-extinct-species-may-soon-be-possible,,economist.com
+shivbhatt,213,27676666,239,1624978452,Walmart unveils low-price analog insulin amid rising diabetes drug costs,story,https://www.cnbc.com/2021/06/29/walmart-unveils-low-price-analog-insulin-amid-rising-diabetes-drug-costs.html,,cnbc.com
+williamsharris,9,27673764,36,1624959960,Apple Makes Employees Wear Body Cameras to Control Leaks,story,https://www.macworld.co.uk/news/apple-employees-wear-cameras-3806157/,,macworld.co.uk
+whytai,49,27689412,68,1625065406,NYC Election Board re-counting votes after 130k are discovered from a test run,story,https://twitter.com/bobhardt/status/1410055272308121603,,twitter.com
 laurex,6,27675178,26,1624971676,Scientists Discover 'Time Cells' in the Brain That Enable 'Mental Time Travel',story,https://www.vice.com/en/article/7kvwm9/scientists-discover-time-cells-in-the-brain-that-enable-mental-time-travel,,vice.com
-pepys,35,27649211,60,1624776366,A rediscovered lost memoir about John Locke,story,https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous,,theguardian.com
+jcarpio,338,27677875,223,1624982814,Pfizer and Moderna vaccines may produce lasting immunity,story,https://www.nature.com/articles/s41586-021-03738-2,,nature.com
+turtlegrids,2,27685600,23,1625034867,It’s Finally Clear Why Amazon Bought Whole Foods,story,https://slate.com/business/2021/06/why-amazon-bought-whole-foods-groceries-online.html,,slate.com
 pseudolus,9,27671127,26,1624934756,Controversial Alzheimer’s drug could cost US $334B–nearly half of DoD budget,story,https://arstechnica.com/science/2021/06/controversial-alzheimers-drug-could-cost-us-334b-nearly-half-of-dod-budget/,,arstechnica.com
-colinprince,380,27653868,405,1624818182,"Cuba′s Covid vaccine rivals Pfizer, Moderna",story,https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365,,dw.com
-jaytaylor,22,27678188,57,1624984161,Mental Health Professionals Have Begun Suing Stanford,story,https://www.psychologytoday.com/us/blog/happiness-and-the-pursuit-leadership/202106/mental-health-professionals-bring-lawsuit-against,,psychologytoday.com
-johndcook,384,27654787,517,1624824258,Challenges in the diagnosis of magnesium status,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/,,ncbi.nlm.nih.gov
-intellaughs,23,27655186,38,1624826932,DNA damage caused by diets rich in red meat found in colorectal cancer patients,story,https://medlifestyle.news/2021/06/19/dna-damage-triggered-by-diets-rich-in-red-meat-found-in-colorectal-cancer-patients/,,medlifestyle.news
-abduhl,7,27681076,13,1624997367,LA reinstates indoor masking for Covid vaccinated due to delta variant,story,https://www.independent.co.uk/news/world/americas/delta-variant-covid-mask-la-b1874929.html,,independent.co.uk
-pama,68,27660717,51,1624881579,What if an AI wins the Nobel Prize for medicine?,story,https://www.economist.com/what-if/2021/07/03/what-if-an-ai-wins-the-nobel-prize-for-medicine,,economist.com
+shaicoleman,22,27690627,20,1625071172,Ivermectin and the odds of hospitalization due to Covid-19,story,https://osf.io/preprints/socarxiv/r93g4/,,osf.io
+jaytaylor,25,27678188,58,1624984161,Mental Health Professionals Have Begun Suing Stanford,story,https://www.psychologytoday.com/us/blog/happiness-and-the-pursuit-leadership/202106/mental-health-professionals-bring-lawsuit-against,,psychologytoday.com
