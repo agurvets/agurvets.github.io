@@ -1,20 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-prismatic,75,27744075,225,1625543491,Stolen Picasso and Mondrian paintings found stashed in a ravine in Greece,story,https://www.nytimes.com/2021/07/01/world/europe/greece-picasso-mondrian-stolen-art.html,,nytimes.com
-vinni2,43,27757982,27,1625638745,We don't really need to take 10k steps a day for health,story,https://www.nytimes.com/2021/07/06/well/move/10000-steps-health.html,,nytimes.com
-intronextron,165,27735292,403,1625468368,How to get better at painting without painting anything (2015),story,http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything,,learning-to-see.co.uk
-jonbaer,7,27756885,21,1625626824,Amazon launches at-home Covid-19 test collection kit for customers,story,https://www.aboutamazon.com/news/retail/amazon-launches-at-home-covid-19-test-collection-kit-for-customers,,aboutamazon.com
-aliasEli,213,27745671,104,1625561259,The Case Against the Covid-19 Lab Leak Theory,story,https://newrepublic.com/article/162689/bats-covid-19-lab-leak-theory,,newrepublic.com
-Clewza313,2,27758619,12,1625645237,Study: Full Covid-19 vaccination provides 69% protection against Delta,story,https://www.channelnewsasia.com/news/singapore/covid-19-vaccine-protection-against-infection-delta-variant-15172308,,channelnewsasia.com
-LinuxBender,5,27738138,13,1625493999,The Origin of Technosignatures,story,https://www.scientificamerican.com/article/the-origin-of-technosignatures/,,scientificamerican.com
-JumpCrisscross,8,27757425,28,1625632705,"Hospitals Often Charge Uninsured People the Highest Prices, New Data Show",story,https://www.wsj.com/articles/hospitals-often-charge-uninsured-people-the-highest-prices-new-data-show-11625584448,,wsj.com
-pabs3,46,27727120,103,1625370945,PowerTOP – diagnose issues with power consumption and power management on Linux,story,https://01.org/powertop/,,01.org
-rbanffy,21,27738709,54,1625497573,Long Covid: How It Keeps Us Sick,story,https://www.quantamagazine.org/long-covid-how-it-keeps-us-sick-20210701/,,quantamagazine.org
-rcarmo,82,27736788,206,1625484460,New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional,story,https://www.theregister.com/2021/07/05/infinidash/,,theregister.com
-1cvmask,0,27732268,15,1625429550,A residue-free approach to water disinfection using catalytic generation,story,https://www.nature.com/articles/s41929-021-00642-w,,nature.com
-triple_m,61,27740362,113,1625508074,Nearly 80% of households in Lebanon don't have food or money to buy food,story,https://news.yahoo.com/nearly-80-percent-households-lebanon-114517766.html,,news.yahoo.com
-minding,58,27723993,76,1625339685,One man’s plan to resurrect the animal species we can’t save,story,https://www.wired.co.uk/article/natures-safe,,wired.co.uk
-headalgorithm,11,27753060,20,1625598999,A Tsunami of Disability Is Coming as a Result of ‘Long Covid’,story,https://www.scientificamerican.com/article/a-tsunami-of-disability-is-coming-as-a-result-of-lsquo-long-covid-rsquo/,,scientificamerican.com
-_joel,2,27748726,35,1625580309,Kids Using Soft Drinks to Fake Positive Results on Covid-19 Tests,story,https://www.sciencealert.com/here-s-how-kids-are-using-soft-drinks-to-create-fake-positives-on-covid-19-tests,,sciencealert.com
-lighttower,38,27734268,118,1625453595,Biogen used an FDA back channel to win approval of its Alzheimer’s drug,story,https://www.statnews.com/2021/06/29/biogen-fda-alzheimers-drug-approval-aduhelm-project-onyx/,,statnews.com
-science4sail,53,27723001,90,1625331451,Lab-grown food will soon destroy farming – and save the planet (2019),story,https://www.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet,,theguardian.com
-martincmartin,3,27731103,16,1625418522,AI Designs Quantum Physics Experiments Beyond What Any Human Has Conceived,story,https://www.scientificamerican.com/article/ai-designs-quantum-physics-experiments-beyond-what-any-human-has-conceived/,,scientificamerican.com
+drdee,10,27768884,39,1625724673,The Medici as Artists Saw Them,story,https://www.newyorker.com/magazine/2021/07/12/the-medici-as-artists-saw-them,,newyorker.com
+dnetesn,0,27782856,13,1625832723,Longest known continuous record of the Paleozoic discovered in Yukon wilderness,story,https://phys.org/news/2021-07-longest-paleozoic-yukon-wilderness.html,,phys.org
+gmays,2,27762287,29,1625672178,"More filling? Tastes great? How flies, and maybe people, choose their food",story,https://news.yale.edu/2021/07/05/more-filling-tastes-great-how-flies-and-maybe-people-choose-their-food,,news.yale.edu
+mpweiher,88,27776184,210,1625769972,"Death rates are declining for many common cancers in the U.S., report finds",story,https://www.statnews.com/2021/07/08/cancer-death-rates-2021/,,statnews.com
+pmontra,228,27763873,235,1625680224,Corona Game: A simulation of how Covid-19 spreads,story,https://koronahra.cz/game,,koronahra.cz
+prismatic,77,27744075,235,1625543491,Stolen Picasso and Mondrian paintings found stashed in a ravine in Greece,story,https://www.nytimes.com/2021/07/01/world/europe/greece-picasso-mondrian-stolen-art.html,,nytimes.com
+intronextron,166,27735292,418,1625468368,How to get better at painting without painting anything (2015),story,http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything,,learning-to-see.co.uk
+doppp,38,27780086,29,1625799596,Pfizer to seek U.S. authorization for Covid booster shot,story,https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-ask-fda-authorize-booster-dose-covid-vaccine-delta-variant-spreads-2021-07-08/,,reuters.com
+infodocket,1,27778254,11,1625782365,Journal Retracts Paper Claiming Covid-19 Vaccines Kill,story,https://science.sciencemag.org/content/373/6551/147?rss=1,,science.sciencemag.org
+jdmark,43,27764117,147,1625681595,HIV vaccine trial starts at Oxford,story,https://www.ox.ac.uk/news/2021-07-05-hiv-vaccine-trial-starts-oxford,,ox.ac.uk
+StartupSven,13,27769482,29,1625732668,New type of Supernova explains ancient mystery,story,https://bigthink.com/surprising-science/new-type-supernova-discovered-ancient-mystery,,bigthink.com
+aliasEli,221,27745671,107,1625561259,The Case Against the Covid-19 Lab Leak Theory,story,https://newrepublic.com/article/162689/bats-covid-19-lab-leak-theory,,newrepublic.com
+vinni2,44,27757982,33,1625638745,We don't really need to take 10k steps a day for health,story,https://www.nytimes.com/2021/07/06/well/move/10000-steps-health.html,,nytimes.com
+DoreenMichele,14,27763994,19,1625680873,Covid-19 and lasting erectile dysfunction: Here’s what we know,story,https://www.latimes.com/california/story/2021-07-06/can-covid-19-cause-lasting-erectile-dysfunction,,latimes.com
+LinuxBender,5,27738138,14,1625493999,The Origin of Technosignatures,story,https://www.scientificamerican.com/article/the-origin-of-technosignatures/,,scientificamerican.com
