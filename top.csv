@@ -1,16 +1,26 @@
 by,descendants,id,score,time,title,type,url,text,domain
-jonbaer,16,27861991,47,1626475084,The Computer Scientist Training AI to Think with Analogies,story,https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/,,quantamagazine.org
-dnetesn,32,27850277,126,1626384034,How to unlearn a disease,story,https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp,,nautil.us
-sohkamyung,78,27840860,156,1626316395,The biological basis for sex differences in autoimmune diseases,story,https://www.nature.com/articles/d41586-021-01836-9,,nature.com
-Terretta,1,27858193,12,1626454082,The truth behind the Amazon mystery seeds,story,https://www.theatlantic.com/science/archive/2021/07/unsolicited-seeds-china-brushing/619417/,,theatlantic.com
-ksec,1,27857219,12,1626449102,Google and Dropbox blocking document with vaccination headlines,story,https://twitter.com/BreesAnna/status/1384763150109716481,,twitter.com
-vanilla-almond,1,27847285,22,1626370122,Two drug companies fined £260m for swindling NHS over 'life-saving medicines',story,https://news.sky.com/story/two-drug-companies-fined-163260m-for-swindling-nhs-over-life-saving-medicines-12356252,,news.sky.com
-0xdeadb00f,13,27839916,35,1626306765,Covid(4) – NetBSD Manual Pages,story,https://man.netbsd.org/vax/covid.4,,man.netbsd.org
-sohkamyung,0,27840882,16,1626316645,‘Super antibody’ for Covid fights off multiple coronaviruses,story,https://www.nature.com/articles/d41586-021-01917-9,,nature.com
-wonnage,48,27852130,51,1626398799,Is Ivermectin for Covid-19 Based on Fraudulent Research?,story,https://gidmk.medium.com/is-ivermectin-for-covid-19-based-on-fraudulent-research-5cc079278602,,gidmk.medium.com
-powera,5,27849815,19,1626381452,Study supporting ivermectin as Covid treatment withdrawn,story,https://www.theguardian.com/science/2021/jul/16/huge-study-supporting-ivermectin-as-covid-treatment-withdrawn-over-ethical-concerns,,theguardian.com
-erehweb,3,27846146,11,1626364308,The truth behind the Amazon mystery seeds,story,https://www.theatlantic.com/science/archive/2021/07/unsolicited-seeds-china-brushing/619417/,,theatlantic.com
-uptown,11,27837105,54,1626289899,"Over 10k species risk extinction in Amazon, says landmark report",story,https://www.reuters.com/business/environment/over-10000-species-risk-extinction-amazon-says-landmark-report-2021-07-14/,,reuters.com
-mparramon,1,27830414,16,1626245677,Museum obtains rare demo of id Software’s Super Mario Bros. 3 PC port,story,https://arstechnica.com/gaming/2021/07/museum-obtains-rare-demo-of-id-softwares-super-mario-bros-3-pc-port/,,arstechnica.com
-notscj,0,27849408,12,1626379299,White House ‘flagging’ posts for Facebook to censor over Covid ‘misinformation’,story,https://nypost.com/2021/07/15/white-house-flagging-posts-for-facebook-to-censor-due-to-covid-19-misinformation/,,nypost.com
-317070,6,27848279,66,1626373798,Highly accurate protein structure prediction with AlphaFold,story,https://www.nature.com/articles/s41586-021-03819-2,,nature.com
+34679,100,27880689,147,1626687531,Children are spoofing Covid-19 tests with soft drinks,story,https://www.bbc.com/future/article/20210705-how-children-are-spoofing-covid-19-tests-with-soft-drinks,,bbc.com
+pizzicato,19,27874350,71,1626626570,"Show HN: Muler, a search engine for drug info built with Flask",story,http://muler.pythonanywhere.com/,,muler.pythonanywhere.com
+bjoko,13,27876165,75,1626638622,MVT – forensic tool to look for infections on smartphones,story,https://github.com/mvt-project/mvt,,github.com
+walterbell,62,27868923,219,1626556457,"Mysterious DNA sequences, known as ‘Borgs,’ recovered from California mud",story,https://www.sciencemag.org/news/2021/07/mysterious-dna-sequences-known-borgs-recovered-california-mud,,sciencemag.org
+tanin,58,27871574,95,1626597627,Show HN: Work with CSV files using SQL. For data scientists and engineers,story,https://superintendent.app/,,superintendent.app
+thunderbong,21,27872292,69,1626610612,Soviet scientific calculator gives up its Cold War-era secrets,story,https://hackaday.com/2021/07/17/soviet-scientific-calculator-gives-up-its-cold-war-era-secrets/,,hackaday.com
+lawrenceyan,69,27857680,173,1626451228,"To help gamers on Twitch, Dr. K balances mental health advice and medical ethics",story,https://www.npr.org/2021/01/13/956315576/psychiatrist-criticized-for-addressing-mental-health-issues-on-twitch,,npr.org
+walterbell,74,27870025,90,1626570142,Toxoplasmosis: An important risk factor for acquiring SARS-CoV-2 infection,story,https://www.medrxiv.org/content/10.1101/2021.05.15.21257257v1.full,,medrxiv.org
+Anon84,179,27865149,93,1626522496,Consciousness and the Laws of Physics,story,https://philpapers.org/rec/CARCAT-31,,philpapers.org
+apsec112,13,27859530,83,1626460178,Speeding Up Reinforcement Learning with a New Physics Simulation Engine,story,https://ai.googleblog.com/2021/07/speeding-up-reinforcement-learning-with.html,,ai.googleblog.com
+fortran77,31,27872804,16,1626615404,Treating the Unvaccinated,story,https://www.newyorker.com/science/medical-dispatch/treating-the-unvaccinated,,newyorker.com
+jonbaer,32,27861991,116,1626475084,The Computer Scientist Training AI to Think with Analogies,story,https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/,,quantamagazine.org
+colinprince,25,27869469,46,1626562842,Neuroscientists are ignoring the differences between males and females,story,https://www.newscientist.com/article/2283801-neuroscientists-are-ignoring-the-differences-between-males-and-females/,,newscientist.com
+lsllc,2,27869717,26,1626565761,RustBelt: Computer Scientist proves safety claims of Rust programming language,story,https://www.eurekalert.org/pub_releases/2021-07/su-cs071521.php,,eurekalert.org
+leblancfg,54,27869673,50,1626565162,Canada's vaccination rate overtakes US,story,https://www.bbc.com/news/world-us-canada-57869947,,bbc.com
+sohkamyung,79,27840860,156,1626316395,The biological basis for sex differences in autoimmune diseases,story,https://www.nature.com/articles/d41586-021-01836-9,,nature.com
+dnetesn,32,27850277,130,1626384034,How to unlearn a disease,story,https://nautil.us/issue/103/healthy-communication/how-to-unlearn-a-disease-rp,,nautil.us
+sam345,215,27863535,197,1626495969,"Cancer risks increase with alcohol use, leading to over 740k cases last year",story,https://www.npr.org/sections/goatsandsoda/2021/07/16/1016586837/new-study-says-nearly-3-4-million-cancers-a-year-linked-to-alcohol-use,,npr.org
+leotravis10,0,27868669,26,1626554422,"The true extent of America’s food monopolies, and who pays the price",story,https://www.theguardian.com/environment/ng-interactive/2021/jul/14/food-monopoly-meals-profits-data-investigation,,theguardian.com
+Santosh83,0,27874683,11,1626629074,"Africa’s Covid Crisis Deepens, but Vaccines Are Still Far Off",story,https://www.nytimes.com/interactive/2021/07/16/world/africa/africa-vaccination-rollout.html,,nytimes.com
+jakobdabo,4,27872375,18,1626611521,Covid-19's Effects on Kids Are Even Stranger Than We Thought,story,https://www.theatlantic.com/science/archive/2021/07/clues-about-mis-c-and-covid-19-kids/619447/,,theatlantic.com
+fortran77,3,27869190,11,1626559420,The Truth Behind the Amazon Mystery Seeds,story,https://www.theatlantic.com/science/archive/2021/07/unsolicited-seeds-china-brushing/619417/,,theatlantic.com
+lentil_soup,23,27871131,25,1626590110,Majority of Covid misinformation came from 12 people,story,https://www.theguardian.com/world/2021/jul/17/covid-misinformation-conspiracy-theories-ccdh-report,,theguardian.com
+deanclatworthy,83,27867635,53,1626545762,'Havana syndrome'-like mystery illness affects Vienna US diplomats,story,https://www.bbc.com/news/world-europe-57875322,,bbc.com
+open-source-ux,16,27865198,13,1626523225,Coronavirus doctor's diary: Unvaccinated patients with many regrets,story,https://www.bbc.co.uk/news/stories-57866661,,bbc.co.uk
