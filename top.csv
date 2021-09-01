@@ -1,13 +1,13 @@
 by,descendants,id,score,time,title,type,url,text,domain
-matt_d,5,28374523,30,1630449678,It's Time for Operating Systems to Rediscover Hardware,story,https://www.usenix.org/conference/osdi21/presentation/fri-keynote,,usenix.org
-rodrigo975,5,28370866,51,1630430596,RSA/SHA1 signature type disabled by default in OpenSSH,story,https://undeadly.org/cgi?action=article;sid=20210830113413,,undeadly.org
-hiddencache,125,28367524,181,1630414996,Toxic ‘forever chemicals’ contaminate indoor air at worrying levels,story,https://www.theguardian.com/society/2021/aug/31/pfas-toxic-forever-chemicals-air-breathing,,theguardian.com
-rmason,22,28371397,32,1630433138,"On the front lines, here’s what the seven stages of severe Covid-19 look like",story,https://www.latimes.com/opinion/story/2021-08-26/pandemic-covid-19-stages-vaccination-intensive-care-respiratory-therapist,,latimes.com
-pessimizer,0,28372281,15,1630437534,Johnson and Johnson’s HIV vaccine fails first efficacy trial,story,https://www.statnews.com/2021/08/31/first-efficacy-trial-of-johnson-johnsons-hiv-vaccine-fails/,,statnews.com
+matt_d,8,28374523,47,1630449678,It's Time for Operating Systems to Rediscover Hardware,story,https://www.usenix.org/conference/osdi21/presentation/fri-keynote,,usenix.org
+rodrigo975,5,28370866,54,1630430596,RSA/SHA1 signature type disabled by default in OpenSSH,story,https://undeadly.org/cgi?action=article;sid=20210830113413,,undeadly.org
+hiddencache,127,28367524,182,1630414996,Toxic ‘forever chemicals’ contaminate indoor air at worrying levels,story,https://www.theguardian.com/society/2021/aug/31/pfas-toxic-forever-chemicals-air-breathing,,theguardian.com
+rmason,22,28371397,35,1630433138,"On the front lines, here’s what the seven stages of severe Covid-19 look like",story,https://www.latimes.com/opinion/story/2021-08-26/pandemic-covid-19-stages-vaccination-intensive-care-respiratory-therapist,,latimes.com
+pessimizer,0,28372281,16,1630437534,Johnson and Johnson’s HIV vaccine fails first efficacy trial,story,https://www.statnews.com/2021/08/31/first-efficacy-trial-of-johnson-johnsons-hiv-vaccine-fails/,,statnews.com
 boffinism,80,28370887,71,1630430686,Fake Banksy NFT sold through artist's website for £244k,story,https://www.bbc.co.uk/news/technology-58399338,,bbc.co.uk
-hncurious,21,28372834,33,1630440173,Society Will Never Be Free of Covid-19–It’s Time to Embrace Harm Reduction,story,https://www.cato.org/pandemics-policy/society-will-never-be-free-covid-19-its-time-embrace-harm-reduction,,cato.org
+hncurious,27,28372834,33,1630440173,Society Will Never Be Free of Covid-19–It’s Time to Embrace Harm Reduction,story,https://www.cato.org/pandemics-policy/society-will-never-be-free-covid-19-its-time-embrace-harm-reduction,,cato.org
 scott_s,67,28355273,97,1630328937,How to Paint 50k Miles of Lines,story,https://www.nytimes.com/interactive/2021/08/26/arts/design/road-lines.html,,nytimes.com
-e2e4,5,28365135,13,1630397625,Facebook's experimental performance oriented greenfield implementation of Python,story,https://github.com/facebookexperimental/skybison,,github.com
+e2e4,5,28365135,14,1630397625,Facebook's experimental performance oriented greenfield implementation of Python,story,https://github.com/facebookexperimental/skybison,,github.com
 gamontserrat,6,28355115,43,1630327856,Scientists discover how high-energy electrons strengthen magnetic fields,story,https://www6.slac.stanford.edu/news/2021-07-19-scientists-discover-how-high-energy-electrons-strengthen-magnetic-fields.aspx,,www6.slac.stanford.edu
 musha68k,70,28364281,98,1630387965,Predictors of Nonseroconversion after SARS-CoV-2 Infection,story,https://wwwnc.cdc.gov/eid/article/27/9/21-1042_article,,wwwnc.cdc.gov
 TrueJane,36,28356781,75,1630338142,The Unsolved Mystery of the D-Day Puzzles,story,https://www.history.co.uk/articles/the-unsolved-mystery-of-the-d-day-puzzles,,history.co.uk
