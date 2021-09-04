@@ -1,23 +1,24 @@
 by,descendants,id,score,time,title,type,url,text,domain
-jessedrain,29,28388676,57,1630557258,Lessons Learned from Two Years as a Data Scientist,story,https://dawndrain.github.io/braindrain/two_years.html,,dawndrain.github.io
-mellosouls,138,28414806,126,1630761331,Many young people diagnosed with Tourette’s after watching a YouTube channel,story,https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann,,wired.co.uk
-Schiphol,2,28413891,16,1630752382,Theoretical modeling for cognitive science and psychology,story,https://computationalcognitivescience.github.io/lovelace/home,,computationalcognitivescience.github.io
-Smaug123,91,28397132,222,1630615520,Z3 approach to discover that “q_rsqrt” is in Copilot's slur list,story,https://twitter.com/moyix/status/1433261377125326851,,twitter.com
-CarCooler,20,28416480,125,1630773138,"Developer returns to game after 4 decades, discovers and fixes typo so it works",story,https://www.pcgamer.com/developer-returns-to-game-after-four-decades-discovers-and-fixes-typo-so-it-works/,,pcgamer.com
-privatdozent,17,28414005,60,1630753711,The Golden Age of Quantum Physics,story,https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7,,privatdozent.co
-hhs,0,28416093,15,1630770421,Our Universe may have a 5th dimension that would change everything about physics,story,https://www.sciencefocus.com/space/fifth-dimension/,,sciencefocus.com
+jessedrain,38,28388676,72,1630557258,Lessons Learned from Two Years as a Data Scientist,story,https://dawndrain.github.io/braindrain/two_years.html,,dawndrain.github.io
+mellosouls,153,28414806,137,1630761331,Many young people diagnosed with Tourette’s after watching a YouTube channel,story,https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann,,wired.co.uk
+Smaug123,94,28397132,229,1630615520,Z3 approach to discover that “q_rsqrt” is in Copilot's slur list,story,https://twitter.com/moyix/status/1433261377125326851,,twitter.com
+Schiphol,2,28413891,20,1630752382,Theoretical modeling for cognitive science and psychology,story,https://computationalcognitivescience.github.io/lovelace/home,,computationalcognitivescience.github.io
+privatdozent,18,28414005,64,1630753711,The Golden Age of Quantum Physics,story,https://www.privatdozent.co/p/the-golden-age-of-quantum-physics-ff7,,privatdozent.co
+CarCooler,21,28416480,131,1630773138,"Developer returns to game after 4 decades, discovers and fixes typo so it works",story,https://www.pcgamer.com/developer-returns-to-game-after-four-decades-discovers-and-fixes-typo-so-it-works/,,pcgamer.com
+hhs,0,28416093,16,1630770421,Our Universe may have a 5th dimension that would change everything about physics,story,https://www.sciencefocus.com/space/fifth-dimension/,,sciencefocus.com
 benbreen,15,28394642,54,1630602740,The mysterious disappearance of the longest shrubbery,story,https://www.bbc.com/future/article/20210824-how-the-worlds-longest-shrubbery-vanished-without-trace,,bbc.com
-cratermoon,323,28394834,436,1630603569,Use of artificial intelligence for image analysis in breast cancer screening,story,https://www.bmj.com/content/374/bmj.n1872,,bmj.com
+cratermoon,323,28394834,437,1630603569,Use of artificial intelligence for image analysis in breast cancer screening,story,https://www.bmj.com/content/374/bmj.n1872,,bmj.com
 Tomte,13,28408010,46,1630695739,The Unsuccessful Treatment of a Case of “Writer's Block” (1974) [pdf],story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1311997/pdf/jaba00061-0143a.pdf,,ncbi.nlm.nih.gov
+gdubs,2,28415873,11,1630768803,Food security and climate change: a critical warning for humanity [thread],story,https://twitter.com/jimbair62221006/status/1433829191405826052,,twitter.com
 elsombrero,154,28402544,251,1630666086,GitHub Copilot Generated Insecure Code in 40% of Circumstances During Experiment,story,https://www.theinsaneapp.com/2021/09/github-copilot-generated-40-percent-insecure-code.html,,theinsaneapp.com
-ZainRiz,261,28394752,402,1630603159,Experiments on a $50 DIY air purifier (2020),story,https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/,,dynomight.net
+ZainRiz,261,28394752,403,1630603159,Experiments on a $50 DIY air purifier (2020),story,https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/,,dynomight.net
 lonk11,4,28405643,18,1630683728,Show HN: LinkLonk – information discovery with aligned incentives,story,https://linklonk.com,,linklonk.com
 dsr12,61,28406969,79,1630690043,India’s DNA Covid vaccine is a world first – more are coming,story,https://www.nature.com/articles/d41586-021-02385-x,,nature.com
 hheikinh,327,28381108,175,1630510251,"Israel’s Covid-19 boosters are preventing infections, new studies suggest",story,https://www.science.org/content/article/israel-s-covid-19-boosters-are-preventing-infections-new-studies-suggest,,science.org
 paulpauper,41,28397362,68,1630616749,"Walmart and McDonalds have most workers on food stamps and Medicaid, study shows",story,https://www.washingtonpost.com/business/2020/11/18/food-stamps-medicaid-mcdonalds-walmart-bernie-sanders/,,washingtonpost.com
-bryan0,92,28409379,75,1630702970,UK scientists not backing Covid jabs for 12 to 15-year-olds,story,https://www.bbc.com/news/health-58438669,,bbc.com
+bryan0,93,28409379,75,1630702970,UK scientists not backing Covid jabs for 12 to 15-year-olds,story,https://www.bbc.com/news/health-58438669,,bbc.com
 djrogers,221,28407116,151,1630690799,"Surgical masks reduce Covid-19 spread, large-scale Stanford study shows",story,https://med.stanford.edu/news/all-news/2021/09/surgical-masks-covid-19.html,,med.stanford.edu
-rolph,168,28416654,53,1630774132,Doctors and pharmacists ramp up calls for Americans to stop using ivermectin,story,https://www.adn.com/nation-world/2021/09/03/doctors-and-pharmacists-ramp-up-calls-for-americans-to-stop-using-ivermectin-to-treat-covid-19/,,adn.com
+rolph,174,28416654,55,1630774132,Doctors and pharmacists ramp up calls for Americans to stop using ivermectin,story,https://www.adn.com/nation-world/2021/09/03/doctors-and-pharmacists-ramp-up-calls-for-americans-to-stop-using-ivermectin-to-treat-covid-19/,,adn.com
 samizdis,150,28394517,159,1630602115,Sacklers granted lifetime legal immunity in opioid settlement,story,https://arstechnica.com/science/2021/09/billionaire-sacklers-granted-lifetime-legal-immunity-in-opioid-settlement/,,arstechnica.com
 gmays,84,28380532,175,1630507852,Rogue antibodies involved in almost one-fifth of Covid deaths,story,https://www.nature.com/articles/d41586-021-02337-5,,nature.com
 walterbell,27,28381581,67,1630512272,Japan finds stainless steel particles in suspended doses of Moderna vaccine,story,https://www.reuters.com/business/healthcare-pharmaceuticals/japan-finds-stainless-steel-particles-suspended-doses-moderna-vaccine-2021-09-01/,,reuters.com
