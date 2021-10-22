@@ -1,24 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-caseyross,127,28895128,265,1634463174,Facts every web dev should know before they burn out and turn to painting,story,https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/,,baldurbjarnason.com
-signa11,4,28917017,41,1634643540,A Meta-Scientific Perspective on “Thinking: Fast and Slow,story,https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/,,replicationindex.com
-fagnerbrack,16,28940227,95,1634790157,Mihalyi Csikszentmihalyi who recognised the psychological concept of flow died,story,https://twitter.com/sbkaufman/status/1450946151352471553,,twitter.com
-bcaulfield,4,28936324,88,1634762920,Injury response to DNA damage in live tumor cells promotes antitumor immunity,story,https://www.science.org/doi/10.1126/scisignal.abc4764,,science.org
-sohkamyung,6,28939178,25,1634779630,Covid vaccine makers brace for a variant worse than Delta,story,https://www.nature.com/articles/d41586-021-02854-3,,nature.com
-thedday,0,28938461,13,1634774150,"A Common Infection Could Be a Trigger for Multiple Sclerosis, Large Study Finds",story,https://www.sciencealert.com/new-study-gives-more-evidence-multiple-sclerosis-might-start-with-an-earlier-infection,,sciencealert.com
-mooreds,83,28929711,55,1634731937,"Worn-out nurses hit the road for better pay, stressing hospital budgets, morale",story,https://text.npr.org/1046131313,,text.npr.org
-infodocket,112,28912295,503,1634594044,First federal grant for psychedelic treatment research in 50 years,story,https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years,,hopkinsmedicine.org
-AndrewBissell,38,28936208,51,1634762458,"COVID vaccine injury claims mount, but recourse is lacking for those harmed",story,https://www.reuters.com/legal/government/covid-vaccine-injury-claims-mount-recourse-is-lacking-those-harmed-2021-10-19/,,reuters.com
-mitchbob,2,28935584,13,1634760051,What Scientists Are Learning About Estrogen and Exercise,story,https://www.nytimes.com/2021/10/20/well/move/exercise-estrogen-levels.html,,nytimes.com
-stokaasto,67,28906333,359,1634570438,Open-sourcing the MuJoCo physics simulator for robotics,story,https://deepmind.com/blog/announcements/mujoco,,deepmind.com
-rolph,209,28933386,206,1634750917,WHO asks South African startup to replicate Moderna's mRNA vaccine,story,https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun,,npr.org
-CTOSian,9,28930367,35,1634736340,"Hospital to Run GNU Health, OpenSUSE",story,https://news.opensuse.org/2021/10/20/hospital-to-run-gnu-health-openSUSE/,,news.opensuse.org
-throwaway879080,39,28935978,22,1634761476,"Nearly 1,900 Washington state employees quit, fired over vaccine mandate",story,https://thehill.com/homenews/state-watch/577563-nearly-1900-washington-state-employees-quit-fired-over-vaccine-mandate,,thehill.com
+caseyross,391,28895128,568,1634463174,Facts every web dev should know before they burn out and turn to painting,story,https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/,,baldurbjarnason.com
+signa11,39,28917017,125,1634643540,A Meta-Scientific Perspective on Thinking: Fast and Slow (2020),story,https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/,,replicationindex.com
+bcaulfield,7,28936324,109,1634762920,Injury response to DNA damage in live tumor cells promotes antitumor immunity,story,https://www.science.org/doi/10.1126/scisignal.abc4764,,science.org
+stelza26,2,28944041,11,1634822968,Covid-19 has altered small-sized machine builders' buying habits,story,https://www.controldesign.com/articles/2021/how-covid-19-has-altered-small-sized-machine-builders-buying-habits/,,controldesign.com
+infodocket,113,28912295,507,1634594044,First federal grant for psychedelic treatment research in 50 years,story,https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years,,hopkinsmedicine.org
+sohkamyung,18,28939178,42,1634779630,Covid vaccine makers brace for a variant worse than Delta,story,https://www.nature.com/articles/d41586-021-02854-3,,nature.com
+mooreds,91,28929711,58,1634731937,"Worn-out nurses hit the road for better pay, stressing hospital budgets, morale",story,https://text.npr.org/1046131313,,text.npr.org
+stokaasto,69,28906333,361,1634570438,Open-sourcing the MuJoCo physics simulator for robotics,story,https://deepmind.com/blog/announcements/mujoco,,deepmind.com
+thedday,0,28938461,15,1634774150,"A Common Infection Could Be a Trigger for Multiple Sclerosis, Large Study Finds",story,https://www.sciencealert.com/new-study-gives-more-evidence-multiple-sclerosis-might-start-with-an-earlier-infection,,sciencealert.com
+CTOSian,9,28930367,40,1634736340,"Hospital to Run GNU Health, OpenSUSE",story,https://news.opensuse.org/2021/10/20/hospital-to-run-gnu-health-openSUSE/,,news.opensuse.org
+mkoc,62,28911883,99,1634591830,Physicists make most precise measurement of neutron’s lifetime,story,https://www.nature.com/articles/d41586-021-02812-z,,nature.com
 pgrote,1,28926254,41,1634698669,"In a First, Surgeons Attached a Pig Kidney to a Human – and It Worked",story,https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html,,nytimes.com
-mkoc,60,28911883,99,1634591830,Physicists make most precise measurement of neutron’s lifetime,story,https://www.nature.com/articles/d41586-021-02812-z,,nature.com
-Pamar,4,28928430,12,1634720567,Why can’t the world’s greatest minds solve the mystery of consciousness?,story,https://www.theguardian.com/science/2015/jan/21/-sp-why-cant-worlds-greatest-minds-solve-mystery-consciousness,,theguardian.com
-Thevet,66,28893977,227,1634445218,An underwater mystery on Canada's coast,story,https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast,,bbc.com
+isabelc,27,28940630,27,1634793764,Covid-19 Vaccines and the Menstrual Cycle,story,https://covid19.nih.gov/news-and-stories/covid-19-vaccines-and-menstrual-cycle,,covid19.nih.gov
+Thevet,66,28893977,228,1634445218,An underwater mystery on Canada's coast,story,https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast,,bbc.com
+rolph,218,28933386,209,1634750917,WHO asks South African startup to replicate Moderna's mRNA vaccine,story,https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun,,npr.org
+mitchbob,2,28935584,13,1634760051,What Scientists Are Learning About Estrogen and Exercise,story,https://www.nytimes.com/2021/10/20/well/move/exercise-estrogen-levels.html,,nytimes.com
 smollett,4,28900374,19,1634509843,Of Scarface and the Nobel – The Double Life of Mariel,story,https://adamtooze.com/2021/10/12/chartbook-45-of-scarface-the-nobel-the-double-life-of-mariel/,,adamtooze.com
-bashinator,47,28918434,180,1634653569,Google de-indexes 3k articles over bogus DMCA notice,story,https://www.wheelsjoint.com/google-deletes-3000-articles-over-bogus-dmca-notice/,,wheelsjoint.com
-giuliomagnifico,2,28898851,18,1634497355,Digital artist creates collages to show the contrast of the world,story,https://121clicks.com/inspirations/ugur-gallenkus-contrast-between-world-collages,,121clicks.com
-wolverine876,22,28893605,102,1634440192,The Food Timeline,story,https://foodtimeline.org/,,foodtimeline.org
-nopassrecover,11,28893253,100,1634435090,The unsolved mystery of the Earth blobs (2019),story,https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs,,eos.org
