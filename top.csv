@@ -1,10 +1,12 @@
 by,descendants,id,score,time,title,type,url,text,domain
-fipar,13,28929580,79,1634730818,Scientific notation bug in MySQL left AWS WAF vulnerable to SQL injection,story,https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/,,gosecure.net
-caseyross,398,28895128,575,1634463174,Facts every web dev should know before they burn out and turn to painting,story,https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/,,baldurbjarnason.com
+fipar,14,28929580,88,1634730818,Scientific notation bug in MySQL left AWS WAF vulnerable to SQL injection,story,https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/,,gosecure.net
+version_five,7,28953606,12,1634874975,Chicago grapples with police vaccine revolt,story,https://www.bbc.com/news/world-us-canada-58989555,,bbc.com
+caseyross,399,28895128,580,1634463174,Facts every web dev should know before they burn out and turn to painting,story,https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/,,baldurbjarnason.com
+webmaven,1,28953069,11,1634869116,"Organizing online, Covid skeptics drive public health pros from their jobs",story,https://www.npr.org/2021/10/20/1047336966/organizing-on-social-media-covid-skeptics-drive-public-health-professionals-from,,npr.org
 signa11,39,28917017,126,1634643540,A Meta-Scientific Perspective on Thinking: Fast and Slow (2020),story,https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/,,replicationindex.com
 bcaulfield,7,28936324,109,1634762920,Injury response to DNA damage in live tumor cells promotes antitumor immunity,story,https://www.science.org/doi/10.1126/scisignal.abc4764,,science.org
-stelza26,2,28944041,12,1634822968,Covid-19 has altered small-sized machine builders' buying habits,story,https://www.controldesign.com/articles/2021/how-covid-19-has-altered-small-sized-machine-builders-buying-habits/,,controldesign.com
 infodocket,114,28912295,508,1634594044,First federal grant for psychedelic treatment research in 50 years,story,https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years,,hopkinsmedicine.org
+stelza26,2,28944041,12,1634822968,Covid-19 has altered small-sized machine builders' buying habits,story,https://www.controldesign.com/articles/2021/how-covid-19-has-altered-small-sized-machine-builders-buying-habits/,,controldesign.com
 sohkamyung,18,28939178,43,1634779630,Covid vaccine makers brace for a variant worse than Delta,story,https://www.nature.com/articles/d41586-021-02854-3,,nature.com
 mooreds,91,28929711,59,1634731937,"Worn-out nurses hit the road for better pay, stressing hospital budgets, morale",story,https://text.npr.org/1046131313,,text.npr.org
 stokaasto,69,28906333,361,1634570438,Open-sourcing the MuJoCo physics simulator for robotics,story,https://deepmind.com/blog/announcements/mujoco,,deepmind.com
@@ -14,6 +16,6 @@ pgrote,1,28926254,42,1634698669,"In a First, Surgeons Attached a Pig Kidney to a
 CTOSian,9,28930367,40,1634736340,"Hospital to Run GNU Health, OpenSUSE",story,https://news.opensuse.org/2021/10/20/hospital-to-run-gnu-health-openSUSE/,,news.opensuse.org
 Thevet,66,28893977,228,1634445218,An underwater mystery on Canada's coast,story,https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast,,bbc.com
 isabelc,27,28940630,27,1634793764,Covid-19 Vaccines and the Menstrual Cycle,story,https://covid19.nih.gov/news-and-stories/covid-19-vaccines-and-menstrual-cycle,,covid19.nih.gov
-rolph,218,28933386,209,1634750917,WHO asks South African startup to replicate Moderna's mRNA vaccine,story,https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun,,npr.org
 smollett,4,28900374,19,1634509843,Of Scarface and the Nobel – The Double Life of Mariel,story,https://adamtooze.com/2021/10/12/chartbook-45-of-scarface-the-nobel-the-double-life-of-mariel/,,adamtooze.com
+rolph,218,28933386,209,1634750917,WHO asks South African startup to replicate Moderna's mRNA vaccine,story,https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun,,npr.org
 mitchbob,2,28935584,13,1634760051,What Scientists Are Learning About Estrogen and Exercise,story,https://www.nytimes.com/2021/10/20/well/move/exercise-estrogen-levels.html,,nytimes.com
