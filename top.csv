@@ -1,16 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-caseyross,391,28895128,568,1634463174,Facts every web dev should know before they burn out and turn to painting,story,https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/,,baldurbjarnason.com
+fipar,3,28929580,44,1634730818,Scientific Notation Bug in MySQL Left AWS WAF Vulnerable to SQL Injection,story,https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/,,gosecure.net
+caseyross,396,28895128,570,1634463174,Facts every web dev should know before they burn out and turn to painting,story,https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/,,baldurbjarnason.com
 signa11,39,28917017,125,1634643540,A Meta-Scientific Perspective on Thinking: Fast and Slow (2020),story,https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/,,replicationindex.com
 bcaulfield,7,28936324,109,1634762920,Injury response to DNA damage in live tumor cells promotes antitumor immunity,story,https://www.science.org/doi/10.1126/scisignal.abc4764,,science.org
 stelza26,2,28944041,11,1634822968,Covid-19 has altered small-sized machine builders' buying habits,story,https://www.controldesign.com/articles/2021/how-covid-19-has-altered-small-sized-machine-builders-buying-habits/,,controldesign.com
-infodocket,113,28912295,507,1634594044,First federal grant for psychedelic treatment research in 50 years,story,https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years,,hopkinsmedicine.org
+infodocket,114,28912295,508,1634594044,First federal grant for psychedelic treatment research in 50 years,story,https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years,,hopkinsmedicine.org
 sohkamyung,18,28939178,42,1634779630,Covid vaccine makers brace for a variant worse than Delta,story,https://www.nature.com/articles/d41586-021-02854-3,,nature.com
 mooreds,91,28929711,58,1634731937,"Worn-out nurses hit the road for better pay, stressing hospital budgets, morale",story,https://text.npr.org/1046131313,,text.npr.org
 stokaasto,69,28906333,361,1634570438,Open-sourcing the MuJoCo physics simulator for robotics,story,https://deepmind.com/blog/announcements/mujoco,,deepmind.com
 thedday,0,28938461,15,1634774150,"A Common Infection Could Be a Trigger for Multiple Sclerosis, Large Study Finds",story,https://www.sciencealert.com/new-study-gives-more-evidence-multiple-sclerosis-might-start-with-an-earlier-infection,,sciencealert.com
-CTOSian,9,28930367,40,1634736340,"Hospital to Run GNU Health, OpenSUSE",story,https://news.opensuse.org/2021/10/20/hospital-to-run-gnu-health-openSUSE/,,news.opensuse.org
 mkoc,62,28911883,99,1634591830,Physicists make most precise measurement of neutron’s lifetime,story,https://www.nature.com/articles/d41586-021-02812-z,,nature.com
 pgrote,1,28926254,41,1634698669,"In a First, Surgeons Attached a Pig Kidney to a Human – and It Worked",story,https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html,,nytimes.com
+CTOSian,9,28930367,40,1634736340,"Hospital to Run GNU Health, OpenSUSE",story,https://news.opensuse.org/2021/10/20/hospital-to-run-gnu-health-openSUSE/,,news.opensuse.org
 isabelc,27,28940630,27,1634793764,Covid-19 Vaccines and the Menstrual Cycle,story,https://covid19.nih.gov/news-and-stories/covid-19-vaccines-and-menstrual-cycle,,covid19.nih.gov
 Thevet,66,28893977,228,1634445218,An underwater mystery on Canada's coast,story,https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast,,bbc.com
 rolph,218,28933386,209,1634750917,WHO asks South African startup to replicate Moderna's mRNA vaccine,story,https://www.npr.org/sections/goatsandsoda/2021/10/19/1047411856/the-great-vaccine-bake-off-has-begun,,npr.org
