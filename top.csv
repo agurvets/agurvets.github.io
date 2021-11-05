@@ -1,17 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-infodocket,12,29113533,35,1636067172,World Food Prices Reach New Peak Since July 2011,story,https://www.fao.org/worldfoodsituation/foodpricesindex/en/,,fao.org
-infodocket,98,29112031,104,1636056985,Why is Delta so infectious? New tool spotlights little-noticed mutation,story,https://www.science.org/content/article/why-delta-so-infectious-new-lab-tool-spotlights-little-noticed-mutation-speeds-viral-spread,,science.org
-XoS-490,15,29108183,66,1636038744,Isomorphic Labs: Reimagining drug discovery with an AI-first approach,story,https://www.isomorphiclabs.com/blog,,isomorphiclabs.com
+infodocket,29,29113533,52,1636067172,World food prices reach new peak since July 2011,story,https://www.fao.org/worldfoodsituation/foodpricesindex/en/,,fao.org
+infodocket,114,29112031,114,1636056985,Why is Delta so infectious? New tool spotlights little-noticed mutation,story,https://www.science.org/content/article/why-delta-so-infectious-new-lab-tool-spotlights-little-noticed-mutation-speeds-viral-spread,,science.org
+XoS-490,16,29108183,66,1636038744,Isomorphic Labs: Reimagining drug discovery with an AI-first approach,story,https://www.isomorphiclabs.com/blog,,isomorphiclabs.com
 prismatic,2,29077652,18,1635833275,The Artist Behind the Bowler Hat,story,https://literaryreview.co.uk/the-artist-behind-the-bowler-hat,,literaryreview.co.uk
-diodorus,7,29091270,25,1635915758,‘Rare find’: amphitheatre dig in Kent paints picture of Roman town,story,https://www.theguardian.com/uk-news/2021/oct/28/amphitheatre-dig-kent-roman-town-richborough,,theguardian.com
-stelza26,12,29107319,34,1636034663,New drug to treat meth addiction receives major NIH grant,story,https://www.pharmamanufacturing.com/industrynews/2021/new-drug-to-treat-meth-addiction-receives-major-nih-grant/,,pharmamanufacturing.com
-adharmad,312,29076548,807,1635823126,Physics Student Earns PhD at Age 89,story,https://www.brown.edu/academics/physics/news/2021/11/brown-physics-student-manfred-steiner-earns-phd-age-89,,brown.edu
+diodorus,7,29091270,26,1635915758,‘Rare find’: amphitheatre dig in Kent paints picture of Roman town,story,https://www.theguardian.com/uk-news/2021/oct/28/amphitheatre-dig-kent-roman-town-richborough,,theguardian.com
+stelza26,12,29107319,35,1636034663,New drug to treat meth addiction receives major NIH grant,story,https://www.pharmamanufacturing.com/industrynews/2021/new-drug-to-treat-meth-addiction-receives-major-nih-grant/,,pharmamanufacturing.com
+adharmad,312,29076548,808,1635823126,Physics Student Earns PhD at Age 89,story,https://www.brown.edu/academics/physics/news/2021/11/brown-physics-student-manfred-steiner-earns-phd-age-89,,brown.edu
 SquibblesRedux,9,29101979,24,1635982912,Louisiana WWII vet's body dissected publicly,story,https://www.theadvocate.com/baton_rouge/news/article_cca7c34c-3cdd-11ec-9cb9-f3d0a583c921.html,,theadvocate.com
 crazypython,12,29090604,61,1635907997,TLSNotary – Prove you received a webpage from a server with TLS signatures,story,https://tlsnotary.org,,tlsnotary.org
 behnamoh,0,29102093,14,1635983646,Awesome Scientific Writing – A curated list,story,https://writing-resources.github.io/awesome-scientific-writing/,,writing-resources.github.io
 samizdis,2,29106637,14,1636031035,Springer Nature geosciences journal retracts 44 articles filled with gibberish,story,https://retractionwatch.com/2021/11/04/springer-nature-geosciences-journal-retracts-44-articles-filled-with-gibberish/#more-123459,,retractionwatch.com
-sundarurfriend,9,29098875,17,1635965977,DrWatson: A scientific project assistant in Julia,story,https://juliadynamics.github.io/DrWatson.jl/dev/,,juliadynamics.github.io
-Geekette,240,29087057,370,1635885661,Suspected head of $21B crime syndicate may be world’s most innovative drug lord,story,https://torontolife.com/city/this-man-is-the-jeff-bezos-of-the-international-drug-trade/,,torontolife.com
+Geekette,240,29087057,372,1635885661,Suspected head of $21B crime syndicate may be world’s most innovative drug lord,story,https://torontolife.com/city/this-man-is-the-jeff-bezos-of-the-international-drug-trade/,,torontolife.com
+sundarurfriend,9,29098875,18,1635965977,DrWatson: A scientific project assistant in Julia,story,https://juliadynamics.github.io/DrWatson.jl/dev/,,juliadynamics.github.io
 DLay,492,29076379,227,1635821846,"When “Foundation” Gets the Blockbuster Treatment, Asimov’s Vision Gets Lost",story,https://www.newyorker.com/magazine/2021/11/08/when-foundation-gets-the-blockbuster-treatment-isaac-asimovs-vision-gets-lost-sci-fi,,newyorker.com
 mromanuk,9,29103477,19,1635997181,Ithkuil is an experimental constructed language. Nobody speaks it fluently,story,https://en.wikipedia.org/wiki/Ithkuil,,en.wikipedia.org
 jseliger,165,29087281,120,1635886815,New research highlights the damage caused by processed food,story,https://www.levelshealth.com/blog/new-research-highlights-the-damage-caused-by-processed-food,,levelshealth.com
@@ -19,4 +19,3 @@ flerovium,43,29087937,46,1635890045,Ask HN: Why is medical software so hard to u
 prostoalex,27,29090803,40,1635910075,The number of people who have died from Covid-19 is likely to be close to 17m,story,https://www.economist.com/graphic-detail/2021/11/02/the-number-of-people-who-have-died-from-covid-19-is-likely-to-be-close-to-17m,,economist.com
 kk6mrp,3,29096768,17,1635956381,Investigations revealed pathophysiological alterations after vaccination,story,https://www.nature.com/articles/s41421-021-00329-3,,nature.com
 andrenth,1,29093113,14,1635937978,Researcher blows the whistle on data integrity issues in Pfizer’s vaccine trial,story,https://www.bmj.com/content/375/bmj.n2635?s=08,,bmj.com
-ozdave,3,29080836,44,1635859578,The Most Detailed Map of Cancer-Causing Industrial Air Pollution in the U.S.,story,https://projects.propublica.org/toxmap/,,projects.propublica.org
