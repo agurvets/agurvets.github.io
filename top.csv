@@ -1,18 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-abecedarius,7,29230033,18,1636997869,Discovery of infrared rays,story,https://mesonstars.com/science/discovery-of-infrared-rays/,,mesonstars.com
-abecedarius,60,29229834,63,1636996941,“Let's Run The Experiment”: about DAOs and the future of organizations online,story,https://adjacentpossible.substack.com/p/lets-run-the-experiment-a-conversation,,adjacentpossible.substack.com
-wglb,7,29228413,28,1636989662,Dozens of Shipwreck Discoveries Anticipated in New Marine Sanctuary,story,https://www.scientificamerican.com/article/dozens-of-shipwreck-discoveries-anticipated-in-lake-michigans-new-marine-sanctuary/,,scientificamerican.com
-sebg,35,29229103,300,1636993059,An open access book on scientific visualization using Python and Matplotlib,story,https://github.com/rougier/scientific-visualization-book,,github.com
-SerCe,1,29240104,16,1637068265,Russia’s Retro Lenin Museum Still Runs on Decades-Old Apple II Computers (2019),story,https://www.atlasobscura.com/articles/retro-apple-computers-lenin-museum-russia,,atlasobscura.com
-mstipetic,8,29244400,24,1637087023,Satellites discover huge amounts of undeclared methane emissions,story,https://www.space.com/satellites-discover-huge-undeclared-methane-emissions,,space.com
-leephillips,3,29236372,16,1637032874,Officers Denied Immunity [pdf],story,https://media.ca11.uscourts.gov/opinions/unpub/files/201913820.pdf,,media.ca11.uscourts.gov
-giuliomagnifico,20,29229931,147,1636997326,Portugal proposed law tries to sneak in biometric mass surveillance,story,https://reclaimyourface.eu/portugal-proposed-law-tries-to-sneak-in-biometric-mass-surveillance/,,reclaimyourface.eu
-drewvolpe,4,29234848,15,1637021863,The Odor of Things – Solving the mysteries of scent,story,https://harpers.org/archive/2021/12/the-odor-of-things-solving-the-mysteries-of-scent/,,harpers.org
+jeffthechimp,11,29261902,17,1637208711,"SF gets $1.5M to experiment with online voting, EFF others horrified",story,https://www.sfexaminer.com/news/sf-received-1-5-million-to-explore-online-voting-critics-think-its-a-horrible-idea/,,sfexaminer.com
+justinmares,178,29254588,245,1637164024,Impossible food sues to cancel earlier trademark owners,story,https://impossiblehq.com/impossible-foods-lawsuit-statement/,,impossiblehq.com
+oumua_don17,1,29259548,13,1637187164,Why a Computer History Museum Owns a Legendary Teapot,story,https://www.atlasobscura.com/articles/utah-teapot,,atlasobscura.com
+emilfihlman,31,29261058,41,1637198579,FDA asks federal judge to wait until 2076 to fully release Covid vaccine data,story,https://aaronsiri.substack.com/p/fda-asks-federal-judge-to-grant-it,,aaronsiri.substack.com
+drewvolpe,11,29234848,27,1637021863,The Odor of Things – Solving the mysteries of scent,story,https://harpers.org/archive/2021/12/the-odor-of-things-solving-the-mysteries-of-scent/,,harpers.org
+abecedarius,10,29230033,19,1636997869,Discovery of infrared rays,story,https://mesonstars.com/science/discovery-of-infrared-rays/,,mesonstars.com
+sebg,35,29229103,305,1636993059,An open access book on scientific visualization using Python and Matplotlib,story,https://github.com/rougier/scientific-visualization-book,,github.com
+abecedarius,70,29229834,66,1636996941,“Let's Run The Experiment”: about DAOs and the future of organizations online,story,https://adjacentpossible.substack.com/p/lets-run-the-experiment-a-conversation,,adjacentpossible.substack.com
+giuliomagnifico,20,29229931,148,1636997326,Portugal proposed law tries to sneak in biometric mass surveillance,story,https://reclaimyourface.eu/portugal-proposed-law-tries-to-sneak-in-biometric-mass-surveillance/,,reclaimyourface.eu
+webmaven,1,29253697,12,1637160398,Why Health-Care Workers Are Quitting in Droves,story,https://www.theatlantic.com/health/archive/2021/11/the-mass-exodus-of-americas-health-care-workers/620713/,,theatlantic.com
+flashfaffe2,0,29250023,17,1637133203,Rare case of woman's body ridding itself of HIV,story,https://www.bbc.com/news/health-59297311,,bbc.com
+jdkee,2,29257150,12,1637174849,Amazon workers were left 'terrified and powerless' after concealed Covid cases,story,https://news.sky.com/story/covid-19-amazon-workers-were-left-terrified-and-powerless-after-it-concealed-coronavirus-cases-california-says-12469852,,news.sky.com
+leephillips,3,29236372,17,1637032874,Officers Denied Immunity [pdf],story,https://media.ca11.uscourts.gov/opinions/unpub/files/201913820.pdf,,media.ca11.uscourts.gov
 samizdis,42,29230921,71,1637001808,"Dubious $56,000 Alzheimer’s drug spurs largest Medicare price hike ever",story,https://arstechnica.com/science/2021/11/dubious-56000-alzheimers-drug-spurs-largest-medicare-price-hike-ever/,,arstechnica.com
+SerCe,1,29240104,16,1637068265,Russia’s Retro Lenin Museum Still Runs on Decades-Old Apple II Computers (2019),story,https://www.atlasobscura.com/articles/retro-apple-computers-lenin-museum-russia,,atlasobscura.com
+mstipetic,8,29244400,26,1637087023,Satellites discover huge amounts of undeclared methane emissions,story,https://www.space.com/satellites-discover-huge-undeclared-methane-emissions,,space.com
+MAXPOOL,0,29229942,11,1636997373,"Protein Complex Structure Predictions, Already?",story,https://www.science.org/content/blog-post/protein-complex-structure-predictions-already,,science.org
 torts,4,29239343,14,1637062135,Politicizing Medicine Is Dangerous,story,https://marginalrevolution.com/marginalrevolution/2021/11/the-danger-of-demanding-woke-physicians.html,,marginalrevolution.com
-jkuria,84,29213214,211,1636838051,"In ‘learning trap’ experiment, adults leap to conclusions while children explore",story,https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185,,wsj.com
-drdee,88,29215750,59,1636871693,The Mind’s Body Problem,story,https://www.nybooks.com/articles/2021/12/02/the-minds-body-problem/,,nybooks.com
-felladrin,5,29221187,22,1636927693,Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies,story,https://pickbetterpack.com/,,pickbetterpack.com
-holonomically,35,29224430,29,1636957978,Among the Unvaccinated,story,https://intellectualinting.substack.com/p/among-the-unvaccinated,,intellectualinting.substack.com
-bimil,4,29224953,17,1636963640,Show HN: Select Star – Automated data catalog and discovery for modern data,story,https://www.selectstar.com//,,selectstar.com
-1cvmask,10,29235053,43,1637023224,Amazon to pay California $500k for ‘concealing’ Covid cases among workers,story,https://www.latimes.com/business/story/2021-11-15/amazon-covid-outbreak-workplace-safety-right-to-know-penalty,,latimes.com
