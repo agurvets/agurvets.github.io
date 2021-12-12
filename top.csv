@@ -1,13 +1,13 @@
 by,descendants,id,score,time,title,type,url,text,domain
 Petiver,0,29507300,23,1639120680,Did Girolamo Mercuriale misdiagnose a plague in sixteenth-century Venice?,story,https://www.laphamsquarterly.org/roundtable/recovering-plague,,laphamsquarterly.org
 herodotus,9,29521550,20,1639236882,"Tictactoe in PyFL, my experimental functional language",story,https://billwadge.wordpress.com/2021/12/11/unbeatable-tictactoe-in-pyfl/,,billwadge.wordpress.com
-oriettaxx,6,29524516,33,1639258737,PFAS ‘forever chemicals’ are widespread and threaten human health – a strategy,story,https://theconversation.com/pfas-forever-chemicals-are-widespread-and-threaten-human-health-heres-a-strategy-for-protecting-the-public-142953,,theconversation.com
-nkurz,55,29522720,34,1639244629,BNT162b2 Vaccine Booster and Mortality Due to Covid-19,story,https://www.nejm.org/doi/full/10.1056/NEJMoa2115624,,nejm.org
-mmastrac,171,29512281,115,1639155947,Leaked Scripps records reveal automated mark-ups for hospital care,story,https://www.latimes.com/business/story/2021-12-10/column-healthcare-billing-markups,,latimes.com
+oriettaxx,6,29524516,34,1639258737,PFAS ‘forever chemicals’ are widespread and threaten human health – a strategy,story,https://theconversation.com/pfas-forever-chemicals-are-widespread-and-threaten-human-health-heres-a-strategy-for-protecting-the-public-142953,,theconversation.com
+nkurz,56,29522720,35,1639244629,BNT162b2 Vaccine Booster and Mortality Due to Covid-19,story,https://www.nejm.org/doi/full/10.1056/NEJMoa2115624,,nejm.org
+mmastrac,173,29512281,116,1639155947,Leaked Scripps records reveal automated mark-ups for hospital care,story,https://www.latimes.com/business/story/2021-12-10/column-healthcare-billing-markups,,latimes.com
 spekcular,147,29494136,124,1639027553,Notes on the Go translation of Reposurgeon (2020),story,https://gitlab.com/esr/reposurgeon/-/blob/master/GoNotes.adoc,,gitlab.com
 adrian_mrd,0,29521872,18,1639238901,Nobel Peace Prize: Maria Ressa attacks social media 'toxic sludge',story,https://www.bbc.com/news/world-59613540,,bbc.com
-gigama,190,29524831,148,1639261551,Nobel Peace laureates blast tech giants and warn against rising authoritarianism,story,https://www.npr.org/2021/12/10/1063218669/nobel-peace-laureates-blast-tech-giants-and-warn-against-rising-authoritarianism,,npr.org
 fortran77,167,29510185,187,1639146412,SARS-CoV-2 infects human adipose tissue and elicits an inflammatory response,story,https://www.biorxiv.org/content/10.1101/2021.10.24.465626v1,,biorxiv.org
+gigama,190,29524831,150,1639261551,Nobel Peace laureates blast tech giants and warn against rising authoritarianism,story,https://www.npr.org/2021/12/10/1063218669/nobel-peace-laureates-blast-tech-giants-and-warn-against-rising-authoritarianism,,npr.org
 kevin_hu,102,29506211,192,1639108457,More than half of high-impact cancer lab studies could not be replicated,story,https://www.science.org/content/article/more-half-high-impact-cancer-lab-studies-could-not-be-replicated-controversial-analysis,,science.org
 paubric,12,29495541,64,1639043463,Show HN: Lexiscore – a nutritional label for food for thought,story,https://paulbricman.com/thoughtware/lexiscore,,paulbricman.com
 zeraphy,7,29506407,23,1639110626,Brazilian Department of Health is going under a ransomware attack,story,https://www.saude.gov.br,,saude.gov.br
