@@ -1,15 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-diodorus,4,29833628,27,1641519830,"Hollowed-Out, 4k-Year-Old Tree Trunk Coffin Discovered (2021)",story,https://www.smithsonianmag.com/smart-news/hollowed-out-4000-year-old-tree-trunk-coffin-discovered-in-golf-course-pond-180978678/,,smithsonianmag.com
+gscott,13,29849033,12,1641621513,Music Tuned to 440 Hz versus 432 Hz and the Health Effects,story,https://www.sciencedirect.com/science/article/abs/pii/S1550830718302763,,sciencedirect.com
+diodorus,4,29833628,29,1641519830,"Hollowed-Out, 4k-Year-Old Tree Trunk Coffin Discovered (2021)",story,https://www.smithsonianmag.com/smart-news/hollowed-out-4000-year-old-tree-trunk-coffin-discovered-in-golf-course-pond-180978678/,,smithsonianmag.com
 rbanffy,2,29845865,15,1641595076,Salt-die/nurses_2: A widget and async-centric terminal graphics library,story,https://github.com/salt-die/nurses_2,,github.com
 paulsb,0,29841470,21,1641574443,Psychological Language on Twitter Predicts County-Level Heart Disease Mortality,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4433545/,,ncbi.nlm.nih.gov
-Jimmc414,260,29841747,176,1641575852,Judge orders FDA to hasten FOIA release of Pfizer vaccine docs,story,https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/,,reuters.com
-steelstraw,12,29843512,31,1641583306,"The Covid-19 Pandemic Has Shown Why We Should Fund Students, Not Systems",story,https://reason.org/commentary/the-covid-19-pandemic-has-shown-why-we-should-fund-students-not-systems/,,reason.org
-steelstraw,3,29847381,12,1641603801,Over 40% of NYC’s Covid-infected hospital patients admitted for other reasons,story,https://nypost.com/2022/01/07/many-nyc-patients-hospitalized-with-covid-admitted-for-other-reasons/,,nypost.com
+Jimmc414,261,29841747,176,1641575852,Judge orders FDA to hasten FOIA release of Pfizer vaccine docs,story,https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/,,reuters.com
+steelstraw,15,29843512,31,1641583306,"The Covid-19 Pandemic Has Shown Why We Should Fund Students, Not Systems",story,https://reason.org/commentary/the-covid-19-pandemic-has-shown-why-we-should-fund-students-not-systems/,,reason.org
 kobayashi,97,29820230,195,1641451589,Longform.org is shutting down its article recommendations service,story,https://longform.org/,,longform.org
+steelstraw,3,29847381,12,1641603801,Over 40% of NYC’s Covid-infected hospital patients admitted for other reasons,story,https://nypost.com/2022/01/07/many-nyc-patients-hospitalized-with-covid-admitted-for-other-reasons/,,nypost.com
 steelstraw,3,29843930,22,1641585460,Women’s Periods May Be Late After Coronavirus Vaccination,story,https://www.nytimes.com/2022/01/06/health/covid-vaccine-menstrual-cycles.html,,nytimes.com
 federicoterzi,5,29820417,28,1641453592,"Aero: An experimental, Unix-like OS written in Rust",story,https://github.com/Andy-Python-Programmer/aero,,github.com
-latchkey,4,29845580,11,1641593668,Citigroup will terminate unvaccinated workers by Jan. 31,story,https://www.cnbc.com/2022/01/07/citigroup-is-the-first-major-wall-street-bank-to-terminate-unvaccinated-workers.html,,cnbc.com
 fnord77,120,29817887,85,1641432379,Drug ring hid $1B worth of coke on a single ship,story,https://www.freightwaves.com/news/case-closed-how-drug-ring-hid-20-tons-of-coke-on-a-single-ship,,freightwaves.com
+latchkey,4,29845580,11,1641593668,Citigroup will terminate unvaccinated workers by Jan. 31,story,https://www.cnbc.com/2022/01/07/citigroup-is-the-first-major-wall-street-bank-to-terminate-unvaccinated-workers.html,,cnbc.com
 martingoodson,1,29827748,22,1641494049,"For elite footballers, the effects of Covid-19 linger for months",story,https://www.economist.com/graphic-detail/2022/01/08/for-elite-footballers-the-effects-of-covid-19-linger-for-months,,economist.com
 steelstraw,36,29828193,26,1641495697,Philippines' President Duterte threatens unvaccinated people with arrest,story,https://www.reuters.com/world/asia-pacific/philippines-duterte-threatens-unvaccinated-people-with-arrest-2022-01-06/,,reuters.com
 DannyCasolaro,10,29835411,20,1641534162,"COVID vaccines may briefly change menstruation, but you should still get one",story,https://www.npr.org/sections/health-shots/2022/01/06/1070796638/covid-vaccine-periods,,npr.org
@@ -17,8 +18,7 @@ dopylitty,54,29839487,35,1641565822,"When a health-care system crumbles, this is
 busymom0,39,29834318,23,1641524836,Number of unvaccinated people needed to exclude to prevent 1 Covid transmission,story,https://www.medrxiv.org/content/10.1101/2021.12.08.21267162v1,,medrxiv.org
 sohkamyung,1,29834101,14,1641523231,House dust from 35 countries reveals our contaminant exposure and health risk,story,https://theconversation.com/house-dust-from-35-countries-reveals-our-global-toxic-contaminant-exposure-and-health-risk-172499,,theconversation.com
 ilamont,3,29830832,14,1641506068,Springer retracts hundreds of “nonsensical” articles,story,https://twitter.com/MicrobiomDigest/status/1478869782732570627,,twitter.com
-rmason,4,29829638,14,1641501161,Scientists Have Found an Enormous Structure Under the Surface of the Moon,story,https://www.iflscience.com/space/there-is-something-unexpected-under-the-surface-of-the-moon/,,iflscience.com
 joshbuddy,5,29820938,27,1641458529,Kazakhstan internet shutdown sheds light on a big Bitcoin mining mystery,story,https://fortune.com/2022/01/05/kazakhstan-internet-bitcoin-mining-mystery-crypto/,,fortune.com
+rmason,4,29829638,14,1641501161,Scientists Have Found an Enormous Structure Under the Surface of the Moon,story,https://www.iflscience.com/space/there-is-something-unexpected-under-the-surface-of-the-moon/,,iflscience.com
 Bostonian,29,29823289,31,1641475849,Reuters data scientist questioned the BLM narrative–so the company fired him,story,https://www.city-journal.org/black-lives-matter-reuters-and-the-price-of-dissent,,city-journal.org
-sirodoht,7,29823965,13,1641479678,Show HN: Allthevaccines.org – Information about all human vaccines,story,https://allthevaccines.org/,,allthevaccines.org
-nradov,58,29845319,20,1641592278,A national strategy for the “new normal” of life with Covid,story,https://jamanetwork.com/journals/jama/fullarticle/2787944,,jamanetwork.com
+sirodoht,8,29823965,13,1641479678,Show HN: Allthevaccines.org – Information about all human vaccines,story,https://allthevaccines.org/,,allthevaccines.org
