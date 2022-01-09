@@ -1,17 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-craigkerstiens,5,29858083,38,1641686543,Tips for a Healthier Postgres Database,story,https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year,,crunchydata.com
-nafnlj,4,29835366,29,1641533611,Hayden's Calculator Museum,story,https://calculators.haywalk.ca/,,calculators.haywalk.ca
-gscott,87,29849033,56,1641621513,Music Tuned to 440 Hz versus 432 Hz and the Health Effects,story,https://www.sciencedirect.com/science/article/abs/pii/S1550830718302763,,sciencedirect.com
+brimnes,11,29864482,32,1641744643,"Alcohol should have cancer warnings, say researchers pushing to raise awareness",story,https://www.cbc.ca/news/health/alcohol-warning-labels-cancer-1.6304816,,cbc.ca
+craigkerstiens,79,29858083,296,1641686543,Tips for a Healthier Postgres Database,story,https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year,,crunchydata.com
+nafnlj,4,29835366,33,1641533611,Hayden's Calculator Museum,story,https://calculators.haywalk.ca/,,calculators.haywalk.ca
+gscott,95,29849033,64,1641621513,Music Tuned to 440 Hz versus 432 Hz and the Health Effects,story,https://www.sciencedirect.com/science/article/abs/pii/S1550830718302763,,sciencedirect.com
+Hooke,0,29857261,11,1641681657,The mysterious microbes that gave rise to complex life (2021),story,https://www.nature.com/articles/d41586-021-01316-0,,nature.com
+diodorus,7,29833628,56,1641519830,"Hollowed-Out, 4k-Year-Old Tree Trunk Coffin Discovered (2021)",story,https://www.smithsonianmag.com/smart-news/hollowed-out-4000-year-old-tree-trunk-coffin-discovered-in-golf-course-pond-180978678/,,smithsonianmag.com
+rbanffy,2,29845865,21,1641595076,Salt-die/nurses_2: A widget and async-centric terminal graphics library,story,https://github.com/salt-die/nurses_2,,github.com
+paulsb,0,29841470,23,1641574443,Psychological Language on Twitter Predicts County-Level Heart Disease Mortality,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4433545/,,ncbi.nlm.nih.gov
 teleforce,0,29855417,11,1641671188,Confirm link between testing positive for Covid-19 and fatigue and sleep problem,story,https://www.manchester.ac.uk/discover/news/researchers-confirm-link-between-testing-positive-for-covid-19-and-fatigue-and-sleep-problems/,,manchester.ac.uk
-jseliger,1,29855610,14,1641672405,"Many Kids Don't Have a Warm, Safe, Healthy Home in Which to Do “Remote Learning”",story,https://freddiedeboer.substack.com/p/many-kids-dont-have-a-warm-safe-healthy,,freddiedeboer.substack.com
-diodorus,7,29833628,55,1641519830,"Hollowed-Out, 4k-Year-Old Tree Trunk Coffin Discovered (2021)",story,https://www.smithsonianmag.com/smart-news/hollowed-out-4000-year-old-tree-trunk-coffin-discovered-in-golf-course-pond-180978678/,,smithsonianmag.com
-rbanffy,2,29845865,19,1641595076,Salt-die/nurses_2: A widget and async-centric terminal graphics library,story,https://github.com/salt-die/nurses_2,,github.com
-paulsb,0,29841470,22,1641574443,Psychological Language on Twitter Predicts County-Level Heart Disease Mortality,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4433545/,,ncbi.nlm.nih.gov
-Jimmc414,271,29841747,181,1641575852,Judge orders FDA to hasten FOIA release of Pfizer vaccine docs,story,https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/,,reuters.com
-steelstraw,16,29843512,32,1641583306,"The Covid-19 Pandemic Has Shown Why We Should Fund Students, Not Systems",story,https://reason.org/commentary/the-covid-19-pandemic-has-shown-why-we-should-fund-students-not-systems/,,reason.org
-martingoodson,1,29827748,22,1641494049,"For elite footballers, the effects of Covid-19 linger for months",story,https://www.economist.com/graphic-detail/2022/01/08/for-elite-footballers-the-effects-of-covid-19-linger-for-months,,economist.com
-steelstraw,3,29843930,22,1641585460,Women’s Periods May Be Late After Coronavirus Vaccination,story,https://www.nytimes.com/2022/01/06/health/covid-vaccine-menstrual-cycles.html,,nytimes.com
-steelstraw,36,29828193,26,1641495697,Philippines' President Duterte threatens unvaccinated people with arrest,story,https://www.reuters.com/world/asia-pacific/philippines-duterte-threatens-unvaccinated-people-with-arrest-2022-01-06/,,reuters.com
-sofixa,2,29848474,12,1641614075,Airlines refuse to fly influencers home after breaking Covid rules to fly Cancun,story,https://www.independent.co.uk/news/world/americas/airline-canada-influencers-maskless-trudeau-b1988358.html,,independent.co.uk
-DannyCasolaro,11,29835411,20,1641534162,"COVID vaccines may briefly change menstruation, but you should still get one",story,https://www.npr.org/sections/health-shots/2022/01/06/1070796638/covid-vaccine-periods,,npr.org
-joshbuddy,5,29820938,27,1641458529,Kazakhstan internet shutdown sheds light on a big Bitcoin mining mystery,story,https://fortune.com/2022/01/05/kazakhstan-internet-bitcoin-mining-mystery-crypto/,,fortune.com
+brimnes,16,29857370,12,1641682222,U.S. Is Open as Canada Shuts Down. The Difference? Their Health Care Systems,story,https://www.bloomberg.com/news/articles/2022-01-06/hospital-bed-shortage-shuts-down-canada-while-u-s-stays-open,,bloomberg.com
+jseliger,1,29855610,15,1641672405,"Many Kids Don't Have a Warm, Safe, Healthy Home in Which to Do “Remote Learning”",story,https://freddiedeboer.substack.com/p/many-kids-dont-have-a-warm-safe-healthy,,freddiedeboer.substack.com
+Jimmc414,272,29841747,181,1641575852,Judge orders FDA to hasten FOIA release of Pfizer vaccine docs,story,https://www.reuters.com/legal/government/paramount-importance-judge-orders-fda-hasten-release-pfizer-vaccine-docs-2022-01-07/,,reuters.com
+steelstraw,19,29843512,32,1641583306,"The Covid-19 Pandemic Has Shown Why We Should Fund Students, Not Systems",story,https://reason.org/commentary/the-covid-19-pandemic-has-shown-why-we-should-fund-students-not-systems/,,reason.org
+jb1991,7,29857534,11,1641683134,"A combo of fasting plus Vitamin C is effective for cancer treatment, study shows",story,https://www.sciencedaily.com/releases/2020/05/200512151941.htm,,sciencedaily.com
