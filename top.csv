@@ -1,23 +1,25 @@
 by,descendants,id,score,time,title,type,url,text,domain
-galoisscobi,15,30081034,24,1643165026,"Nature Neuroscience offers open access publishing for 11,390 USD per article",story,https://www.nature.com/articles/s41593-021-00995-2,,nature.com
-simonebrunozzi,55,30078695,48,1643147862,Ketogenic Diets and Chronic Disease: Benefits vs. Risks,story,https://www.frontiersin.org/articles/10.3389/fnut.2021.702802/full,,frontiersin.org
+galoisscobi,50,30081034,64,1643165026,"Nature Neuroscience offers open access publishing for 11,390 USD per article",story,https://www.nature.com/articles/s41593-021-00995-2,,nature.com
+simonebrunozzi,59,30078695,50,1643147862,Ketogenic Diets and Chronic Disease: Benefits vs. Risks,story,https://www.frontiersin.org/articles/10.3389/fnut.2021.702802/full,,frontiersin.org
 arkj,43,30072683,51,1643123720,Lessons for a Young Scientist,story,https://nautil.us/lessons-for-a-young-scientist-2-13423/,,nautil.us
 in3d,66,30069402,168,1643097967,AlphaFold-Powered Drug Discovery of a Novel CDK20 Inhibitor,story,https://arxiv.org/abs/2201.09647,,arxiv.org
-tech_timc,0,30079367,11,1643151771,Scientists warn that ocean microplastic pollution may be greater than estimated,story,https://phys.org/news/2022-01-scientists-ocean-microplastic-pollution-greater.html,,phys.org
 alexmorley,684,30046432,676,1642948819,IBM’s Watson Health is sold off in parts,story,https://www.statnews.com/2022/01/21/ibm-watson-health-sale-equity/,,statnews.com
+tech_timc,0,30079367,13,1643151771,Scientists warn that ocean microplastic pollution may be greater than estimated,story,https://phys.org/news/2022-01-scientists-ocean-microplastic-pollution-greater.html,,phys.org
+DannyCasolaro,2,30080175,12,1643157505,"Myocarditis Cases Reported After mRNA Vaccination, December 2020 to August 2021",story,https://jamanetwork.com/journals/jama/fullarticle/2788346,,jamanetwork.com
 diodorus,14,30043580,66,1642911381,Risky Food-Finding Strategy Could Be a Key to Human Success,story,https://today.duke.edu/2022/01/risky-food-finding-strategy-could-be-key-human-success,,today.duke.edu
-geox,168,30071362,85,1643116242,25% of U.S. adults are not active enough to protect their health,story,https://www.cdc.gov/media/releases/2022/p0120-inactivity-map.html,,cdc.gov
+geox,168,30071362,86,1643116242,25% of U.S. adults are not active enough to protect their health,story,https://www.cdc.gov/media/releases/2022/p0120-inactivity-map.html,,cdc.gov
 nonfamous,32,30042831,227,1642902290,Quarto: A scientific and technical publishing system built on Pandoc,story,https://quarto.org/,,quarto.org
 pepys,52,30038381,83,1642870634,Metal Detectorist Discovers One of England’s Earliest Gold Coins in a Farm Field,story,https://www.smithsonianmag.com/smart-news/800-year-old-gold-penny-found-in-english-field-could-sell-for-half-a-million-180979420/,,smithsonianmag.com
 johnsonelephant,11,30052090,49,1642983002,Show HN: Grams.io – calculate how long drug(s) stay in body,story,https://grams.io/?i=1h-Caffeine-80000ug-5h&i=2h-Amphetamine-30mg-600min&i=3h-Caffeine-100mg-5h,,grams.io
-camjohnson26,5,30073324,38,1643126531,Emails reveal scientists suspected Covid leaked from Wuhan lab,story,https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/,,nypost.com
 zlib,114,30045348,208,1642936722,The implementation of the UK Covid-19 dashboard,story,https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276,,techcommunity.microsoft.com
 lord_sudo,46,30054172,183,1643004142,Winamp Skin Museum (Interactive),story,https://skins.webamp.org,,skins.webamp.org
-DocFeind,95,30052281,240,1642985147,"Scientists find there are 70% fewer pollinators, due to air pollution",story,https://www.openaccessgovernment.org/pollination-air-pollution/127964/,,openaccessgovernment.org
+DocFeind,96,30052281,240,1642985147,"Scientists find there are 70% fewer pollinators, due to air pollution",story,https://www.openaccessgovernment.org/pollination-air-pollution/127964/,,openaccessgovernment.org
+camjohnson26,5,30073324,38,1643126531,Emails reveal scientists suspected Covid leaked from Wuhan lab,story,https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/,,nypost.com
+wicket,0,30076982,11,1643139847,Long Covid: doctors find ‘antibody signature’ for patients most at risk,story,https://www.theguardian.com/society/2022/jan/25/doctors-find-antibody-signature-long-covid,,theguardian.com
 footpath,10,30071482,12,1643117033,"‘In the End, You’re Treated Like a Spy,’ Says MIT Scientist",story,https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html,,nytimes.com
 caaqil,2,30076360,11,1643137287,Hospital refusing heart transplant for man who won't get vaccinated,story,https://www.cbsnews.com/news/brigham-and-womens-hospital-boston-refusing-heart-transplant-man-wont-get-vaccinated/,,cbsnews.com
-DannyCasolaro,9,30073594,13,1643127441,Israel world #1 in daily Covid cases per capita,story,https://www.timesofisrael.com/wp-content/themes/rgb/manifest.json,,timesofisrael.com
-caaqil,152,30075286,64,1643133423,Pfizer and BioNTech launch trial of Omicron-targeted Covid vaccine,story,https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-biontech-launch-trial-omicron-targeted-covid-vaccine-2022-01-25/,,reuters.com
+caaqil,154,30075286,65,1643133423,Pfizer and BioNTech launch trial of Omicron-targeted Covid vaccine,story,https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-biontech-launch-trial-omicron-targeted-covid-vaccine-2022-01-25/,,reuters.com
+DannyCasolaro,9,30073594,14,1643127441,Israel world #1 in daily Covid cases per capita,story,https://www.timesofisrael.com/wp-content/themes/rgb/manifest.json,,timesofisrael.com
 mzs,0,30074062,11,1643129194,SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells,story,https://phys.org/news/2022-01-sars-cov-spike-protein-human-endogenous.html,,phys.org
 prostoalex,225,30033028,158,1642821396,‘Farms are failing’ as fertilizer prices drive up cost of food,story,https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182,,wsj.com
 joak,108,30027665,196,1642789189,Alphabet's Calico has begun trials on a molecule for neurodegenerative diseases,story,https://aspenbraininstitute.org/blog-posts/the-miracle-molecule-that-could-treat-brain-injuries-and-boost-your-fading-memory,,aspenbraininstitute.org
