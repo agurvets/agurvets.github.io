@@ -1,27 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-galoisscobi,74,30081034,91,1643165026,"Nature Neuroscience offers open access publishing for 11,390 USD per article",story,https://www.nature.com/articles/s41593-021-00995-2,,nature.com
-simonebrunozzi,61,30078695,52,1643147862,Ketogenic Diets and Chronic Disease: Benefits vs. Risks,story,https://www.frontiersin.org/articles/10.3389/fnut.2021.702802/full,,frontiersin.org
-arkj,44,30072683,52,1643123720,Lessons for a Young Scientist,story,https://nautil.us/lessons-for-a-young-scientist-2-13423/,,nautil.us
-in3d,66,30069402,169,1643097967,AlphaFold-Powered Drug Discovery of a Novel CDK20 Inhibitor,story,https://arxiv.org/abs/2201.09647,,arxiv.org
-alexmorley,684,30046432,678,1642948819,IBM’s Watson Health is sold off in parts,story,https://www.statnews.com/2022/01/21/ibm-watson-health-sale-equity/,,statnews.com
+topcat31,14,30089895,56,1643222791,Show HN: Electric Tables – an experiment in personal databases,story,https://tomcritchlow.com/2022/01/26/electric-tables/,,tomcritchlow.com
+alexrustic,642,30085149,239,1643203965,"Pfizer board member suggests end to mask, vaccine mandates",story,https://ntdca.com/pfizer-board-member-suggests-end-to-mask-vaccine-mandates/,,ntdca.com
+theafh,0,30088216,11,1643216997,How the Physics of Resonance Shapes Reality,story,https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/,,quantamagazine.org
+galoisscobi,189,30081034,318,1643165026,Nature Neuroscience offers open access publishing for $11k per article,story,https://www.nature.com/articles/s41593-021-00995-2,,nature.com
+arkj,46,30072683,54,1643123720,Lessons for a Young Scientist,story,https://nautil.us/lessons-for-a-young-scientist-2-13423/,,nautil.us
+in3d,69,30069402,171,1643097967,AlphaFold-Powered Drug Discovery of a Novel CDK20 Inhibitor,story,https://arxiv.org/abs/2201.09647,,arxiv.org
+simonebrunozzi,71,30078695,57,1643147862,Ketogenic Diets and Chronic Disease: Benefits vs. Risks,story,https://www.frontiersin.org/articles/10.3389/fnut.2021.702802/full,,frontiersin.org
+geox,171,30071362,87,1643116242,25% of U.S. adults are not active enough to protect their health,story,https://www.cdc.gov/media/releases/2022/p0120-inactivity-map.html,,cdc.gov
 tech_timc,0,30079367,13,1643151771,Scientists warn that ocean microplastic pollution may be greater than estimated,story,https://phys.org/news/2022-01-scientists-ocean-microplastic-pollution-greater.html,,phys.org
-diodorus,14,30043580,66,1642911381,Risky Food-Finding Strategy Could Be a Key to Human Success,story,https://today.duke.edu/2022/01/risky-food-finding-strategy-could-be-key-human-success,,today.duke.edu
-DannyCasolaro,2,30080175,13,1643157505,"Myocarditis Cases Reported After mRNA Vaccination, December 2020 to August 2021",story,https://jamanetwork.com/journals/jama/fullarticle/2788346,,jamanetwork.com
-geox,169,30071362,87,1643116242,25% of U.S. adults are not active enough to protect their health,story,https://www.cdc.gov/media/releases/2022/p0120-inactivity-map.html,,cdc.gov
-nonfamous,32,30042831,227,1642902290,Quarto: A scientific and technical publishing system built on Pandoc,story,https://quarto.org/,,quarto.org
-pepys,52,30038381,83,1642870634,Metal Detectorist Discovers One of England’s Earliest Gold Coins in a Farm Field,story,https://www.smithsonianmag.com/smart-news/800-year-old-gold-penny-found-in-english-field-could-sell-for-half-a-million-180979420/,,smithsonianmag.com
-johnsonelephant,11,30052090,49,1642983002,Show HN: Grams.io – calculate how long drug(s) stay in body,story,https://grams.io/?i=1h-Caffeine-80000ug-5h&i=2h-Amphetamine-30mg-600min&i=3h-Caffeine-100mg-5h,,grams.io
-zlib,114,30045348,208,1642936722,The implementation of the UK Covid-19 dashboard,story,https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276,,techcommunity.microsoft.com
-lord_sudo,46,30054172,183,1643004142,Winamp Skin Museum (Interactive),story,https://skins.webamp.org,,skins.webamp.org
-DocFeind,96,30052281,240,1642985147,"Scientists find there are 70% fewer pollinators, due to air pollution",story,https://www.openaccessgovernment.org/pollination-air-pollution/127964/,,openaccessgovernment.org
-camjohnson26,5,30073324,38,1643126531,Emails reveal scientists suspected Covid leaked from Wuhan lab,story,https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/,,nypost.com
-wicket,0,30076982,11,1643139847,Long Covid: doctors find ‘antibody signature’ for patients most at risk,story,https://www.theguardian.com/society/2022/jan/25/doctors-find-antibody-signature-long-covid,,theguardian.com
-footpath,10,30071482,12,1643117033,"‘In the End, You’re Treated Like a Spy,’ Says MIT Scientist",story,https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html,,nytimes.com
-caaqil,2,30076360,11,1643137287,Hospital refusing heart transplant for man who won't get vaccinated,story,https://www.cbsnews.com/news/brigham-and-womens-hospital-boston-refusing-heart-transplant-man-wont-get-vaccinated/,,cbsnews.com
-DannyCasolaro,11,30073594,14,1643127441,Israel world #1 in daily Covid cases per capita,story,https://www.timesofisrael.com/wp-content/themes/rgb/manifest.json,,timesofisrael.com
-caaqil,155,30075286,65,1643133423,Pfizer and BioNTech launch trial of Omicron-targeted Covid vaccine,story,https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-biontech-launch-trial-omicron-targeted-covid-vaccine-2022-01-25/,,reuters.com
-prostoalex,225,30033028,158,1642821396,‘Farms are failing’ as fertilizer prices drive up cost of food,story,https://www.wsj.com/articles/farms-are-failing-as-fertilizer-prices-drive-up-cost-of-food-11642770182,,wsj.com
-mzs,0,30074062,11,1643129194,SARS-CoV-2 spike protein activates human endogenous retroviruses in blood cells,story,https://phys.org/news/2022-01-sars-cov-spike-protein-human-endogenous.html,,phys.org
-joak,108,30027665,196,1642789189,Alphabet's Calico has begun trials on a molecule for neurodegenerative diseases,story,https://aspenbraininstitute.org/blog-posts/the-miracle-molecule-that-could-treat-brain-injuries-and-boost-your-fading-memory,,aspenbraininstitute.org
-jelliclesfarm,115,30034194,121,1642832326,Industrial ammonia emits more CO2 than other chemical-making reactions (2019),story,https://cen.acs.org/environment/green-chemistry/Industrial-ammonia-production-emits-CO2/97/i24,,cen.acs.org
+footpath,12,30071482,14,1643117033,"‘In the End, You’re Treated Like a Spy,’ Says MIT Scientist",story,https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html,,nytimes.com
+camjohnson26,6,30073324,39,1643126531,Emails reveal scientists suspected Covid leaked from Wuhan lab,story,https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/,,nypost.com
 Element_,9,30060245,30,1643043127,F-35 and F-117 Spotted Flying with Mysterious Mirror-Like Skin,story,https://www.thedrive.com/the-war-zone/43938/f-35-and-f-117-spotted-flying-with-mysterious-mirror-like-skin,,thedrive.com
+wicket,0,30076982,11,1643139847,Long Covid: doctors find ‘antibody signature’ for patients most at risk,story,https://www.theguardian.com/society/2022/jan/25/doctors-find-antibody-signature-long-covid,,theguardian.com
+alecst,1,30063852,17,1643057478,Helminthic Therapy: Personal Stories,story,https://helminthictherapywiki.org/wiki/index.php/Helminthic_therapy_personal_stories,,helminthictherapywiki.org
+caaqil,2,30076360,11,1643137287,Hospital refusing heart transplant for man who won't get vaccinated,story,https://www.cbsnews.com/news/brigham-and-womens-hospital-boston-refusing-heart-transplant-man-wont-get-vaccinated/,,cbsnews.com
+DannyCasolaro,12,30073594,15,1643127441,Israel world #1 in daily Covid cases per capita,story,https://www.timesofisrael.com/wp-content/themes/rgb/manifest.json,,timesofisrael.com
