@@ -1,15 +1,21 @@
 by,descendants,id,score,time,title,type,url,text,domain
-davidbarker,21,30233630,40,1644162906,Cool ice formations my friend discovered on his deck this morning,story,https://twitter.com/CJF_NC/status/1490093486330322949,,twitter.com
-cospaia,77,30226083,107,1644095427,Java BitSet performance-flicker mystery,story,https://blog.agical.se/en/posts/java-bitset-performance-mystery,,agical.se
+davidbarker,48,30233630,147,1644162906,Cool ice formations my friend discovered on his deck this morning,story,https://twitter.com/CJF_NC/status/1490093486330322949,,twitter.com
+pella,158,30235378,256,1644172140,Gut microbe linked to depression in large health study,story,https://www.science.org/content/article/gut-microbe-linked-depression-large-health-study,,science.org
+gballan,0,30235937,22,1644175247,Scientific Programming Blog,story,https://danielmuellerkomorowska.com/,,danielmuellerkomorowska.com
+_Microft,13,30220835,25,1644068194,Six-Letter DNA Alphabet Produces Proteins in Cells,story,https://www.the-scientist.com/news-opinion/six-letter-dna-alphabet-produces-proteins-in-cells-30572,,the-scientist.com
+lawrenceyan,1,30203398,33,1643954584,The Two Cultures and The Scientific Revolution (1959) [pdf],story,http://sciencepolicy.colorado.edu/students/envs_5110/snow_1959.pdf,,sciencepolicy.colorado.edu
+steelstraw,0,30236625,17,1644179044,Mask studies reach a new scientific low point,story,https://vinayprasadmdmph.substack.com/p/mask-studies-reach-a-new-scientific,,vinayprasadmdmph.substack.com
+cospaia,83,30226083,112,1644095427,Java BitSet performance-flicker mystery,story,https://blog.agical.se/en/posts/java-bitset-performance-mystery,,agical.se
 todsacerdoti,0,30227485,17,1644103875,SSH Signatures Implementation in Erlang,story,https://github.com/hauleth/ssh_signature,,github.com
-alisonatwork,16,30232072,20,1644151998,Vastly unequal US has world’s highest Covid death toll – it’s no coincidence,story,https://www.theguardian.com/us-news/2022/feb/06/us-covid-death-rate-vaccines,,theguardian.com
+nradov,5,30235610,13,1644173468,Israeli study offers strongest proof yet of Vitamin D’s power to fight Covid,story,https://www.timesofisrael.com/israeli-study-offers-strongest-proof-yet-of-vitamin-ds-power-to-fight-covid/,,timesofisrael.com
 colinprince,74,30211517,190,1644002111,Biologist decided to disavow his own study,story,https://www.science.org/content/article/when-his-suspicions-went-unanswered-biologist-decided-disavow-his-own-study,,science.org
 dr_dshiv,34,30209131,66,1643992944,How the physics of resonance shapes reality,story,https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/,,quantamagazine.org
-DocFeind,2,30228555,23,1644113151,"Food Prices Approach Record Highs, Threatening the World’s Poorest",story,https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html,,nytimes.com
+bookofjoe,765,30191669,302,1643891821,What the Omicron wave is revealing about human immunity,story,https://www.nature.com/articles/d41586-022-00214-3,,nature.com
+pseudolus,101,30192209,318,1643895540,Last-resort cancer therapy holds back disease for more than a decade,story,https://www.nature.com/articles/d41586-022-00241-0,,nature.com
 gkop,63,30208184,139,1643989242,Deming's Red Bead Experiment (2002),story,https://maaw.info/DemingsRedbeads.htm,,maaw.info
-bookofjoe,762,30191669,302,1643891821,What the Omicron wave is revealing about human immunity,story,https://www.nature.com/articles/d41586-022-00214-3,,nature.com
-pseudolus,101,30192209,317,1643895540,Last-resort cancer therapy holds back disease for more than a decade,story,https://www.nature.com/articles/d41586-022-00241-0,,nature.com
 benlumen,146,30193450,238,1643901283,Mysterious aircraft spotted at Area 51 in satellite image,story,https://www.thedrive.com/the-war-zone/44057/mysterious-aircraft-spotted-at-area-51-in-unprecedented-satellite-image,,thedrive.com
+DocFeind,2,30228555,23,1644113151,"Food Prices Approach Record Highs, Threatening the World’s Poorest",story,https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html,,nytimes.com
+alisonatwork,19,30232072,20,1644151998,Vastly unequal US has world’s highest Covid death toll – it’s no coincidence,story,https://www.theguardian.com/us-news/2022/feb/06/us-covid-death-rate-vaccines,,theguardian.com
 rowid,12,30191793,59,1643892715,My Rocket Experiments,story,https://saatsazov.com/#/blog/rocket-motor,,saatsazov.com
 tomjcleveland,2,30202913,23,1643949247,Medical communication is bad–how can we fix it?,story,https://blog.tjcx.me/p/medical-communication-is-badhow-do,,tjcx.me
 walterbell,12,30208901,20,1643992034,Scientists deliberately gave people Covid – here’s what they learnt,story,https://www.nature.com/articles/d41586-022-00319-9,,nature.com
