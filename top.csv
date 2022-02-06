@@ -1,14 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-cospaia,38,30226083,82,1644095427,Java BitSet performance-flicker mystery,story,https://blog.agical.se/en/posts/java-bitset-performance-mystery,,agical.se
-DocFeind,1,30228555,17,1644113151,"Food Prices Approach Record Highs, Threatening the World’s Poorest",story,https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html,,nytimes.com
-colinprince,74,30211517,189,1644002111,Biologist decided to disavow his own study,story,https://www.science.org/content/article/when-his-suspicions-went-unanswered-biologist-decided-disavow-his-own-study,,science.org
+davidbarker,21,30233630,40,1644162906,Cool ice formations my friend discovered on his deck this morning,story,https://twitter.com/CJF_NC/status/1490093486330322949,,twitter.com
+cospaia,77,30226083,107,1644095427,Java BitSet performance-flicker mystery,story,https://blog.agical.se/en/posts/java-bitset-performance-mystery,,agical.se
+todsacerdoti,0,30227485,17,1644103875,SSH Signatures Implementation in Erlang,story,https://github.com/hauleth/ssh_signature,,github.com
+alisonatwork,16,30232072,20,1644151998,Vastly unequal US has world’s highest Covid death toll – it’s no coincidence,story,https://www.theguardian.com/us-news/2022/feb/06/us-covid-death-rate-vaccines,,theguardian.com
+colinprince,74,30211517,190,1644002111,Biologist decided to disavow his own study,story,https://www.science.org/content/article/when-his-suspicions-went-unanswered-biologist-decided-disavow-his-own-study,,science.org
 dr_dshiv,34,30209131,66,1643992944,How the physics of resonance shapes reality,story,https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/,,quantamagazine.org
-gkop,63,30208184,138,1643989242,Deming's Red Bead Experiment (2002),story,https://maaw.info/DemingsRedbeads.htm,,maaw.info
-bookofjoe,759,30191669,301,1643891821,What the Omicron wave is revealing about human immunity,story,https://www.nature.com/articles/d41586-022-00214-3,,nature.com
-pseudolus,101,30192209,316,1643895540,Last-resort cancer therapy holds back disease for more than a decade,story,https://www.nature.com/articles/d41586-022-00241-0,,nature.com
-benlumen,146,30193450,236,1643901283,Mysterious aircraft spotted at Area 51 in satellite image,story,https://www.thedrive.com/the-war-zone/44057/mysterious-aircraft-spotted-at-area-51-in-unprecedented-satellite-image,,thedrive.com
+DocFeind,2,30228555,23,1644113151,"Food Prices Approach Record Highs, Threatening the World’s Poorest",story,https://www.nytimes.com/2022/02/03/business/economy/food-prices-inflation-world.html,,nytimes.com
+gkop,63,30208184,139,1643989242,Deming's Red Bead Experiment (2002),story,https://maaw.info/DemingsRedbeads.htm,,maaw.info
+bookofjoe,762,30191669,302,1643891821,What the Omicron wave is revealing about human immunity,story,https://www.nature.com/articles/d41586-022-00214-3,,nature.com
+pseudolus,101,30192209,317,1643895540,Last-resort cancer therapy holds back disease for more than a decade,story,https://www.nature.com/articles/d41586-022-00241-0,,nature.com
+benlumen,146,30193450,238,1643901283,Mysterious aircraft spotted at Area 51 in satellite image,story,https://www.thedrive.com/the-war-zone/44057/mysterious-aircraft-spotted-at-area-51-in-unprecedented-satellite-image,,thedrive.com
+rowid,12,30191793,59,1643892715,My Rocket Experiments,story,https://saatsazov.com/#/blog/rocket-motor,,saatsazov.com
 tomjcleveland,2,30202913,23,1643949247,Medical communication is bad–how can we fix it?,story,https://blog.tjcx.me/p/medical-communication-is-badhow-do,,tjcx.me
 walterbell,12,30208901,20,1643992034,Scientists deliberately gave people Covid – here’s what they learnt,story,https://www.nature.com/articles/d41586-022-00319-9,,nature.com
-rowid,12,30191793,59,1643892715,My Rocket Experiments,story,https://saatsazov.com/#/blog/rocket-motor,,saatsazov.com
 pseudolus,2,30206888,29,1643983597,South African scientists copy Moderna’s Covid vaccine,story,https://www.nature.com/articles/d41586-022-00293-2,,nature.com
-giuliomagnifico,2,30196826,25,1643914220,Afrigen has used the public data of Moderna mRNA vaccine to make its own version,story,https://www.reuters.com/world/africa/world-first-safricas-afrigen-makes-mrna-covid-vaccine-using-moderna-data-2022-02-03/,,reuters.com
