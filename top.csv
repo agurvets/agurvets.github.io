@@ -1,11 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-EntICOnc,65,30397485,83,1645282034,How to write better scientific code in Python?,story,https://zerowithdot.com/improve-data-science-code/,,zerowithdot.com
-graderjs,59,30395583,179,1645261647,The brain’s reading of the body’s state is key to mental health,story,https://psyche.co/ideas/the-brains-reading-of-the-bodys-state-is-key-to-mental-health,,psyche.co
-danso,411,30385421,386,1645190914,Difficult situation on campus: traffic jam of food delivery robots,story,https://twitter.com/seanhecht/status/1493432613628825600,,twitter.com
-sohkamyung,714,30381000,726,1645146337,Scientist busts myths about how humans burn calories,story,https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why,,science.org
-BarrySeal,0,30402943,11,1645327698,Covid Vaccines Were Deadly in Rare Cases. Governments Are Weighing Compensation,story,https://www.wsj.com/articles/covid-19-vaccines-were-deadly-in-rare-cases-governments-are-now-weighing-compensation-11645266603,,wsj.com
-albinsjolin,1,30398140,14,1645287130,Theory of winter-fasting and the cure for cancer,story,https://github.com/albinsjolin/open-source-cure-for-cancer,,github.com
-kartben_,175,30373279,320,1645107528,A 13-year-old used my artificial nose to diagnose pneumonia,story,https://blog.benjamin-cabe.com/2022/02/16/how-a-13-year-old-used-my-artificial-nose-to-diagnose-pneumonia,,benjamin-cabe.com
-cloutchaser,197,30384164,361,1645180698,Covid testing firm ‘selling swabs carrying customers’ DNA’ to third parties,story,https://www.thelondoneconomic.com/news/covid-testing-firm-selling-swabs-carrying-customers-dna-to-third-parties-301236/,,thelondoneconomic.com
+daegloe,16,30408104,78,1645382450,First gene therapy for Tay-Sachs disease successfully given to two children,story,https://theconversation.com/first-gene-therapy-for-tay-sachs-disease-successfully-given-to-two-children-176870,,theconversation.com
+rsfern,19,30405462,32,1645363316,The cancer vaccine roller coaster (2009),story,https://www.nature.com/articles/nbt0209-129,,nature.com
+jrcplus,19,30407828,35,1645380879,Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“,story,http://en.kremlin.ru/events/president/news/66181,,en.kremlin.ru
+clouddrover,7,30405495,52,1645363596,"Oldest buildings in UAE discovered, dating back 8,500 years",story,https://www.cnn.com/travel/article/uae-buildings-archaeology-scli-scn-intl/index.html,,cnn.com
+koolba,3,30408253,23,1645383373,The CDC Isn’t Publishing Large Portions of the Covid Data It Collects,story,https://www.nytimes.com/2022/02/20/health/covid-cdc-data.html,,nytimes.com
+graderjs,63,30395583,196,1645261647,The brain’s reading of the body’s state is key to mental health,story,https://psyche.co/ideas/the-brains-reading-of-the-bodys-state-is-key-to-mental-health,,psyche.co
+EntICOnc,73,30397485,86,1645282034,How to write better scientific code in Python?,story,https://zerowithdot.com/improve-data-science-code/,,zerowithdot.com
+sohkamyung,718,30381000,735,1645146337,Scientist busts myths about how humans burn calories,story,https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why,,science.org
+danso,415,30385421,393,1645190914,Difficult situation on campus: traffic jam of food delivery robots,story,https://twitter.com/seanhecht/status/1493432613628825600,,twitter.com
+kartben_,175,30373279,324,1645107528,A 13-year-old used my artificial nose to diagnose pneumonia,story,https://blog.benjamin-cabe.com/2022/02/16/how-a-13-year-old-used-my-artificial-nose-to-diagnose-pneumonia,,benjamin-cabe.com
+albinsjolin,2,30398140,15,1645287130,Theory of winter-fasting and the cure for cancer,story,https://github.com/albinsjolin/open-source-cure-for-cancer,,github.com
+cloutchaser,198,30384164,371,1645180698,Covid testing firm ‘selling swabs carrying customers’ DNA’ to third parties,story,https://www.thelondoneconomic.com/news/covid-testing-firm-selling-swabs-carrying-customers-dna-to-third-parties-301236/,,thelondoneconomic.com
+BarrySeal,3,30402943,21,1645327698,Covid Vaccines Were Deadly in Rare Cases. Governments Are Weighing Compensation,story,https://www.wsj.com/articles/covid-19-vaccines-were-deadly-in-rare-cases-governments-are-now-weighing-compensation-11645266603,,wsj.com
 Lio,4,30400200,12,1645302342,Mental health helpline funded by royals shared users’ conversations,story,https://www.theguardian.com/society/2022/feb/19/mental-health-helpline-funded-by-royals-shared-users-conversations,,theguardian.com
-gmays,0,30390321,16,1645214318,Scientists demonstrate self-awareness in fish,story,https://phys.org/news/2022-02-scientists-self-awareness-fish.html,,phys.org
