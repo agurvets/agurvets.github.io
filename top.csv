@@ -1,20 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-BarrySeal,41,30420811,132,1645478709,The Poison Papers: Hidden history of chemical and pesticide hazards in the U.S,story,https://www.poisonpapers.org/,,poisonpapers.org
-xz18r,15,30421036,51,1645479920,Wallabag: Self-hostable application for saving web pages and articles,story,https://github.com/wallabag/wallabag,,github.com
-zoid,16,30413269,94,1645432477,Scientific integrity in a climate of perverse incentives and competition (2017),story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206685/,,ncbi.nlm.nih.gov
-tokai,2,30414598,20,1645443367,Ensuring planetary survival: balancing the multifunctional nature of soils,story,https://www.tandfonline.com/doi/full/10.1080/10643389.2021.2024484,,tandfonline.com
-daegloe,76,30408104,201,1645382450,First gene therapy for Tay-Sachs disease successfully given to two children,story,https://theconversation.com/first-gene-therapy-for-tay-sachs-disease-successfully-given-to-two-children-176870,,theconversation.com
-pabs3,4,30411621,26,1645413707,Adding Schnorr's Blind Signatures to GNU Taler,story,https://taler.net/en/news/2022-02.html,,taler.net
-rsfern,28,30405462,38,1645363316,The cancer vaccine roller coaster (2009),story,https://www.nature.com/articles/nbt0209-129,,nature.com
-graderjs,63,30395583,202,1645261647,The brain’s reading of the body’s state is key to mental health,story,https://psyche.co/ideas/the-brains-reading-of-the-bodys-state-is-key-to-mental-health,,psyche.co
-jrcplus,53,30407828,71,1645380879,Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“,story,http://en.kremlin.ru/events/president/news/66181,,en.kremlin.ru
-danso,418,30385421,396,1645190914,Difficult situation on campus: traffic jam of food delivery robots,story,https://twitter.com/seanhecht/status/1493432613628825600,,twitter.com
-pretext,0,30419510,11,1645471059,Got a Covid Booster? You Probably Won’t Need Another for a Long Time,story,https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html,,nytimes.com
+gmays,19,30432512,64,1645558473,Bacteria upcycle carbon waste into valuable chemicals,story,https://news.northwestern.edu/stories/2022/02/bacteria-upcycle-carbon-waste-into-valuable-chemicals/,,news.northwestern.edu
+giuliomagnifico,174,30431711,168,1645555174,Neuroscientists have recorded the activity of a dying human brain,story,https://blog.frontiersin.org/2022/02/22/what-happens-in-our-brain-when-we-die/,,frontiersin.org
+clouddrover,40,30425643,171,1645521171,Magpies have outwitted scientists by helping each other remove tracking devices,story,https://www.abc.net.au/news/2022-02-22/magpies-show-cooperative-behaviour-by-removing-tracking-device/100851458,,abc.net.au
+BarrySeal,54,30420811,200,1645478709,The Poison Papers: Hidden history of chemical and pesticide hazards in the U.S,story,https://www.poisonpapers.org/,,poisonpapers.org
+softwarebeware,0,30431830,22,1645555660,Ukrainian scientists fear for their lives and future amid Russian threat,story,https://www.nature.com/articles/d41586-022-00505-9,,nature.com
+xz18r,49,30421036,126,1645479920,Wallabag: Self-hostable application for saving web pages and articles,story,https://github.com/wallabag/wallabag,,github.com
+todsacerdoti,19,30431033,45,1645552458,"IRS: Selfies now optional, biometric data to be deleted",story,https://krebsonsecurity.com/2022/02/irs-selfies-now-optional-biometric-data-to-be-deleted/,,krebsonsecurity.com
+zoid,18,30413269,99,1645432477,Scientific integrity in a climate of perverse incentives and competition (2017),story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206685/,,ncbi.nlm.nih.gov
+daegloe,76,30408104,205,1645382450,First gene therapy for Tay-Sachs disease successfully given to two children,story,https://theconversation.com/first-gene-therapy-for-tay-sachs-disease-successfully-given-to-two-children-176870,,theconversation.com
+tokai,2,30414598,23,1645443367,Ensuring planetary survival: balancing the multifunctional nature of soils,story,https://www.tandfonline.com/doi/full/10.1080/10643389.2021.2024484,,tandfonline.com
+pabs3,4,30411621,28,1645413707,Adding Schnorr's Blind Signatures to GNU Taler,story,https://taler.net/en/news/2022-02.html,,taler.net
+rbanffy,0,30425898,13,1645523308,We Think We’ve Spotted the Mysterious Birth of a Black Hole,story,https://scitechdaily.com/we-think-weve-spotted-the-mysterious-birth-of-a-black-hole/,,scitechdaily.com
+rsfern,28,30405462,39,1645363316,The cancer vaccine roller coaster (2009),story,https://www.nature.com/articles/nbt0209-129,,nature.com
+baskethead,13,30424404,11,1645508545,‘Crypto Ruined My Life’: The Mental Health Crisis Hitting Bitcoin Investors,story,https://www.vice.com/en/article/akvn8z/crypto-bad-for-mental-health,,vice.com
+jrcplus,53,30407828,73,1645380879,Article by Vladimir Putin ”On the Historical Unity of Russians and Ukrainians“,story,http://en.kremlin.ru/events/president/news/66181,,en.kremlin.ru
 clouddrover,8,30405495,55,1645363596,"Oldest buildings in UAE discovered, dating back 8,500 years",story,https://www.cnn.com/travel/article/uae-buildings-archaeology-scli-scn-intl/index.html,,cnn.com
 EntICOnc,75,30397485,87,1645282034,How to write better scientific code in Python?,story,https://zerowithdot.com/improve-data-science-code/,,zerowithdot.com
-baskethead,0,30422765,12,1645490661,Boris Johnson announces the end of Covid restrictions in England,story,https://www.cnn.com/2022/02/21/uk/boris-johnson-drops-covid-restrictions-intl-gbr/index.html,,cnn.com
-mensetmanusman,5,30416221,17,1645453750,Children should face fewer Covid restrictions than adults,story,https://www.theatlantic.com/ideas/archive/2022/02/relaxing-covid-restrictions-kids/622857/,,theatlantic.com
-koolba,8,30408253,54,1645383373,The CDC Isn’t Publishing Large Portions of the Covid Data It Collects,story,https://www.nytimes.com/2022/02/20/health/covid-cdc-data.html,,nytimes.com
-albinsjolin,3,30398140,17,1645287130,Theory of winter-fasting and the cure for cancer,story,https://github.com/albinsjolin/open-source-cure-for-cancer,,github.com
-MilnerRoute,1,30408754,16,1645386932,Experimental WebAssembly port of LibreOffice released. Try it in the browser,story,https://www.theregister.com/2022/02/19/webassembly_port_libreoffice/,,theregister.com
-cloutchaser,201,30384164,380,1645180698,Covid testing firm ‘selling swabs carrying customers’ DNA’ to third parties,story,https://www.thelondoneconomic.com/news/covid-testing-firm-selling-swabs-carrying-customers-dna-to-third-parties-301236/,,thelondoneconomic.com
