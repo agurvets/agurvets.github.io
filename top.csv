@@ -1,17 +1,71 @@
 by,descendants,id,score,time,title,type,url,text,domain
-softwarebeware,78,30675666,98,1647280626,Medical student surgically implants Bluetooth into own ear to cheat in final,story,https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html,,independent.co.uk
-hochmartinez,2,30675879,12,1647281534,Ketamine for the acute treatment of severe suicidal ideation,story,https://www.bmj.com/content/376/bmj-2021-067194,,bmj.com
-bryanrasmussen,12,30669789,66,1647246580,"In birdsong, scientists find some parallels with human speech",story,https://www.smithsonianmag.com/science-nature/do-birds-have-language-180979629/,,smithsonianmag.com
-edgartaor,34,30669487,70,1647243653,Show HN: Serve your saved articles to a Kindle,story,https://github.com/edgartaor/kindleServer,,github.com
-samwillis,7,30671692,14,1647261662,P .05 cut-off for significant scientific result is due to copyright restrictions,story,https://twitter.com/emollick/status/1503061447835799566,,twitter.com
-qnsi,1,30671904,12,1647262888,The Psychology of Your Scrolling Addiction,story,https://hbr.org/2022/01/the-psychology-of-your-scrolling-addiction,,hbr.org
-benryon,1,30671894,13,1647262851,Azure demonstrates elusive physics needed to build scalable topological qubits,story,https://news.microsoft.com/innovation-stories/azure-quantum-majorana-topological-qubit/,,news.microsoft.com
-tintinnabula,7,30631445,42,1646941229,Experimental investigation of orangutans’ sharp stone tool behaviours,story,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263343,,journals.plos.org
+softwarebeware,354,30675666,395,1647280626,Medical student surgically implants Bluetooth into own ear to cheat in final,story,https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html,,independent.co.uk
+andyzei,35,30677406,36,1647287816,Strava abruptly ends 3rd party data sync to Apple Health,story,https://www.dcrainmaker.com/2022/03/strava-abruptly-ends-3rd-party-data-push-to-apple-health.html,,dcrainmaker.com
+hochmartinez,76,30675879,94,1647281534,Ketamine for the acute treatment of severe suicidal ideation,story,https://www.bmj.com/content/376/bmj-2021-067194,,bmj.com
+sabr,15,30673502,42,1647271465,"Show HN: Smort.io – Edit, annotate and share articles easily",story,https://www.smort.io/,"Hey HN, I created Smort as I wanted to highlight an article and share it with a friend but couldn&#x27;t find an easy way of doing it.<p>Smort lets you easily edit, annotate and share an article. To read any article, just prepend smort.io&#x2F; before a URL in a browser. (I recently found out that even 12ft.io&#x2F; uses the same technique). Smort is free to use and shareable links are valid for 7 days from creation. Permanent links will be supported soon.<p>I&#x27;m primarily a backend&#x2F;ML engineer so had to learn all things frontend to build Smort. I started out developing in SvelteKit and loved it but later migrated to React &amp; Nextjs due to better third party library support. I have lots of ideas on how to take Smort forward and would love for you all to use it. Please join our Discord to share your curated articles and feedback!<p>This is a walkthrough article detailing everything Smort can do at the moment - <a href=""https:&#x2F;&#x2F;smort.io&#x2F;demo-walkthrough"" rel=""nofollow"">https:&#x2F;&#x2F;smort.io&#x2F;demo-walkthrough</a>.<p>Smort&#x27;s name was inspired by the memes [1]<p>[1] <a href=""https:&#x2F;&#x2F;www.google.com&#x2F;search?q=smort+meme&amp;tbm=isch"" rel=""nofollow"">https:&#x2F;&#x2F;www.google.com&#x2F;search?q=smort+meme&amp;tbm=isch</a>",smort.io
+bryanrasmussen,15,30669789,80,1647246580,"In birdsong, scientists find some parallels with human speech",story,https://www.smithsonianmag.com/science-nature/do-birds-have-language-180979629/,,smithsonianmag.com
+edgartaor,34,30669487,74,1647243653,Show HN: Serve your saved articles to a Kindle,story,https://github.com/edgartaor/kindleServer,,github.com
+cft,5,30678249,15,1647291680,"Ask HN: Sick with Covid in Spain, Google Fi suddenly cuts off my phone service",story,,"I was delayed in Spain because of Covid. I evacuated here sick with Covid from Ukraine, just before the war. Suddenly Google Fi cuts off my service, with no warning. I have not received their email. Can somebody help me on HN? I edited out my case ID from the chat, but I can add it.<p>Welcome to Google Support. My name is Lohitha. How are you today?
+Please make a note of this case ID: 5-XXXXXXX for future reference.
+Lohitha · 1:32 PM<p>I described the problem: I suddenly lost data connection today and cannot reconnet to data
+1:32 PM
+L<p>I see that you are facing issues with the international data connection. I will help you to the best of my expertise.
+Thanks for the details.
+Lohitha · 1:33 PM<p>In the screenshot, all networks that now say Forbidden were available until today
+1:34 PM
+L<p>Okay. Are you on active military duty or a government employee?
+Lohitha · 1:35 PM<p>no
+1:35 PM
+L<p>Thank you for the details.
+Lohitha · 1:35 PM<p>Got it.
+I have checked the details and see that your international data capability is suspended.
+Lohitha · 1:39 PM<p>Why?
+1:39 PM
+L<p>As per our Terms of Service, Fi must be primarily used in the United States (territories not included) and isn’t intended for extended international use.
+If you plan to stay abroad, we recommend you use a local carrier until you return to the US.
+Lohitha · 1:39 PM<p>I had covid and I was delayed here
+I have documents that show that I have had covid recently
+1:40 PM
+L<p>Axxx, I completely understand.
+I would have definitely helped you with this if there would have been any other alternative options.
+Lohitha · 1:42 PM<p>I am returning to the US in 2 weeks: I even had to ask for a stay extension because I am sick. I hope you won&#x27;t cut off my service because I have Covid?
+I can upload my doctor&#x27;s letter and a positive PCR test
+1:44 PM
+L<p>Unfortunately, we don&#x27;t have an option to provide exceptions for covid affected persons. I hope you understand.
+Your international data roaming capabilities are automatically reinstated once we determine that your services (data, talk and text) are primarily used in the United States (territories not included) as per our Terms of Service.
+Lohitha · 1:45 PM<p>I am sick and you cut off my phone without warning!
+There was no warning whatsoever
+1:45 PM
+L<p>Axxx, you must have received an email before 30 days as a remainder.
+Lohitha · 1:46 PM<p>I have never received any email
+Nothing
+1:46 PM
+L<p>Please check if you have blocked the system automated emails.
+Lohitha · 1:46 PM<p>I have not
+1:46 PM
+L<p>Google Fi will send an email before 30 days.
+Lohitha · 1:47 PM<p>I have never seen the email
+And I cannot find it in my gmail account: I am looking no
+now
+1:47 PM
+L<p>I understand. Please check your gmail settings if you have any restrictions.
+Lohitha · 1:48 PM<p>I did not set any restrictions. Since this is about disconnecting my phone, you could have called me or at least sent a text!
+can you please reinstate the service for 2 weeks? I am cut off from my banking, everything
+And I am sick
+1:49 PM
+L<p>Axxx, it is an automated email system. Unfortunately, we don&#x27;t have an option to send you a text or call. I hope you understand.
+I would have certainly helped you if there is any alternative option.
+It is my pleasure to assist you today! Have a good one!
+Lohitha left the chat.
+1:50 PM<p>Thanks for contacting Google Fi chat support. Your chat session is now complete.",
+samwillis,7,30671692,17,1647261662,P .05 cut-off for significant scientific result is due to copyright restrictions,story,https://twitter.com/emollick/status/1503061447835799566,,twitter.com
+benryon,1,30671894,14,1647262851,Azure demonstrates elusive physics needed to build scalable topological qubits,story,https://news.microsoft.com/innovation-stories/azure-quantum-majorana-topological-qubit/,,news.microsoft.com
+qnsi,1,30671904,13,1647262888,The Psychology of Your Scrolling Addiction,story,https://hbr.org/2022/01/the-psychology-of-your-scrolling-addiction,,hbr.org
+tintinnabula,7,30631445,43,1646941229,Experimental investigation of orangutans’ sharp stone tool behaviours,story,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263343,,journals.plos.org
 belter,39,30653801,124,1647111329,Study sheds new light on Tutankhamun’s mysterious dagger ‘born’ from meteorite,story,https://english.elpais.com/science-tech/2022-03-06/study-sheds-new-light-on-tutankhamuns-mysterious-dagger-born-from-meteorite.html,,english.elpais.com
+eatonphil,3,30653137,96,1647107002,The Discovery and Exploitation of CVE-2022-25636,story,https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/,,nickgregory.me
 slyall,3,30668183,20,1647227851,The Uber Eats glitch that allowed ordering free food for a weekend in India,story,https://twitter.com/GergelyOrosz/status/1502947315279187979,,twitter.com
-eatonphil,3,30653137,95,1647107002,The Discovery and Exploitation of CVE-2022-25636,story,https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/,,nickgregory.me
 mmastrac,15,30642954,170,1647019531,A volumetric display using an acoustically trapped particle (2021) [video],story,https://www.youtube.com/watch?v=hCC1C5KIeUA,,youtube.com
 aghilmort,7,30654152,15,1647113601,"Deep Branch, CO₂-to-protein platform for animal feed",story,https://deepbranch.com/,,deepbranch.com
-thebigspacefuck,6,30664158,19,1647195378,"Startups push ADHD meds through TikTok, concerning Doctors",story,https://nypost.com/2022/03/13/startups-push-adhd-meds-through-tiktok-ads-concerning-doctors/,,nypost.com
 panphora,7,30652901,47,1647105514,The Psychology of Pricing: A List of Tactics,story,https://www.nickkolenda.com/psychological-pricing-strategies/,,nickkolenda.com
-andrewl,28,30626497,33,1646917878,Hawking Hawking: The Selling of a Scientific Celebrity,story,https://inference-review.com/article/underselling-hawking,,inference-review.com
+thebigspacefuck,6,30664158,19,1647195378,"Startups push ADHD meds through TikTok, concerning Doctors",story,https://nypost.com/2022/03/13/startups-push-adhd-meds-through-tiktok-ads-concerning-doctors/,,nypost.com
