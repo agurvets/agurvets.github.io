@@ -1,20 +1,20 @@
 by,descendants,id,score,time,title,type,url,text,domain
-aemreunal,29,30717785,163,1647567278,Scan of the Month: Food Packaging,story,https://www.scanofthemonth.com/scans/food-packaging,,scanofthemonth.com
-grogu88,135,30714149,83,1647540433,Doctors who use Google Translate to talk to patients want a better option,story,https://www.statnews.com/2022/03/16/google-translate-health-care-english/,,statnews.com
-minding,181,30709193,651,1647509012,In-flight surgery with a coat-hanger and silverware,story,https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware,,en.wikipedia.org
-nsoonhui,41,30709847,119,1647516019,An antimatter experiment shows surprises near absolute zero,story,https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/,,quantamagazine.org
-raybb,2,30711875,11,1647529166,The World Health Organization Is Launching Its Open Source Programme Office,story,https://socialimpact.github.com/insights/world-health-organization-OSPO-launch/,,socialimpact.github.com
-vyrotek,2,30714785,16,1647544186,AI suggested 40k new possible chemical weapons in just six hours,story,https://www.theverge.com/2022/3/17/22983197/ai-new-possible-chemical-weapons-generative-models-vx,,theverge.com
-heliostatic,61,30698097,147,1647434968,Dual use of artificial-intelligence-powered drug discovery,story,https://www.nature.com/articles/s42256-022-00465-9,,nature.com
-danboarder,97,30695360,176,1647405310,Plasticity Is CAD for Artists,story,https://github.com/nkallen/plasticity,,github.com
-softwarebeware,463,30675666,603,1647280626,Medical student surgically implants Bluetooth into own ear to cheat in final,story,https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html,,independent.co.uk
-bryanrasmussen,7,30695650,30,1647408751,Growing Influence of State Governments on Population Health in the United States,story,https://jamanetwork.com/journals/jama/fullarticle/2790238,,jamanetwork.com
-rahulravu96,14,30697374,74,1647428800,MSFT demonstrates formerly elusive physics needed to build scalable qubits,story,https://news.microsoft.com/innovation-stories/azure-quantum-majorana-topological-qubit/,,news.microsoft.com
-edgartaor,44,30669487,85,1647243653,Show HN: Serve your saved articles to a Kindle,story,https://github.com/edgartaor/kindleServer,,github.com
-jayalammar,0,30673643,15,1647272102,Mle-monitor: A lightweight experiment and resource monitoring tool (2021),story,https://roberttlange.github.io/posts/2021/12/mle-monitor/,,roberttlange.github.io
-tosh,4,30671167,111,1647257809,Physics in Clojure: Elliptical Paths,story,https://twitter.com/sritchie/status/1503220063264026629,,twitter.com
-hochmartinez,112,30675879,129,1647281534,Ketamine for the acute treatment of severe suicidal ideation,story,https://www.bmj.com/content/376/bmj-2021-067194,,bmj.com
-bryanrasmussen,18,30669789,85,1647246580,"In birdsong, scientists find some parallels with human speech",story,https://www.smithsonianmag.com/science-nature/do-birds-have-language-180979629/,,smithsonianmag.com
-AdriaanvRossum,1,30713280,11,1647536060,Dozens of Covid passport apps put user's privacy at risk,story,https://www.bleepingcomputer.com/news/security/dozens-of-covid-passport-apps-put-users-privacy-at-risk/,,bleepingcomputer.com
-andyzei,107,30677406,93,1647287816,Strava abruptly ends 3rd party data sync to Apple Health,story,https://www.dcrainmaker.com/2022/03/strava-abruptly-ends-3rd-party-data-push-to-apple-health.html,,dcrainmaker.com
-scruple,1,30703504,20,1647461918,Superbug-Infected Chicken Is Being Sold All over the US,story,https://www.vice.com/en/article/5dg49z/antibiotic-resistant-salmonella-campylobacter-chicken,,vice.com
+PrettyPebble,124,30733666,191,1647697670,A 9-line summary of textbook physics,story,https://www.motionmountain.net/9lines.html,,motionmountain.net
+minding,204,30709193,698,1647509012,In-flight surgery with a coat-hanger and silverware,story,https://en.wikipedia.org/wiki/Angus_Wallace#In-flight_surgery_with_a_coat-hanger_and_silverware,,en.wikipedia.org
+_Microft,11,30696898,61,1647423642,Fire ants cover inaccessible surfaces with particles to aid food search (2020),story,https://onlinelibrary.wiley.com/doi/abs/10.1111/1744-7917.12891,,onlinelibrary.wiley.com
+Hooke,59,30718708,110,1647577133,Lagrange points solved one of physics' biggest problems,story,https://www.space.com/lagrange-points-solve-major-physics-problem,,space.com
+raviisoccupied,2,30732666,11,1647686000,UK's safe level for tap water too high – scientists,story,https://www.bbc.co.uk/news/science-environment-60761972,,bbc.co.uk
+sizzle,4,30725274,20,1647625692,Computer scientist identifies JavaScript vulnerability in thousands of websites,story,https://hub.jhu.edu/2022/03/14/computer-scientist-identifies-javascript-vulnerability/,,hub.jhu.edu
+aemreunal,122,30717785,387,1647567278,Food Packaging,story,https://www.scanofthemonth.com/scans/food-packaging,,scanofthemonth.com
+Bostonian,112,30722394,73,1647612325,Looming food shortages is the next ‘slow-moving disaster’ to hit world,story,https://nypost.com/2022/03/17/looming-food-shortages-is-worlds-next-slow-moving-disaster/,,nypost.com
+grogu88,147,30714149,101,1647540433,Doctors who use Google Translate to talk to patients want a better option,story,https://www.statnews.com/2022/03/16/google-translate-health-care-english/,,statnews.com
+softwarebeware,466,30675666,607,1647280626,Medical student surgically implants Bluetooth into own ear to cheat in final,story,https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html,,independent.co.uk
+nsoonhui,41,30709847,122,1647516019,An antimatter experiment shows surprises near absolute zero,story,https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/,,quantamagazine.org
+SQL2219,4,30733301,23,1647693725,CDC removes 30K Covid deaths – reduces pediatric deaths by 24%,story,https://twitter.com/NBSaphierMD/status/1504419658136440833,,twitter.com
+danboarder,97,30695360,179,1647405310,Plasticity Is CAD for Artists,story,https://github.com/nkallen/plasticity,,github.com
+heliostatic,63,30698097,149,1647434968,Dual use of artificial-intelligence-powered drug discovery,story,https://www.nature.com/articles/s42256-022-00465-9,,nature.com
+PaulHoule,4,30728678,15,1647644181,"Blindspots on SUVs, vans, and pickups are bad for pedestrian health",story,https://arstechnica.com/cars/2022/03/better-rollover-safety-may-be-to-blame-for-more-pedestrian-deaths/,,arstechnica.com
+birriel,4,30727015,18,1647634763,Scientists Say There May Be a Mirror Universe in Which Time Runs Backwards,story,https://futurism.com/anti-universe-time-backwards,,futurism.com
+raybb,2,30711875,12,1647529166,The World Health Organization Is Launching Its Open Source Programme Office,story,https://socialimpact.github.com/insights/world-health-organization-OSPO-launch/,,socialimpact.github.com
+edgartaor,45,30669487,86,1647243653,Show HN: Serve your saved articles to a Kindle,story,https://github.com/edgartaor/kindleServer,,github.com
+bryanrasmussen,7,30695650,31,1647408751,Growing Influence of State Governments on Population Health in the United States,story,https://jamanetwork.com/journals/jama/fullarticle/2790238,,jamanetwork.com
