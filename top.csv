@@ -1,20 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-serverlessmom,10,30820685,98,1648392919,Man discovers that his wife is the best Tetris player (2007),story,https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/,,archive.boston.com
-diodorus,5,30798690,21,1648182963,Researchers discover oldest-known ochre workshop in East Asia,story,https://www.smithsonianmag.com/smart-news/researchers-discover-oldest-known-ochre-workshop-in-east-asia-180979776/,,smithsonianmag.com
-leonry,251,30812086,204,1648304867,The counterintuitive rise of Python in scientific computing (2020),story,https://cerfacs.fr/coop/fortran-vs-python,,cerfacs.fr
-smusamashah,111,30810626,171,1648289762,Scientists find microplastics in blood for first time,story,https://phys.org/news/2022-03-scientists-microplastics-blood.html,,phys.org
-martythemaniak,2,30821236,12,1648396591,Elderly Covid patients in Sweden given morphine instead of oxygen,story,https://twitter.com/LazarusLong13/status/1507978371279454209,,twitter.com
-mitchbob,41,30815945,37,1648333924,A Freelancer's Forty-Three Years in the American Health-Care System,story,https://www.newyorker.com/culture/personal-history/a-freelancers-forty-three-years-in-the-american-health-care-system,,newyorker.com
-pueblito,260,30793352,320,1648144784,The illusion of evidence based medicine,story,https://www.bmj.com/content/376/bmj.o702,,bmj.com
-ck2,408,30789046,364,1648126334,YouTuber builds his own x-ray machine after $69k hospital bill (2021),story,https://www.popularmechanics.com/technology/a37543273/homemade-xray-machine/,,popularmechanics.com
-rudedogg,8,30817731,15,1648355547,Nurse found guilty in accidental injection death,story,https://www.npr.org/sections/health-shots/2022/03/25/1088902487/former-nurse-found-guilty-in-accidental-injection-death-of-75-year-old-patient,,npr.org
-giuliomagnifico,0,30812313,12,1648306200,Italian scientists hacked pizza physics to make dough without yeast,story,https://www.npr.org/sections/health-shots/2022/03/22/1087961262/roll-over-sourdough-italian-scientists-develop-a-new-way-rise-pizza-crust,,npr.org
-pvaldes,13,30805288,107,1648231168,Mariupol computer retro museum has been destroyed,story,https://www.pcgamer.com/retro-computing-museum-in-ukraine-destroyed-by-russian-bomb/,,pcgamer.com
-gmays,27,30803455,67,1648222782,Physicists create compressible “gas of light”,story,https://www.uni-bonn.de/en/news/053-2022,,uni-bonn.de
-davikr,144,30788530,263,1648122314,"So, you want to be a darknet drug lord",story,https://pastebin.com/raw/GrV3uYh5,,pastebin.com
-sweatC,23,30791151,49,1648135302,Show HN: I made a site that lets you discover micro-startups for sale,story,https://www.microns.io//,,microns.io
-Brajeshwar,75,30804557,56,1648227468,Another asteroid whizzes past Earth hours after discovery,story,https://earthsky.org/space/another-asteroid-near-earth-hours-after-discovery-sar2594/,,earthsky.org
-mhb,68,30764886,378,1647949494,Tolkien's Paintings,story,https://www.tolkienestate.com/painting,,tolkienestate.com
-simplicialset,61,30792902,279,1648142851,The Feynman Lectures on Physics (1964),story,https://feynmanlectures.caltech.edu/,,feynmanlectures.caltech.edu
-anarbadalov,3,30806491,13,1648238540,Bureaucratic Psychosis,story,https://experimentalhistory.substack.com/p/bureaucratic-psychosis,,experimentalhistory.substack.com
-alwillis,150,30768342,192,1647967366,Covid and the Heart: It Spares No One – Johns Hopkins,story,https://publichealth.jhu.edu/2022/covid-and-the-heart-it-spares-no-one,,publichealth.jhu.edu
+theafh,2,30843723,15,1648567076,Black Holes Shown to Act Like Quantum Particles,story,https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/,,quantamagazine.org
+bookofjoe,38,30841339,85,1648554626,Mild respiratory SARS-CoV-2 infection can cause myelin loss in the brain,story,https://www.biorxiv.org/content/10.1101/2022.01.07.475453v1,,biorxiv.org
+jimmy2020,212,30837092,197,1648512394,Rare genital defects seen in sons of men taking major diabetes drug,story,https://www.science.org/content/article/rare-genital-defects-seen-sons-men-taking-major-diabetes-drug,,science.org
+cooperq,132,30833566,309,1648490711,Mystery GPS Tracker on a Supporter’s Car,story,https://www.eff.org/deeplinks/2022/03/eff-investigation-mystery-gps-tracker-supporters-car,,eff.org
+theafh,3,30832887,41,1648487634,Cells blaze their own trails to navigate through the body,story,https://www.quantamagazine.org/cells-blaze-their-own-trails-to-navigate-through-the-body-20220328/,,quantamagazine.org
+giuliomagnifico,75,30812313,88,1648306200,Italian scientists hacked pizza physics to make dough without yeast,story,https://www.npr.org/sections/health-shots/2022/03/22/1087961262/roll-over-sourdough-italian-scientists-develop-a-new-way-rise-pizza-crust,,npr.org
+0066cc,14,30835784,76,1648502642,Articles from arXiv.org as responsive HTML5 web pages,story,https://ar5iv.labs.arxiv.org/,,ar5iv.labs.arxiv.org
+geox,31,30832807,95,1648487305,Nasal spray treats Delta variant infection in mice,story,https://science.ubc.ca/news/new-nasal-spray-treats-delta-variant-infection-mice-indicating-broad-spectrum-results,,science.ubc.ca
+joak,45,30825430,49,1648425626,"Physicists Build Circuit That Generates Clean, Limitless Power from Graphene (2020)",story,https://news.uark.edu/articles/54830/physicists-build-circuit-that-generates-clean-limitless-power-from-graphene,,news.uark.edu
+chaosprint,4,30819646,34,1648383093,Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment,story,https://github.com/chaosprint/RaveForce,,github.com
+bookofjoe,3,30837948,14,1648519784,Alzheimer's-like signaling in brains of Covid-19 patients,story,https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12558,,alz-journals.onlinelibrary.wiley.com
+leonry,257,30812086,215,1648304867,The counterintuitive rise of Python in scientific computing (2020),story,https://cerfacs.fr/coop/fortran-vs-python,,cerfacs.fr
+serverlessmom,28,30820685,128,1648392919,Man discovers that his wife is the best Tetris player (2007),story,https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/,,archive.boston.com
+diodorus,5,30798690,24,1648182963,Researchers discover oldest-known ochre workshop in East Asia,story,https://www.smithsonianmag.com/smart-news/researchers-discover-oldest-known-ochre-workshop-in-east-asia-180979776/,,smithsonianmag.com
+PaulHoule,2,30831196,17,1648479810,Promising nose spray could prevent and treat Covid-19,story,https://news.cornell.edu/stories/2022/03/promising-nose-spray-could-prevent-and-treat-covid-19,,news.cornell.edu
+smusamashah,116,30810626,178,1648289762,Scientists find microplastics in blood for first time,story,https://phys.org/news/2022-03-scientists-microplastics-blood.html,,phys.org
+jelliclesfarm,24,30825037,26,1648422000,"Ask HN: Capping population for cities, a thought experiment",story,,"Hypothetically, would capping populations of cities and towns be a better way to utilize resources as well as distribute resources so everyone can have a basic quality of life?<p>There are pros and cons to this..it is certainly an over reach of govt, but that exists now too in a different way.<p>As a thought experiment, would this help to develop model self sustaining cities?",
+paulpauper,4,30837666,15,1648517222,'Biggest fraud in a generation': The looting of the Covid relief,story,https://www.nbcnews.com/politics/justice-department/biggest-fraud-generation-looting-covid-relief-program-known-ppp-n1279664,,nbcnews.com
