@@ -1,7 +1,8 @@
 by,descendants,id,score,time,title,type,url,text,domain
-19870213,67,31089216,177,1650402574,Psychic Signatures in Java,story,https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/,,neilmadden.blog
-vitabenes,15,31102862,55,1650488016,"The ‘psychobiome': the gut bacteria that may alter how you think, feel, act",story,https://www.science.org/content/article/meet-psychobiome-gut-bacteria-may-alter-how-you-think-feel-and-act,,science.org
-branko_d,4,31100079,20,1650475023,Psychology “incompatible with hypothesis-driven theoretical science”,story,https://www.madinamerica.com/2022/04/psychology-incompatible-hypothesis-driven-theoretical-science/,,madinamerica.com
+luu,1,31085193,11,1650384985,Potential Gains in Life Expectancy Associated with Diabetes Treatment Goals [pdf],story,https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2791200/kianmehr_2022_oi_220242_1649453574.65092.pdf,,jamanetwork.com
+19870213,70,31089216,182,1650402574,Psychic Signatures in Java,story,https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/,,neilmadden.blog
+vitabenes,26,31102862,68,1650488016,"The ‘psychobiome': the gut bacteria that may alter how you think, feel, act",story,https://www.science.org/content/article/meet-psychobiome-gut-bacteria-may-alter-how-you-think-feel-and-act,,science.org
+branko_d,5,31100079,22,1650475023,Psychology “incompatible with hypothesis-driven theoretical science”,story,https://www.madinamerica.com/2022/04/psychology-incompatible-hypothesis-driven-theoretical-science/,,madinamerica.com
 amitoz_azad,3,31102418,12,1650485941,"Show HN: PyInpaint, a lightweight image inpainting tool written in Python",story,https://github.com/aGIToz/PyInpaint,"- A simple and effective tool to remove scratches, bruises and small holes on images.<p>- Basically it does the job by doing Dirichlet interpolation on a non-local graph created using images.<p>- Could be easy integrated at the backend for fask or django projects related to image processing.",github.com
 vardhanw,7,31095893,23,1650457826,Lucky discovery involving lithium-sulfur batteries,story,https://www.freethink.com/environment/lithium-sulfur-battery,,freethink.com
 yablak,349,31075558,679,1650311397,UK Government Officials Infected with Pegasus,story,https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/,,citizenlab.ca
