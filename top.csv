@@ -1,13 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-dr_pardee,1060,31180646,1146,1651071246,Report: 90% of nurses considering leaving the profession in the next year,story,https://www.healthcareitnews.com/news/report-90-nurses-considering-leaving-profession-next-year,,healthcareitnews.com
-danso,23,31185424,33,1651091708,Edward Snowden revealed as key participant in mysterious ceremony creating zcash,story,https://www.forbes.com/sites/michaeldelcastillo/2022/04/27/edward-snowden-revealed-as-key-participant-in-mysterious-ceremony-creating-2-billion-anonymous-cryptocurrency/,,forbes.com
-tomjcleveland,382,31178908,417,1651061420,Google almost convinced me to spend $400 on useless laser treatments,story,https://blog.tjcx.me/p/google-terrible-health-information,,tjcx.me
-bryanrasmussen,66,31166056,47,1650971769,Benedict Arnold's body lies in the wall of a British kindergarten,story,https://www.military.com/history/benedict-arnolds-body-lies-wall-of-british-kindergarten.html,,military.com
+ParksNet,13,31196492,55,1651171263,"EU considers banning use of up to 12,000 toxic chemicals",story,https://www.upi.com/Health_News/2022/04/26/europe-toxic-chemicals-ban-eu/8111650971773/,,upi.com
+RafelMri,10,31190941,43,1651142608,Engineered jumpers overcome biological limits via work multiplication,story,https://engineeringcommunity.nature.com/posts/engineered-jumpers-overcome-biological-limits-via-work-multiplication,,engineeringcommunity.nature.com
+dr_pardee,1207,31180646,1297,1651071246,Report: 90% of nurses considering leaving the profession in the next year,story,https://www.healthcareitnews.com/news/report-90-nurses-considering-leaving-profession-next-year,,healthcareitnews.com
+graderjs,17,31191416,58,1651146811,Ancient Temple dedicated to Zeus discovered in Egypt,story,https://www.livescience.com/zeus-temple-ancient-egypt,,livescience.com
+feross,29,31170883,41,1650996146,Book Review: A Clinical Introduction to Lacanian Psychoanalysis,story,https://astralcodexten.substack.com/p/book-review-a-clinical-introduction,,astralcodexten.substack.com
+slig,8,31165916,27,1650970539,Lasers and the sad state of online health information,story,https://blog.tjcx.me/p/google-terrible-health-information?s=r,,tjcx.me
+DarkContinent,1,31192225,14,1651152759,One million children receive first dose of malaria vaccine,story,https://www.africanews.com/2022/04/21/malaria-vaccine-reaches-more-than-one-million-children-in-africa/,,africanews.com
+tomjcleveland,411,31178908,425,1651061420,Google almost convinced me to spend $400 on useless laser treatments,story,https://blog.tjcx.me/p/google-terrible-health-information,,tjcx.me
+danso,43,31185424,54,1651091708,Edward Snowden revealed as key participant in mysterious ceremony creating zcash,story,https://www.forbes.com/sites/michaeldelcastillo/2022/04/27/edward-snowden-revealed-as-key-participant-in-mysterious-ceremony-creating-2-billion-anonymous-cryptocurrency/,,forbes.com
+bryanrasmussen,65,31166056,49,1650971769,Benedict Arnold's body lies in the wall of a British kindergarten,story,https://www.military.com/history/benedict-arnolds-body-lies-wall-of-british-kindergarten.html,,military.com
 dang,26,31169335,40,1650989789,Sweet-potato washing revisited: 50th anniversary of the Primates article (2015),story,https://link.springer.com/article/10.1007/s10329-015-0492-0,,link.springer.com
-wslh,20,31153702,105,1650890988,The Mysteries of Lisp (2015),story,https://arxiv.org/abs/1505.07375,,arxiv.org
-feross,13,31170883,24,1650996146,Book Review: A Clinical Introduction to Lacanian Psychoanalysis,story,https://astralcodexten.substack.com/p/book-review-a-clinical-introduction,,astralcodexten.substack.com
-pabs3,0,31174064,18,1651012885,Malicious relays and the health of the Tor network,story,https://blog.torproject.org/malicious-relays-health-tor-network/,,torproject.org
+wslh,20,31153702,106,1650890988,The Mysteries of Lisp (2015),story,https://arxiv.org/abs/1505.07375,,arxiv.org
 klevertree,50,31167325,83,1650980367,"To improve medical trials, justify exclusion criteria",story,https://trevorklee.substack.com/p/one-neat-trick-for-instantly-improving,,trevorklee.substack.com
-pseudolus,94,31153857,179,1650891633,Long-term risks of surgery: ‘It gives people’s brains a hard time’,story,https://www.theguardian.com/science/2022/apr/24/the-hidden-long-term-risks-of-surgery-it-give-peoples-brains-a-hard-time,,theguardian.com
-johnny313,25,31160695,35,1650921242,Eminent Scientist Says Climate Activists Need to Get Real,story,https://www.nytimes.com/interactive/2022/04/25/magazine/vaclav-smil-interview.html,,nytimes.com
-mzs,10,31168178,29,1650984668,"Ivermectin Does Not Reduce Risk of Covid Hospitalization, Large Study Finds",story,https://www.nytimes.com/2022/03/30/health/covid-ivermectin-hospitalization.html,,nytimes.com
+pabs3,0,31174064,18,1651012885,Malicious relays and the health of the Tor network,story,https://blog.torproject.org/malicious-relays-health-tor-network/,,torproject.org
+pseudolus,95,31153857,180,1650891633,Long-term risks of surgery: ‘It gives people’s brains a hard time’,story,https://www.theguardian.com/science/2022/apr/24/the-hidden-long-term-risks-of-surgery-it-give-peoples-brains-a-hard-time,,theguardian.com
