@@ -1,19 +1,20 @@
 by,descendants,id,score,time,title,type,url,text,domain
-bryanrasmussen,147,31279289,183,1651791367,$35 sculpture found at an Austin Goodwill was looted from a museum during WWII,story,https://www.kut.org/life-arts/2022-05-04/so-the-35-sculpture-you-got-at-an-austin-goodwill-was-looted-from-a-museum-during-wwii-now-what,,kut.org
-memorable,9,31271101,69,1651740844,"Unpaywall: An open database of 31,903,705 free scholarly articles",story,https://unpaywall.org/,,unpaywall.org
-remexre,7,31280912,21,1651807024,Rustc: Add do yeet expressions to allow experimentation in nightly,story,https://github.com/rust-lang/rust/pull/96376,,github.com
-pigtailgirl,16,31280698,41,1651805044,Public health agency tracked Canadians' movements via phone data during pandemic,story,https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349,,cp24.com
-insamniac,993,31268222,737,1651713829,Teen mental health is plummeting and social media is a major contributing cause [pdf],story,https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf,,judiciary.senate.gov
-luu,0,31277030,22,1651776196,"B.C. health agencies target workers who report under-staffing, burnout",story,https://vancouversun.com/news/local-news/bc-health-agencies-target-workers-who-use-social-media-to-report-understaffing-and-burnout,,vancouversun.com
-xdfg13345,1,31278773,13,1651787537,FDA Limits Use of Johnson and Johnson Covid-19 Vaccine,story,https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-limits-use-janssen-covid-19-vaccine-certain-individuals,,fda.gov
-happy-go-lucky,293,31217370,449,1651337805,Nature has enormous emotional and cognitive benefits on people,story,https://www.npr.org/2022/04/14/1092822560/get-outside-enjoy-nature,,npr.org
+memorable,34,31271101,350,1651740844,"Unpaywall: An open database of 31,903,705 free scholarly articles",story,https://unpaywall.org/,,unpaywall.org
+geox,22,31283917,37,1651836882,Social media break improves mental health,story,https://www.bath.ac.uk/announcements/social-media-break-improves-mental-health-new-study/,,bath.ac.uk
+remexre,52,31280912,67,1651807024,Rustc: Add do yeet expressions to allow experimentation in nightly,story,https://github.com/rust-lang/rust/pull/96376,,github.com
+bryanrasmussen,225,31279289,261,1651791367,$35 sculpture found at an Austin Goodwill was looted from a museum during WWII,story,https://www.kut.org/life-arts/2022-05-04/so-the-35-sculpture-you-got-at-an-austin-goodwill-was-looted-from-a-museum-during-wwii-now-what,,kut.org
+pigtailgirl,27,31280698,71,1651805044,Public health agency tracked Canadians' movements via phone data during pandemic,story,https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349,,cp24.com
+insamniac,1029,31268222,757,1651713829,Teen mental health is plummeting and social media is a major contributing cause [pdf],story,https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf,,judiciary.senate.gov
+prostoalex,0,31255963,20,1651629779,The Pandemic Gave Scientists a New Way to Spy on Emissions,story,https://www.wired.com/story/the-pandemic-gave-scientists-a-new-way-to-spy-on-emissions/,,wired.com
+luu,0,31277030,29,1651776196,"B.C. health agencies target workers who report under-staffing, burnout",story,https://vancouversun.com/news/local-news/bc-health-agencies-target-workers-who-use-social-media-to-report-understaffing-and-burnout,,vancouversun.com
+happy-go-lucky,293,31217370,451,1651337805,Nature has enormous emotional and cognitive benefits on people,story,https://www.npr.org/2022/04/14/1092822560/get-outside-enjoy-nature,,npr.org
 jseliger,20,31261611,63,1651677138,The need to reform the National Institutes of Health (NIH) funding process,story,https://newscience.org/nih/,,newscience.org
+rvrst,17,31263853,40,1651687714,Comma Body: The Future of People,story,https://www.commabody.com/,,commabody.com
 ingve,2,31245152,25,1651557514,Canon Camera Museum,story,https://global.canon/en/c-museum/,,global.canon
-rvrst,17,31263853,39,1651687714,Comma Body: The Future of People,story,https://www.commabody.com/,,commabody.com
-rntn,120,31272972,69,1651756945,"‘I’m not a leak.’ Scientific careers aren’t a ‘pipeline,’: economists",story,https://www.science.org/content/article/i-m-absolutely-not-leak-scientific-careers-aren-t-pipeline-these-economists-say,,science.org
-sarthakjshetty,7,31267727,20,1651710054,Bluesky – Authenticated Data EXperiment,story,https://github.com/bluesky-social/adx,,github.com
-alexrpreston,6,31264116,23,1651688870,Show HN: I built a site that summarizes articles and PDFs using NLP,story,https://summarizen.com/,,summarizen.com
+sarthakjshetty,7,31267727,21,1651710054,Bluesky – Authenticated Data EXperiment,story,https://github.com/bluesky-social/adx,,github.com
+xdfg13345,1,31278773,14,1651787537,FDA Limits Use of Johnson and Johnson Covid-19 Vaccine,story,https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-limits-use-janssen-covid-19-vaccine-certain-individuals,,fda.gov
+alexrpreston,7,31264116,24,1651688870,Show HN: I built a site that summarizes articles and PDFs using NLP,story,https://summarizen.com/,,summarizen.com
+rntn,124,31272972,69,1651756945,"‘I’m not a leak.’ Scientific careers aren’t a ‘pipeline,’: economists",story,https://www.science.org/content/article/i-m-absolutely-not-leak-scientific-careers-aren-t-pipeline-these-economists-say,,science.org
 pantalaimon,550,31232814,269,1651483051,Historic fertilizer crunch threatens food security,story,https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge,,bloombergquint.com
 accrual,33,31230181,332,1651452118,Occlusion Grotesque Experimental Typeface (2021),story,https://bjoernkarmann.dk/occlusion-grotesque,,bjoernkarmann.dk
-picture,6,31245163,31,1651557579,Cellular Landscapes: Protein Synthesis,story,https://media.cellsignal.com/www/html/science/landscapes/protein-synthesis/protein-synthesis.html,,media.cellsignal.com
-samizdis,16,31221570,48,1651372043,Studio Ghibli films can help us rediscover our connection with nature,story,https://theconversation.com/how-studio-ghibli-films-can-help-us-rediscover-the-childlike-wonder-of-our-connection-with-nature-176612,,theconversation.com
+TrispusAttucks,9,31280026,14,1651798845,FDA restricts J&J’s Covid-19 vaccine due to blood clot risk,story,https://apnews.com/article/covid-science-business-health-11b4f26de57da9b1b62669c1b2394ab3,,apnews.com
