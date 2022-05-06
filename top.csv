@@ -1,20 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-insamniac,191,31268222,189,1651713829,Teen mental health is plummeting and social media is a major contributing cause [pdf],story,https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf,,judiciary.senate.gov
-ingve,1,31245152,19,1651557514,Canon Camera Museum,story,https://global.canon/en/c-museum/,,global.canon
-sarthakjshetty,6,31267727,14,1651710054,Bluesky – Authenticated Data EXperiment,story,https://github.com/bluesky-social/adx,,github.com
-rvrst,17,31263853,33,1651687714,Comma Body: The Future of People,story,https://www.commabody.com/,,commabody.com
-jseliger,19,31261611,62,1651677138,The need to reform the National Institutes of Health (NIH) funding process,story,https://newscience.org/nih/,,newscience.org
-happy-go-lucky,283,31217370,434,1651337805,Nature has enormous emotional and cognitive benefits on people,story,https://www.npr.org/2022/04/14/1092822560/get-outside-enjoy-nature,,npr.org
-alexrpreston,6,31264116,20,1651688870,Show HN: I built a site that summarizes articles and PDFs using NLP,story,https://summarizen.com/,,summarizen.com
-johntfella,7,31266830,41,1651704224,Corona vaccination: half a million cases with serious side effects (German),story,https://www.berliner-zeitung.de/news/corona-impfung-halbe-million-faelle-mit-schweren-nebenwirkungen-li.226019,,berliner-zeitung.de
-pantalaimon,547,31232814,268,1651483051,Historic fertilizer crunch threatens food security,story,https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge,,bloombergquint.com
+bryanrasmussen,135,31279289,159,1651791367,$35 sculpture found at an Austin Goodwill was looted from a museum during WWII,story,https://www.kut.org/life-arts/2022-05-04/so-the-35-sculpture-you-got-at-an-austin-goodwill-was-looted-from-a-museum-during-wwii-now-what,,kut.org
+memorable,6,31271101,23,1651740844,"Unpaywall: An open database of 31,903,705 free scholarly articles",story,https://unpaywall.org/,,unpaywall.org
+remexre,7,31280912,12,1651807024,Rustc: Add do yeet expressions to allow experimentation in nightly,story,https://github.com/rust-lang/rust/pull/96376,,github.com
+pigtailgirl,15,31280698,31,1651805044,Public health agency tracked Canadians' movements via phone data during pandemic,story,https://www.cp24.com/news/canadians-trips-to-liquor-stores-pharmacies-tracked-via-phones-during-pandemic-1.5890349,,cp24.com
+insamniac,990,31268222,732,1651713829,Teen mental health is plummeting and social media is a major contributing cause [pdf],story,https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf,,judiciary.senate.gov
+luu,0,31277030,22,1651776196,"B.C. health agencies target workers who report under-staffing, burnout",story,https://vancouversun.com/news/local-news/bc-health-agencies-target-workers-who-use-social-media-to-report-understaffing-and-burnout,,vancouversun.com
+nickysielicki,37,31280833,20,1651806305,CA Appeals Court Rules San Francisco Cannot Ban Tenderloin Drug Dealers,story,https://californiaglobe.com/articles/ca-appeals-court-rules-san-francisco-cannot-ban-tenderloin-drug-dealers/,,californiaglobe.com
+xdfg13345,1,31278773,13,1651787537,FDA Limits Use of Johnson and Johnson Covid-19 Vaccine,story,https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-limits-use-janssen-covid-19-vaccine-certain-individuals,,fda.gov
+happy-go-lucky,293,31217370,448,1651337805,Nature has enormous emotional and cognitive benefits on people,story,https://www.npr.org/2022/04/14/1092822560/get-outside-enjoy-nature,,npr.org
+jseliger,20,31261611,63,1651677138,The need to reform the National Institutes of Health (NIH) funding process,story,https://newscience.org/nih/,,newscience.org
+ingve,2,31245152,25,1651557514,Canon Camera Museum,story,https://global.canon/en/c-museum/,,global.canon
+rvrst,17,31263853,39,1651687714,Comma Body: The Future of People,story,https://www.commabody.com/,,commabody.com
+rntn,120,31272972,68,1651756945,"‘I’m not a leak.’ Scientific careers aren’t a ‘pipeline,’: economists",story,https://www.science.org/content/article/i-m-absolutely-not-leak-scientific-careers-aren-t-pipeline-these-economists-say,,science.org
+sarthakjshetty,7,31267727,20,1651710054,Bluesky – Authenticated Data EXperiment,story,https://github.com/bluesky-social/adx,,github.com
+alexrpreston,6,31264116,23,1651688870,Show HN: I built a site that summarizes articles and PDFs using NLP,story,https://summarizen.com/,,summarizen.com
+pantalaimon,550,31232814,269,1651483051,Historic fertilizer crunch threatens food security,story,https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge,,bloombergquint.com
 accrual,32,31230181,332,1651452118,Occlusion Grotesque Experimental Typeface (2021),story,https://bjoernkarmann.dk/occlusion-grotesque,,bjoernkarmann.dk
-samizdis,16,31221570,48,1651372043,Studio Ghibli films can help us rediscover our connection with nature,story,https://theconversation.com/how-studio-ghibli-films-can-help-us-rediscover-the-childlike-wonder-of-our-connection-with-nature-176612,,theconversation.com
 picture,6,31245163,31,1651557579,Cellular Landscapes: Protein Synthesis,story,https://media.cellsignal.com/www/html/science/landscapes/protein-synthesis/protein-synthesis.html,,media.cellsignal.com
-onion2k,0,31266120,13,1651699992,US reaches one million Covid deaths,story,https://www.nbcnews.com/news/us-news/covids-toll-us-reaches-1-million-deaths-unfathomable-number-rcna22105,,nbcnews.com
-nradov,3,31252802,26,1651607827,Repeated influenza vaccination effects might apply to Covid-19 vaccines,story,https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00162-X/fulltext,,thelancet.com
-pseudolus,0,31255023,11,1651621116,Physicists pin down how quantum uncertainty sharpens measurements,story,https://www.quantamagazine.org/physicists-show-how-quantum-uncertainty-sharpens-measurements-20220503/,,quantamagazine.org
-doetoe,100,31232413,196,1651477862,The Spanish PM and the defence minister were infected by Pegasus (in Spanish),story,https://www.eldiario.es/politica/gobierno-revela-telefonos-pedro-sanchez-margarita-robles-han-sido-infectados-pegasus_1_8959353.html,,eldiario.es
-onychomys,2,31252220,26,1651604854,"Scientists Discover Method to Break Down Plastic in Days, Not Centuries",story,https://www.vice.com/en/article/akvm5b/scientists-discover-method-to-break-down-plastic-in-one-week-not-centuries,,vice.com
-Hooke,1,31222204,21,1651379526,Orra White Hitchcock’s Scientific Illustrations for the Classroom (1828–40),story,https://publicdomainreview.org/collection/hitchcock-illustrations/,,publicdomainreview.org
-pseudolus,5,31248356,17,1651586166,Covid: Death toll increasingly comparable to 1918–2020 flu,story,https://spectrum.ieee.org/mortality-rate-covid-19,,spectrum.ieee.org
