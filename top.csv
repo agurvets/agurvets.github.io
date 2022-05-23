@@ -1,24 +1,20 @@
 by,descendants,id,score,time,title,type,url,text,domain
-AMICABoard,22,31474062,109,1653264122,Discovered a 63kb tiddlywiki like self saving HTML+JS wiki and its looking cool,story,https://feather.wiki/,,feather.wiki
-walterbell,25,31473632,29,1653260234,MasterCard to launch biometric checkout tool for retailers,story,https://www.retaildive.com/news/mastercard-biometric-checkout-retailers/624056/,,retaildive.com
-mmanfrin,273,31471416,358,1653245259,Current guidelines for sun exposure are unhealthy and unscientific – research (2019),story,https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/,,outsideonline.com
-penguin_booze,5,31456737,46,1653129279,The Discoveries of Continuation [pdf],story,https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf,,homepages.inf.ed.ac.uk
-leephillips,55,31473636,55,1653260262,"Autism increase mystery solved? No, it's not vaccines, GMOs, glyphosate",story,https://geneticliteracyproject.org/2022/05/20/autism-increase-mystery-solved-no-its-not-vaccines-gmos-glyphosate-or-organic-foods/,,geneticliteracyproject.org
-nsoonhui,6,31466782,28,1653216337,Book Review: Making Nature,story,https://astralcodexten.substack.com/p/your-book-review-making-nature,,astralcodexten.substack.com
-coolwulf,320,31449147,1105,1653062097,“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti,story,https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer,,howardchen.substack.com
-jelliclesfarm,114,31471188,69,1653243788,California’s economy may seem healthy. Just wait for the next recession,story,https://www.latimes.com/opinion/story/2022-05-22/california-recession-economy-vulnerable,,latimes.com
-hardmaru,138,31468284,70,1653228222,AI-art isn't art: DALL-E and other AI artists offer only the imitation of art,story,https://erikhoel.substack.com/p/ai-art-isnt-art,,erikhoel.substack.com
-perihelions,92,31454376,83,1653095449,Monkeypox goes global: why scientists are on alert,story,https://www.nature.com/articles/d41586-022-01421-8,,nature.com
+Maro,84,31476521,190,1653294265,Useful Python Decorators for Data Scientists,story,https://bytepawn.com/python-decorators-for-data-scientists.html,,bytepawn.com
+PaulHoule,1,31480247,23,1653319665,Calculations resolve controversy about the sun's chemical composition,story,https://phys.org/news/2022-05-solar-spectrum-decade-long-controversy-sun.html,,phys.org
+zdw,25,31436832,58,1652978100,Guidance for Choosing an Elliptic Curve Signature Algorithm,story,https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/,,soatok.blog
+coolwulf,324,31449147,1126,1653062097,“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti,story,https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer,,howardchen.substack.com
+mmanfrin,323,31471416,412,1653245259,Current guidelines for sun exposure are unhealthy and unscientific – research (2019),story,https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/,,outsideonline.com
+walterbell,53,31473632,49,1653260234,MasterCard to launch biometric checkout tool for retailers,story,https://www.retaildive.com/news/mastercard-biometric-checkout-retailers/624056/,,retaildive.com
+nsoonhui,6,31466782,31,1653216337,Book Review: Making Nature,story,https://astralcodexten.substack.com/p/your-book-review-making-nature,,astralcodexten.substack.com
+penguin_booze,6,31456737,48,1653129279,The Discoveries of Continuation [pdf],story,https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf,,homepages.inf.ed.ac.uk
+perihelions,94,31454376,83,1653095449,Monkeypox goes global: why scientists are on alert,story,https://www.nature.com/articles/d41586-022-01421-8,,nature.com
 optimalsolver,0,31434053,32,1652965269,Physics-Informed Machine Learning For Modeling Turbulence In Supernovae,story,https://arxiv.org/abs/2205.08663,,arxiv.org
-clairity,102,31453589,128,1653087467,How to Paint a Crosswalk,story,https://crosswalksla.org/how-to-guide.html,,crosswalksla.org
+clairity,104,31453589,128,1653087467,How to Paint a Crosswalk,story,https://crosswalksla.org/how-to-guide.html,,crosswalksla.org
 Trouble_007,98,31442795,202,1653014887,Moderna’s HIV Vaccine Prepped for Trials in Africa,story,https://pharmaphorum.com/news/modernas-hiv-vaccine-prepped-for-trials-in-africa/,,pharmaphorum.com
-geox,0,31459740,11,1653153290,Scientists have synthesized graphyne for the first time,story,https://www.colorado.edu/asmagazine/2022/05/19/long-hypothesized-next-generation-wonder-material-created-first-time,,colorado.edu
-dnetesn,322,31432648,309,1652954932,What is our hidden consumption of microplastics doing to our health?,story,https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/,,nautil.us
-mooreds,88,31447995,105,1653057234,Workarounds to computer access in healthcare organizations (2015) [pdf],story,https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf,,cs.dartmouth.edu
+dnetesn,323,31432648,309,1652954932,What is our hidden consumption of microplastics doing to our health?,story,https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-17950/,,nautil.us
+tosh,40,31475401,34,1653280944,"Goodbye smallpox vaccination, hello monkeypox (2010)",story,https://www.nationalgeographic.com/science/article/goodbye-smallpox-vaccination-hello-monkeypox,,nationalgeographic.com
 lnyan,17,31430030,88,1652927606,Owl: OCaml Scientific Computing,story,https://ocaml.xyz/,,ocaml.xyz
-mooreds,3,31459433,15,1653151465,How City Museum defied building codes to become a St. Louis landmark,story,https://news.stlpublicradio.org/show/st-louis-on-the-air/2022-05-12/how-city-museum-defied-building-codes-to-become-a-st-louis-landmark,,news.stlpublicradio.org
+mooreds,88,31447995,105,1653057234,Workarounds to computer access in healthcare organizations (2015) [pdf],story,https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf,,cs.dartmouth.edu
+hardmaru,142,31468284,74,1653228222,AI-art isn't art: DALL-E and other AI artists offer only the imitation of art,story,https://erikhoel.substack.com/p/ai-art-isnt-art,,erikhoel.substack.com
 zdw,49,31430969,79,1652936448,Missing TLS intermediate certificates can create mysterious browser problems,story,https://utcc.utoronto.ca/~cks/space/blog/web/TLSIntermediateCertHell,,utcc.utoronto.ca
-8bitsrule,245,31461298,251,1653163464,"Surgery estimated cost $1,300. Then the Bill Came: $229,000",story,https://www.nytimes.com/2022/05/21/us/colorado-hospital-lisa-french.html,,nytimes.com
-dynm,129,31446568,86,1653050393,The madness of reduced medical diagnostics,story,https://dynomight.net/diagnostics/,,dynomight.net
-Petiver,24,31440955,48,1652999128,Scientists Uncover a Shady Web of Online Spider Sales,story,https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html,,nytimes.com
-bookofjoe,31,31417043,58,1652826621,South Korea Turns to Surveillance as ‘Ghost Surgeries’ Shake Faith in Hospitals,story,https://www.nytimes.com/2022/05/13/world/asia/south-korea-cameras-ghost-surgery.html,,nytimes.com
+geox,0,31459740,11,1653153290,Scientists have synthesized graphyne for the first time,story,https://www.colorado.edu/asmagazine/2022/05/19/long-hypothesized-next-generation-wonder-material-created-first-time,,colorado.edu
