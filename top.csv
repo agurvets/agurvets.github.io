@@ -1,9 +1,9 @@
 by,descendants,id,score,time,title,type,url,text,domain
-pseudolus,47,31454147,128,1653092529,Scientists discover an ancient forest inside a giant sinkhole in China,story,https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest,,npr.org
-slyall,165,31488910,343,1653375847,"What One-person SaaS Healthchecks.io uses for hosting, hardware and software",story,https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/,,healthchecks.io
-rq1,173,31493569,159,1653407036,Pesticide residues could negate the health benefits of fruits and vegetables,story,https://www.sciencedirect.com/science/article/pii/S0160412021006498,,sciencedirect.com
+pseudolus,50,31454147,134,1653092529,Scientists discover an ancient forest inside a giant sinkhole in China,story,https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest,,npr.org
+slyall,165,31488910,344,1653375847,"What One-person SaaS Healthchecks.io uses for hosting, hardware and software",story,https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/,,healthchecks.io
+rq1,174,31493569,159,1653407036,Pesticide residues could negate the health benefits of fruits and vegetables,story,https://www.sciencedirect.com/science/article/pii/S0160412021006498,,sciencedirect.com
 FollowingTheDao,11,31496375,69,1653419879,SARS-CoV-2 Infects Peripheral and Central Neurons of Mice Before Viremia,story,https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1,,biorxiv.org
-exolymph,61,31485200,126,1653342538,Growing food in hard clay,story,https://www.unprepared.life/p/how-one-woman-grows-food-in-hard,,unprepared.life
+exolymph,64,31485200,126,1653342538,Growing food in hard clay,story,https://www.unprepared.life/p/how-one-woman-grows-food-in-hard,,unprepared.life
 sizzle,101,31485710,315,1653345441,First human injected with cancer-killing virus in clinical trial,story,https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983,,cancer.gov
 zdw,34,31436832,70,1652978100,Guidance for Choosing an Elliptic Curve Signature Algorithm,story,https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/,,soatok.blog
 Maro,99,31476521,226,1653294265,Useful Python decorators for data scientists,story,https://bytepawn.com/python-decorators-for-data-scientists.html,,bytepawn.com
