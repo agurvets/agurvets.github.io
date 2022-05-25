@@ -1,17 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-pseudolus,43,31454147,110,1653092529,Scientists discover an ancient forest inside a giant sinkhole in China,story,https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest,,npr.org
-slyall,164,31488910,339,1653375847,"What One-person SaaS Healthchecks.io uses for hosting, hardware and software",story,https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/,,healthchecks.io
-rq1,164,31493569,152,1653407036,Pesticide residues could negate the health benefits of fruits and vegetables,story,https://www.sciencedirect.com/science/article/pii/S0160412021006498,,sciencedirect.com
-FollowingTheDao,10,31496375,68,1653419879,SARS-CoV-2 Infects Peripheral and Central Neurons of Mice Before Viremia,story,https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1,,biorxiv.org
-exolymph,59,31485200,125,1653342538,Growing food in hard clay,story,https://www.unprepared.life/p/how-one-woman-grows-food-in-hard,,unprepared.life
-ilamont,5,31494845,13,1653412472,The Search for Long Covid,story,https://www.science.org/content/blog-post/search-long-covid,,science.org
-sizzle,100,31485710,314,1653345441,First human injected with cancer-killing virus in clinical trial,story,https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983,,cancer.gov
+pseudolus,47,31454147,128,1653092529,Scientists discover an ancient forest inside a giant sinkhole in China,story,https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest,,npr.org
+slyall,165,31488910,343,1653375847,"What One-person SaaS Healthchecks.io uses for hosting, hardware and software",story,https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/,,healthchecks.io
+rq1,173,31493569,159,1653407036,Pesticide residues could negate the health benefits of fruits and vegetables,story,https://www.sciencedirect.com/science/article/pii/S0160412021006498,,sciencedirect.com
+FollowingTheDao,11,31496375,69,1653419879,SARS-CoV-2 Infects Peripheral and Central Neurons of Mice Before Viremia,story,https://www.biorxiv.org/content/10.1101/2022.05.20.492834v1,,biorxiv.org
+exolymph,61,31485200,126,1653342538,Growing food in hard clay,story,https://www.unprepared.life/p/how-one-woman-grows-food-in-hard,,unprepared.life
+sizzle,101,31485710,315,1653345441,First human injected with cancer-killing virus in clinical trial,story,https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2021-08983,,cancer.gov
 zdw,34,31436832,70,1652978100,Guidance for Choosing an Elliptic Curve Signature Algorithm,story,https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/,,soatok.blog
 Maro,99,31476521,226,1653294265,Useful Python decorators for data scientists,story,https://bytepawn.com/python-decorators-for-data-scientists.html,,bytepawn.com
+ilamont,5,31494845,14,1653412472,The Search for Long Covid,story,https://www.science.org/content/blog-post/search-long-covid,,science.org
 PaulHoule,1,31480247,35,1653319665,Calculations resolve controversy about the sun's chemical composition,story,https://phys.org/news/2022-05-solar-spectrum-decade-long-controversy-sun.html,,phys.org
-coolwulf,326,31449147,1137,1653062097,“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti,story,https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer,,howardchen.substack.com
-mmanfrin,332,31471416,417,1653245259,Current guidelines for sun exposure are unhealthy and unscientific – research (2019),story,https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/,,outsideonline.com
+coolwulf,326,31449147,1138,1653062097,“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti,story,https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer,,howardchen.substack.com
+mmanfrin,333,31471416,417,1653245259,Current guidelines for sun exposure are unhealthy and unscientific – research (2019),story,https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/,,outsideonline.com
 nsoonhui,7,31466782,31,1653216337,Book Review: Making Nature,story,https://astralcodexten.substack.com/p/your-book-review-making-nature,,astralcodexten.substack.com
 walterbell,55,31473632,51,1653260234,MasterCard to launch biometric checkout tool for retailers,story,https://www.retaildive.com/news/mastercard-biometric-checkout-retailers/624056/,,retaildive.com
 penguin_booze,6,31456737,50,1653129279,The Discoveries of Continuation [pdf],story,https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf,,homepages.inf.ed.ac.uk
-perihelions,96,31454376,84,1653095449,Monkeypox goes global: why scientists are on alert,story,https://www.nature.com/articles/d41586-022-01421-8,,nature.com
