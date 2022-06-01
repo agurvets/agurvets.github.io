@@ -1,23 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-occamschainsaw,18,31553682,18,1653864782,DNA Testing for Embryos Promises to Predict Genetic Diseases,story,https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases,,bloomberg.com
-whatami,5,31551037,79,1653846066,Vanishing fore-edge paintings,story,https://www.foredgefrost.co.uk,,foredgefrost.co.uk
-cpp_frog,14,31549631,97,1653836270,Pixar's notes on Rigid Body Simulation (2001) [pdf],story,https://graphics.pixar.com/pbm2001/pdf/notesg.pdf,,graphics.pixar.com
-rntn,293,31548281,168,1653824006,Food security and the coming storm,story,https://www.eurasiagroup.net/live-post/food-security,,eurasiagroup.net
-segfaultbuserr,2,31538562,12,1653725786,Rediscovering the Lost Art of Fluxgate Magnetometer Cores (2021),story,https://science.nasa.gov/technology/technology-highlights/rediscovering-the-lost-art-of-fluxgate-magnetometer-cores,,science.nasa.gov
-gumby,76,31550798,77,1653844495,High cost of cancer care in the U.S. doesn’t reduce mortality rates,story,https://news.yale.edu/2022/05/27/high-cost-cancer-care-us-doesnt-reduce-mortality-rates,,news.yale.edu
-garashb,32,31549032,47,1653831391,Ask HN: How to do self-study on Physics,story,,Hi there. I have been reading the threads on studying math on your own. I am wondering if you have suggestions for someone (has bachelor and master in Software engineering) who is really into Physics. Any resources appreciated.,
-todsacerdoti,11,31545168,50,1653785294,Debugging a mysterious Python crash,story,https://blog.dend.ro/a-mysterous-python-crash/,,dend.ro
+azalemeth,2,31572312,17,1654018183,Redactle – a daily game of un-redacting Wikipedia articles,story,https://www.redactle.com/,,redactle.com
+cbracketdash,25,31566200,142,1653972468,Call for a Public Open Database of All Chemical Reactions,story,https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01140,,pubs.acs.org
+sidedishes,15,31573026,31,1654021655,B.C. to decriminalize small amounts of ‘hard’ drugs – a North American first,story,https://www.theglobeandmail.com/canada/article-decriminalize-drugs-british-columbia-canada/,,theglobeandmail.com
+voisin,10,31564354,55,1653950067,Girl's Cancer Leads Mom to Discover over 50 Sick Kids Near Nuclear Lab,story,https://people.com/health/calif-girls-cancer-leads-mom-to-overwhelming-discovery-more-than-50-kids-near-closed-lab-were-also-sick/,,people.com
+r721,265,31558970,194,1653918851,"Viruses that were on hiatus during Covid are back, behaving in unexpected ways",story,https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/,,statnews.com
+occamschainsaw,73,31553682,41,1653864782,DNA testing for embryos promises to predict genetic diseases,story,https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases,,bloomberg.com
+whatami,19,31551037,133,1653846066,Vanishing fore-edge paintings,story,https://www.foredgefrost.co.uk,,foredgefrost.co.uk
+diodorus,1,31546684,14,1653802437,Stature variation suggests relatively reduced health for early European farmers,story,https://www.pnas.org/doi/10.1073/pnas.2106743119,,pnas.org
+rntn,407,31548281,194,1653824006,Food security and the coming storm,story,https://www.eurasiagroup.net/live-post/food-security,,eurasiagroup.net
+birriel,0,31553982,27,1653867831,How Electrical Engineers Designed Groundbreaking Treatment for Depression,story,https://createdigital.org.au/how-electrical-engineers-designed-groundbreaking-treatment-for-depression/,,createdigital.org.au
+cpp_frog,27,31549631,128,1653836270,Pixar's notes on Rigid Body Simulation (2001) [pdf],story,https://graphics.pixar.com/pbm2001/pdf/notesg.pdf,,graphics.pixar.com
+wallflower,53,31560028,45,1653924446,Aerosol particle emission increases exponentially above moderate exercise,story,https://www.pnas.org/doi/full/10.1073/pnas.2202521119,,pnas.org
+segfaultbuserr,6,31538562,17,1653725786,Rediscovering the Lost Art of Fluxgate Magnetometer Cores (2021),story,https://science.nasa.gov/technology/technology-highlights/rediscovering-the-lost-art-of-fluxgate-magnetometer-cores,,science.nasa.gov
+ot,68,31524943,209,1653612154,In search of the least viewed article on Wikipedia,story,http://colinmorris.github.io/blog/unpopular-wiki-articles,,colinmorris.github.io
+bpierre,247,31521261,210,1653586973,Two thought experiments to evaluate automated stablecoins,story,https://vitalik.ca/general/2022/05/25/stable.html,,vitalik.ca
+garashb,40,31549032,56,1653831391,Ask HN: How to do self-study on Physics,story,,Hi there. I have been reading the threads on studying math on your own. I am wondering if you have suggestions for someone (has bachelor and master in Software engineering) who is really into Physics. Any resources appreciated.,
+raattgift,1,31565384,11,1653961662,Unusual neutron star spinning every 76 seconds discovered in stellar graveyard,story,https://phys.org/news/2022-05-unusual-neutron-star-seconds-stellar.html,,phys.org
 vincent_s,17,31540621,38,1653748280,RIP Medical Debt,story,https://ripmedicaldebt.org/,,ripmedicaldebt.org
-yamrzou,11,31543682,48,1653770856,"Depression's Unholy Trinity: Dysregulated Stress, Immunity, and the Microbiome",story,https://www.annualreviews.org/doi/full/10.1146/annurev-psych-122216-011613,,annualreviews.org
-ot,68,31524943,208,1653612154,In search of the least viewed article on Wikipedia,story,http://colinmorris.github.io/blog/unpopular-wiki-articles,,colinmorris.github.io
-vicek22,5,31546814,12,1653804145,"Ask HN: How do you design experiments on yourself? (health, energy, learning)",story,,"How do you design, track, and measure experiments you decide to do on yourself?<p>Examples of experiments:
- - Reduce my workouts from three 1h workouts to two 1.5h workouts.
- - Start taking magnesium supplements for better sleep.
- - Try intermittent fasting.
- - Start writing tests first (TDD).<p>I wonder whether there is a good resource or your anecdote about how to try the &quot;scientific method&quot; on yourself. It seems that some people are better at applying it than others. I think Tim Ferris has been the main person I would think about in this context.",
-_bramses,223,31536414,262,1653696977,Investing in lighting did great things for my mental and physical health,story,https://www.bramadams.dev/projects/invest-in-lights,,bramadams.dev
-bpierre,246,31521261,207,1653586973,Two thought experiments to evaluate automated stablecoins,story,https://vitalik.ca/general/2022/05/25/stable.html,,vitalik.ca
-Todd,144,31531259,97,1653667876,"Long Covid risk falls only slightly after vaccination, study shows",story,https://www.nature.com/articles/d41586-022-01453-0,,nature.com
-happy-go-lucky,72,31521721,178,1653589305,Major discoveries made by mathematicians past age 50 (2010),story,https://mathoverflow.net/questions/25630/major-mathematical-advances-past-age-fifty,,mathoverflow.net
-ddtaylor,1,31542529,25,1653762308,A third of Americans now show signs of clinical anxiety or depression (2020),story,https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/,,washingtonpost.com
-DocFeind,4,31544465,13,1653777394,Graphene typically costs $200k per ton. Now scientists can make it from trash,story,https://bigthink.com/the-present/flash-graphene/,,bigthink.com
