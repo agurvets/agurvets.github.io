@@ -1,23 +1,26 @@
 by,descendants,id,score,time,title,type,url,text,domain
-diodorus,0,31585260,11,1654104826,The big idea: could the greatest works of literature be undiscovered?,story,https://www.theguardian.com/books/2022/may/30/the-big-idea-could-the-greatest-works-of-literature-be-undiscovered,,theguardian.com
-Tomte,7,31566802,44,1653980320,Painting a Character with Maths (2020) [video],story,https://www.youtube.com/watch?v=8--5LwHRhjk,,youtube.com
-HiroProtagonist,29,31581009,31,1654087470,We may finally know why so many lifelong smokers never get lung cancer,story,https://bgr.com/science/we-may-finally-know-why-so-many-lifelong-smokers-never-get-lung-cancer/,,bgr.com
-drdee,0,31566208,12,1653972543,The Nomadic Chemist: Alfred Sercombe Griffin (1878-1943) and Burma,story,https://blogs.bl.uk/asian-and-african/2022/05/the-nomadic-chemist-alfred-sercombe-griffin-1878-1943-and-burma.html,,blogs.bl.uk
-FeaturelessBug,3,31577418,23,1654051058,Ultrathin fuel cell uses the body’s own sugar to generate electricity,story,https://news.mit.edu/2022/glucose-fuel-cell-electricity-0512,,news.mit.edu
-pmoriarty,110,31580407,76,1654083027,"Canada trials decriminalising cocaine, MDMA and other drugs",story,https://www.bbc.co.uk/news/world-us-canada-61657095,,bbc.co.uk
-azalemeth,10,31572312,32,1654018183,Redactle – a daily game of un-redacting Wikipedia articles,story,https://www.redactle.com/,,redactle.com
+pseudolus,126,31579873,265,1654077751,"Physicists are building neural networks out of vibrations, voltages and lasers",story,https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/,,quantamagazine.org
+diodorus,66,31585260,82,1654104826,Could the greatest works of literature be undiscovered?,story,https://www.theguardian.com/books/2022/may/30/the-big-idea-could-the-greatest-works-of-literature-be-undiscovered,,theguardian.com
+chmaynard,2,31586770,20,1654111545,Joe Polchinski’s “Memories of a Theoretical Physicist”,story,https://www.math.columbia.edu/~woit/wordpress/?p=12910,,math.columbia.edu
+Tomte,8,31566802,50,1653980320,Painting a Character with Maths (2020) [video],story,https://www.youtube.com/watch?v=8--5LwHRhjk,,youtube.com
+Tomte,74,31541634,92,1653755540,Study confirms superior sound of a Stradivari is due to wood treatment (2021),story,https://arstechnica.com/science/2021/09/study-confirms-superior-sound-of-a-stradivari-is-due-to-the-varnish/,,arstechnica.com
+pmoriarty,137,31580407,91,1654083027,"Canada trials decriminalising cocaine, MDMA and other drugs",story,https://www.bbc.co.uk/news/world-us-canada-61657095,,bbc.co.uk
+HiroProtagonist,31,31581009,35,1654087470,We may finally know why so many lifelong smokers never get lung cancer,story,https://bgr.com/science/we-may-finally-know-why-so-many-lifelong-smokers-never-get-lung-cancer/,,bgr.com
+FeaturelessBug,5,31577418,23,1654051058,Ultrathin fuel cell uses the body’s own sugar to generate electricity,story,https://news.mit.edu/2022/glucose-fuel-cell-electricity-0512,,news.mit.edu
+drdee,0,31566208,13,1653972543,The Nomadic Chemist: Alfred Sercombe Griffin (1878-1943) and Burma,story,https://blogs.bl.uk/asian-and-african/2022/05/the-nomadic-chemist-alfred-sercombe-griffin-1878-1943-and-burma.html,,blogs.bl.uk
+azalemeth,10,31572312,33,1654018183,Redactle – a daily game of un-redacting Wikipedia articles,story,https://www.redactle.com/,,redactle.com
 cbracketdash,26,31566200,147,1653972468,Call for a Public Open Database of All Chemical Reactions,story,https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01140,,pubs.acs.org
+graderjs,4,31584474,11,1654101599,"Interstellar Travel Could Be Possible Even Without Spaceships, Scientist Says",story,https://www.universetoday.com/156081/civilizations-dont-even-need-space-ships-to-migrate-from-star-system-to-star-system/,,universetoday.com
 barry-cotter,8,31577871,27,1654055672,Gene Therapy Reverses Biological Aging by Six Years,story,https://twitter.com/Utilit_Aria/status/1531736787583909890,,twitter.com
-alphaomegacode,2,31581662,11,1654090865,"US gun violence is a health crisis with evidence-based solutions, experts plea",story,https://arstechnica.com/science/2022/05/us-gun-violence-is-a-health-crisis-with-evidence-based-solutions-experts-plea/,,arstechnica.com
-giuliomagnifico,0,31582094,20,1654092985,The war in Ukraine is fuelling a global food crisis,story,https://graphics.reuters.com/UKRAINE-CRISIS/FOOD/zjvqkgomjvx/,,graphics.reuters.com
-sidedishes,15,31573026,33,1654021655,B.C. to decriminalize small amounts of ‘hard’ drugs – a North American first,story,https://www.theglobeandmail.com/canada/article-decriminalize-drugs-british-columbia-canada/,,theglobeandmail.com
-voisin,11,31564354,60,1653950067,Girl's Cancer Leads Mom to Discover over 50 Sick Kids Near Nuclear Lab,story,https://people.com/health/calif-girls-cancer-leads-mom-to-overwhelming-discovery-more-than-50-kids-near-closed-lab-were-also-sick/,,people.com
-occamschainsaw,74,31553682,41,1653864782,DNA testing for embryos promises to predict genetic diseases,story,https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases,,bloomberg.com
-rntn,0,31578150,11,1654058296,World's largest plant discovered off Australian coast,story,https://www.bbc.com/news/world-australia-61655327,,bbc.com
-r721,269,31558970,196,1653918851,"Viruses that were on hiatus during Covid are back, behaving in unexpected ways",story,https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/,,statnews.com
+alphaomegacode,3,31581662,13,1654090865,"US gun violence is a health crisis with evidence-based solutions, experts plea",story,https://arstechnica.com/science/2022/05/us-gun-violence-is-a-health-crisis-with-evidence-based-solutions-experts-plea/,,arstechnica.com
+occamschainsaw,74,31553682,42,1653864782,DNA testing for embryos promises to predict genetic diseases,story,https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases,,bloomberg.com
+voisin,11,31564354,61,1653950067,Girl's Cancer Leads Mom to Discover over 50 Sick Kids Near Nuclear Lab,story,https://people.com/health/calif-girls-cancer-leads-mom-to-overwhelming-discovery-more-than-50-kids-near-closed-lab-were-also-sick/,,people.com
 whatami,19,31551037,133,1653846066,Vanishing fore-edge paintings,story,https://www.foredgefrost.co.uk,,foredgefrost.co.uk
+r721,270,31558970,197,1653918851,"Viruses that were on hiatus during Covid are back, behaving in unexpected ways",story,https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/,,statnews.com
+sidedishes,15,31573026,33,1654021655,B.C. to decriminalize small amounts of ‘hard’ drugs – a North American first,story,https://www.theglobeandmail.com/canada/article-decriminalize-drugs-british-columbia-canada/,,theglobeandmail.com
 rntn,407,31548281,194,1653824006,Food security and the coming storm,story,https://www.eurasiagroup.net/live-post/food-security,,eurasiagroup.net
 cpp_frog,27,31549631,129,1653836270,Pixar's notes on Rigid Body Simulation (2001) [pdf],story,https://graphics.pixar.com/pbm2001/pdf/notesg.pdf,,graphics.pixar.com
+birriel,0,31553982,28,1653867831,How Electrical Engineers Designed Groundbreaking Treatment for Depression,story,https://createdigital.org.au/how-electrical-engineers-designed-groundbreaking-treatment-for-depression/,,createdigital.org.au
 diodorus,1,31546684,14,1653802437,Stature variation suggests relatively reduced health for early European farmers,story,https://www.pnas.org/doi/10.1073/pnas.2106743119,,pnas.org
-birriel,0,31553982,27,1653867831,How Electrical Engineers Designed Groundbreaking Treatment for Depression,story,https://createdigital.org.au/how-electrical-engineers-designed-groundbreaking-treatment-for-depression/,,createdigital.org.au
-react_burger38,2,31578136,27,1654058191,Chinese Surgeons killed prisoners by taking their organs – while still alive,story,https://www.wsj.com/articles/china-new-evidence-surgeon-doctor-execution-murder-prisoner-organ-harvesting-donor-uyghur-falun-gong-genocide-human-rights-world-health-organization-who-11654012796,,wsj.com
+rntn,0,31578150,12,1654058296,World's largest plant discovered off Australian coast,story,https://www.bbc.com/news/world-australia-61655327,,bbc.com
+giuliomagnifico,0,31582094,22,1654092985,The war in Ukraine is fuelling a global food crisis,story,https://graphics.reuters.com/UKRAINE-CRISIS/FOOD/zjvqkgomjvx/,,graphics.reuters.com
