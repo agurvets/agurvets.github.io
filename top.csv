@@ -1,26 +1,13 @@
 by,descendants,id,score,time,title,type,url,text,domain
-pseudolus,129,31579873,274,1654077751,"Physicists are building neural networks out of vibrations, voltages and lasers",story,https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/,,quantamagazine.org
-diodorus,77,31585260,89,1654104826,Could the greatest works of literature be undiscovered?,story,https://www.theguardian.com/books/2022/may/30/the-big-idea-could-the-greatest-works-of-literature-be-undiscovered,,theguardian.com
-sohkamyung,2,31590448,11,1654135217,Covid death tolls: scientists acknowledge errors in WHO estimates,story,https://www.nature.com/articles/d41586-022-01526-0,,nature.com
-chmaynard,2,31586770,20,1654111545,Joe Polchinski’s “Memories of a Theoretical Physicist”,story,https://www.math.columbia.edu/~woit/wordpress/?p=12910,,math.columbia.edu
-Tomte,8,31566802,51,1653980320,Painting a Character with Maths (2020) [video],story,https://www.youtube.com/watch?v=8--5LwHRhjk,,youtube.com
-Tomte,77,31541634,92,1653755540,Study confirms superior sound of a Stradivari is due to wood treatment (2021),story,https://arstechnica.com/science/2021/09/study-confirms-superior-sound-of-a-stradivari-is-due-to-the-varnish/,,arstechnica.com
-pmoriarty,138,31580407,91,1654083027,"Canada trials decriminalising cocaine, MDMA and other drugs",story,https://www.bbc.co.uk/news/world-us-canada-61657095,,bbc.co.uk
-FeaturelessBug,5,31577418,23,1654051058,Ultrathin fuel cell uses the body’s own sugar to generate electricity,story,https://news.mit.edu/2022/glucose-fuel-cell-electricity-0512,,news.mit.edu
-HiroProtagonist,31,31581009,35,1654087470,We may finally know why so many lifelong smokers never get lung cancer,story,https://bgr.com/science/we-may-finally-know-why-so-many-lifelong-smokers-never-get-lung-cancer/,,bgr.com
-azalemeth,10,31572312,34,1654018183,Redactle – a daily game of un-redacting Wikipedia articles,story,https://www.redactle.com/,,redactle.com
-drdee,0,31566208,13,1653972543,The Nomadic Chemist: Alfred Sercombe Griffin (1878-1943) and Burma,story,https://blogs.bl.uk/asian-and-african/2022/05/the-nomadic-chemist-alfred-sercombe-griffin-1878-1943-and-burma.html,,blogs.bl.uk
-cbracketdash,26,31566200,147,1653972468,Call for a Public Open Database of All Chemical Reactions,story,https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01140,,pubs.acs.org
-graderjs,4,31584474,11,1654101599,"Interstellar Travel Could Be Possible Even Without Spaceships, Scientist Says",story,https://www.universetoday.com/156081/civilizations-dont-even-need-space-ships-to-migrate-from-star-system-to-star-system/,,universetoday.com
-barry-cotter,8,31577871,27,1654055672,Gene Therapy Reverses Biological Aging by Six Years,story,https://twitter.com/Utilit_Aria/status/1531736787583909890,,twitter.com
-alphaomegacode,3,31581662,13,1654090865,"US gun violence is a health crisis with evidence-based solutions, experts plea",story,https://arstechnica.com/science/2022/05/us-gun-violence-is-a-health-crisis-with-evidence-based-solutions-experts-plea/,,arstechnica.com
-occamschainsaw,74,31553682,42,1653864782,DNA testing for embryos promises to predict genetic diseases,story,https://www.bloomberg.com/news/features/2022-05-26/dna-testing-for-embryos-promises-to-predict-genetic-diseases,,bloomberg.com
-voisin,11,31564354,61,1653950067,Girl's Cancer Leads Mom to Discover over 50 Sick Kids Near Nuclear Lab,story,https://people.com/health/calif-girls-cancer-leads-mom-to-overwhelming-discovery-more-than-50-kids-near-closed-lab-were-also-sick/,,people.com
-whatami,19,31551037,133,1653846066,Vanishing fore-edge paintings,story,https://www.foredgefrost.co.uk,,foredgefrost.co.uk
-r721,270,31558970,197,1653918851,"Viruses that were on hiatus during Covid are back, behaving in unexpected ways",story,https://www.statnews.com/2022/05/25/viruses-that-were-on-hiatus-during-covid-are-back-and-behaving-in-unexpected-ways/,,statnews.com
-rntn,407,31548281,194,1653824006,Food security and the coming storm,story,https://www.eurasiagroup.net/live-post/food-security,,eurasiagroup.net
-sidedishes,15,31573026,33,1654021655,B.C. to decriminalize small amounts of ‘hard’ drugs – a North American first,story,https://www.theglobeandmail.com/canada/article-decriminalize-drugs-british-columbia-canada/,,theglobeandmail.com
-cpp_frog,27,31549631,129,1653836270,Pixar's notes on Rigid Body Simulation (2001) [pdf],story,https://graphics.pixar.com/pbm2001/pdf/notesg.pdf,,graphics.pixar.com
-birriel,0,31553982,28,1653867831,How Electrical Engineers Designed Groundbreaking Treatment for Depression,story,https://createdigital.org.au/how-electrical-engineers-designed-groundbreaking-treatment-for-depression/,,createdigital.org.au
-diodorus,1,31546684,14,1653802437,Stature variation suggests relatively reduced health for early European farmers,story,https://www.pnas.org/doi/10.1073/pnas.2106743119,,pnas.org
-rntn,0,31578150,12,1654058296,World's largest plant discovered off Australian coast,story,https://www.bbc.com/news/world-australia-61655327,,bbc.com
+theafh,7,31607948,97,1654262933,Brain-signal proteins evolved before animals did,story,https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/,,quantamagazine.org
+pseudolus,168,31579873,351,1654077751,"Physicists are building neural networks out of vibrations, voltages and lasers",story,https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/,,quantamagazine.org
+Tomte,48,31595899,44,1654182909,Chemistry of Cast Iron Seasoning: A Science-Based How-To (2010),story,https://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/,,sherylcanter.com
+diodorus,122,31585260,116,1654104826,Could the greatest works of literature be undiscovered?,story,https://www.theguardian.com/books/2022/may/30/the-big-idea-could-the-greatest-works-of-literature-be-undiscovered,,theguardian.com
+Tomte,8,31566802,57,1653980320,Painting a Character with Maths (2020) [video],story,https://www.youtube.com/watch?v=8--5LwHRhjk,,youtube.com
+chmaynard,2,31586770,21,1654111545,Joe Polchinski’s “Memories of a Theoretical Physicist”,story,https://www.math.columbia.edu/~woit/wordpress/?p=12910,,math.columbia.edu
+azalemeth,12,31572312,38,1654018183,Redactle – a daily game of un-redacting Wikipedia articles,story,https://www.redactle.com/,,redactle.com
+pmoriarty,144,31580407,100,1654083027,"Canada trials decriminalising cocaine, MDMA and other drugs",story,https://www.bbc.co.uk/news/world-us-canada-61657095,,bbc.co.uk
+cbracketdash,26,31566200,151,1653972468,Call for a Public Open Database of All Chemical Reactions,story,https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01140,,pubs.acs.org
+Tomte,87,31541634,94,1653755540,Study confirms superior sound of a Stradivari is due to wood treatment (2021),story,https://arstechnica.com/science/2021/09/study-confirms-superior-sound-of-a-stradivari-is-due-to-the-varnish/,,arstechnica.com
+sohkamyung,21,31590448,28,1654135217,Covid death tolls: scientists acknowledge errors in WHO estimates,story,https://www.nature.com/articles/d41586-022-01526-0,,nature.com
+FeaturelessBug,5,31577418,25,1654051058,Ultrathin fuel cell uses the body’s own sugar to generate electricity,story,https://news.mit.edu/2022/glucose-fuel-cell-electricity-0512,,news.mit.edu
