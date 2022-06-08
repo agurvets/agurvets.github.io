@@ -1,16 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-elorant,28,31630528,72,1654433470,Quantum particles can feel the effects of gravitational fields,story,http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html,,scienceinter.com
-z0mbie42,1,31641417,53,1654527874,The foundations of modern end-to-end encryption: Signatures (2021),story,https://kerkour.com/signatures-modern-end-to-end-encryption,,kerkour.com
-spansoa,87,31642810,90,1654534218,AI Is Ushering in a New Scientific Revolution,story,https://thegradient.pub/ai-scientific-revolution/,,thegradient.pub
-birriel,103,31636246,198,1654476208,Scientists Discover Ways of Making Old Blood New Again,story,https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again,,news.cuanschutz.edu
-kqr,26,31628766,53,1654413510,The Metaphysics of Morrowind (2010),story,https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/,,fallingawkwardly.wordpress.com
-mhb,222,31630679,468,1654434837,A cancer trial’s unexpected result: Remission in every patient,story,https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html,,nytimes.com
-IdEntities,5,31640102,40,1654521743,"Crypto giant Binance became a hub for hackers, fraudsters, and drug traffickers",story,https://www.reuters.com/investigates/special-report/fintech-crypto-binance-dirtymoney/,,reuters.com
-optimalsolver,4,31630736,35,1654435258,Deep learning opacity in scientific discovery,story,https://arxiv.org/abs/2206.00520,,arxiv.org
+todsacerdoti,144,31658638,148,1654628355,Dhall: A Gateway Drug to Haskell,story,https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/,,saurabhnanda.in
+PaulHoule,64,31653887,201,1654608194,Liquid platinum at room temperature: possible revolution in industrial chemistry,story,https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html,,phys.org
+drdee,4,31648981,37,1654566821,Artificial Lives: On the Occult Origins of Chemistry and the Stuff of Life,story,https://thereader.mitpress.mit.edu/artificial-lives-on-the-occult-origins-of-chemistry/,,thereader.mitpress.mit.edu
+olalonde,78,31652264,65,1654598794,Mark Cuban is tackling out-of-control drug prices,story,https://pharmaphorum.com/views-and-analysis/how-celebrity-investor-mark-cuban-is-tackling-out-of-control-drug-prices/,,pharmaphorum.com
+z0mbie42,1,31641417,57,1654527874,The foundations of modern end-to-end encryption: Signatures (2021),story,https://kerkour.com/signatures-modern-end-to-end-encryption,,kerkour.com
+birriel,106,31636246,204,1654476208,Scientists Discover Ways of Making Old Blood New Again,story,https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again,,news.cuanschutz.edu
+elorant,33,31630528,79,1654433470,Quantum particles can feel the effects of gravitational fields,story,http://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html,,scienceinter.com
+DoreenMichele,11,31650892,15,1654586569,Indigenous Alaskans died from Covid-19 at nearly 3X the rate of white Alaskans,story,https://www.adn.com/alaska-news/2022/06/04/indigenous-alaskans-died-from-covid-19-at-nearly-three-times-the-rate-of-white-alaskans-cdc-report-says/,,adn.com
 pseudolus,168,31579873,367,1654077751,"Physicists are building neural networks out of vibrations, voltages and lasers",story,https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/,,quantamagazine.org
-jonplackett,2,31638226,42,1654502730,Famous paintings zoomed out with DALL-E 2,story,https://80.lv/articles/famous-paintings-expanded-with-dall-e-2/,,80.lv
-tayne,159,31616372,235,1654309976,"In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ (2019)",story,https://www.nature.com/articles/d41586-019-02638-w,,nature.com
-marban,0,31638182,11,1654502195,"Inside the corporate dash to buy up dentists, veterinary clinics, pharmacies",story,https://www.theglobeandmail.com/business/article-private-equity-buy-out-pharmacy-dental-office-veterinary-clinic/,,theglobeandmail.com
-theafh,10,31607948,107,1654262933,Brain-signal proteins evolved before animals did,story,https://www.quantamagazine.org/brain-signal-proteins-evolved-before-animals-did-20220603/,,quantamagazine.org
-moistly,95,31616448,77,1654310593,Common counterfeit foods and how to identify them (2014),story,https://www.bonappetit.com/entertaining-style/trends-news/slideshow/counterfeit-foods,,bonappetit.com
-Tomte,50,31595899,47,1654182909,Chemistry of Cast Iron Seasoning: A Science-Based How-To (2010),story,https://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/,,sherylcanter.com
+mhb,224,31630679,478,1654434837,A cancer trial’s unexpected result: Remission in every patient,story,https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html,,nytimes.com
+FeaturelessBug,1,31661654,13,1654647132,All cancer patients in drug trial appear to be cured for ‘first time in history’,story,https://www.independent.co.uk/news/health/cancer-trial-results-study-dostarlimab-b2095672.html,,independent.co.uk
+kqr,27,31628766,54,1654413510,The Metaphysics of Morrowind (2010),story,https://fallingawkwardly.wordpress.com/2010/08/29/the-metaphysics-of-morrowind-part-1/,,fallingawkwardly.wordpress.com
+optimalsolver,4,31630736,35,1654435258,Deep learning opacity in scientific discovery,story,https://arxiv.org/abs/2206.00520,,arxiv.org
+tayne,159,31616372,236,1654309976,"In a small trial, drugs seemed to rejuvenate the body’s ‘epigenetic clock’ (2019)",story,https://www.nature.com/articles/d41586-019-02638-w,,nature.com
+spansoa,114,31642810,93,1654534218,AI Is Ushering in a New Scientific Revolution,story,https://thegradient.pub/ai-scientific-revolution/,,thegradient.pub
+IdEntities,5,31640102,43,1654521743,"Crypto giant Binance became a hub for hackers, fraudsters, and drug traffickers",story,https://www.reuters.com/investigates/special-report/fintech-crypto-binance-dirtymoney/,,reuters.com
