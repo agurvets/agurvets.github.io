@@ -1,20 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-navigaid,19,31830020,118,1655851911,Experimenting with Rust in Chromium,story,https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md,,chromium.googlesource.com
-hoodwink,76,31826204,135,1655830408,An experiment to test if Bionic Reading helps you read faster,story,https://blog.readwise.io/does-bionic-reading-actually-work/,,readwise.io
-mastazi,77,31831115,57,1655861937,Alphabet is spending billions to become a force in health care,story,https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care,,economist.com
-Mizza,22,31825177,140,1655825937,Artistic Radiance Fields,story,https://www.cs.cornell.edu/projects/arf/,,cs.cornell.edu
-amitmina,72,31822587,125,1655810043,The Psychology of not wanting to know (2017) [pdf],story,https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf,,apa.org
-layer8,1,31824194,13,1655820923,The Psycho-Geography of the Cretto Di Burri (2021),story,https://www.archdaily.com/958178/the-psycho-geography-of-the-cretto-di-burri,,archdaily.com
+pawelwentpawel,54,31833415,143,1655887097,Show HN: I built a fun video meeting app with 2D physics and proximity chat,story,https://flat.social,,flat.social
+mastazi,193,31831115,134,1655861937,Alphabet is spending billions to become a force in health care,story,https://www.economist.com/business/2022/06/20/alphabet-is-spending-billions-to-become-a-force-in-health-care,,economist.com
+navigaid,100,31830020,207,1655851911,Experimenting with Rust in Chromium,story,https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md,,chromium.googlesource.com
+hoodwink,93,31826204,154,1655830408,An experiment to test if Bionic Reading helps you read faster,story,https://blog.readwise.io/does-bionic-reading-actually-work/,,readwise.io
+Mizza,24,31825177,144,1655825937,Artistic Radiance Fields,story,https://www.cs.cornell.edu/projects/arf/,,cs.cornell.edu
+amitmina,75,31822587,127,1655810043,The Psychology of not wanting to know (2017) [pdf],story,https://www.apa.org/pubs/journals/releases/rev-rev0000055.pdf,,apa.org
+jasonhansel,322,31790226,357,1655563415,Dentistry is less scientific and more gratuitous than people think (2019),story,https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/,,theatlantic.com
 gmays,6,31819489,45,1655781724,Neuroscientists create maps of the brain after traumatic brain injury,story,https://www.som.uci.edu/news_releases/neuroscientists_create_maps_of_brain_after_TBI.asp,,som.uci.edu
-jasonhansel,321,31790226,353,1655563415,Dentistry is less scientific and more gratuitous than people think (2019),story,https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/,,theatlantic.com
+CharlesW,204,31793682,317,1655585160,Parents’ trauma leaves biological traces in children,story,https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/,,scientificamerican.com
+layer8,1,31824194,13,1655820923,The Psycho-Geography of the Cretto Di Burri (2021),story,https://www.archdaily.com/958178/the-psycho-geography-of-the-cretto-di-burri,,archdaily.com
 doat,34,31812163,31,1655742090,Experiment: Pay students to tackle learning loss,story,https://www.newsnationnow.com/us-news/education/experiment-pay-students-to-tackle-learning-loss/,,newsnationnow.com
-CharlesW,199,31793682,317,1655585160,Parents’ trauma leaves biological traces in children,story,https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/,,scientificamerican.com
-haasted,4,31828916,13,1655844313,Crypto’s frozen mystery: The fate of billions in Celsius deposits,story,https://www.washingtonpost.com/technology/2022/06/21/celsius-withdrawal-freeze-explained/,,washingtonpost.com
 sgfgross,2,31809872,14,1655730365,Watching less TV could lower heart disease risk,story,https://oa.mg/blog/watching-less-tv-could-lower-heart-disease-risk-study-finds/,,oa.mg
 rntn,119,31790297,88,1655563875,How ice cream became the ultimate American comfort food (2021),story,https://www.eater.com/22639428/the-secret-history-of-food-excerpt-ice-cream-history,,eater.com
 hexo,82,31789999,179,1655561693,"The Magnetar, nature’s ultimate superweapon",story,https://arstechnica.com/science/2022/06/behold-the-magnetar-natures-ultimate-superweapon/,,arstechnica.com
+haasted,4,31828916,13,1655844313,Crypto’s frozen mystery: The fate of billions in Celsius deposits,story,https://www.washingtonpost.com/technology/2022/06/21/celsius-withdrawal-freeze-explained/,,washingtonpost.com
+pseudolus,300,31751242,422,1655290372,"Ten years after the Higgs, physicists face the nightmare of finding nothing else",story,https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else,,science.org
 galaxyLogic,94,31766804,171,1655391480,Physicists link two time crystals in seemingly impossible experiment,story,https://www.space.com/time-crystals-linked,,space.com
-Trouble_007,0,31818980,11,1655777441,Covid-19 Vaccines Candidates in Clinical Trials,story,https://covid19.trackvaccines.org/vaccines/,,covid19.trackvaccines.org
-pseudolus,299,31751242,422,1655290372,"Ten years after the Higgs, physicists face the nightmare of finding nothing else",story,https://www.science.org/content/article/ten-years-after-higgs-physicists-face-nightmare-finding-nothing-else,,science.org
-bryanrasmussen,60,31757452,319,1655318726,Rarely Seen Paintings by J.R.R. Tolkien,story,https://www.smithsonianmag.com/smart-news/jrr-tolkiens-estate-publishes-rare-lord-of-the-rings-paintings-and-maps-online-180979674/,,smithsonianmag.com
-lisper,51,31785507,90,1655506479,Recently discovered drawings for Statue of Liberty hint at a last-minute change (2020),story,https://www.smithsonianmag.com/history/original-drawings-statue-liberty-discovered-180974618/,,smithsonianmag.com
