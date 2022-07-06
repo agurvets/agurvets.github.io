@@ -1,25 +1,26 @@
 by,descendants,id,score,time,title,type,url,text,domain
-geox,204,31987128,665,1657022299,Large Hadron Collider discovers three new exotic particles,story,https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles,,home.cern
-pavel_lishin,53,31991008,174,1657041597,"Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)",story,https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/,,jhupress.wordpress.com
-samizdis,73,31989991,68,1657037250,Robotic surgery turns surgical trainees into spectators,story,https://spectrum.ieee.org/robotic-surgery,,spectrum.ieee.org
-NickRandom,14,31986964,97,1657020988,"Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”",story,https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds,,carnegiescience.edu
-bookofjoe,6,31980467,14,1656960231,Psychology and the Instrument Panel (1953),story,https://web.archive.org/web/20190404211225/http://blog.modernmechanix.com/psychology-and-the-instrument-panel/,,web.archive.org
-johndcook,1,31995171,14,1657065092,FDA to approve redesigned Covid boosters without requiring data,story,https://www.reuters.com/legal/government/fda-will-not-require-clinical-trial-data-authorize-redesigned-covid-boosters-2022-06-30/,,reuters.com
-ksec,39,31992649,86,1657049509,Turkey Discovers 694M Mt of Rare Earth Element Reserves,story,https://news.metal.com/newscontent/101881567/Turkey-Discovers-694-million-mt-of-Rare-Earth-Element-Reserves-with-Infrastructure-Construction-Starting-This-Year/,,news.metal.com
-paulpauper,195,31982726,174,1656977013,Vets today are like doctors yesterday,story,https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday,,trevorklee.substack.com
-davidbarker,23,31988338,25,1657030009,Hangover prevention pill that breaks down alcohol in the body goes on sale,story,https://www.telegraph.co.uk/news/2022/07/04/hangover-prevention-pill-breaks-alcohol-body-goes-sale/,,telegraph.co.uk
-zdw,5,31978656,52,1656951239,Computer Museums in Switzerland,story,https://deprogrammaticaipsum.com/computer-museums-in-switzerland/,,deprogrammaticaipsum.com
+pavel_lishin,60,31991008,202,1657041597,"Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)",story,https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/,,jhupress.wordpress.com
+geox,220,31987128,698,1657022299,Large Hadron Collider discovers three new exotic particles,story,https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles,,home.cern
+pepys,2,31973841,13,1656913796,Double Mystery: the nature of twins (1995),story,https://www.newyorker.com/magazine/1995/08/07/double-mystery,,newyorker.com
+samizdis,82,31989991,75,1657037250,Robotic surgery turns surgical trainees into spectators,story,https://spectrum.ieee.org/robotic-surgery,,spectrum.ieee.org
+bookofjoe,6,31980467,15,1656960231,Psychology and the Instrument Panel (1953),story,https://web.archive.org/web/20190404211225/http://blog.modernmechanix.com/psychology-and-the-instrument-panel/,,web.archive.org
+fairytalemtg,4,31995981,13,1657073230,"To Heal Anxiety, Stop Thinking of It as a Disease",story,https://www.psychologytoday.com/us/blog/more-feeling/202207/heal-anxiety-stop-thinking-it-disease,,psychologytoday.com
+NickRandom,14,31986964,100,1657020988,"Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”",story,https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds,,carnegiescience.edu
+paulpauper,200,31982726,174,1656977013,Vets today are like doctors yesterday,story,https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday,,trevorklee.substack.com
+ksec,39,31992649,92,1657049509,Turkey Discovers 694M Mt of Rare Earth Element Reserves,story,https://news.metal.com/newscontent/101881567/Turkey-Discovers-694-million-mt-of-Rare-Earth-Element-Reserves-with-Infrastructure-Construction-Starting-This-Year/,,news.metal.com
+johndcook,3,31995171,18,1657065092,FDA to approve redesigned Covid boosters without requiring data,story,https://www.reuters.com/legal/government/fda-will-not-require-clinical-trial-data-authorize-redesigned-covid-boosters-2022-06-30/,,reuters.com
+davidbarker,24,31988338,26,1657030009,Hangover prevention pill that breaks down alcohol in the body goes on sale,story,https://www.telegraph.co.uk/news/2022/07/04/hangover-prevention-pill-breaks-alcohol-body-goes-sale/,,telegraph.co.uk
+zdw,5,31978656,54,1656951239,Computer Museums in Switzerland,story,https://deprogrammaticaipsum.com/computer-museums-in-switzerland/,,deprogrammaticaipsum.com
+brundolf,0,31982947,12,1656979423,"Boa – Experimental JavaScript lexer, parser and interpreter written in Rust",story,https://github.com/boa-dev/boa,,github.com
 geox,206,31981216,131,1656965182,Only 6.8% of adults have optimal cardiometabolic health,story,https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046,,jacc.org
-brundolf,0,31982947,11,1656979423,"Boa – Experimental JavaScript lexer, parser and interpreter written in Rust",story,https://github.com/boa-dev/boa,,github.com
 iamben,40,31975882,106,1656934185,Breast cancer drug trial: Woman given months to live told she is cancer free,story,https://www.bbc.co.uk/news/uk-england-manchester-62033469,,bbc.co.uk
 ouzb64ty,11,31975434,21,1656929550,Medical Wordlists in EN/FR,story,https://github.com/theophpo/medical-wordlist/blob/main/en/wordlist.en.txt,,github.com
-rntn,21,31980998,34,1656963953,Inflation soars to nearly 80% in Turkey as food prices double,story,https://lite.cnn.com/en/article/h_a309ecbc87c23ea611a9bab31dd6628b,,lite.cnn.com
 modinfo,8,31961480,38,1656788924,An experiment to test GitHub Copilot's legality,story,https://seirdy.one/posts/2022/07/01/experiment-copilot-legality/,,seirdy.one
+rntn,21,31980998,34,1656963953,Inflation soars to nearly 80% in Turkey as food prices double,story,https://lite.cnn.com/en/article/h_a309ecbc87c23ea611a9bab31dd6628b,,lite.cnn.com
 nojs,3,31981175,18,1656964984,Drug smuggling: Underwater drones seized by Spanish police,story,https://www.bbc.com/news/world-europe-62040790,,bbc.com
 samizdis,3,31975747,43,1656932611,UK signs deal to share police biometric database with US border guards,story,https://www.theregister.com/2022/07/04/uk_us_border_biometric_data/,,theregister.com
+emirb,303,31960814,268,1656782848,The trimodal nature of software salaries in the Netherlands and Europe (2021),story,https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/,,pragmaticengineer.com
 bdg,1,31968369,12,1656861700,Psychological Safety and Learning Behavior in Work Teams (1999) [pdf],story,https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf,,web.mit.edu
-emirb,303,31960814,267,1656782848,The trimodal nature of software salaries in the Netherlands and Europe (2021),story,https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/,,pragmaticengineer.com
 samizdis,6,31968342,32,1656861482,Truly Humbled to Be the Author of This Article,story,https://www.theatlantic.com/ideas/archive/2022/07/humility-tweet-self-promotion/661444/,,theatlantic.com
 mgl,79,31970743,59,1656880196,Transporting food generates whopping amounts of carbon dioxide,story,https://www.nature.com/articles/d41586-022-01766-0,,nature.com
 Vaslo,1,31972573,12,1656898108,A Florida county is quarantining after discovery of invasive Giant African snail,story,https://www.cnn.com/2022/07/03/us/giant-african-snail-florida-scn-trnd/index.html,,cnn.com
-rntn,1,31968932,13,1656865935,A rare orchid thought to be extinct in Vermont was rediscovered after 120 years,story,https://lite.cnn.com/en/article/h_1b9dcd882c4973ef9a760546aaed85cf,,lite.cnn.com
