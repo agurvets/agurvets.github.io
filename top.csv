@@ -1,24 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-PainfullyNormal,366,32008586,555,1657153518,I analyzed hospital price lists so you didn't have to,story,https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/,,dolthub.com
-throwntoday,5,32019651,22,1657229076,Incidence of Myocarditis and Pericarditis in Post Covid-19 Unvaccinated Patients,story,https://www.mdpi.com/2077-0383/11/8/2219,,mdpi.com
-Brajeshwar,9,31990015,30,1657037326,Biomimicry: How Designers Are Learning from the Natural World (2017),story,https://99percentinvisible.org/article/biomimicry-designers-learning-natural-world/,,99percentinvisible.org
-geox,271,31987128,762,1657022299,Large Hadron Collider discovers three new exotic particles,story,https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles,,home.cern
-danboarder,67,32009378,88,1657161419,Nanoparticle vaccine protects against a spectrum of Covid-19-causing variants,story,https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman,,caltech.edu
-pavel_lishin,71,31991008,238,1657041597,"Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)",story,https://jhupress.wordpress.com/2013/04/24/unraveling-the-linothorax-mystery-or-how-linen-armor-came-to-dominate-our-lives/,,jhupress.wordpress.com
-Hooke,5,31984757,40,1656999980,The Planet Inside: Scientists are probing the secrets of the inner core,story,https://www.science.org/content/article/scientists-probing-secrets-earths-inner-core-saved-life-planet,,science.org
-MilnerRoute,2,32020108,23,1657231301,US Army cuts off more than 60K unvaccinated Guard and reserve soldiers from pay,story,https://www.military.com/daily-news/2022/07/06/army-cuts-off-more-60k-unvaccinated-guard-and-reserve-soldiers-pay-and-benefits.html,,military.com
-justinpowers,20,32004036,106,1657128202,US water contains more ‘forever chemicals’ than EPA tests show,story,https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests,,theguardian.com
-anarbadalov,48,31990217,28,1657038068,The Mysterious Return of Imposter Syndrome,story,https://www.e-flux.com/notes/477232/the-contemporary-clinic-1-the-mysterious-return-of-imposter-syndrome,,e-flux.com
-paulpauper,4,32006734,17,1657141101,"From AI to abortion, scientific failure to understand consciousness harms nation",story,https://erikhoel.substack.com/p/from-ai-to-abortion-the-scientific,,erikhoel.substack.com
-physicsgraph,60,31977918,92,1656947680,The importance of stupidity in scientific research,story,https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research,,journals.biologists.com
-pepys,10,31973841,29,1656913796,Double Mystery: the nature of twins (1995),story,https://www.newyorker.com/magazine/1995/08/07/double-mystery,,newyorker.com
-paulpauper,204,31982726,180,1656977013,Vets today are like doctors yesterday,story,https://trevorklee.substack.com/p/vets-today-are-like-doctors-yesterday,,trevorklee.substack.com
-NickRandom,14,31986964,104,1657020988,"Nature Used 57 Recipes to Create Earth’s 10,500 “Mineral Kinds”",story,https://carnegiescience.edu/news/crushed-zapped-boiled-baked-and-more-nature-used-57-recipes-create-earths-10500-mineral-kinds,,carnegiescience.edu
-samizdis,87,31989991,81,1657037250,Robotic surgery turns surgical trainees into spectators,story,https://spectrum.ieee.org/robotic-surgery,,spectrum.ieee.org
-bookofjoe,7,31980467,20,1656960231,Psychology and the Instrument Panel (1953),story,https://web.archive.org/web/20190404211225/http://blog.modernmechanix.com/psychology-and-the-instrument-panel/,,web.archive.org
+apollinaire,8,31996885,35,1657083432,The Lost Art of Looking at Nature,story,https://www.dissentmagazine.org/article/the-lost-art-of-looking-at-nature,,dissentmagazine.org
+ngram,2,32012901,14,1657195304,International Slide Rule Museum (ISRM),story,https://sliderulemuseum.com/,,sliderulemuseum.com
+PainfullyNormal,377,32008586,570,1657153518,I analyzed hospital price lists so you didn't have to,story,https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/,,dolthub.com
+jasonhansel,79,32026745,60,1657313045,"The U.S. may be losing the fight against monkeypox, scientists say",story,https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html,,nytimes.com
+danboarder,71,32009378,89,1657161419,Nanoparticle vaccine protects against a spectrum of Covid-19-causing variants,story,https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman,,caltech.edu
+throwntoday,6,32019651,24,1657229076,Incidence of Myocarditis and Pericarditis in Post Covid-19 Unvaccinated Patients,story,https://www.mdpi.com/2077-0383/11/8/2219,,mdpi.com
+justinpowers,20,32004036,107,1657128202,US water contains more ‘forever chemicals’ than EPA tests show,story,https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests,,theguardian.com
+paulpauper,6,32006734,17,1657141101,"From AI to abortion, scientific failure to understand consciousness harms nation",story,https://erikhoel.substack.com/p/from-ai-to-abortion-the-scientific,,erikhoel.substack.com
 drummer,0,32007010,16,1657142692,"Aggressive Measures, Rising Inequalities and Mass Formation During Covid-19",story,https://repub.eur.nl/pub/137120,,repub.eur.nl
 mgh2,14,31997178,50,1657086395,Working at Amazon became detrimental to my mental health,story,https://www.teamblind.com/post/Working-at-Amazon-became-detrimental-to-my-mental-health-htapodU5,,teamblind.com
-prostoalex,96,32016125,39,1657211600,"Covid-19 vaccine doses, once in high demand, now thrown away",story,https://www.wsj.com/articles/covid-19-vaccine-doses-once-in-high-demand-now-thrown-away-11657105202,,wsj.com
+MilnerRoute,2,32020108,25,1657231301,US Army cuts off more than 60K unvaccinated Guard and reserve soldiers from pay,story,https://www.military.com/daily-news/2022/07/06/army-cuts-off-more-60k-unvaccinated-guard-and-reserve-soldiers-pay-and-benefits.html,,military.com
 mdp2021,14,32006157,19,1657138220,How hot is too hot for the human body? _Heat plus humidity gets dangerous fast_,story,https://theconversation.com/how-hot-is-too-hot-for-the-human-body-our-lab-found-heat-humidity-gets-dangerous-faster-than-many-people-realize-185593,,theconversation.com
-geox,208,31981216,134,1656965182,Only 6.8% of adults have optimal cardiometabolic health,story,https://www.jacc.org/doi/10.1016/j.jacc.2022.04.046,,jacc.org
-iamben,40,31975882,108,1656934185,Breast cancer drug trial: Woman given months to live told she is cancer free,story,https://www.bbc.co.uk/news/uk-england-manchester-62033469,,bbc.co.uk
+fairytalemtg,4,31995981,26,1657073230,"To Heal Anxiety, Stop Thinking of It as a Disease",story,https://www.psychologytoday.com/us/blog/more-feeling/202207/heal-anxiety-stop-thinking-it-disease,,psychologytoday.com
+ksec,41,31992649,98,1657049509,Turkey Discovers 694M Mt of Rare Earth Element Reserves,story,https://news.metal.com/newscontent/101881567/Turkey-Discovers-694-million-mt-of-Rare-Earth-Element-Reserves-with-Infrastructure-Construction-Starting-This-Year/,,news.metal.com
+asimovie,2,32010336,14,1657172695,Study confirms 235k fewer US Covid deaths due to vaccines,story,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913,,jamanetwork.com
