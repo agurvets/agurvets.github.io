@@ -1,10 +1,11 @@
 by,descendants,id,score,time,title,type,url,text,domain
-apollinaire,8,31996885,38,1657083432,The Lost Art of Looking at Nature,story,https://www.dissentmagazine.org/article/the-lost-art-of-looking-at-nature,,dissentmagazine.org
+apollinaire,8,31996885,40,1657083432,The Lost Art of Looking at Nature,story,https://www.dissentmagazine.org/article/the-lost-art-of-looking-at-nature,,dissentmagazine.org
+PainfullyNormal,377,32008586,572,1657153518,I analyzed hospital price lists so you didn't have to,story,https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/,,dolthub.com
 ngram,2,32012901,16,1657195304,International Slide Rule Museum (ISRM),story,https://sliderulemuseum.com/,,sliderulemuseum.com
-PainfullyNormal,377,32008586,571,1657153518,I analyzed hospital price lists so you didn't have to,story,https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/,,dolthub.com
-jasonhansel,84,32026745,60,1657313045,"The U.S. may be losing the fight against monkeypox, scientists say",story,https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html,,nytimes.com
-danboarder,71,32009378,89,1657161419,Nanoparticle vaccine protects against a spectrum of Covid-19-causing variants,story,https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman,,caltech.edu
-throwntoday,6,32019651,24,1657229076,Incidence of Myocarditis and Pericarditis in Post Covid-19 Unvaccinated Patients,story,https://www.mdpi.com/2077-0383/11/8/2219,,mdpi.com
+SQL2219,0,32029883,11,1657325971,Army Cuts Off 60K Unvaccinated Guard and Reserve Soldiers,story,https://news.yahoo.com/army-cuts-off-more-60k-144757586.html,,news.yahoo.com
+danboarder,72,32009378,90,1657161419,Nanoparticle vaccine protects against a spectrum of Covid-19-causing variants,story,https://www.caltech.edu/about/news/sars-coronavirus-variant-vaccine-bjorkman,,caltech.edu
+throwntoday,6,32019651,25,1657229076,Incidence of Myocarditis and Pericarditis in Post Covid-19 Unvaccinated Patients,story,https://www.mdpi.com/2077-0383/11/8/2219,,mdpi.com
+jasonhansel,88,32026745,61,1657313045,"The U.S. may be losing the fight against monkeypox, scientists say",story,https://www.nytimes.com/2022/07/08/health/monkeypox-vaccine-treatment.html,,nytimes.com
 justinpowers,20,32004036,108,1657128202,US water contains more ‘forever chemicals’ than EPA tests show,story,https://www.theguardian.com/us-news/2022/jul/06/us-drinking-water-pfas-toxic-forever-chemicals-epa-tests,,theguardian.com
 paulpauper,6,32006734,17,1657141101,"From AI to abortion, scientific failure to understand consciousness harms nation",story,https://erikhoel.substack.com/p/from-ai-to-abortion-the-scientific,,erikhoel.substack.com
 drummer,0,32007010,16,1657142692,"Aggressive Measures, Rising Inequalities and Mass Formation During Covid-19",story,https://repub.eur.nl/pub/137120,,repub.eur.nl
@@ -12,5 +13,4 @@ mgh2,14,31997178,50,1657086395,Working at Amazon became detrimental to my mental
 MilnerRoute,2,32020108,25,1657231301,US Army cuts off more than 60K unvaccinated Guard and reserve soldiers from pay,story,https://www.military.com/daily-news/2022/07/06/army-cuts-off-more-60k-unvaccinated-guard-and-reserve-soldiers-pay-and-benefits.html,,military.com
 mdp2021,14,32006157,19,1657138220,How hot is too hot for the human body? _Heat plus humidity gets dangerous fast_,story,https://theconversation.com/how-hot-is-too-hot-for-the-human-body-our-lab-found-heat-humidity-gets-dangerous-faster-than-many-people-realize-185593,,theconversation.com
 fairytalemtg,4,31995981,26,1657073230,"To Heal Anxiety, Stop Thinking of It as a Disease",story,https://www.psychologytoday.com/us/blog/more-feeling/202207/heal-anxiety-stop-thinking-it-disease,,psychologytoday.com
-ksec,41,31992649,98,1657049509,Turkey Discovers 694M Mt of Rare Earth Element Reserves,story,https://news.metal.com/newscontent/101881567/Turkey-Discovers-694-million-mt-of-Rare-Earth-Element-Reserves-with-Infrastructure-Construction-Starting-This-Year/,,news.metal.com
 asimovie,2,32010336,14,1657172695,Study confirms 235k fewer US Covid deaths due to vaccines,story,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793913,,jamanetwork.com
