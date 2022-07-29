@@ -1,14 +1,14 @@
 by,descendants,id,score,time,title,type,url,text,domain
-MindGods,209,32262856,506,1659007094,AlphaFold reveals the structure of the protein universe,story,https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe,,deepmind.com
-2517AD,4,32249832,12,1658926476,&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One,story,https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/,,smashingmagazine.com
-hampelm,42,32264372,81,1659016721,Unplugged Phone Mysteries,story,https://pxlnv.com/blog/unplugged-mysteries/,,pxlnv.com
+MindGods,214,32262856,515,1659007094,AlphaFold reveals the structure of the protein universe,story,https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe,,deepmind.com
+2517AD,11,32249832,23,1658926476,&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One,story,https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/,,smashingmagazine.com
+hampelm,44,32264372,83,1659016721,Unplugged Phone Mysteries,story,https://pxlnv.com/blog/unplugged-mysteries/,,pxlnv.com
 Luc,14,32251717,117,1658935998,"Mystery of Somerton man’s identity solved after 73 years, researchers say",story,https://www.theguardian.com/australia-news/2022/jul/27/somerton-man-mystery-identity-solved-identified-australia,,theguardian.com
 giuliomagnifico,13,32249264,53,1658921925,CDs to flexible biosensors: Researchers discover inexpensive recycling method,story,https://www.binghamton.edu/news/story/3755/cds-to-flexible-biosensors-researchers-discover-easy-inexpensive-recycling-method,,binghamton.edu
 rmason,46,32259890,66,1658975788,I accidentally discovered one of the most egregious pharma scams imaginable,story,https://twitter.com/HankHeil/status/1552334139172454400,,twitter.com
+Harvesterify,115,32238991,247,1658846645,CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit,story,https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/,,securelist.com
 afkqs,30,32249586,69,1658924563,Show HN: Peerdiem — Discover and discuss one painting a day,story,https://peerdiem.com/,"Hi everyone,
 I made Peerdiem (a portmanteau word between Peer and Per Diem, which means Per Day in latin).
 The idea is very simple, a new painting or artwork to discover and discuss with your peers every day.<p>Content is currently only fetched from Chicago Art Institute Free API [1] but I&#x27;m planning to add more sources in the short future.<p>It was built with a couple of technologies I wanted to try for some time. Frontend is made with Preact and styled with Tailwindcss. Backend consists of an FastAPI app deployed in a Docker container.<p>[1] <a href=""https:&#x2F;&#x2F;www.artic.edu&#x2F;open-access&#x2F;public-api"" rel=""nofollow"">https:&#x2F;&#x2F;www.artic.edu&#x2F;open-access&#x2F;public-api</a>",peerdiem.com
-Harvesterify,115,32238991,247,1658846645,CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit,story,https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/,,securelist.com
 RafelMri,46,32254081,45,1658944978,"In experiment, AI successfully impersonates famous philosopher",story,https://www.vice.com/en/article/epzx3m/in-experiment-ai-successfully-impersonates-famous-philosopher,,vice.com
 keithly,7,32259648,33,1658973877,FDA’s top tobacco scientist takes job at Marlboro-maker Philip Morris,story,https://arstechnica.com/science/2022/07/fdas-top-tobacco-scientist-takes-job-at-marlboro-maker-philip-morris/,,arstechnica.com
 xqcgrek2,3,32241307,37,1658857129,Page views over time of any Wikipedia article,story,https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2022-06&pages=Hacker_News,,pageviews.wmcloud.org
