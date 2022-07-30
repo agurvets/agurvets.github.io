@@ -1,9 +1,9 @@
 by,descendants,id,score,time,title,type,url,text,domain
-xenodium,44,32286531,98,1659186883,An accentuated Emacs experiment (à la macOS),story,https://xenodium.com/an-accentuated-emacs-experiment/,,xenodium.com
-geox,46,32286011,86,1659180903,"Finding the biological roots for pathological social withdrawal, Hikikomori",story,https://www.kyushu-u.ac.jp/en/researches/view/230/,,kyushu-u.ac.jp
+xenodium,47,32286531,101,1659186883,An accentuated Emacs experiment (à la macOS),story,https://xenodium.com/an-accentuated-emacs-experiment/,,xenodium.com
+geox,50,32286011,93,1659180903,"Finding the biological roots for pathological social withdrawal, Hikikomori",story,https://www.kyushu-u.ac.jp/en/researches/view/230/,,kyushu-u.ac.jp
+bravogamma,47,32287512,40,1659194642,Ask HN: How do you critically evaluate scientific papers?,story,,"What do you evaluate to decide for yourself whether, or not, a scientific paper or experiment is legit?",
 Mehulagarwal7,16,32286449,24,1659186110,Plaid but for Healthcare,story,https://www.healthcompiler.com/LP-API,,healthcompiler.com
 MindGods,230,32262856,608,1659007094,AlphaFold reveals the structure of the protein universe,story,https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe,,deepmind.com
-bravogamma,46,32287512,40,1659194642,Ask HN: How do you critically evaluate scientific papers?,story,,"What do you evaluate to decide for yourself whether, or not, a scientific paper or experiment is legit?",
 Petiver,10,32258277,84,1658963331,Nephromyces: A mystery wrapped in a riddle wrapped in a kidney,story,https://www.theatlantic.com/science/archive/2022/07/nephromyces-parasite-bacteria/670925/,,theatlantic.com
 minimaxir,1,32281591,20,1659127714,Absurd AI-Generated Professional Food Photography with DALL-E 2,story,https://minimaxir.com/2022/07/food-photography-ai/,,minimaxir.com
 geox,89,32277109,97,1659103742,Scientists discover new “origins of life” chemical reactions,story,https://www.scripps.edu/news-and-events/press-room/2022/20220728-krishnamurthy-origins-of-life-chemical-reactions.html,,scripps.edu
@@ -21,4 +21,3 @@ afkqs,30,32249586,71,1658924563,Show HN: Peerdiem — Discover and discuss one p
 I made Peerdiem (a portmanteau word between Peer and Per Diem, which means Per Day in latin).
 The idea is very simple, a new painting or artwork to discover and discuss with your peers every day.<p>Content is currently only fetched from Chicago Art Institute Free API [1] but I&#x27;m planning to add more sources in the short future.<p>It was built with a couple of technologies I wanted to try for some time. Frontend is made with Preact and styled with Tailwindcss. Backend consists of an FastAPI app deployed in a Docker container.<p>[1] <a href=""https:&#x2F;&#x2F;www.artic.edu&#x2F;open-access&#x2F;public-api"" rel=""nofollow"">https:&#x2F;&#x2F;www.artic.edu&#x2F;open-access&#x2F;public-api</a>",peerdiem.com
 RafelMri,46,32254081,46,1658944978,"In experiment, AI successfully impersonates famous philosopher",story,https://www.vice.com/en/article/epzx3m/in-experiment-ai-successfully-impersonates-famous-philosopher,,vice.com
-rmason,50,32259890,72,1658975788,I accidentally discovered one of the most egregious pharma scams imaginable,story,https://twitter.com/HankHeil/status/1552334139172454400,,twitter.com
