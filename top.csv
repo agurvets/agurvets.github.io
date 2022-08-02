@@ -1,15 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Thevet,0,32297792,16,1659293812,Dolphin Intelligence: 3 Early Dolphin Experiments Funded by the U.S. Navy (2006),story,https://www.whales.org.au/published/levasseur/levass2a.html,,whales.org.au
-OnlineInference,8,32313043,33,1659393638,AlphaFold's database grows over 200x to cover nearly all known proteins,story,https://wandb.ai/telidavies/ml-news/reports/AlphaFold-s-Database-Grows-Over-200x-To-Cover-Nearly-All-Known-Proteins--VmlldzoyNDA5NDI5,,wandb.ai
-kzrdude,33,32306012,128,1659362294,Particle physicists puzzle over a new duality,story,https://www.quantamagazine.org/particle-physicists-puzzle-over-a-new-duality-20220801/,,quantamagazine.org
-flobosg,1,32311805,23,1659386704,"Tiny Proteins, Getting Sorted Out",story,https://www.science.org/content/blog-post/tiny-proteins-getting-sorted-out,,science.org
-samizdis,0,32293983,27,1659253414,Preparing for Skylab: 1972 experimental mission that never left the ground,story,https://www.theregister.com/2022/07/29/smeat_at_50/,,theregister.com
-rntn,7,32310565,19,1659380165,"Cognitive decline linked to ultraprocessed food, study finds",story,https://lite.cnn.com/en/article/h_b5a17fad42553cc277da51ba20fefeac,,lite.cnn.com
-rntn,57,32290869,269,1659219103,MIT engineers develop stickers that can see inside the body,story,https://news.mit.edu/2022/ultrasound-stickers-0728,,news.mit.edu
+gtsnexp,105,32294598,81,1659263066,The high-stakes race to engineer new psychedelic drugs,story,https://www.wired.com/story/race-to-engineer-new-psychedelic-drugs/,,wired.com
+acalmon,4,32318103,24,1659446289,Physicists come close to resolving the black hole information paradox,story,https://www.quantamagazine.org/the-most-famous-paradox-in-physics-nears-its-end-20201029/,,quantamagazine.org
+bmau5,6,32322714,30,1659465942,Salivary microbiome reveals a dysbiotic schizophrenia-associated microbiota,story,https://www.nature.com/articles/s41537-021-00180-1,,nature.com
+samizdis,22,32294503,38,1659261571,When the Surgeon Was an Uneducated Barber,story,https://nautil.us/when-the-surgeon-was-an-uneducated-barber-22409/,,nautil.us
+OnlineInference,46,32313043,145,1659393638,AlphaFold's database grows over 200x to cover nearly all known proteins,story,https://wandb.ai/telidavies/ml-news/reports/AlphaFold-s-Database-Grows-Over-200x-To-Cover-Nearly-All-Known-Proteins--VmlldzoyNDA5NDI5,,wandb.ai
+Thevet,3,32297792,35,1659293812,Dolphin Intelligence: 3 Early Dolphin Experiments Funded by the U.S. Navy (2006),story,https://www.whales.org.au/published/levasseur/levass2a.html,,whales.org.au
+kzrdude,45,32306012,142,1659362294,Particle physicists puzzle over a new duality,story,https://www.quantamagazine.org/particle-physicists-puzzle-over-a-new-duality-20220801/,,quantamagazine.org
+flobosg,1,32311805,31,1659386704,"Tiny Proteins, Getting Sorted Out",story,https://www.science.org/content/blog-post/tiny-proteins-getting-sorted-out,,science.org
+rntn,57,32290869,271,1659219103,MIT engineers develop stickers that can see inside the body,story,https://news.mit.edu/2022/ultrasound-stickers-0728,,news.mit.edu
+samizdis,0,32293983,29,1659253414,Preparing for Skylab: 1972 experimental mission that never left the ground,story,https://www.theregister.com/2022/07/29/smeat_at_50/,,theregister.com
+MindGods,236,32262856,629,1659007094,AlphaFold reveals the structure of the protein universe,story,https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe,,deepmind.com
+irsagent,21,32292266,40,1659231058,Cooking food in your home and selling it is legal in Cali. with a license,story,https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180AB626,,leginfo.legislature.ca.gov
+nathanfromny,52,32313879,39,1659400220,Show HN: Eattsy – Reimagining the world’s relationship with cooking and food,story,https://www.eattsy.com,,eattsy.com
+rntn,9,32310565,23,1659380165,"Cognitive decline linked to ultraprocessed food, study finds",story,https://lite.cnn.com/en/article/h_b5a17fad42553cc277da51ba20fefeac,,lite.cnn.com
 EMM_386,4,32294923,25,1659268078,The Peculiar Math That Could Underlie the Laws of Nature [2018],story,https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720/,,quantamagazine.org
-irsagent,21,32292266,39,1659231058,Cooking food in your home and selling it is legal in Cali. with a license,story,https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180AB626,,leginfo.legislature.ca.gov
-MindGods,233,32262856,623,1659007094,AlphaFold reveals the structure of the protein universe,story,https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe,,deepmind.com
-xenodium,49,32286531,126,1659186883,An accentuated Emacs experiment (à la macOS),story,https://xenodium.com/an-accentuated-emacs-experiment/,,xenodium.com
+xenodium,49,32286531,127,1659186883,An accentuated Emacs experiment (à la macOS),story,https://xenodium.com/an-accentuated-emacs-experiment/,,xenodium.com
 geox,77,32286011,118,1659180903,"Finding the biological roots for pathological social withdrawal, Hikikomori",story,https://www.kyushu-u.ac.jp/en/researches/view/230/,,kyushu-u.ac.jp
-smn1234,126,32309015,66,1659373377,"Cognitive decline linked to ultraprocessed food, study finds",story,https://www.cnn.com/2022/08/01/health/ultraprocessed-food-dementia-study-wellness/index.html,,cnn.com
-crhulls,12,32306912,14,1659366073,"'Helical Engine' could reach 99% the speed of light, NASA scientists says",story,https://www.thebrighterside.news/post/helical-engine-could-reach-99-the-speed-of-light-nasa-scientists-says,,thebrighterside.news
