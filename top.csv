@@ -1,25 +1,25 @@
 by,descendants,id,score,time,title,type,url,text,domain
-latchkey,0,32730048,13,1662415482,Meta Fined $400M for Treatment of Children’s Data on Instagram,story,https://www.nytimes.com/2022/09/05/business/meta-children-data-protection-europe.html,,nytimes.com
-jbotz,7,32729923,13,1662414723,Saturated fat: villain and bogeyman of cardiovascular disease?,story,https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwac194/6691821?redirectedFrom=fulltext,,academic.oup.com
-mijustin,10,32727470,23,1662402207,Ask HN: What are some examples of “decentralized discoverability?”,story,,"While the web itself is built on a series of decentralized protocols (TCP&#x2F;IP, HTTP, DNS), discoverability is still centralized on platforms like Google Search, Twitter, YouTube, etc...<p>Even web3 stuff relies on centralized indexes&#x2F;marketplaces like OpenSea.<p>The idea of mirroring an index (Pirate Bay), or having a distributed database (DNS), is fascinating to me.<p>These are the examples I can think of:<p>DNS
+mitchbob,76,32731474,85,1662426998,Killing invasive species is now a competitive sport,story,https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport,,newyorker.com
+belltaco,36,32732325,39,1662433905,Long-term cardiac pathology in individuals with mild initial Covid-19 illness,story,https://www.nature.com/articles/s41591-022-02000-0,,nature.com
+latchkey,26,32730048,89,1662415482,Meta Fined $400M for Treatment of Children’s Data on Instagram,story,https://www.nytimes.com/2022/09/05/business/meta-children-data-protection-europe.html,,nytimes.com
+amrrs,13,32728112,11,1662405302,AI Researcher wants computer scientists to move beyond the matrix,story,https://www.quantamagazine.org/the-ai-researcher-giving-her-field-its-bitter-medicine-20220830/,,quantamagazine.org
+lightlyused,49,32723347,116,1662379581,Nobel Prize winner Gregg Semenza retracts four papers,story,https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/,,retractionwatch.com
+jbotz,20,32729923,28,1662414723,Saturated fat: villain and bogeyman of cardiovascular disease?,story,https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwac194/6691821?redirectedFrom=fulltext,,academic.oup.com
+mijustin,15,32727470,28,1662402207,Ask HN: What are some examples of “decentralized discoverability?”,story,,"While the web itself is built on a series of decentralized protocols (TCP&#x2F;IP, HTTP, DNS), discoverability is still centralized on platforms like Google Search, Twitter, YouTube, etc...<p>Even web3 stuff relies on centralized indexes&#x2F;marketplaces like OpenSea.<p>The idea of mirroring an index (Pirate Bay), or having a distributed database (DNS), is fascinating to me.<p>These are the examples I can think of:<p>DNS
 UseNet
 FidoNet
 PirateBay
 Mastadon<p>Any others?<p>What could &quot;decentralized discoverability&quot; look like for content?",
-lightlyused,48,32723347,111,1662379581,Nobel Prize winner Gregg Semenza retracts four papers,story,https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/,,retractionwatch.com
-isaacfrond,5,32723697,31,1662382106,"Oxford Physicist Unloads on Quantum Computing, Says It's a Hype Bubble",story,https://futurism.com/the-byte/oxford-physicist-unloads-quantum-computing,,futurism.com
-danboarder,0,32718174,34,1662329223,Real-time dialogue between experimenters and dreamers during REM sleep,story,https://www.cell.com/current-biology/fulltext/S0960-9822(21)00059-2,,cell.com
-tsungxu,88,32712015,247,1662291903,Biomanufactured materials are coming,story,https://www.tsungxu.com/performance-biomaterials/,,tsungxu.com
-EGreg,135,32723313,135,1662379221,Study: Chances of serious side effects from coronavirus vaccines,story,https://pubmed.ncbi.nlm.nih.gov/36055877/?fs=e&s=cl,,pubmed.ncbi.nlm.nih.gov
-apollinaire,0,32709325,13,1662260272,Portrait of the Artist as a Grown Man,story,https://thebaffler.com/latest/portrait-of-the-artist-as-a-grown-man-domestico,,thebaffler.com
+kot-behemoth,1,32723570,11,1662381205,Data Rabbit – canvas for composable data exploration and experimentation,story,https://datarabbit.com/#/welcome/down%20the%20hole%20we%20go,,datarabbit.com
+tsungxu,89,32712015,250,1662291903,Biomanufactured materials are coming,story,https://www.tsungxu.com/performance-biomaterials/,,tsungxu.com
+danboarder,1,32718174,34,1662329223,Real-time dialogue between experimenters and dreamers during REM sleep,story,https://www.cell.com/current-biology/fulltext/S0960-9822(21)00059-2,,cell.com
+isaacfrond,5,32723697,34,1662382106,"Oxford Physicist Unloads on Quantum Computing, Says It's a Hype Bubble",story,https://futurism.com/the-byte/oxford-physicist-unloads-quantum-computing,,futurism.com
+EGreg,147,32723313,137,1662379221,Study: Chances of serious side effects from coronavirus vaccines,story,https://pubmed.ncbi.nlm.nih.gov/36055877/?fs=e&s=cl,,pubmed.ncbi.nlm.nih.gov
 Brajeshwar,3,32692752,75,1662136434,Using machine learning to identify undiagnosable cancers,story,https://medicalxpress.com/news/2022-09-machine-undiagnosable-cancers.html,,medicalxpress.com
-LinuxBender,281,32714527,230,1662307968,"Almost half of cancer deaths are caused by smoking, alcohol, or obesity",story,https://www.nature.com/articles/d41586-022-02355-x,,nature.com
+LinuxBender,287,32714527,231,1662307968,"Almost half of cancer deaths are caused by smoking, alcohol, or obesity",story,https://www.nature.com/articles/d41586-022-02355-x,,nature.com
+apollinaire,0,32709325,13,1662260272,Portrait of the Artist as a Grown Man,story,https://thebaffler.com/latest/portrait-of-the-artist-as-a-grown-man-domestico,,thebaffler.com
 walterbell,0,32721215,21,1662359878,Anti-insulin protein helps queen ants live five times longer than workers,story,https://newatlas.com/biology/anti-insulin-protein-queen-ants-long-lifespan/,,newatlas.com
-ogogmad,43,32714523,48,1662307934,Shocking hospital mistakes led to our daughter’s death,story,https://www.theguardian.com/lifeandstyle/2022/sep/03/13-year-old-daughter-dead-in-five-weeks-hospital-mistakes,,theguardian.com
 pseudolus,208,32690809,137,1662126568,Is the psychedelic therapy bubble about to burst?,story,https://www.wired.com/story/psychedelic-hype-bubble/,,wired.com
+ogogmad,44,32714523,48,1662307934,Shocking hospital mistakes led to our daughter’s death,story,https://www.theguardian.com/lifeandstyle/2022/sep/03/13-year-old-daughter-dead-in-five-weeks-hospital-mistakes,,theguardian.com
 acqbu,0,32717464,18,1662323843,Brain tumors vanish in mice after study finds and destroys ‘power source’,story,https://www.timesofisrael.com/brain-tumors-vanish-in-mice-after-israeli-study-finds-and-destroys-power-source/,,timesofisrael.com
 ephesee,5,32711429,17,1662284837,"Years after shuttle, NASA rediscovers the perils of liquid hydrogen",story,https://arstechnica.com/science/2022/09/years-after-shuttle-nasa-rediscovers-the-perils-of-liquid-hydrogen/,,arstechnica.com
-CharlesW,4,32713713,11,1662303189,Oxford Physicist Unloads on Quantum Computing Industry,story,https://futurism.com/the-byte/oxford-physicist-unloads-quantum-computing,,futurism.com
-throwaway888abc,0,32714985,11,1662310150,Scientists make major breakthrough in race to save Caribbean coral,story,https://www.cnn.com/2022/09/04/us/elkhorn-coral-spawn-florida-aquarium-climate/index.html,,cnn.com
-leros,86,32725105,32,1662390240,Ask HN: How much does private health insurance cost you?,story,,"One of the big barriers in my mind of quiting my day job and going independent is that I&#x27;ll be responsible for my own insurance, which is a cost I can&#x27;t ignore.<p>To those of you that are independent, how much is your health insurance actually costing you?",
-mcenedella,12,32695005,40,1662147926,After 53 Years of Daily Driving This 1969 Toyota Corolla Is Retiring to a Museum,story,https://www.thedrive.com/news/after-53-years-of-daily-driving-this-one-owner-1969-toyota-corolla-is-retiring-to-a-museum,,thedrive.com
