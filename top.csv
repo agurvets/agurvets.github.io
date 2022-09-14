@@ -1,8 +1,12 @@
 by,descendants,id,score,time,title,type,url,text,domain
-hammock,92,32809457,183,1662987451,Cancer breakthrough is a ‘wake-up’ call on danger of air pollution,story,https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution,,theguardian.com
-js2,25,32801032,33,1662913934,The mystery of blue honey (2010),story,https://www.ourstate.com/blue-honey/,,ourstate.com
-doener,115,32815066,87,1663008852,The relationship between plant-based diet and risk of digestive system cancers,story,https://pubmed.ncbi.nlm.nih.gov/35719615/,,pubmed.ncbi.nlm.nih.gov
-orionion,1,32817185,11,1663017790,New Cancer Drug Lumakras Beats Chemotherapy in Study,story,https://www.wsj.com/articles/new-cancer-drug-beats-chemotherapy-in-study-11662996694,,wsj.com
-Trouble_007,24,32789698,45,1662809661,What exascale computing could mean for chemistry,story,https://cen.acs.org/physical-chemistry/computational-chemistry/exascale-computing-mean-chemistry/100/i31,,cen.acs.org
-v4dok,255,32777301,225,1662716733,Is early-onset cancer an emerging global epidemic?,story,https://www.nature.com/articles/s41571-022-00672-8,,nature.com
-vba,64,32788706,192,1662795882,Air pollution cancer breakthrough will rewrite the rules,story,https://www.bbc.com/news/health-62797777,,bbc.com
+behnamoh,5,32831673,11,1663113691,What Gödel Discovered (in Lisp),story,https://stopa.io/post/269,,stopa.io
+beefman,0,32829820,12,1663101085,Genetic risk factors have a substantial impact on healthy life years,story,https://www.nature.com/articles/s41591-022-01957-2,,nature.com
+hammock,402,32824054,238,1663076024,Pre-exposure to mRNA-LNP inhibits adaptive immune responses in mice,story,https://pubmed.ncbi.nlm.nih.gov/36054264/,,pubmed.ncbi.nlm.nih.gov
+open-source-ux,5,32827469,42,1663090088,Colon cancer patient turned away from NHS – found success treatment in Japan,story,https://inews.co.uk/news/health/colon-cancer-patient-turned-away-nhs-disease-free-months-live-1845098,,inews.co.uk
+sohkamyung,17,32820299,116,1663038954,The mysterious balancing stones on frozen lakes,story,https://physicstoday.scitation.org/doi/10.1063/PT.3.5088,,physicstoday.scitation.org
+latchkey,5,32828898,20,1663096213,Food delivery robot forces its way across a police crime scene,story,https://twitter.com/FilmThePoliceLA/status/1569758479149334530,,twitter.com
+_Microft,0,32799644,12,1662904369,Accurate prediction of (protein-)nucleic acid complexes using RoseTTAFoldNA,story,https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1,,biorxiv.org
+hammock,100,32809457,193,1662987451,Cancer breakthrough is a ‘wake-up’ call on danger of air pollution,story,https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution,,theguardian.com
+js2,25,32801032,34,1662913934,The mystery of blue honey (2010),story,https://www.ourstate.com/blue-honey/,,ourstate.com
+doener,140,32815066,96,1663008852,The relationship between plant-based diet and risk of digestive system cancers,story,https://pubmed.ncbi.nlm.nih.gov/35719615/,,pubmed.ncbi.nlm.nih.gov
+Trouble_007,25,32789698,45,1662809661,What exascale computing could mean for chemistry,story,https://cen.acs.org/physical-chemistry/computational-chemistry/exascale-computing-mean-chemistry/100/i31,,cen.acs.org
