@@ -1,7 +1,7 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Vaslo,77,32925957,111,1663771735,"The abundance, biomass, and distribution of ants on Earth",story,https://www.pnas.org/doi/10.1073/pnas.2201550119,,pnas.org
-tkadlec,2,32928298,45,1663780880,Will Serving Real HTML Content Make a Website Faster? Let's Experiment,story,https://blog.webpagetest.org/posts/will-html-content-make-site-faster/,,webpagetest.org
-kranke155,3,32927335,27,1663776871,Artist finds private medical record photos in popular AI training data set,story,https://arstechnica.com/information-technology/2022/09/artist-finds-private-medical-record-photos-in-popular-ai-training-data-set/,,arstechnica.com
+tkadlec,7,32928298,74,1663780880,Will Serving Real HTML Content Make a Website Faster? Let's Experiment,story,https://blog.webpagetest.org/posts/will-html-content-make-site-faster/,,webpagetest.org
+Vaslo,79,32925957,117,1663771735,"The abundance, biomass, and distribution of ants on Earth",story,https://www.pnas.org/doi/10.1073/pnas.2201550119,,pnas.org
+kranke155,6,32927335,29,1663776871,Artist finds private medical record photos in popular AI training data set,story,https://arstechnica.com/information-technology/2022/09/artist-finds-private-medical-record-photos-in-popular-ai-training-data-set/,,arstechnica.com
 cheinyeanlim,1,32919114,14,1663716388,Scientists Have Long Dreamed of a Memory Prosthesis. The First Human Trials Look,story,https://singularityhub.com/2022/09/20/a-memory-prosthetic-improved-memory-in-people-with-brain-injuries/,,singularityhub.com
 haasted,277,32897784,268,1663592882,Pentagon opens sweeping review of clandestine psychological operations,story,https://www.washingtonpost.com/national-security/2022/09/19/pentagon-psychological-operations-facebook-twitter/,,washingtonpost.com
 rbanffy,14,32896708,68,1663585277,Switzerland’s Museum of Consumer Electronics,story,https://spectrum.ieee.org/switzerlands-museum-of-consumer-electronics,,spectrum.ieee.org
@@ -11,4 +11,3 @@ freediver,15,32915287,47,1663696283,"Prepare your inbox, Gmail's awful political
 aburla,9,32897608,72,1663591628,AutoML Solutions: What I Like and Don’t Like About AutoML as a Data Scientist,story,https://alexandruburlacu.github.io/posts/2022-07-05-neptuneai-automl,,alexandruburlacu.github.io
 Sulstice,10,32894054,35,1663559070,Global-Chem: A Free Dictionary from Common Chemical Names to Molecules,story,https://www.globalchemistry.org/,,globalchemistry.org
 elsewhen,21,32898996,65,1663598539,Food delivery robot casually drives under police tape through active crime scene,story,https://www.vice.com/en/article/93adae/food-delivery-robot-casually-drives-under-police-tape-through-active-crime-scene,,vice.com
-MDWolinski,3,32910445,14,1663674658,Scientists have calculated how many ants there are. So big it’s ‘unimaginable.’,story,https://www.washingtonpost.com/climate-environment/2022/09/19/ants-population-20-quadrillion/,,washingtonpost.com
