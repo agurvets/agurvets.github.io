@@ -1,23 +1,21 @@
 by,descendants,id,score,time,title,type,url,text,domain
-shantanu_sharma,97,33096580,416,1664982755,Discovering faster matrix multiplication algorithms with reinforcement learning,story,https://www.nature.com/articles/s41586-022-05172-4,,nature.com
-dangle1,67,33102639,64,1665013486,Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027,story,https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/,,airandspaceforces.com
-hhs,234,33097663,135,1664987563,Many scientists see fusion as the future of energy – and they're betting big,story,https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big,,nationalgeographic.co.uk
-alexrustic,7,33096667,95,1664983087,Discovering Novel Algorithms with AlphaTensor,story,https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor,,deepmind.com
-samclemens,54,33043883,84,1664598658,Early Cormac McCarthy Interviews Rediscovered,story,https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html,,nytimes.com
-solarist,51,33093278,163,1664963305,"Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless",story,https://www.nobelprize.org/prizes/chemistry/2022/summary/,,nobelprize.org
-kungfudoi,123,33090205,155,1664935841,Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters,story,https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters,,today.ucsd.edu
-anigbrowl,114,33039904,111,1664567516,Advanced Scientific Data Format,story,https://github.com/asdf-format/asdf,,github.com
-rossvor,31,33092809,76,1664958801,The Balto/Togo theory of scientific development,story,https://acesounderglass.com/2022/10/04/the-balto-togo-theory-of-scientific-development/,,acesounderglass.com
-prostoalex,126,33101419,55,1665005159,“Skimpflation” is hitting everything from food to hotels,story,https://www.cbsnews.com/news/skimpflation-inflation-reducing-food-service-quality/,,cbsnews.com
-Animatronio,334,33088214,227,1664923844,HHS purchases $290M worth of drugs for nuclear emergencies,story,https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx,,aspr.hhs.gov:443
-LinuxBender,47,33097075,40,1664984850,90% of US adults say the United States is experiencing a mental health crisis,story,https://lite.cnn.com/en/article/h_d5c95f983b9cb27c9fd8f59ed1af229b,,lite.cnn.com
+WithinReason,84,33109633,312,1665070696,A Universal Cancer Treatment?,story,https://nautil.us/a-universal-cancer-treatment-241231/,,nautil.us
+respinal,32,33114869,83,1665094825,Electrochemical potential enables dormant spores to integrate enviro signals,story,https://www.science.org/doi/10.1126/science.abl7484,,science.org
+tintinnabula,6,33075332,35,1664842803,Unraveling One of Rock’s Deepest Mysteries: Les Rallizes Dénudés,story,https://www.nytimes.com/2022/10/03/arts/music/les-rallizes-denudes.html,,nytimes.com
+shantanu_sharma,108,33096580,491,1664982755,Discovering faster matrix multiplication algorithms with reinforcement learning,story,https://www.nature.com/articles/s41586-022-05172-4,,nature.com
+troops_h8r,62,33115725,29,1665100414,Why Don’t We Use Chemical Weapons Anymore?,story,https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/,,acoup.blog
+dangle1,110,33102639,103,1665013486,Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027,story,https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/,,airandspaceforces.com
+hhs,367,33097663,163,1664987563,Many scientists see fusion as the future of energy,story,https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big,,nationalgeographic.co.uk
+samclemens,56,33043883,86,1664598658,Early Cormac McCarthy Interviews Rediscovered,story,https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html,,nytimes.com
+solarist,52,33093278,165,1664963305,"Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless",story,https://www.nobelprize.org/prizes/chemistry/2022/summary/,,nobelprize.org
+kungfudoi,125,33090205,158,1664935841,Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters,story,https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters,,today.ucsd.edu
+alexrustic,10,33096667,108,1664983087,Discovering Novel Algorithms with AlphaTensor,story,https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor,,deepmind.com
+anigbrowl,118,33039904,114,1664567516,Advanced Scientific Data Format,story,https://github.com/asdf-format/asdf,,github.com
+rossvor,32,33092809,77,1664958801,The Balto/Togo theory of scientific development,story,https://acesounderglass.com/2022/10/04/the-balto-togo-theory-of-scientific-development/,,acesounderglass.com
+politelemon,189,33055340,370,1664713817,How a Stable Diffusion prompt changes its output for the style of 1500 artists,story,https://gorgeous.adityashankar.xyz,,gorgeous.adityashankar.xyz
+Animatronio,346,33088214,229,1664923844,HHS purchases $290M worth of drugs for nuclear emergencies,story,https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx,,aspr.hhs.gov:443
 solarist,125,33078212,262,1664877036,"Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger",story,https://www.nobelprize.org/prizes/physics/2022/summary/,,nobelprize.org
 graderjs,7,33078147,38,1664876131,The Effect of Space Weather on Human Body at the Spitsbergen Archipelago (2018),story,https://www.intechopen.com/chapters/69119,,intechopen.com
-politelemon,189,33055340,368,1664713817,How a Stable Diffusion prompt changes its output for the style of 1500 artists,story,https://gorgeous.adityashankar.xyz,,gorgeous.adityashankar.xyz
-bilsbie,67,33084926,54,1664909429,Whitest paint is now thin enough to coat cars and planes,story,https://newatlas.com/materials/worlds-whitest-paint-thin-cars-planes/,,newatlas.com
 shantanu_sharma,75,33065322,141,1664790428,Svante Pääbo awarded Nobel Prize for studies of extinct human ancestors,story,https://www.quantamagazine.org/extinct-human-genomes-studies-win-nobel-prize-for-medicine-2022-20221003/,,quantamagazine.org
-clockworksoul,1,33089100,29,1664928681,Scientists Have Discovered a New Set of Blood Groups,story,https://www.wired.com/story/new-blood-types/,,wired.com
-CharlesW,208,33056743,292,1664724523,Sauna use as a lifestyle practice to extend healthspan,story,https://www.sciencedirect.com/science/article/pii/S0531556521002916,,sciencedirect.com
-respinal,0,33084521,28,1664907619,Ancient chemistry may explain why living things use ATP as energy: new study,story,https://phys.org/news/2022-10-ancient-chemistry-atp-universal-energy.html,,phys.org
-lisper,0,33091956,11,1664950919,2022 Nobel Physics Prize goes to seminal tests of spooky action at a distance,story,https://arstechnica.com/science/2022/10/2022-nobel-physics-prize-goes-to-seminal-tests-of-spooky-action-at-a-distance/,,arstechnica.com
-whitepirate20,22,33090031,13,1664934560,Ask HN: Is Therapy Helpful?,story,,"My partner is asking me to seek a therapist as my stress and anxiety is sky high and I’ve been serverely depressed for about a year, to which it’s now making me physically ill.<p>I’m in a vicious cycle of working, but not feeling satisfied with my work, excessive studying, weird sleep schedules, bad thoughts. I’m to a point where I feel that I may need external help and not sure how it works. I’d love to hear experiences from people who may have gone through a similar experience.",
+CharlesW,208,33056743,293,1664724523,Sauna use as a lifestyle practice to extend healthspan,story,https://www.sciencedirect.com/science/article/pii/S0531556521002916,,sciencedirect.com
+bilsbie,69,33084926,55,1664909429,Whitest paint is now thin enough to coat cars and planes,story,https://newatlas.com/materials/worlds-whitest-paint-thin-cars-planes/,,newatlas.com
