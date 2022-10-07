@@ -1,21 +1,21 @@
 by,descendants,id,score,time,title,type,url,text,domain
-WithinReason,84,33109633,312,1665070696,A Universal Cancer Treatment?,story,https://nautil.us/a-universal-cancer-treatment-241231/,,nautil.us
-respinal,32,33114869,83,1665094825,Electrochemical potential enables dormant spores to integrate enviro signals,story,https://www.science.org/doi/10.1126/science.abl7484,,science.org
-tintinnabula,6,33075332,35,1664842803,Unraveling One of Rock’s Deepest Mysteries: Les Rallizes Dénudés,story,https://www.nytimes.com/2022/10/03/arts/music/les-rallizes-denudes.html,,nytimes.com
-shantanu_sharma,108,33096580,491,1664982755,Discovering faster matrix multiplication algorithms with reinforcement learning,story,https://www.nature.com/articles/s41586-022-05172-4,,nature.com
-troops_h8r,62,33115725,29,1665100414,Why Don’t We Use Chemical Weapons Anymore?,story,https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/,,acoup.blog
-dangle1,110,33102639,103,1665013486,Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027,story,https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/,,airandspaceforces.com
-hhs,367,33097663,163,1664987563,Many scientists see fusion as the future of energy,story,https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big,,nationalgeographic.co.uk
+WithinReason,91,33109633,364,1665070696,A Universal Cancer Treatment?,story,https://nautil.us/a-universal-cancer-treatment-241231/,,nautil.us
+respinal,40,33114869,107,1665094825,Electrochemical potential enables dormant spores to integrate enviro signals,story,https://www.science.org/doi/10.1126/science.abl7484,,science.org
+miletus,0,33119338,16,1665137246,"The Universe Is Not Locally Real, and the Physics Nobel Prize Winners Proved It",story,https://www.scientificamerican.com/article/the-universe-is-not-locally-real-and-the-physics-nobel-prize-winners-proved-it/,,scientificamerican.com
+troops_h8r,70,33115725,44,1665100414,Why Don’t We Use Chemical Weapons Anymore?,story,https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/,,acoup.blog
+shantanu_sharma,109,33096580,495,1664982755,Discovering faster matrix multiplication algorithms with reinforcement learning,story,https://www.nature.com/articles/s41586-022-05172-4,,nature.com
+tintinnabula,8,33075332,42,1664842803,Unraveling One of Rock’s Deepest Mysteries: Les Rallizes Dénudés,story,https://www.nytimes.com/2022/10/03/arts/music/les-rallizes-denudes.html,,nytimes.com
+hhs,380,33097663,163,1664987563,Many scientists see fusion as the future of energy,story,https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big,,nationalgeographic.co.uk
+dangle1,110,33102639,107,1665013486,Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027,story,https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/,,airandspaceforces.com
 samclemens,56,33043883,86,1664598658,Early Cormac McCarthy Interviews Rediscovered,story,https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html,,nytimes.com
-solarist,52,33093278,165,1664963305,"Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless",story,https://www.nobelprize.org/prizes/chemistry/2022/summary/,,nobelprize.org
-kungfudoi,125,33090205,158,1664935841,Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters,story,https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters,,today.ucsd.edu
-alexrustic,10,33096667,108,1664983087,Discovering Novel Algorithms with AlphaTensor,story,https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor,,deepmind.com
-anigbrowl,118,33039904,114,1664567516,Advanced Scientific Data Format,story,https://github.com/asdf-format/asdf,,github.com
+danielskogly,45,33118952,41,1665133392,The Nobel Peace Prize 2022,story,https://www.nobelpeaceprize.org/articles/nobel-peace-prize-for-2022,,nobelpeaceprize.org
+solarist,52,33093278,166,1664963305,"Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless",story,https://www.nobelprize.org/prizes/chemistry/2022/summary/,,nobelprize.org
+kungfudoi,125,33090205,159,1664935841,Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters,story,https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters,,today.ucsd.edu
+alexrustic,10,33096667,112,1664983087,Discovering Novel Algorithms with AlphaTensor,story,https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor,,deepmind.com
+anigbrowl,119,33039904,114,1664567516,Advanced Scientific Data Format,story,https://github.com/asdf-format/asdf,,github.com
 rossvor,32,33092809,77,1664958801,The Balto/Togo theory of scientific development,story,https://acesounderglass.com/2022/10/04/the-balto-togo-theory-of-scientific-development/,,acesounderglass.com
 politelemon,189,33055340,370,1664713817,How a Stable Diffusion prompt changes its output for the style of 1500 artists,story,https://gorgeous.adityashankar.xyz,,gorgeous.adityashankar.xyz
-Animatronio,346,33088214,229,1664923844,HHS purchases $290M worth of drugs for nuclear emergencies,story,https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx,,aspr.hhs.gov:443
 solarist,125,33078212,262,1664877036,"Nobel Prize in Physics Awarded to Alain Aspect, John Clauser and Anton Zeilinger",story,https://www.nobelprize.org/prizes/physics/2022/summary/,,nobelprize.org
-graderjs,7,33078147,38,1664876131,The Effect of Space Weather on Human Body at the Spitsbergen Archipelago (2018),story,https://www.intechopen.com/chapters/69119,,intechopen.com
+Animatronio,347,33088214,230,1664923844,HHS purchases $290M worth of drugs for nuclear emergencies,story,https://aspr.hhs.gov:443/newsroom/Pages/ARS-Oct2022.aspx,,aspr.hhs.gov:443
 shantanu_sharma,75,33065322,141,1664790428,Svante Pääbo awarded Nobel Prize for studies of extinct human ancestors,story,https://www.quantamagazine.org/extinct-human-genomes-studies-win-nobel-prize-for-medicine-2022-20221003/,,quantamagazine.org
-CharlesW,208,33056743,293,1664724523,Sauna use as a lifestyle practice to extend healthspan,story,https://www.sciencedirect.com/science/article/pii/S0531556521002916,,sciencedirect.com
-bilsbie,69,33084926,55,1664909429,Whitest paint is now thin enough to coat cars and planes,story,https://newatlas.com/materials/worlds-whitest-paint-thin-cars-planes/,,newatlas.com
+graderjs,7,33078147,39,1664876131,The Effect of Space Weather on Human Body at the Spitsbergen Archipelago (2018),story,https://www.intechopen.com/chapters/69119,,intechopen.com
