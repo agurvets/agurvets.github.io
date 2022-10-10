@@ -1,21 +1,22 @@
 by,descendants,id,score,time,title,type,url,text,domain
-cheinyeanlim,18,33145898,52,1665354352,Recent discoveries that have changed how we think about human origins,story,https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/,,singularityhub.com
-Brajeshwar,54,33140927,63,1665323066,New research suggests eating early and within a 10-hour window is healthier,story,https://medicalxpress.com/news/2022-10-dinner-pm-early-hour-window.html,,medicalxpress.com
-giuliomagnifico,5,33124191,25,1665162814,A Drum Machine with Congenital Heart Disease,story,https://www.heartbeatdrummachine.com/,,heartbeatdrummachine.com
-vichu,11,33145525,20,1665351083,Yankee Candle reviews indicate that Covid is about surge again,story,https://twitter.com/datadrivenmd/status/1578982975470858240,,twitter.com
-andsoitis,118,33127810,267,1665182688,Patients can now access all their health records digitally,story,https://www.statnews.com/2022/10/06/health-data-information-blocking-records/,,statnews.com
-LinuxBender,77,33133477,103,1665245351,Do fungi lurking inside cancers speed their growth?,story,https://www.nature.com/articles/d41586-022-03074-z,,nature.com
-lebovic,266,33122656,289,1665156530,AWS doesn't make sense for scientific computing,story,https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/,,noahlebovic.com
-barry-cotter,11,33138349,13,1665290928,Thiel Is Too Optimistic About Scientific Achievement Since the 70s,story,https://scholars-stage.org/has-technological-progress-stalled/,,scholars-stage.org
+qrush,66,33150642,147,1665405955,Starting a food co-op: Year 1,story,https://quaran.to/starting-a-food-co-op-year-1,,quaran.to
+gmays,3,33153350,18,1665419214,Scientists Are Finding Fungi in Cancerous Tumors,story,https://www.smithsonianmag.com/smart-news/scientists-are-finding-fungi-in-cancerous-tumors-180980881/,,smithsonianmag.com
+benchtobedside,174,33147680,221,1665374887,Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death,story,https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/,,statnews.com
+shantanu_sharma,2,33149706,17,1665397297,Nobel Prize in Economic Sciences 2022 on how society deals with financial crises,story,https://www.nobelprize.org/prizes/economic-sciences/2022/press-release/,,nobelprize.org
+rodrigo975,3,33152788,15,1665416425,La justice interdit à Reflets.info de publier des articles à propos d’Altice,story,https://www.lemonde.fr/economie/article/2022/10/07/la-justice-interdit-a-reflets-info-de-publier-de-nouveaux-articles-a-propos-d-altice-tires-de-donnees-piratees_6144794_3234.html,,lemonde.fr
+open-source-ux,8,33150862,25,1665407207,UK risks scientists leave Britain to avoid losing EU research funding,story,https://news.sky.com/story/uk-at-risk-of-brain-drain-as-scientists-leave-britain-to-avoid-losing-eu-research-funding-12716479,,news.sky.com
+cheinyeanlim,48,33145898,92,1665354352,Recent discoveries that have changed how we think about human origins,story,https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/,,singularityhub.com
+andsoitis,118,33127810,268,1665182688,Patients can now access all their health records digitally,story,https://www.statnews.com/2022/10/06/health-data-information-blocking-records/,,statnews.com
+Brajeshwar,56,33140927,66,1665323066,New research suggests eating early and within a 10-hour window is healthier,story,https://medicalxpress.com/news/2022-10-dinner-pm-early-hour-window.html,,medicalxpress.com
+lebovic,269,33122656,291,1665156530,AWS doesn't make sense for scientific computing,story,https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/,,noahlebovic.com
+LinuxBender,77,33133477,104,1665245351,Do fungi lurking inside cancers speed their growth?,story,https://www.nature.com/articles/d41586-022-03074-z,,nature.com
+giuliomagnifico,8,33124191,26,1665162814,A Drum Machine with Congenital Heart Disease,story,https://www.heartbeatdrummachine.com/,,heartbeatdrummachine.com
 WithinReason,97,33109633,379,1665070696,A Universal Cancer Treatment?,story,https://nautil.us/a-universal-cancer-treatment-241231/,,nautil.us
-pseudolus,177,33132061,139,1665235259,Are hospitals overtreating patients nearing the end?,story,https://thewalrus.ca/the-death-dilemma-are-hospitals-overtreating-patients-nearing-the-end/,,thewalrus.ca
-shantanu_sharma,111,33096580,510,1664982755,Discovering faster matrix multiplication algorithms with reinforcement learning,story,https://www.nature.com/articles/s41586-022-05172-4,,nature.com
-pseudolus,1,33137703,18,1665280929,New report paints gloomy picture of the world’s nuclear industry,story,https://thebulletin.org/2022/10/new-report-paints-gloomy-picture-of-the-worlds-nuclear-industry/,,thebulletin.org
+barry-cotter,12,33138349,14,1665290928,Thiel Is Too Optimistic About Scientific Achievement Since the 70s,story,https://scholars-stage.org/has-technological-progress-stalled/,,scholars-stage.org
+shantanu_sharma,111,33096580,512,1664982755,Discovering faster matrix multiplication algorithms with reinforcement learning,story,https://www.nature.com/articles/s41586-022-05172-4,,nature.com
+pseudolus,179,33132061,139,1665235259,Are hospitals overtreating patients nearing the end?,story,https://thewalrus.ca/the-death-dilemma-are-hospitals-overtreating-patients-nearing-the-end/,,thewalrus.ca
+jhshah,67,33149601,55,1665396183,"Nobel Prize in Economics Awarded to Ben Bernanke, Douglas Diamond, Philip Dybvig",story,https://www.nobelprize.org/prizes/economic-sciences/2022/summary/,,nobelprize.org
 respinal,48,33114869,109,1665094825,Electrochemical potential enables dormant spores to integrate enviro signals,story,https://www.science.org/doi/10.1126/science.abl7484,,science.org
 samclemens,56,33043883,87,1664598658,Early Cormac McCarthy Interviews Rediscovered,story,https://www.nytimes.com/2022/09/30/books/early-cormac-mccarthy-interviews-rediscovered.html,,nytimes.com
+vichu,12,33145525,21,1665351083,Yankee Candle reviews indicate that Covid is about surge again,story,https://twitter.com/datadrivenmd/status/1578982975470858240,,twitter.com
 hhs,388,33097663,166,1664987563,Many scientists see fusion as the future of energy,story,https://www.nationalgeographic.co.uk/science-and-technology/2022/10/many-scientists-see-fusion-as-the-future-of-energy-and-theyre-betting-big,,nationalgeographic.co.uk
-solarist,54,33093278,166,1664963305,"Nobel Prize in Chemistry Awarded to Bertozzi, Meldal, and Sharpless",story,https://www.nobelprize.org/prizes/chemistry/2022/summary/,,nobelprize.org
-V-eHGsd_,32,33127880,48,1665183009,EPA proposes deeming leaded (aviation) fuel a danger to public health,story,https://thehill.com/policy/energy-environment/3677980-epa-proposes-deeming-lead-in-aviation-fuel-a-danger-to-public-health/,,thehill.com
-dangle1,110,33102639,107,1665013486,Air Force Plans New Blended Wing Body Cargo/Tanker Aircraft by 2027,story,https://www.airandspaceforces.com/air-force-plans-new-blended-wing-body-cargo-tanker-aircraft-by-2027/,,airandspaceforces.com
-kungfudoi,127,33090205,159,1664935841,Study: Time-Restricted Eating Improves Cardiovascular Health for Firefighters,story,https://today.ucsd.edu/story/study-time-restricted-eating-improves-cardiovascular-health-for-firefighters,,today.ucsd.edu
-troops_h8r,80,33115725,50,1665100414,Why Don’t We Use Chemical Weapons Anymore?,story,https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/,,acoup.blog
