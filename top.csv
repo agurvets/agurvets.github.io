@@ -1,13 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-nateb2022,28,33181029,183,1665599353,Tinyphysicsengine: Minimalist 3D C99 single-header physics engine,story,https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master,,codeberg.org
-DkNiemand0,5,33186046,24,1665624190,The Degradation Drug,story,https://theamericanscholar.org/the-degradation-drug/,,theamericanscholar.org
-prostoalex,33,33186524,64,1665628991,"Nearly half of Covid patients haven’t fully recovered months later, study finds",story,https://www.nytimes.com/2022/10/12/health/long-covid.html,,nytimes.com
-walterbell,4,33184821,15,1665615236,Rapid nasal saline irrigation to reduce severity in high-risk Covid+ outpatients,story,https://journals.sagepub.com/doi/10.1177/01455613221123737,,journals.sagepub.com
+DkNiemand0,15,33186046,35,1665624190,The Degradation Drug,story,https://theamericanscholar.org/the-degradation-drug/,,theamericanscholar.org
+prostoalex,5,33186529,14,1665629021,Researchers plant trees in an experiment to lower rates of heart disease (2021),story,https://www.discovermagazine.com/health/can-trees-heal-hearts,,discovermagazine.com
+nateb2022,28,33181029,193,1665599353,Tinyphysicsengine: Minimalist 3D C99 single-header physics engine,story,https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master,,codeberg.org
+benbreen,4,33159549,13,1665462640,Researcher discovers another astronomy book written by Galileo Galilei,story,https://www.medievalists.net/2022/10/researcher-discovers-another-astronomy-book-written-by-galileo-galilei/,,medievalists.net
+prostoalex,71,33186524,80,1665628991,"Nearly half of Covid patients haven’t fully recovered months later, study finds",story,https://www.nytimes.com/2022/10/12/health/long-covid.html,,nytimes.com
+walterbell,4,33184821,16,1665615236,Rapid nasal saline irrigation to reduce severity in high-risk Covid+ outpatients,story,https://journals.sagepub.com/doi/10.1177/01455613221123737,,journals.sagepub.com
 diodorus,80,33145297,103,1665349224,Archaeologists hail ‘dream discovery’ as sarcophagus is unearthed near Cairo,story,https://www.theguardian.com/science/2022/oct/02/egypt-saqqara-ptah-em-wia-archaeologists-discover-sarcophagus-cairo,,theguardian.com
 ZacnyLos,6,33180934,28,1665599005,Dutch hospital ZGT achieves digital sovereignty with Nextcloud,story,https://nextcloud.com/blog/dutch-hospital-zgt-achieves-digital-sovereignty-with-nextcloud/,,nextcloud.com
 rmason,29,33172326,89,1665544345,The doctor who convinced Mark Cuban to sell drugs,story,https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/,,dmagazine.com
 qrush,176,33150642,232,1665405955,Starting a food co-op: Year 1,story,https://quaran.to/starting-a-food-co-op-year-1,,quaran.to
-gmays,61,33153350,167,1665419214,Scientists are finding fungi in cancerous tumors,story,https://www.smithsonianmag.com/smart-news/scientists-are-finding-fungi-in-cancerous-tumors-180980881/,,smithsonianmag.com
+gmays,61,33153350,168,1665419214,Scientists are finding fungi in cancerous tumors,story,https://www.smithsonianmag.com/smart-news/scientists-are-finding-fungi-in-cancerous-tumors-180980881/,,smithsonianmag.com
 benchtobedside,195,33147680,230,1665374887,Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death,story,https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/,,statnews.com
 pimterry,7,33152298,40,1665414447,I miss del.icio.us – the web’s discovery-engine and link classifier,story,https://www.ctrl.blog/entry/delicious-bookmarks.html,,ctrl.blog
 glitcher,26,33168402,50,1665517977,Comedians sue over drug search program at Atlanta airport,story,https://apnews.com/article/police-lawsuits-race-and-ethnicity-77e938ed070a74947a83c89d0cf9f426,,apnews.com
