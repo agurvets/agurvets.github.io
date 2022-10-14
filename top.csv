@@ -1,15 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-jmartens,64,33194974,156,1665687325,Discovering Azure's unannounced breaking change with Cosmos DB,story,https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/,,metrist.io
-Bostonian,14,33194773,65,1665686295,A modern Fortran scientific programming ecosystem,story,https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html,,degenerateconic.com
-tony-allan,55,33176026,215,1665578275,"P5.js – A library to make coding accessible for artists, designers, educators",story,https://p5js.org/,,p5js.org
-DkNiemand0,70,33186046,169,1665624190,The Degradation Drug,story,https://theamericanscholar.org/the-degradation-drug/,,theamericanscholar.org
-nateb2022,55,33181029,242,1665599353,Tinyphysicsengine: Minimalist 3D C99 single-header physics engine,story,https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master,,codeberg.org
-prostoalex,9,33186529,37,1665629021,Researchers plant trees in an experiment to lower rates of heart disease (2021),story,https://www.discovermagazine.com/health/can-trees-heal-hearts,,discovermagazine.com
-open-source-ux,16,33194990,20,1665687387,England: Waiting list for hospital treatment hits a record high of 7 million,story,https://www.bbc.co.uk/news/health-63219147,,bbc.co.uk
-rmason,29,33172326,93,1665544345,The doctor who convinced Mark Cuban to sell drugs,story,https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/,,dmagazine.com
+Jerry2,16,33208164,26,1665777551,A Chinese American gangster transformed money laundering for drug cartels,story,https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering,,propublica.org
+ISL,120,33203363,158,1665754844,TikTok has an open computational chemistry position,story,https://careers.tiktok.com/position/7140410179162196238/detail?spread=G1DWUPV,,careers.tiktok.com
+Caiero,76,33170262,119,1665528462,Two recent books by historians explore the crisis in biological psychiatry,story,https://bostonreview.net/articles/mental-illness-is-not-in-your-head/,,bostonreview.net
+pain_perdu,3,33203326,51,1665754605,"Data leak exposes Mexico military corruption, incl. collusion with drug cartels",story,https://www.npr.org/2022/10/14/1129001666/data-leak-exposes-mexico-military-corruption-including-collusion-with-drug-carte,,npr.org
+jmartens,98,33194974,181,1665687325,Discovering Azure's unannounced breaking change with Cosmos DB,story,https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/,,metrist.io
+tony-allan,56,33176026,236,1665578275,"P5.js – A library to make coding accessible for artists, designers, educators",story,https://p5js.org/,,p5js.org
+Bostonian,30,33194773,107,1665686295,A modern Fortran scientific programming ecosystem,story,https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html,,degenerateconic.com
+nateb2022,54,33181029,248,1665599353,Tinyphysicsengine: Minimalist 3D C99 single-header physics engine,story,https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master,,codeberg.org
+DkNiemand0,71,33186046,173,1665624190,The Degradation Drug,story,https://theamericanscholar.org/the-degradation-drug/,,theamericanscholar.org
+stoeckley,11,33202620,15,1665750608,A global epidemic of cancer among people younger than 50 could be emerging,story,https://www.cnn.com/2022/10/14/health/early-onset-cancer-increase/index.html,,cnn.com
+prostoalex,9,33186529,38,1665629021,Researchers plant trees in an experiment to lower rates of heart disease (2021),story,https://www.discovermagazine.com/health/can-trees-heal-hearts,,discovermagazine.com
+0xy,6,33201031,12,1665736306,"Australian Federal Police hacked, classified documents on drug cartels stolen",story,https://www.abc.net.au/news/2022-10-14/afp-data-leak-hackers-expose-drug-cartel-information/101535312,,abc.net.au
+open-source-ux,17,33194990,25,1665687387,England: Waiting list for hospital treatment hits a record high of 7 million,story,https://www.bbc.co.uk/news/health-63219147,,bbc.co.uk
+rmason,29,33172326,94,1665544345,The doctor who convinced Mark Cuban to sell drugs,story,https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/,,dmagazine.com
 walterbell,7,33184821,21,1665615236,Rapid nasal saline irrigation to reduce severity in high-risk Covid+ outpatients,story,https://journals.sagepub.com/doi/10.1177/01455613221123737,,journals.sagepub.com
 ZacnyLos,6,33180934,31,1665599005,Dutch hospital ZGT achieves digital sovereignty with Nextcloud,story,https://nextcloud.com/blog/dutch-hospital-zgt-achieves-digital-sovereignty-with-nextcloud/,,nextcloud.com
 glitcher,28,33168402,51,1665517977,Comedians sue over drug search program at Atlanta airport,story,https://apnews.com/article/police-lawsuits-race-and-ethnicity-77e938ed070a74947a83c89d0cf9f426,,apnews.com
-prostoalex,127,33186524,104,1665628991,"Nearly half of Covid patients haven’t fully recovered months later, study finds",story,https://www.nytimes.com/2022/10/12/health/long-covid.html,,nytimes.com
-Markoff,3,33165871,18,1665508099,Covid-19:Antiviral purchased by UK gov does not lower risk of hospital admission,story,https://www.bmj.com/content/379/bmj.o2441,,bmj.com
-pseudolus,0,33170553,15,1665530465,"Supersmeller Can Detect Parkinson’s, Leading to Experimental Test for Illness",story,https://www.scientificamerican.com/article/a-supersmeller-can-detect-the-scent-of-parkinsons-leading-to-an-experimental-test-for-the-illness/,,scientificamerican.com
