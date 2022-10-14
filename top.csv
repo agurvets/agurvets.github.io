@@ -1,21 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-DkNiemand0,15,33186046,35,1665624190,The Degradation Drug,story,https://theamericanscholar.org/the-degradation-drug/,,theamericanscholar.org
-prostoalex,5,33186529,14,1665629021,Researchers plant trees in an experiment to lower rates of heart disease (2021),story,https://www.discovermagazine.com/health/can-trees-heal-hearts,,discovermagazine.com
-nateb2022,28,33181029,193,1665599353,Tinyphysicsengine: Minimalist 3D C99 single-header physics engine,story,https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master,,codeberg.org
-benbreen,4,33159549,13,1665462640,Researcher discovers another astronomy book written by Galileo Galilei,story,https://www.medievalists.net/2022/10/researcher-discovers-another-astronomy-book-written-by-galileo-galilei/,,medievalists.net
-prostoalex,71,33186524,80,1665628991,"Nearly half of Covid patients haven’t fully recovered months later, study finds",story,https://www.nytimes.com/2022/10/12/health/long-covid.html,,nytimes.com
-walterbell,4,33184821,16,1665615236,Rapid nasal saline irrigation to reduce severity in high-risk Covid+ outpatients,story,https://journals.sagepub.com/doi/10.1177/01455613221123737,,journals.sagepub.com
-diodorus,80,33145297,103,1665349224,Archaeologists hail ‘dream discovery’ as sarcophagus is unearthed near Cairo,story,https://www.theguardian.com/science/2022/oct/02/egypt-saqqara-ptah-em-wia-archaeologists-discover-sarcophagus-cairo,,theguardian.com
-ZacnyLos,6,33180934,28,1665599005,Dutch hospital ZGT achieves digital sovereignty with Nextcloud,story,https://nextcloud.com/blog/dutch-hospital-zgt-achieves-digital-sovereignty-with-nextcloud/,,nextcloud.com
-rmason,29,33172326,89,1665544345,The doctor who convinced Mark Cuban to sell drugs,story,https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/,,dmagazine.com
-qrush,176,33150642,232,1665405955,Starting a food co-op: Year 1,story,https://quaran.to/starting-a-food-co-op-year-1,,quaran.to
-gmays,61,33153350,168,1665419214,Scientists are finding fungi in cancerous tumors,story,https://www.smithsonianmag.com/smart-news/scientists-are-finding-fungi-in-cancerous-tumors-180980881/,,smithsonianmag.com
-benchtobedside,195,33147680,230,1665374887,Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death,story,https://www.statnews.com/2022/10/09/in-gold-standard-trial-colonoscopy-fails-to-reduce-rate-of-cancer-deaths/,,statnews.com
-pimterry,7,33152298,40,1665414447,I miss del.icio.us – the web’s discovery-engine and link classifier,story,https://www.ctrl.blog/entry/delicious-bookmarks.html,,ctrl.blog
-glitcher,26,33168402,50,1665517977,Comedians sue over drug search program at Atlanta airport,story,https://apnews.com/article/police-lawsuits-race-and-ethnicity-77e938ed070a74947a83c89d0cf9f426,,apnews.com
-9wzYQbTYsAIc,5,33154486,27,1665424830,Software Engineering Body of Knowledge,story,https://codedocs.org/what-is/software-engineering-body-of-knowledge,,codedocs.org
-pseudolus,0,33170553,15,1665530465,"Supersmeller Can Detect Parkinson’s, Leading to Experimental Test for Illness",story,https://www.scientificamerican.com/article/a-supersmeller-can-detect-the-scent-of-parkinsons-leading-to-an-experimental-test-for-the-illness/,,scientificamerican.com
+jmartens,50,33194974,142,1665687325,Discovering Azure's unannounced breaking change with Cosmos DB,story,https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/,,metrist.io
+Bostonian,10,33194773,45,1665686295,A modern Fortran scientific programming ecosystem,story,https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html,,degenerateconic.com
+tony-allan,54,33176026,207,1665578275,"P5.js – A library to make coding accessible for artists, designers, educators",story,https://p5js.org/,,p5js.org
+DkNiemand0,69,33186046,166,1665624190,The Degradation Drug,story,https://theamericanscholar.org/the-degradation-drug/,,theamericanscholar.org
+nateb2022,55,33181029,239,1665599353,Tinyphysicsengine: Minimalist 3D C99 single-header physics engine,story,https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master,,codeberg.org
+prostoalex,9,33186529,37,1665629021,Researchers plant trees in an experiment to lower rates of heart disease (2021),story,https://www.discovermagazine.com/health/can-trees-heal-hearts,,discovermagazine.com
+open-source-ux,16,33194990,17,1665687387,England: Waiting list for hospital treatment hits a record high of 7 million,story,https://www.bbc.co.uk/news/health-63219147,,bbc.co.uk
+rmason,29,33172326,93,1665544345,The doctor who convinced Mark Cuban to sell drugs,story,https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/,,dmagazine.com
+walterbell,7,33184821,21,1665615236,Rapid nasal saline irrigation to reduce severity in high-risk Covid+ outpatients,story,https://journals.sagepub.com/doi/10.1177/01455613221123737,,journals.sagepub.com
+ZacnyLos,6,33180934,31,1665599005,Dutch hospital ZGT achieves digital sovereignty with Nextcloud,story,https://nextcloud.com/blog/dutch-hospital-zgt-achieves-digital-sovereignty-with-nextcloud/,,nextcloud.com
+prostoalex,123,33186524,104,1665628991,"Nearly half of Covid patients haven’t fully recovered months later, study finds",story,https://www.nytimes.com/2022/10/12/health/long-covid.html,,nytimes.com
+glitcher,28,33168402,51,1665517977,Comedians sue over drug search program at Atlanta airport,story,https://apnews.com/article/police-lawsuits-race-and-ethnicity-77e938ed070a74947a83c89d0cf9f426,,apnews.com
 Markoff,3,33165871,18,1665508099,Covid-19:Antiviral purchased by UK gov does not lower risk of hospital admission,story,https://www.bmj.com/content/379/bmj.o2441,,bmj.com
-CompactNotice,16,33175215,20,1665572534,"Shanghai Quietly Shuts Down Schools, Bars, Gyms as Covid Returns",story,https://www.bloomberg.com/news/articles/2022-10-12/shanghai-quietly-shuts-down-schools-gyms-bars-as-covid-returns,,bloomberg.com
-cheinyeanlim,55,33145898,96,1665354352,Recent discoveries that have changed how we think about human origins,story,https://singularityhub.com/2022/10/09/six-recent-discoveries-that-have-changed-how-we-think-about-human-origins/,,singularityhub.com
-LinuxBender,80,33133477,109,1665245351,Do fungi lurking inside cancers speed their growth?,story,https://www.nature.com/articles/d41586-022-03074-z,,nature.com
+pseudolus,0,33170553,15,1665530465,"Supersmeller Can Detect Parkinson’s, Leading to Experimental Test for Illness",story,https://www.scientificamerican.com/article/a-supersmeller-can-detect-the-scent-of-parkinsons-leading-to-an-experimental-test-for-the-illness/,,scientificamerican.com
