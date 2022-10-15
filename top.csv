@@ -1,18 +1,24 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Jerry2,16,33208164,26,1665777551,A Chinese American gangster transformed money laundering for drug cartels,story,https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering,,propublica.org
-ISL,120,33203363,158,1665754844,TikTok has an open computational chemistry position,story,https://careers.tiktok.com/position/7140410179162196238/detail?spread=G1DWUPV,,careers.tiktok.com
-Caiero,76,33170262,119,1665528462,Two recent books by historians explore the crisis in biological psychiatry,story,https://bostonreview.net/articles/mental-illness-is-not-in-your-head/,,bostonreview.net
-pain_perdu,3,33203326,51,1665754605,"Data leak exposes Mexico military corruption, incl. collusion with drug cartels",story,https://www.npr.org/2022/10/14/1129001666/data-leak-exposes-mexico-military-corruption-including-collusion-with-drug-carte,,npr.org
-jmartens,98,33194974,181,1665687325,Discovering Azure's unannounced breaking change with Cosmos DB,story,https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/,,metrist.io
-tony-allan,56,33176026,236,1665578275,"P5.js – A library to make coding accessible for artists, designers, educators",story,https://p5js.org/,,p5js.org
-Bostonian,30,33194773,107,1665686295,A modern Fortran scientific programming ecosystem,story,https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html,,degenerateconic.com
-nateb2022,54,33181029,248,1665599353,Tinyphysicsengine: Minimalist 3D C99 single-header physics engine,story,https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master,,codeberg.org
-DkNiemand0,71,33186046,173,1665624190,The Degradation Drug,story,https://theamericanscholar.org/the-degradation-drug/,,theamericanscholar.org
-stoeckley,11,33202620,15,1665750608,A global epidemic of cancer among people younger than 50 could be emerging,story,https://www.cnn.com/2022/10/14/health/early-onset-cancer-increase/index.html,,cnn.com
-prostoalex,9,33186529,38,1665629021,Researchers plant trees in an experiment to lower rates of heart disease (2021),story,https://www.discovermagazine.com/health/can-trees-heal-hearts,,discovermagazine.com
-0xy,6,33201031,12,1665736306,"Australian Federal Police hacked, classified documents on drug cartels stolen",story,https://www.abc.net.au/news/2022-10-14/afp-data-leak-hackers-expose-drug-cartel-information/101535312,,abc.net.au
-open-source-ux,17,33194990,25,1665687387,England: Waiting list for hospital treatment hits a record high of 7 million,story,https://www.bbc.co.uk/news/health-63219147,,bbc.co.uk
+Brajeshwar,88,33213317,132,1665827494,Mud boosts the immune system,story,https://www.bbc.com/future/article/20220929-how-outdoor-play-boosts-kids-immune-systems,,bbc.com
+gmays,10,33206364,32,1665768025,What happens when you donate your body to science,story,https://www.technologyreview.com/2022/10/12/1060924/donating-your-body-science-body-farm/,,technologyreview.com
+Vaslo,57,33214260,95,1665837588,Man plays his saxophone through 9-hour complex brain surgery to remove tumor,story,https://www.cbsnews.com/news/saxophone-surgery-brain-tumor-italy-awake-neurosurgery/,,cbsnews.com
+Caiero,105,33170262,138,1665528462,Two recent books by historians explore the crisis in biological psychiatry,story,https://bostonreview.net/articles/mental-illness-is-not-in-your-head/,,bostonreview.net
+secondary,93,33208494,117,1665779596,Psychiatry Wars: a lawsuit that put psychoanalysis on trial,story,https://www.theguardian.com/society/2022/oct/11/psychiatry-wars-psychoanalysis-antidepressants-rachel-aviv,,theguardian.com
+tony-allan,57,33176026,238,1665578275,"P5.js – A library to make coding accessible for artists, designers, educators",story,https://p5js.org/,,p5js.org
+Jerry2,172,33208164,181,1665777551,A Chinese American gangster transformed money laundering for drug cartels,story,https://www.propublica.org/article/china-cartels-xizhi-li-money-laundering,,propublica.org
+jmartens,106,33194974,183,1665687325,Discovering Azure's unannounced breaking change with Cosmos DB,story,https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/,,metrist.io
+pain_perdu,5,33203326,74,1665754605,"Data leak exposes Mexico military corruption, incl. collusion with drug cartels",story,https://www.npr.org/2022/10/14/1129001666/data-leak-exposes-mexico-military-corruption-including-collusion-with-drug-carte,,npr.org
+ISL,132,33203363,183,1665754844,TikTok has an open computational chemistry position,story,https://careers.tiktok.com/position/7140410179162196238/detail?spread=G1DWUPV,,careers.tiktok.com
+thebetatester,0,33210852,17,1665798695,Man plays his saxophone through 9-hour brain surgery,story,https://www.cbsnews.com/news/saxophone-surgery-brain-tumor-italy-awake-neurosurgery/,,cbsnews.com
+Bostonian,31,33194773,113,1665686295,A modern Fortran scientific programming ecosystem,story,https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html,,degenerateconic.com
+nateb2022,55,33181029,249,1665599353,Tinyphysicsengine: Minimalist 3D C99 single-header physics engine,story,https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master,,codeberg.org
+DkNiemand0,71,33186046,174,1665624190,The Degradation Drug,story,https://theamericanscholar.org/the-degradation-drug/,,theamericanscholar.org
+prostoalex,9,33186529,39,1665629021,Researchers plant trees in an experiment to lower rates of heart disease (2021),story,https://www.discovermagazine.com/health/can-trees-heal-hearts,,discovermagazine.com
+samizdis,0,33206658,13,1665769652,Meta ending support for Instant Articles,story,https://www.axios.com/2022/10/14/meta-facebook-ending-support-instant-articles,,axios.com
 rmason,29,33172326,94,1665544345,The doctor who convinced Mark Cuban to sell drugs,story,https://www.dmagazine.com/publications/d-magazine/2022/october/mark-cuban-cost-plus-drugs-alex-oshmyansky/,,dmagazine.com
+open-source-ux,18,33194990,25,1665687387,England: Waiting list for hospital treatment hits a record high of 7 million,story,https://www.bbc.co.uk/news/health-63219147,,bbc.co.uk
+stoeckley,11,33202620,15,1665750608,A global epidemic of cancer among people younger than 50 could be emerging,story,https://www.cnn.com/2022/10/14/health/early-onset-cancer-increase/index.html,,cnn.com
+jelliclesfarm,2,33210405,11,1665794054,Clever Crow Learns to Meow After Watching Woman Give Food to Cats,story,https://www.thedodo.com/daily-dodo/clever-crow-learns-to-meow,,thedodo.com
+paulpauper,12,33210376,17,1665793656,Scientists Claim Overeating Is Not the Primary Cause of Obesity,story,https://scitechdaily.com/scientists-claim-overeating-is-not-the-primary-cause-of-obesity-point-to-more-effective-weight-loss-strategies/,,scitechdaily.com
+0xy,6,33201031,12,1665736306,"Australian Federal Police hacked, classified documents on drug cartels stolen",story,https://www.abc.net.au/news/2022-10-14/afp-data-leak-hackers-expose-drug-cartel-information/101535312,,abc.net.au
 walterbell,7,33184821,21,1665615236,Rapid nasal saline irrigation to reduce severity in high-risk Covid+ outpatients,story,https://journals.sagepub.com/doi/10.1177/01455613221123737,,journals.sagepub.com
-ZacnyLos,6,33180934,31,1665599005,Dutch hospital ZGT achieves digital sovereignty with Nextcloud,story,https://nextcloud.com/blog/dutch-hospital-zgt-achieves-digital-sovereignty-with-nextcloud/,,nextcloud.com
-glitcher,28,33168402,51,1665517977,Comedians sue over drug search program at Atlanta airport,story,https://apnews.com/article/police-lawsuits-race-and-ethnicity-77e938ed070a74947a83c89d0cf9f426,,apnews.com
