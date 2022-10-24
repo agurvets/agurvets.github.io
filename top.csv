@@ -1,24 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-rq1,14,33306222,22,1666525813,"Harvard studies on infant monkeys draw fire, split scientists",story,https://www.science.org/content/article/harvard-studies-infant-monkeys-draw-fire-split-scientists,,science.org
-drdee,32,33279359,73,1666293540,The Mysterious Patient in Room 23: The Hermit Baroness,story,https://www.nytimes.com/2022/10/20/nyregion/baroness-birgit-thyssen-bornemisza.html,,nytimes.com
-ndementev,32,33297641,113,1666440846,Show HN: Open source data discovery and observability platform,story,https://opendatadiscovery.org/,,opendatadiscovery.org
-arkj,150,33291143,227,1666375663,AI models that predict disease are not as accurate as reports might suggest,story,https://www.scientificamerican.com/article/ai-in-medicine-is-overhyped/,,scientificamerican.com
-colinprince,235,33278698,405,1666290393,Another scientific body has debunked bitemark analysis,story,https://radleybalko.substack.com/p/yet-another-scientific-body-has-debunked,,radleybalko.substack.com
-pseudolus,280,33286486,181,1666347857,Experiments spell doom for physical-collapse explanation of quantum weirdness,story,https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/,,quantamagazine.org
+falak-sher,19,33314220,46,1666600475,Show HN: Share and Discover Side Projects,story,https://sideprojects.fazier.com/,,sideprojects.fazier.com
+voisin,157,33310076,144,1666557773,Study: Electroshock therapy more successful for depression than ketamine,story,https://today.uconn.edu/2022/10/electroshock-therapy-more-successful-for-depression-than-ketamine/,,today.uconn.edu
+arkj,154,33291143,227,1666375663,AI models that predict disease are not as accurate as reports might suggest,story,https://www.scientificamerican.com/article/ai-in-medicine-is-overhyped/,,scientificamerican.com
+ndementev,35,33297641,121,1666440846,Show HN: Open source data discovery and observability platform,story,https://opendatadiscovery.org/,,opendatadiscovery.org
+pseudolus,286,33286486,182,1666347857,Experiments spell doom for physical-collapse explanation of quantum weirdness,story,https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/,,quantamagazine.org
+fortran77,106,33287728,177,1666358571,Texas sues Google for collecting biometric data without consent,story,https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html,,nytimes.com
+rq1,35,33306222,31,1666525813,"Harvard studies on infant monkeys draw fire, split scientists",story,https://www.science.org/content/article/harvard-studies-infant-monkeys-draw-fire-split-scientists,,science.org
+doener,1,33313935,14,1666597328,Mild Covid Linked to Brain Damage: What That Means for You,story,https://www.cognitivefxusa.com/blog/mild-covid-linked-to-brain-damage,,cognitivefxusa.com
 mmq,0,33286680,12,1666349718,A Nobel Laureate Revisits the Great War’s African Front,story,https://www.newyorker.com/magazine/2022/10/24/a-nobel-laureate-revisits-the-great-wars-african-front,,newyorker.com
-rustoo,7,33298690,43,1666449636,"Toxic workplaces can harm your physical and mental health, Surgeon General says",story,https://www.cbsnews.com/news/toxic-workplaces-are-bad-for-your-physical-health-surgeon-general/,,cbsnews.com
-fortran77,106,33287728,176,1666358571,Texas sues Google for collecting biometric data without consent,story,https://www.nytimes.com/2022/10/20/technology/texas-google-privacy-lawsuit.html,,nytimes.com
-LeoPanthera,105,33269784,198,1666228525,The Mystery of 355/113 (2010),story,http://davidbau.com/archives/2010/03/14/the_mystery_of_355113.html,,davidbau.com
-yamrzou,163,33285227,77,1666334623,What did Mary know? A thought experiment about consciousness (2013),story,https://philosophynow.org/issues/99/What_Did_Mary_Know,,philosophynow.org
-cowboynwf,2,33304100,13,1666492952,XBB is a variant of omicron and has already shown to be immune evasive,story,https://www.nbcboston.com/news/local/we-need-to-be-prepared-for-this-covid-nightmare-variant-spreading-already-in-us/2868326/,,nbcboston.com
-nyc111,20,33261726,33,1666185655,Quantum Monism Could Save the Soul of Physics,story,https://blogs.scientificamerican.com/observations/quantum-monism-could-save-the-soul-of-physics/,,blogs.scientificamerican.com
-prostoalex,204,33278633,379,1666290118,"As Covid hit, Washington officials traded stocks with exquisite timing",story,https://www.wsj.com/articles/covid-washington-officials-stocks-trading-markets-stimulus-11666192404,,wsj.com
+rustoo,7,33298690,44,1666449636,"Toxic workplaces can harm your physical and mental health, Surgeon General says",story,https://www.cbsnews.com/news/toxic-workplaces-are-bad-for-your-physical-health-surgeon-general/,,cbsnews.com
+yamrzou,165,33285227,77,1666334623,What did Mary know? A thought experiment about consciousness (2013),story,https://philosophynow.org/issues/99/What_Did_Mary_Know,,philosophynow.org
+skilled,34,33308951,34,1666548836,Pfizer plans to sell its Covid vaccine at a 10k% markup,story,https://qz.com/pfizer-plans-to-sell-its-covid-vaccine-at-a-10-000-mar-1849688359,,qz.com
+Timja,14,33313507,16,1666592583,Less than 20% of Covid-19 patients are symptom free a year after recovery,story,https://pubmed.ncbi.nlm.nih.gov/33993321/,,pubmed.ncbi.nlm.nih.gov
+toombowoombo,37,33316373,55,1666618339,"Ask HN: HN, but for Scientists?",story,,Are there platforms&#x2F;communities such as HN but mostly with scientists instead of CS&#x2F;engineering people?,
+Trouble_007,15,33292615,25,1666383714,A new illicit drug has been discovered by Australian chemists,story,https://theconversation.com/an-entirely-new-illicit-drug-has-been-discovered-by-australian-chemists-heres-how-they-did-it-192855,,theconversation.com
 bubblehack3r,6,33298999,13,1666452013,Scientists Create AI-Powered Laser Turret That Kills Cockroaches,story,https://www.vice.com/en/article/dy743w/scientists-create-ai-powered-laser-turret-that-kills-cockroaches,,vice.com
-cebert,3,33268797,18,1666219475,The Group of Scientists That Keeps Lenin’s 90-Year-Old Corpse Fresh,story,https://www.smithsonianmag.com/smart-news/group-scientists-keeps-lenins-90-year-old-corpse-fresh-180955151/,,smithsonianmag.com
-f1shy,0,33299829,11,1666456806,What Every Computer Scientist Should Know About Floating-Point Arithmetic,story,https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html,,oracle.com
-Trouble_007,15,33292615,24,1666383714,A new illicit drug has been discovered by Australian chemists,story,https://theconversation.com/an-entirely-new-illicit-drug-has-been-discovered-by-australian-chemists-heres-how-they-did-it-192855,,theconversation.com
-bubblehack3r,2,33276498,46,1666280927,Texas sues Google for capturing biometric data of millions without consent,story,https://www.reuters.com/legal/texas-sues-google-allegedly-capturing-biometric-data-millions-without-consent-2022-10-20/,,reuters.com
-teleforce,1,33267547,14,1666211315,The Scientist and Engineer's Guide to Digital Signal Processing,story,https://www.analog.com/en/education/education-library/scientist_engineers_guide.html,,analog.com
-dustedcodes,39,33257819,100,1666154987,Five hours' sleep is tipping point for bad health,story,https://www.bbc.co.uk/news/health-63284305,,bbc.co.uk
-adminu,1,33287003,19,1666352868,"Many cosmetics contain hidden, potentially dangerous ‘forever chemicals’ [2021]",story,https://www.sciencenews.org/article/cosmetics-makeup-pfas-chemicals,,sciencenews.org
-Metacelsus,2,33276677,14,1666281615,US weighs crackdown on experiments that could make viruses more dangerous,story,https://www.science.org/content/article/u-s-weighs-crackdown-experiments-could-make-viruses-more-dangerous,,science.org
