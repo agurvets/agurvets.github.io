@@ -1,16 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Tozen,15,33401185,30,1667181459,VeinViewer technology helps physicians and nurses see a patient's veins [video],story,https://www.youtube.com/watch?v=-ARKVmkQWTY,,youtube.com
-thunderbong,14,33399632,74,1667168964,PwshPaint: A pixel art editor for the terminal in PowerShell,story,https://github.com/ShaunLawrie/PwshPaint,,github.com
-mfn,57,33400726,116,1667177214,Why is symmetry so important in particle physics?,story,https://mfaizan.github.io/2022/10/02/symmetry.html,,mfaizan.github.io
-BerislavLopac,14,33405257,35,1667222078,Wikipedia Has Cancer,story,https://en.wikipedia.org/wiki/User:Guy_Macon/Wikipedia_has_Cancer,,en.wikipedia.org
-guiambros,2,33396430,37,1667150314,Sketch Diffusion – Live Painting with Stable Diffusion on Meta Quest Pro,story,https://www.t-da.io/labs,,t-da.io
-indigodaddy,26,33398334,57,1667161882,PsychOS Linux – 32-bit distro for older computers,story,https://psychoslinux.gitlab.io/,,psychoslinux.gitlab.io
+clouddrover,31,33416026,31,1667268080,The mysterious Viking runes found in a landlocked US state,story,https://www.bbc.com/travel/article/20221030-the-mysterious-viking-runes-found-in-a-landlocked-us-state,,bbc.com
+Amorymeltzer,68,33410609,185,1667241797,The McMurdo Wastewater Treatment Plant,story,https://brr.fyi/posts/wastewater-plant,,brr.fyi
+pseudolus,2,33383938,15,1667050681,"AI isn’t choosing our artistic future, we are",story,https://thebulletin.org/2022/10/ai-isnt-choosing-our-artistic-future-we-are/,,thebulletin.org
+thunderbong,14,33399632,76,1667168964,PwshPaint: A pixel art editor for the terminal in PowerShell,story,https://github.com/ShaunLawrie/PwshPaint,,github.com
+Tozen,17,33401185,32,1667181459,VeinViewer technology helps physicians and nurses see a patient's veins [video],story,https://www.youtube.com/watch?v=-ARKVmkQWTY,,youtube.com
+wslh,7,33411414,36,1667244451,Anatoly Karpov Hospitalized in Serious Condition,story,https://worldchess.com/news/all/anatoly-karpov-hospitalized-in-serious-condition/,,worldchess.com
+mfn,57,33400726,118,1667177214,Why is symmetry so important in particle physics?,story,https://mfaizan.github.io/2022/10/02/symmetry.html,,mfaizan.github.io
+guiambros,2,33396430,38,1667150314,Sketch Diffusion – Live Painting with Stable Diffusion on Meta Quest Pro,story,https://www.t-da.io/labs,,t-da.io
+indigodaddy,26,33398334,58,1667161882,PsychOS Linux – 32-bit distro for older computers,story,https://psychoslinux.gitlab.io/,,psychoslinux.gitlab.io
+BerislavLopac,14,33405257,39,1667222078,Wikipedia Has Cancer,story,https://en.wikipedia.org/wiki/User:Guy_Macon/Wikipedia_has_Cancer,,en.wikipedia.org
 homarp,14,33393285,66,1667127280,Chartist: Simple Responsive Charts in SVG,story,https://github.com/chartist-js/chartist,,github.com
-giuliomagnifico,125,33382956,111,1667041679,Teens turn to TikTok in search of a mental health diagnosis,story,https://www.nytimes.com/2022/10/29/well/mind/tiktok-mental-illness-diagnosis.html,,nytimes.com
-Tomte,21,33407698,24,1667232103,Julia Roberts reveals Martin Luther King Jr paid the hospital bill for her birth,story,https://www.cnn.com/2022/10/31/entertainment/julia-roberts-mlk-bill/index.html,,cnn.com
-youngtaff,2,33403430,12,1667206960,Chrome drops it’s experimental support for JPEG XL,story,https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84,,bugs.chromium.org
+giuliomagnifico,127,33382956,111,1667041679,Teens turn to TikTok in search of a mental health diagnosis,story,https://www.nytimes.com/2022/10/29/well/mind/tiktok-mental-illness-diagnosis.html,,nytimes.com
 harryvederci,1,33388354,34,1667080728,Rediscovering the Small Web,story,https://neustadt.fr/essays/the-small-web/,,neustadt.fr
-nsoonhui,3,33404996,11,1667220557,Apple: Chinese workers flee Covid lockdown at iPhone factory,story,https://www.bbc.com/news/world-asia-china-63447755,,bbc.com
-TeacherTortoise,45,33377151,124,1666987760,"Nanowire synapses 30,000x faster than nature’s",story,https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse,,spectrum.ieee.org
-gautamsomani,22,33378194,54,1666992800,Increased sedentary behavior alters metabolism and body composition (2018),story,https://pubmed.ncbi.nlm.nih.gov/29671031/,,pubmed.ncbi.nlm.nih.gov
-nateb2022,10,33399440,20,1667168122,Elon Musk tweets Hillary Clinton with Link to Article regarding Pelosi Incident,story,https://www.nytimes.com/2022/10/30/business/musk-tweets-hillary-clinton-pelosi-husband.html,,nytimes.com
+TeacherTortoise,45,33377151,125,1666987760,"Nanowire synapses 30,000x faster than nature’s",story,https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse,,spectrum.ieee.org
+youngtaff,2,33403430,12,1667206960,Chrome drops it’s experimental support for JPEG XL,story,https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84,,bugs.chromium.org
+nsoonhui,3,33404996,12,1667220557,Apple: Chinese workers flee Covid lockdown at iPhone factory,story,https://www.bbc.com/news/world-asia-china-63447755,,bbc.com
+gautamsomani,22,33378194,55,1666992800,Increased sedentary behavior alters metabolism and body composition (2018),story,https://pubmed.ncbi.nlm.nih.gov/29671031/,,pubmed.ncbi.nlm.nih.gov
