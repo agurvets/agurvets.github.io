@@ -1,18 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-clouddrover,31,33416026,31,1667268080,The mysterious Viking runes found in a landlocked US state,story,https://www.bbc.com/travel/article/20221030-the-mysterious-viking-runes-found-in-a-landlocked-us-state,,bbc.com
-Amorymeltzer,68,33410609,185,1667241797,The McMurdo Wastewater Treatment Plant,story,https://brr.fyi/posts/wastewater-plant,,brr.fyi
-pseudolus,2,33383938,15,1667050681,"AI isn’t choosing our artistic future, we are",story,https://thebulletin.org/2022/10/ai-isnt-choosing-our-artistic-future-we-are/,,thebulletin.org
-thunderbong,14,33399632,76,1667168964,PwshPaint: A pixel art editor for the terminal in PowerShell,story,https://github.com/ShaunLawrie/PwshPaint,,github.com
-Tozen,17,33401185,32,1667181459,VeinViewer technology helps physicians and nurses see a patient's veins [video],story,https://www.youtube.com/watch?v=-ARKVmkQWTY,,youtube.com
-wslh,7,33411414,36,1667244451,Anatoly Karpov Hospitalized in Serious Condition,story,https://worldchess.com/news/all/anatoly-karpov-hospitalized-in-serious-condition/,,worldchess.com
-mfn,57,33400726,118,1667177214,Why is symmetry so important in particle physics?,story,https://mfaizan.github.io/2022/10/02/symmetry.html,,mfaizan.github.io
+larve,43,33423474,89,1667320099,"Applied category theory in chemistry, computing, and social networks [pdf]",story,https://www.ams.org/journals/notices/202202/rnoti-p292.pdf,,ams.org
+neaden,123,33421928,129,1667314071,Twitter discontinues ad-free articles for Blue subscribers,story,https://www.theverge.com/2022/11/1/23434502/twitter-blue-ad-free-articles-discontinued-feature,,theverge.com
+Amorymeltzer,87,33410609,223,1667241797,The McMurdo Wastewater Treatment Plant,story,https://brr.fyi/posts/wastewater-plant,,brr.fyi
+wjSgoWPm5bWAhXB,41,33419123,30,1667297349,The quantum mysteries of black holes,story,https://science.uq.edu.au/article/2022/10/uncovering-massive-quantum-mysteries-black-holes,,science.uq.edu.au
+thunderbong,14,33399632,78,1667168964,PwshPaint: A pixel art editor for the terminal in PowerShell,story,https://github.com/ShaunLawrie/PwshPaint,,github.com
+Tozen,19,33401185,33,1667181459,VeinViewer technology helps physicians and nurses see a patient's veins [video],story,https://www.youtube.com/watch?v=-ARKVmkQWTY,,youtube.com
+mfn,59,33400726,119,1667177214,Why is symmetry so important in particle physics?,story,https://mfaizan.github.io/2022/10/02/symmetry.html,,mfaizan.github.io
 guiambros,2,33396430,38,1667150314,Sketch Diffusion – Live Painting with Stable Diffusion on Meta Quest Pro,story,https://www.t-da.io/labs,,t-da.io
-indigodaddy,26,33398334,58,1667161882,PsychOS Linux – 32-bit distro for older computers,story,https://psychoslinux.gitlab.io/,,psychoslinux.gitlab.io
-BerislavLopac,14,33405257,39,1667222078,Wikipedia Has Cancer,story,https://en.wikipedia.org/wiki/User:Guy_Macon/Wikipedia_has_Cancer,,en.wikipedia.org
+elsewhen,0,33422099,11,1667314719,Scientists increasingly cannot explain how AI works,story,https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works,,vice.com
+indigodaddy,34,33398334,58,1667161882,PsychOS Linux – 32-bit distro for older computers,story,https://psychoslinux.gitlab.io/,,psychoslinux.gitlab.io
+wslh,9,33411414,40,1667244451,Anatoly Karpov Hospitalized in Serious Condition,story,https://worldchess.com/news/all/anatoly-karpov-hospitalized-in-serious-condition/,,worldchess.com
 homarp,14,33393285,66,1667127280,Chartist: Simple Responsive Charts in SVG,story,https://github.com/chartist-js/chartist,,github.com
-giuliomagnifico,127,33382956,111,1667041679,Teens turn to TikTok in search of a mental health diagnosis,story,https://www.nytimes.com/2022/10/29/well/mind/tiktok-mental-illness-diagnosis.html,,nytimes.com
-harryvederci,1,33388354,34,1667080728,Rediscovering the Small Web,story,https://neustadt.fr/essays/the-small-web/,,neustadt.fr
-TeacherTortoise,45,33377151,125,1666987760,"Nanowire synapses 30,000x faster than nature’s",story,https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse,,spectrum.ieee.org
-youngtaff,2,33403430,12,1667206960,Chrome drops it’s experimental support for JPEG XL,story,https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84,,bugs.chromium.org
-nsoonhui,3,33404996,12,1667220557,Apple: Chinese workers flee Covid lockdown at iPhone factory,story,https://www.bbc.com/news/world-asia-china-63447755,,bbc.com
-gautamsomani,22,33378194,55,1666992800,Increased sedentary behavior alters metabolism and body composition (2018),story,https://pubmed.ncbi.nlm.nih.gov/29671031/,,pubmed.ncbi.nlm.nih.gov
+BerislavLopac,14,33405257,41,1667222078,Wikipedia Has Cancer,story,https://en.wikipedia.org/wiki/User:Guy_Macon/Wikipedia_has_Cancer,,en.wikipedia.org
+youngtaff,2,33403430,13,1667206960,Chrome drops it’s experimental support for JPEG XL,story,https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84,,bugs.chromium.org
