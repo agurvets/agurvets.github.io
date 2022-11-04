@@ -1,16 +1,11 @@
 by,descendants,id,score,time,title,type,url,text,domain
-louislang,178,33438678,407,1667407155,Dozens of malicious PyPI packages discovered targeting developers,story,https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack,,phylum.io
-pseudolus,49,33433583,171,1667384341,AlphaFold’s new rival? Meta AI predicts shape of 600M proteins,story,https://www.nature.com/articles/d41586-022-03539-1,,nature.com
-isaacfrond,195,33434512,129,1667391493,Scientists Increasingly Can’t Explain How AI Works,story,https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works,,vice.com
-larve,56,33423474,126,1667320099,"Applied category theory in chemistry, computing, and social networks [pdf]",story,https://www.ams.org/journals/notices/202202/rnoti-p292.pdf,,ams.org
-Amorymeltzer,89,33410609,228,1667241797,The McMurdo Wastewater Treatment Plant,story,https://brr.fyi/posts/wastewater-plant,,brr.fyi
-b0ner_t0ner,268,33432086,192,1667371697,Shanghai Disney shuts: Visitors unable to leave without negative Covid test,story,https://www.bbc.com/news/world-asia-63456107,,bbc.com
-thunderbong,14,33399632,79,1667168964,PwshPaint: A pixel art editor for the terminal in PowerShell,story,https://github.com/ShaunLawrie/PwshPaint,,github.com
-neaden,137,33421928,137,1667314071,Twitter discontinues ad-free articles for Blue subscribers,story,https://www.theverge.com/2022/11/1/23434502/twitter-blue-ad-free-articles-discontinued-feature,,theverge.com
-Tozen,19,33401185,33,1667181459,VeinViewer technology helps physicians and nurses see a patient's veins [video],story,https://www.youtube.com/watch?v=-ARKVmkQWTY,,youtube.com
-mfn,59,33400726,120,1667177214,Why is symmetry so important in particle physics?,story,https://mfaizan.github.io/2022/10/02/symmetry.html,,mfaizan.github.io
-guiambros,2,33396430,38,1667150314,Sketch Diffusion – Live Painting with Stable Diffusion on Meta Quest Pro,story,https://www.t-da.io/labs,,t-da.io
-wjSgoWPm5bWAhXB,51,33419123,31,1667297349,The quantum mysteries of black holes,story,https://science.uq.edu.au/article/2022/10/uncovering-massive-quantum-mysteries-black-holes,,science.uq.edu.au
-indigodaddy,36,33398334,58,1667161882,PsychOS Linux – 32-bit distro for older computers,story,https://psychoslinux.gitlab.io/,,psychoslinux.gitlab.io
-homarp,14,33393285,66,1667127280,Chartist: Simple Responsive Charts in SVG,story,https://github.com/chartist-js/chartist,,github.com
-wslh,9,33411414,40,1667244451,Anatoly Karpov Hospitalized in Serious Condition,story,https://worldchess.com/news/all/anatoly-karpov-hospitalized-in-serious-condition/,,worldchess.com
+benbreen,8,33431486,16,1667363753,An experimental approach to lighting systems in Paleolithic caves,story,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250497,,journals.plos.org
+louislang,315,33438678,728,1667407155,Dozens of malicious PyPI packages discovered targeting developers,story,https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack,,phylum.io
+tosh,49,33433061,161,1667380256,RawTherapee,story,https://www.rawtherapee.com/,,rawtherapee.com
+Maro,87,33447976,126,1667459726,"Ask HN: Data Scientists, what libraries do you use for timeseries forecasting?",story,,"I default to Prophet (formerly FBProphet) for my work [which is business-y timeseries data], curious what others are doing.",
+pseudolus,62,33433583,206,1667384341,AlphaFold’s new rival? Meta AI predicts shape of 600M proteins,story,https://www.nature.com/articles/d41586-022-03539-1,,nature.com
+shantanu_sharma,0,33452269,12,1667488403,Alien life: a dream of discovery finds new hope,story,https://www.quantamagazine.org/alien-life-a-dream-of-discovery-finds-new-hope-20221103/,,quantamagazine.org
+larve,56,33423474,134,1667320099,"Applied category theory in chemistry, computing, and social networks [pdf]",story,https://www.ams.org/journals/notices/202202/rnoti-p292.pdf,,ams.org
+isaacfrond,213,33434512,143,1667391493,Scientists Increasingly Can’t Explain How AI Works,story,https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works,,vice.com
+Amorymeltzer,89,33410609,232,1667241797,The McMurdo Wastewater Treatment Plant,story,https://brr.fyi/posts/wastewater-plant,,brr.fyi
+thunderbong,14,33399632,80,1667168964,PwshPaint: A pixel art editor for the terminal in PowerShell,story,https://github.com/ShaunLawrie/PwshPaint,,github.com
