@@ -1,10 +1,11 @@
 by,descendants,id,score,time,title,type,url,text,domain
-bilsbie,50,33583097,62,1668347825,A gut-derived hormone suppresses sugar appetite/regulates food choice Drosophila,story,https://www.nature.com/articles/s42255-022-00672-z,,nature.com
-freediver,102,33580596,116,1668320665,Pulse Browser – An experimental Firefox fork,story,https://pulsebrowser.app/,,pulsebrowser.app
-akeck,120,33579365,115,1668306827,"DeviantArt upsets artists with its new AI art generator, DreamUp",story,https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/,,arstechnica.com
-gautamcgoel,32,33577855,91,1668292516,It’s getting harder to do a randomized trial for some drugs,story,https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/,,statnews.com
-dsign,274,33554141,763,1668117894,CRISPR cancer trial success paves the way for personalized treatments,story,https://www.nature.com/articles/d41586-022-03676-7,,nature.com
-janmo,802,33570274,537,1668231055,"FTX faces potential hack, sees mysterious outflows totaling more than $600M",story,https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/,,coindesk.com
+bilsbie,79,33583097,88,1668347825,A gut-derived hormone suppresses sugar appetite/regulates food choice Drosophila,story,https://www.nature.com/articles/s42255-022-00672-z,,nature.com
+freediver,104,33580596,121,1668320665,Pulse Browser – An experimental Firefox fork,story,https://pulsebrowser.app/,,pulsebrowser.app
+cpncrunch,7,33584011,15,1668354106,Popular Vitamin Supplement Causes Cancer Risk and Brain Metastasis,story,https://scitechdaily.com/warning-popular-vitamin-supplement-causes-cancer-risk-and-brain-metastasis/,,scitechdaily.com
+akeck,121,33579365,118,1668306827,"DeviantArt upsets artists with its new AI art generator, DreamUp",story,https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/,,arstechnica.com
+gautamcgoel,32,33577855,92,1668292516,It’s getting harder to do a randomized trial for some drugs,story,https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/,,statnews.com
+dsign,274,33554141,765,1668117894,CRISPR cancer trial success paves the way for personalized treatments,story,https://www.nature.com/articles/d41586-022-03676-7,,nature.com
+janmo,805,33570274,537,1668231055,"FTX faces potential hack, sees mysterious outflows totaling more than $600M",story,https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/,,coindesk.com
 ValentineC,76,33574568,106,1668270597,Australia gives world-first approval for fecal transplants to restore gut health,story,https://www.theguardian.com/australia-news/2022/nov/11/australia-gives-world-first-approval-for-faecal-transplants-to-restore-gut-health,,theguardian.com
 notagain,10,33570683,63,1668235633,How T.S. Eliot’s therapeutic practice produced The Waste Land,story,https://lithub.com/how-t-s-eliots-therapeutic-practice-produced-the-waste-land/,,lithub.com
 losfair,0,33557960,23,1668148920,Discover Paxos via 2PC (2019),story,https://blog.the-pans.com/discover-paxos/,,the-pans.com
