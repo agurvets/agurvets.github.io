@@ -1,18 +1,21 @@
 by,descendants,id,score,time,title,type,url,text,domain
-bilsbie,14,33971206,40,1670949381,Longer proteins for longer lifespan?,story,https://joshmitteldorf.scienceblog.com/2022/12/13/longer-proteins-for-longer-lifespan/,,joshmitteldorf.scienceblog.com
-_Microft,5,33971520,42,1670950359,Moderna cancer vaccine reduces melanoma’s return by 44%,story,https://www.statnews.com/2022/12/13/moderna-cancer-vaccine/,,statnews.com
-hatmatrix,1,33976880,11,1670970060,Scientists finally know why people get more colds and flu in winter,story,https://www.cnn.com/2022/12/06/health/why-winter-colds-flu-wellness/index.html,,cnn.com
+zdw,2,33944412,48,1670775190,The Sega ST-V's MIDI Out: A Quick Examination and Failed Experiments,story,https://nicole.express/2022/midi-on-the-saturn-or-not.html,,nicole.express
+miles,3,33980293,14,1670995404,Association Between Consumption of Ultraprocessed Foods and Cognitive Decline,story,https://jamanetwork.com/journals/jamaneurology/article-abstract/2799140,,jamanetwork.com
+_Microft,5,33971520,59,1670950359,Moderna cancer vaccine reduces melanoma’s return by 44%,story,https://www.statnews.com/2022/12/13/moderna-cancer-vaccine/,,statnews.com
+babelfish,5,33978207,29,1670976741,Moderna and Merck Announce an Investigational Personalized mRNA Cancer Vaccine,story,https://investors.modernatx.com/news/news-details/2022/Moderna-and-Merck-Announce-mRNA-4157V940-an-Investigational-Personalized-mRNA-Cancer-Vaccine-in-Combination-with-KEYTRUDAR-pembrolizumab-Met-Primary-Efficacy-Endpoint-in-Phase-2b-KEYNOTE-942-Trial/default.aspx,,investors.modernatx.com
+bilsbie,16,33971206,45,1670949381,Longer proteins for longer lifespan?,story,https://joshmitteldorf.scienceblog.com/2022/12/13/longer-proteins-for-longer-lifespan/,,joshmitteldorf.scienceblog.com
+weberer,77,33982883,42,1671023034,"Helsinki hospitals severely overcrowded, emergency rooms full to capacity",story,https://yle.fi/a/74-20008564,,yle.fi
 orangebanana1,1,33967846,14,1670933639,"Fusion breakthrough thrills physicists, but won’t power your home soon",story,https://www.canarymedia.com/articles/nuclear/fusion-breakthrough-thrills-physicists-but-wont-power-your-home-soon,,canarymedia.com
-KoftaBob,174,33968357,186,1670937061,Secretary Granholm to announce major scientific breakthrough by DOE [video],story,https://www.energy.gov/livestream,,energy.gov
-wbharding,7,33969107,47,1670940860,Cancer relapse reduced 44% in early study using mRNA vaccine,story,https://www.wsj.com/articles/modernas-mrna-cancer-vaccine-shows-promise-in-preliminary-study-11670906379,,wsj.com
-dayve,83,33950542,147,1670815851,Discovering latent knowledge in language models without supervision,story,https://arxiv.org/abs/2212.03827,,arxiv.org
-CharlesW,35,33955270,66,1670857001,Sildenafil as a candidate drug for Alzheimer’s disease,story,https://www.nature.com/articles/s43587-021-00138-z,,nature.com
-isaacfrond,5,33967185,13,1670929294,Infectious diseases fellowships go unfilled for newly minted doctors,story,https://www.npr.org/sections/health-shots/2022/12/12/1142250941/newest-doctors-shun-infectious-diseases-specialty,,npr.org
-lxm,262,33949162,305,1670804179,"Binance is trying to calm investors, but its finances remain a mystery",story,https://www.wsj.com/articles/binance-is-trying-to-calm-investors-but-its-finances-remain-a-mystery-11670679351,,wsj.com
-rglover,36,33955563,68,1670858548,New cognitive science tool to shed light on mental health,story,https://www.darpa.mil/news-events/2022-03-02,,darpa.mil
-hirundo,5,33942840,41,1670764193,Saturated fat: the making and unmaking of a scientific consensus,story,https://journals.lww.com/co-endocrinology/fulltext/9900/a_short_history_of_saturated_fat__the_making_and.42.aspx,,journals.lww.com
+dayve,84,33950542,147,1670815851,Discovering latent knowledge in language models without supervision,story,https://arxiv.org/abs/2212.03827,,arxiv.org
+KoftaBob,179,33968357,187,1670937061,Secretary Granholm to announce major scientific breakthrough by DOE [video],story,https://www.energy.gov/livestream,,energy.gov
+CharlesW,36,33955270,66,1670857001,Sildenafil as a candidate drug for Alzheimer’s disease,story,https://www.nature.com/articles/s43587-021-00138-z,,nature.com
+lxm,265,33949162,307,1670804179,"Binance is trying to calm investors, but its finances remain a mystery",story,https://www.wsj.com/articles/binance-is-trying-to-calm-investors-but-its-finances-remain-a-mystery-11670679351,,wsj.com
+hatmatrix,2,33976880,13,1670970060,Scientists finally know why people get more colds and flu in winter,story,https://www.cnn.com/2022/12/06/health/why-winter-colds-flu-wellness/index.html,,cnn.com
+rglover,37,33955563,68,1670858548,New cognitive science tool to shed light on mental health,story,https://www.darpa.mil/news-events/2022-03-02,,darpa.mil
+hirundo,5,33942840,42,1670764193,Saturated fat: the making and unmaking of a scientific consensus,story,https://journals.lww.com/co-endocrinology/fulltext/9900/a_short_history_of_saturated_fat__the_making_and.42.aspx,,journals.lww.com
+wbharding,7,33969107,49,1670940860,Cancer relapse reduced 44% in early study using mRNA vaccine,story,https://www.wsj.com/articles/modernas-mrna-cancer-vaccine-shows-promise-in-preliminary-study-11670906379,,wsj.com
+isaacfrond,6,33967185,13,1670929294,Infectious diseases fellowships go unfilled for newly minted doctors,story,https://www.npr.org/sections/health-shots/2022/12/12/1142250941/newest-doctors-shun-infectious-diseases-specialty,,npr.org
 sys_64738,4,33949485,15,1670806322,Box64 on Asahi with experimental GPU driver,story,https://box86.org/2022/12/box64-on-asahi-with-experimental-gpu-driver/,,box86.org
 sourpuss,47,33942173,90,1670756759,"""Doctors fitted a contraceptive coil without my consent""",story,https://www.bbc.com/news/world-europe-63863088,,bbc.com
-pseudolus,1,33972197,17,1670952273,"US Covid death toll would be 4X higher without vaccines, modeling study finds",story,https://arstechnica.com/science/2022/12/us-covid-death-toll-would-be-4x-higher-without-vaccines-modeling-study-finds/,,arstechnica.com
 sarchertech,6,33950595,53,1670816409,US Scientists Achieve Net Gain Fusion Reaction,story,https://www.independent.co.uk/news/world/americas/nuclear-fusion-lawrence-livermore-laboratory-b2243247.html,,independent.co.uk
 tomkit,3,33951581,27,1670826519,US scientists make breakthrough in fusion energy,story,https://www.telegraph.co.uk/world-news/2022/12/12/us-scientists-make-huge-breakthrough-fusion-energy/,,telegraph.co.uk
