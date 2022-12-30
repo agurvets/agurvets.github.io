@@ -1,20 +1,24 @@
 by,descendants,id,score,time,title,type,url,text,domain
-elsewhen,61,34169393,65,1672286499,Time to redefine normal body temperature? (2020),story,https://www.health.harvard.edu/blog/time-to-redefine-normal-body-temperature-2020031319173,,health.harvard.edu
-wglb,8,34145002,57,1672114019,2k-year-old Mayan civilization discovered in northern Guatemala,story,https://phys.org/news/2022-12-huge-year-old-mayan-civilization-northern.html,,phys.org
-WaitWaitWha,60,34163231,135,1672247895,A new treatment for arthritis: Vagus-nerve stimulation,story,https://spectrum.ieee.org/rhumatoid-arthritis,,spectrum.ieee.org
-jelliclesfarm,24,34164312,88,1672253493,A seamstress who solved the ancient mystery of the Argonaut,story,https://www.themarginalian.org/2022/12/26/jeanne-villepreux-power-argonaut/,,themarginalian.org
-CharlesW,31,34164684,103,1672255108,Discoveries made about human evolution in 2022,story,https://www.smithsonianmag.com/smithsonian-institution/fourteen-discoveries-made-about-human-evolution-in-2022-180981344/,,smithsonianmag.com
-cwwc,97,34165789,201,1672260643,“Why We Sleep” is riddled with scientific and factual errors (2019),story,https://guzey.com/books/why-we-sleep/,,guzey.com
-diimdeep,394,34151382,639,1672163479,US Government demands direct police access to European biometric data [pdf],story,https://digit.so36.net/Data/20221227_HIP_EBSP_IBIS.pdf,,digit.so36.net
-gjvc,54,34143119,286,1672097571,Rigs of Rods: free and open source vehicle simulator that uses soft-body physics,story,https://www.rigsofrods.org/,,rigsofrods.org
-8bitsrule,33,34115109,155,1671871131,Archaeologists Discover Lost Civilization in Guatemala,story,https://www.vice.com/en/article/3admdv/archaeologists-discover-huge-lost-civilization-in-guatemala,,vice.com
-geox,12,34156525,46,1672192035,Spain scraps VAT on basic food to help with rising cost of living,story,https://www.euronews.com/my-europe/2022/12/27/spain-scraps-vat-on-basic-food-to-help-with-rising-cost-of-living,,euronews.com
-mvelbaum,81,34145972,207,1672124026,Experimental Rust Feature: Safer Interoperable ABI,story,https://github.com/rust-lang/rust/pull/105586,,github.com
-fortran77,866,34142030,353,1672089767,How Twitter moderated the Covid debate,story,https://www.thefp.com/p/how-twitter-rigged-the-covid-debate,,thefp.com
+JPLeRouzic,139,34174356,160,1672331580,Hydroxychloroquine lowers Alzheimer's disease and related dementias risk,story,https://pubmed.ncbi.nlm.nih.gov/36577843/,,pubmed.ncbi.nlm.nih.gov
+giuliomagnifico,36,34175768,90,1672337349,Discovering which parts of the brain are engaged when coding,story,https://news.mit.edu/2022/your-brain-your-brain-code-1221,,news.mit.edu
+yamrzou,41,34179568,33,1672356754,How to identify a scientific fact,story,https://blog.oup.com/2022/11/how-to-identify-a-scientific-fact/,,oup.com
+sahin,34,34171618,138,1672313529,Revealed: Group shaping US nutrition receives millions from big food industry,story,https://www.theguardian.com/science/2022/dec/09/academy-nutrition-financial-ties-processed-food-companies-contributions,,theguardian.com
+elsewhen,135,34169393,111,1672286499,Time to redefine normal body temperature? (2020),story,https://www.health.harvard.edu/blog/time-to-redefine-normal-body-temperature-2020031319173,,health.harvard.edu
+MikeLumos,26,34172092,61,1672318142,Luck based medicine: my resentful story of becoming a medical miracle,story,https://www.lesswrong.com/posts/fFY2HeC9i2Tx8FEnK/luck-based-medicine-my-resentful-story-of-becoming-a-medical,,lesswrong.com
+kalimanzaro,14,34171762,58,1672314984,“Angry” Immune Cells in Brain and Spinal Fluid Identified as Alzheimer Culprit,story,https://scitechdaily.com/alzheimers-mystery-solved-angry-immune-cells-in-brain-and-spinal-fluid-identified-as-culprit/,,scitechdaily.com
+WaitWaitWha,88,34163231,167,1672247895,A new treatment for arthritis: Vagus-nerve stimulation,story,https://spectrum.ieee.org/rhumatoid-arthritis,,spectrum.ieee.org
+wglb,24,34145002,99,1672114019,2k-year-old Mayan civilization discovered in northern Guatemala,story,https://phys.org/news/2022-12-huge-year-old-mayan-civilization-northern.html,,phys.org
+jelliclesfarm,40,34164312,118,1672253493,A seamstress who solved the ancient mystery of the Argonaut,story,https://www.themarginalian.org/2022/12/26/jeanne-villepreux-power-argonaut/,,themarginalian.org
+CharlesW,41,34164684,114,1672255108,Discoveries made about human evolution in 2022,story,https://www.smithsonianmag.com/smithsonian-institution/fourteen-discoveries-made-about-human-evolution-in-2022-180981344/,,smithsonianmag.com
+cwwc,109,34165789,232,1672260643,“Why We Sleep” is riddled with scientific and factual errors (2019),story,https://guzey.com/books/why-we-sleep/,,guzey.com
+diimdeep,397,34151382,646,1672163479,US Government demands direct police access to European biometric data [pdf],story,https://digit.so36.net/Data/20221227_HIP_EBSP_IBIS.pdf,,digit.so36.net
+gjvc,54,34143119,287,1672097571,Rigs of Rods: free and open source vehicle simulator that uses soft-body physics,story,https://www.rigsofrods.org/,,rigsofrods.org
+voisin,1,34174580,14,1672332596,First “virovore” discovered: An organism that eats viruses,story,https://newatlas.com/science/first-virovore-eats-viruses/,,newatlas.com
+8bitsrule,34,34115109,156,1671871131,Archaeologists Discover Lost Civilization in Guatemala,story,https://www.vice.com/en/article/3admdv/archaeologists-discover-huge-lost-civilization-in-guatemala,,vice.com
+mvelbaum,81,34145972,208,1672124026,Experimental Rust Feature: Safer Interoperable ABI,story,https://github.com/rust-lang/rust/pull/105586,,github.com
+fortran77,875,34142030,353,1672089767,How Twitter moderated the Covid debate,story,https://www.thefp.com/p/how-twitter-rigged-the-covid-debate,,thefp.com
+geox,12,34156525,47,1672192035,Spain scraps VAT on basic food to help with rising cost of living,story,https://www.euronews.com/my-europe/2022/12/27/spain-scraps-vat-on-basic-food-to-help-with-rising-cost-of-living,,euronews.com
 cpeterso,8,34124920,45,1671949409,New minerals discovered in massive meteorite reveal clues to asteroid formation,story,https://www.ualberta.ca/folio/2022/11/new-minerals-discovered-in-massive-meteorite-may-reveal-clues-to-asteroid-formation.html,,ualberta.ca
-dbrgn,167,34146283,457,1672127152,CCC captures U.S. military biometrics database,story,https://www.ccc.de/en/updates/2022/afghanistan-biometrie,,ccc.de
-Jimmc414,11,34146128,14,1672125518,Ivermectin: Enigmatic wonder drug continues to exceed expectations (2017),story,https://www.nature.com/articles/ja201711,,nature.com
-SQL2219,30,34147802,48,1672140956,Class switch towards non-inflammatory IgG4 antibodies after vaccination,story,https://www.science.org/doi/10.1126/sciimmunol.ade2798,,science.org
-adrian_mrd,50,34154607,67,1672179449,"‘Too much’ nitrite-cured meat brings clear risk of cancer, say scientists",story,https://www.theguardian.com/society/2022/dec/27/too-much-nitrite-cured-meat-brings-clear-risk-of-cancer-say-scientists,,theguardian.com
-doener,2,34137673,47,1672063330,"GNU Health, the Libre digital health ecosystem",story,https://www.gnuhealth.org/,,gnuhealth.org
-acqbu,17,34125674,88,1671960854,Pitch Drop Experiment,story,https://smp.uq.edu.au/pitch-drop-experiment,,smp.uq.edu.au
+dbrgn,167,34146283,462,1672127152,CCC captures U.S. military biometrics database,story,https://www.ccc.de/en/updates/2022/afghanistan-biometrie,,ccc.de
+SQL2219,31,34147802,50,1672140956,Class switch towards non-inflammatory IgG4 antibodies after vaccination,story,https://www.science.org/doi/10.1126/sciimmunol.ade2798,,science.org
+Jimmc414,12,34146128,14,1672125518,Ivermectin: Enigmatic wonder drug continues to exceed expectations (2017),story,https://www.nature.com/articles/ja201711,,nature.com
