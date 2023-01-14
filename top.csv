@@ -1,16 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-CharlesW,113,34375735,188,1673655143,"Long Covid: major findings, mechanisms and recommendations",story,https://www.nature.com/articles/s41579-022-00846-2,,nature.com
-Jimmc414,0,34377677,12,1673675389,"U.S. FDA, CDC see early signal of Pfizer bivalent Covid shot's link to stroke",story,https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/,,reuters.com
-herbertl,81,34366657,148,1673611476,CNET Has Been Quietly Publishing AI-Written Articles for Months,story,https://gizmodo.com/cnet-chatgpt-ai-articles-publish-for-months-1849976921,,gizmodo.com
+CharlesW,118,34375735,197,1673655143,"Long Covid: major findings, mechanisms and recommendations",story,https://www.nature.com/articles/s41579-022-00846-2,,nature.com
+herbertl,81,34366657,149,1673611476,CNET Has Been Quietly Publishing AI-Written Articles for Months,story,https://gizmodo.com/cnet-chatgpt-ai-articles-publish-for-months-1849976921,,gizmodo.com
+Jimmc414,0,34377677,17,1673675389,"U.S. FDA, CDC see early signal of Pfizer bivalent Covid shot's link to stroke",story,https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/,,reuters.com
 ChrisArchitect,73,34350158,93,1673506970,Floppy Disk Museum on a Bootable Floppy serving from a 286 PC,story,http://floppy.museum/,,floppy.museum
 Hooke,41,34335341,67,1673415149,Therapod dinosaurs had primate-like numbers of neurons,story,https://www.biorxiv.org/content/10.1101/2022.06.20.496834v1,,biorxiv.org
-mfiguiere,11,34370704,28,1673630103,At least a dozen Grenfell firefighters have terminal cancer,story,https://www.semafor.com/article/01/13/2023/at-least-a-dozen-grenfell-firefighters-have-terminal-cancer,,semafor.com
-type0,8,34375616,19,1673654378,Pfizer Bivalent Vaccine Linked to Strokes in Preliminary Data,story,https://www.bloomberg.com/news/articles/2023-01-13/pfizer-bivalent-vaccine-linked-to-stroke-in-preliminary-data,,bloomberg.com
-pseudolus,105,34372508,148,1673637396,"Sam Bankman-Fried's secret 'backdoor' discovered, FTX lawyer says",story,https://www.businessinsider.com/sam-bankman-fried-secret-backdoor-worth-65-billion-court-hears-2023-1,,businessinsider.com
+mfiguiere,11,34370704,29,1673630103,At least a dozen Grenfell firefighters have terminal cancer,story,https://www.semafor.com/article/01/13/2023/at-least-a-dozen-grenfell-firefighters-have-terminal-cancer,,semafor.com
 impish9208,100,34357895,193,1673546907,U.S. cancer death rate has dropped by a third since 1991,story,https://www.wsj.com/articles/u-s-cancer-death-rate-has-dropped-by-a-third-since-1991-11673535327,,wsj.com
+pseudolus,105,34372508,148,1673637396,"Sam Bankman-Fried's secret 'backdoor' discovered, FTX lawyer says",story,https://www.businessinsider.com/sam-bankman-fried-secret-backdoor-worth-65-billion-court-hears-2023-1,,businessinsider.com
+type0,8,34375616,19,1673654378,Pfizer Bivalent Vaccine Linked to Strokes in Preliminary Data,story,https://www.bloomberg.com/news/articles/2023-01-13/pfizer-bivalent-vaccine-linked-to-stroke-in-preliminary-data,,bloomberg.com
 daaayum,311,34352040,503,1673523045,Europe's largest deposit of rare earth metals discovered in Sweden,story,"https://news.cision.com/lkab/r/europe-s-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area,c3696152",,news.cision.com
-valkrieco,102,34358510,106,1673549418,Liquid democracy: two experiments on delegation in voting,story,https://www.nber.org/papers/w30794,,nber.org
 clouddrover,1,34348975,42,1673495711,"Nuclear reactor mystery solved, with no need for new particles",story,https://www.science.org/content/article/nuclear-reactor-mystery-solved-no-need-new-particles,,science.org
+valkrieco,103,34358510,106,1673549418,Liquid democracy: two experiments on delegation in voting,story,https://www.nber.org/papers/w30794,,nber.org
 detrites,3,34370003,14,1673627147,ARM Linux executable mysteriously runs on x86_64 (2016),story,https://stackoverflow.com/questions/37912290/arm-linux-executable-mysteriously-runs-on-x86-64,,stackoverflow.com
 ryanhn,115,34333176,214,1673394902,Usbc.wtf – an article and quiz to find the right USB-C cable,story,https://usbc.wtf/,,usbc.wtf
 rguiscard,20,34333929,38,1673400859,FDA no longer needs to require animal tests before human drug trials,story,https://www.science.org/content/article/fda-no-longer-needs-require-animal-tests-human-drug-trials,,science.org
