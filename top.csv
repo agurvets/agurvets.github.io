@@ -1,15 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-CharlesW,61,34375735,134,1673655143,"Long Covid: major findings, mechanisms and recommendations",story,https://www.nature.com/articles/s41579-022-00846-2,,nature.com
-herbertl,81,34366657,146,1673611476,CNET Has Been Quietly Publishing AI-Written Articles for Months,story,https://gizmodo.com/cnet-chatgpt-ai-articles-publish-for-months-1849976921,,gizmodo.com
-type0,4,34375616,18,1673654378,Pfizer Bivalent Vaccine Linked to Strokes in Preliminary Data,story,https://www.bloomberg.com/news/articles/2023-01-13/pfizer-bivalent-vaccine-linked-to-stroke-in-preliminary-data,,bloomberg.com
+CharlesW,82,34375735,161,1673655143,"Long Covid: major findings, mechanisms and recommendations",story,https://www.nature.com/articles/s41579-022-00846-2,,nature.com
+herbertl,81,34366657,148,1673611476,CNET Has Been Quietly Publishing AI-Written Articles for Months,story,https://gizmodo.com/cnet-chatgpt-ai-articles-publish-for-months-1849976921,,gizmodo.com
 ChrisArchitect,73,34350158,92,1673506970,Floppy Disk Museum on a Bootable Floppy serving from a 286 PC,story,http://floppy.museum/,,floppy.museum
-mfiguiere,10,34370704,27,1673630103,At least a dozen Grenfell firefighters have terminal cancer,story,https://www.semafor.com/article/01/13/2023/at-least-a-dozen-grenfell-firefighters-have-terminal-cancer,,semafor.com
-pseudolus,104,34372508,146,1673637396,"Sam Bankman-Fried's secret 'backdoor' discovered, FTX lawyer says",story,https://www.businessinsider.com/sam-bankman-fried-secret-backdoor-worth-65-billion-court-hears-2023-1,,businessinsider.com
+type0,5,34375616,18,1673654378,Pfizer Bivalent Vaccine Linked to Strokes in Preliminary Data,story,https://www.bloomberg.com/news/articles/2023-01-13/pfizer-bivalent-vaccine-linked-to-stroke-in-preliminary-data,,bloomberg.com
+mfiguiere,11,34370704,27,1673630103,At least a dozen Grenfell firefighters have terminal cancer,story,https://www.semafor.com/article/01/13/2023/at-least-a-dozen-grenfell-firefighters-have-terminal-cancer,,semafor.com
+pseudolus,104,34372508,148,1673637396,"Sam Bankman-Fried's secret 'backdoor' discovered, FTX lawyer says",story,https://www.businessinsider.com/sam-bankman-fried-secret-backdoor-worth-65-billion-court-hears-2023-1,,businessinsider.com
 Hooke,41,34335341,66,1673415149,Therapod dinosaurs had primate-like numbers of neurons,story,https://www.biorxiv.org/content/10.1101/2022.06.20.496834v1,,biorxiv.org
-impish9208,103,34357895,193,1673546907,U.S. cancer death rate has dropped by a third since 1991,story,https://www.wsj.com/articles/u-s-cancer-death-rate-has-dropped-by-a-third-since-1991-11673535327,,wsj.com
+impish9208,104,34357895,193,1673546907,U.S. cancer death rate has dropped by a third since 1991,story,https://www.wsj.com/articles/u-s-cancer-death-rate-has-dropped-by-a-third-since-1991-11673535327,,wsj.com
 daaayum,311,34352040,503,1673523045,Europe's largest deposit of rare earth metals discovered in Sweden,story,"https://news.cision.com/lkab/r/europe-s-largest-deposit-of-rare-earth-metals-is-located-in-the-kiruna-area,c3696152",,news.cision.com
-detrites,3,34370003,14,1673627147,ARM Linux executable mysteriously runs on x86_64 (2016),story,https://stackoverflow.com/questions/37912290/arm-linux-executable-mysteriously-runs-on-x86-64,,stackoverflow.com
 valkrieco,102,34358510,106,1673549418,Liquid democracy: two experiments on delegation in voting,story,https://www.nber.org/papers/w30794,,nber.org
+detrites,3,34370003,14,1673627147,ARM Linux executable mysteriously runs on x86_64 (2016),story,https://stackoverflow.com/questions/37912290/arm-linux-executable-mysteriously-runs-on-x86-64,,stackoverflow.com
 clouddrover,1,34348975,42,1673495711,"Nuclear reactor mystery solved, with no need for new particles",story,https://www.science.org/content/article/nuclear-reactor-mystery-solved-no-need-new-particles,,science.org
 ryanhn,115,34333176,214,1673394902,Usbc.wtf – an article and quiz to find the right USB-C cable,story,https://usbc.wtf/,,usbc.wtf
 rguiscard,20,34333929,38,1673400859,FDA no longer needs to require animal tests before human drug trials,story,https://www.science.org/content/article/fda-no-longer-needs-require-animal-tests-human-drug-trials,,science.org
@@ -17,4 +17,3 @@ CynicalMD,197,34347962,167,1673487900,The Collapse of U.S. Healthcare – The Pe
 tech234a,17,34334780,71,1673408648,Paint.net 5.0 is now available,story,https://forums.getpaint.net/topic/121643-paintnet-50-is-now-available/,,forums.getpaint.net
 jacooper,5,34354736,22,1673536678,Hackers discover that vulnerabilities are rife in the auto industry,story,https://arstechnica.com/cars/2023/01/hackers-discover-that-vulnerabilities-are-rife-in-the-auto-industry/,,arstechnica.com
 gmays,34,34331479,97,1673384722,Researchers identify protein that helps skin cancer spread,story,https://www.qmul.ac.uk/media/news/2022/smd/researchers-identify-protein-that-helps-skin-cancer-spread-throughout-the-body.html,,qmul.ac.uk
-baja_blast,12,34361253,21,1673563086,Manufacturing certainty on the origin of Covid-19 is damaging to science,story,https://www.the-microbiologist.com/opinion/manufacturing-certainty-on-the-origin-of-covid-19-is-damaging-to-science/520.article,,the-microbiologist.com
