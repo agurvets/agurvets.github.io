@@ -1,17 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-fastneutron,0,34444377,13,1674155970,Simulation Intelligence: Towards a New Generation of Scientific Methods (2022),story,https://arxiv.org/abs/2112.03235,,arxiv.org
-nalgeon,183,34434025,486,1674080826,HC-tree is an experimental high-concurrency database back end for SQLite,story,https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html,,sqlite.org
-jeffrwells,4,34443540,16,1674152009,Peter Daszak of Eco Health Alliance Faces Calls to Quit,story,https://www.newsweek.com/peter-daszak-u-s-funds-wuhan-institute-virology-aided-cover-faces-calls-quit-ecohealth-alliance-1636103,,newsweek.com
+fastneutron,16,34444377,94,1674155970,Simulation Intelligence: Towards a New Generation of Scientific Methods (2022),story,https://arxiv.org/abs/2112.03235,,arxiv.org
+nalgeon,186,34434025,498,1674080826,HC-tree is an experimental high-concurrency database back end for SQLite,story,https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html,,sqlite.org
+jeffrwells,15,34443540,29,1674152009,Peter Daszak of Eco Health Alliance Faces Calls to Quit,story,https://www.newsweek.com/peter-daszak-u-s-funds-wuhan-institute-virology-aided-cover-faces-calls-quit-ecohealth-alliance-1636103,,newsweek.com
 mfiguiere,4,34418014,21,1673985807,The physics behind building an enduring soap bubble,story,https://arstechnica.com/science/2023/01/the-physics-behind-building-an-enduring-soap-bubble/,,arstechnica.com
+mgh2,0,34445609,11,1674162360,What we know about PFAS in our food – in depth,story,https://www.ehn.org/pfas-in-food-2657507160.html,,ehn.org
 Petiver,2,34416839,14,1673981320,‘The One’: Platonic particles and waves of history,story,https://www.wsj.com/articles/the-one-review-platonic-particles-and-waves-of-history-11673628851,,wsj.com
+k1m,48,34421314,134,1673999981,Show HN: Summate.it – Quickly summarize web articles with OpenAI,story,https://summate.it/?v2,,summate.it
 sahin,5,34436249,30,1674097620,Buddhist monk microbiome study reveals impact of meditation on gut bacteria,story,https://newatlas.com/health-wellbeing/buddhist-monk-microbiome-mediation-gut-bacteria/,,newatlas.com
-k1m,47,34421314,132,1673999981,Show HN: Summate.it – Quickly summarize web articles with OpenAI,story,https://summate.it/?v2,,summate.it
-optimalsolver,19,34392000,25,1673809188,Learning Physics With Ringworld (2010),story,https://www.tor.com/2010/10/18/ringworld-physics/,,tor.com
 fortran77,18,34394594,169,1673823629,Elliptic Curves: The Great Mystery,story,https://www.cantorsparadise.com/elliptic-curves-the-great-mystery-61599a93c61d,,cantorsparadise.com
-ycombinete,45,34404448,62,1673896920,ADHD traits more reliably predict mental health issues than autistic traits,story,https://www.nature.com/articles/s41598-022-26350-4,,nature.com
-sohkamyung,47,34436043,50,1674095486,ChatGPT listed as author on research papers: many scientists disapprove,story,https://www.nature.com/articles/d41586-023-00107-z,,nature.com
+optimalsolver,19,34392000,25,1673809188,Learning Physics With Ringworld (2010),story,https://www.tor.com/2010/10/18/ringworld-physics/,,tor.com
+ycombinete,46,34404448,63,1673896920,ADHD traits more reliably predict mental health issues than autistic traits,story,https://www.nature.com/articles/s41598-022-26350-4,,nature.com
 gmays,28,34402481,39,1673887596,Using paleogenomics to elucidate 10k years of immune system evolution,story,https://www.pasteur.fr/en/press-area/press-documents/using-paleogenomics-elucidate-10000-years-immune-system-evolution,,pasteur.fr
-sfusato,1,34430183,18,1674064286,Study suggests US freshwater fish highly contaminated with ‘forever chemicals’,story,https://thehill.com/policy/equilibrium-sustainability/3815490-study-suggests-us-freshwater-fish-highly-contaminated-with-forever-chemicals/,,thehill.com
+sohkamyung,47,34436043,50,1674095486,ChatGPT listed as author on research papers: many scientists disapprove,story,https://www.nature.com/articles/d41586-023-00107-z,,nature.com
+sfusato,1,34430183,19,1674064286,Study suggests US freshwater fish highly contaminated with ‘forever chemicals’,story,https://thehill.com/policy/equilibrium-sustainability/3815490-study-suggests-us-freshwater-fish-highly-contaminated-with-forever-chemicals/,,thehill.com
 sideway,394,34394350,147,1673822026,The global health-care collapse,story,https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse,,economist.com
-devNoise,3,34432348,11,1674072708,Harvard Finance Professor: Crypto Is Magical Thinking That Infected Capitalism,story,https://futurism.com/the-byte/harvard-professor-crypto-magical-thinking-infected-capitalism,,futurism.com
-rntn,0,34392551,36,1673812032,Making art is good for your health,story,https://www.npr.org/2019/12/30/792439555/making-art-is-good-for-your-health-heres-how-to-start-a-habit,,npr.org
