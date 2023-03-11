@@ -1,14 +1,14 @@
 by,descendants,id,score,time,title,type,url,text,domain
-t-3,17,35100995,45,1678482125,Discovering one bug after another in the UTF-8 decoding logic in OpenBSD,story,https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console,,research.exoticsilicon.com
-mzs,144,35094866,288,1678459489,Telehealth startup Cerebral shared millions of patients’ data with advertisers,story,https://techcrunch.com/2023/03/10/cerebral-shared-millions-patient-data-advertisers/,,techcrunch.com
-notamy,37,35099503,85,1678476283,Microbiologist Investigates After Her Beef Soup Turned Blue in the Fridge,story,https://www.iflscience.com/microbiologist-investigates-after-her-beef-soup-turned-blue-in-the-freezer-67894,,iflscience.com
-sohkamyung,58,35092351,143,1678440569,Allegations of Scientific Misconduct Mount as Physicist Makes His Biggest Claim,story,https://physics.aps.org/articles/v16/40,,physics.aps.org
+t-3,22,35100995,51,1678482125,Discovering one bug after another in the UTF-8 decoding logic in OpenBSD,story,https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console,,research.exoticsilicon.com
+mzs,145,35094866,295,1678459489,Telehealth startup Cerebral shared millions of patients’ data with advertisers,story,https://techcrunch.com/2023/03/10/cerebral-shared-millions-patient-data-advertisers/,,techcrunch.com
+notamy,39,35099503,87,1678476283,Microbiologist Investigates After Her Beef Soup Turned Blue in the Fridge,story,https://www.iflscience.com/microbiologist-investigates-after-her-beef-soup-turned-blue-in-the-freezer-67894,,iflscience.com
+sohkamyung,58,35092351,145,1678440569,Allegations of Scientific Misconduct Mount as Physicist Makes His Biggest Claim,story,https://physics.aps.org/articles/v16/40,,physics.aps.org
 mzs,172,35095031,190,1678460178,Smartphones and social media are destroying children’s mental health,story,https://www.ft.com/content/0e2f6f8e-bb03-4fa7-8864-f48f576167d2,,ft.com
 tintinnabula,48,35075302,90,1678312657,An experimental beach barrier could be key to rebuilding eroding coastlines,story,https://hakaimagazine.com/features/washaway-no-more-an-experimental-beach-barrier-could-be-key-to-rebuilding-eroding-coastlines/,,hakaimagazine.com
-pseudolus,99,35081218,249,1678370481,Chemicals released during wildfires in Australia damaged the ozone layer,story,https://www.nature.com/articles/d41586-023-00687-w,,nature.com
-dsr_,133,35076570,232,1678320629,Audio engineer explains NPR's signature sound (2015),story,https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/,,current.org
-mpweiher,11,35080768,47,1678367023,Why the Mental Health of Liberal Girls Sank First and Fastest,story,https://jonathanhaidt.substack.com/p/mental-health-liberal-girls,,jonathanhaidt.substack.com
+pseudolus,99,35081218,251,1678370481,Chemicals released during wildfires in Australia damaged the ozone layer,story,https://www.nature.com/articles/d41586-023-00687-w,,nature.com
+dsr_,133,35076570,233,1678320629,Audio engineer explains NPR's signature sound (2015),story,https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/,,current.org
+mpweiher,11,35080768,48,1678367023,Why the Mental Health of Liberal Girls Sank First and Fastest,story,https://jonathanhaidt.substack.com/p/mental-health-liberal-girls,,jonathanhaidt.substack.com
 giuliomagnifico,7,35084961,19,1678387469,Personal information of members of Congress exposed in health data breach,story,https://www.npr.org/2023/03/09/1162191035/personal-information-of-u-s-house-members-exposed-in-health-data-breach,,npr.org
 poopingface,9,35088871,47,1678407913,Sigmoid Colon: The biologically inspired activation function,story,https://github.com/poopingface/sigmoidcolon,,github.com
-aflag,84,35087361,180,1678399193,An Update on Dianna's Health (Physics Girl) [video],story,https://www.youtube.com/watch?v=vydgkCCXbTA,,youtube.com
+aflag,85,35087361,180,1678399193,An Update on Dianna's Health (Physics Girl) [video],story,https://www.youtube.com/watch?v=vydgkCCXbTA,,youtube.com
 bookofjoe,0,35088146,14,1678403291,Scientists create mice with two fathers after making eggs from male cells,story,https://www.theguardian.com/science/2023/mar/08/scientists-create-mice-with-two-fathers-after-making-eggs-from-male-cells,,theguardian.com
