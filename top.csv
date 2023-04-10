@@ -1,20 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-lastdong,7,35507558,61,1681083533,ArmorPaint and ArmorLab: open-source alternative to Adobe Substance,story,https://armorpaint.org/,,armorpaint.org
-fortran77,165,35507688,65,1681085213,"Xylazine, a dangerous new drug fuelling Canada’s opioid crisis",story,https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/,,macleans.ca
-lxm,10,35503743,97,1681054696,Russia’s New Mystery Shortwave Station,story,https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/,,hackaday.com
-mtharrison,8,35507546,12,1681083412,Show HN: ThoughtCoach: Helping to improve mental health with AI,story,https://thoughtcoach.app/,,thoughtcoach.app
-ymolinar,5,35508857,19,1681096919,DoctorGPT brings GPT into production for error diagnosing,story,https://github.com/ingyamilmolinar/doctorgpt,,github.com
-thunderbong,24,35504249,53,1681058097,Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging,story,https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/,,theregister.com
-retronick2020,16,35496718,78,1680982046,PyDPainter 1.0.5 – Amiga Deluxe Paint Clone Written in Python,story,https://www.pygame.org/project/5157/8204,,pygame.org
-thunderbong,11,35492067,120,1680949754,"Trashcan – web based service for indexing scientific papers, or other documents",story,https://gitlab.com/mildlyparallel/trashcan,,gitlab.com
-thunderbong,44,35480136,193,1680863522,James Niehues Ski Map Artist,story,https://jamesniehues.com/,,jamesniehues.com
-pyman_in,123,35476236,228,1680825537,‘Alien calculus’ could save particle physics from infinities,story,https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/,,quantamagazine.org
-PaulHoule,45,35472750,110,1680807270,A radiation hard RISC-V microprocessor for high-energy physics applications,story,https://arxiv.org/abs/2304.02410,,arxiv.org
-AiaAidan,130,35486923,153,1680901161,Direct evidence of the use of multiple drugs in Bronze Age from human hair test,story,https://www.nature.com/articles/s41598-023-31064-2,,nature.com
+wglb,45,35513643,73,1681141280,Previously unknown isotope of uranium discovered,story,https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html,,phys.org
+lastdong,25,35507558,161,1681083533,ArmorPaint and ArmorLab: open-source alternative to Adobe Substance,story,https://armorpaint.org/,,armorpaint.org
+fortran77,289,35507688,129,1681085213,"Xylazine, a dangerous new drug fuelling Canada’s opioid crisis",story,https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/,,macleans.ca
+lxm,14,35503743,105,1681054696,Russia’s New Mystery Shortwave Station,story,https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/,,hackaday.com
+mtharrison,15,35507546,17,1681083412,Show HN: ThoughtCoach: Helping to improve mental health with AI,story,https://thoughtcoach.app/,,thoughtcoach.app
+thunderbong,24,35504249,56,1681058097,Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging,story,https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/,,theregister.com
+retronick2020,17,35496718,81,1680982046,PyDPainter 1.0.5 – Amiga Deluxe Paint Clone Written in Python,story,https://www.pygame.org/project/5157/8204,,pygame.org
+ymolinar,5,35508857,28,1681096919,DoctorGPT brings GPT into production for error diagnosing,story,https://github.com/ingyamilmolinar/doctorgpt,,github.com
+thunderbong,44,35480136,194,1680863522,James Niehues Ski Map Artist,story,https://jamesniehues.com/,,jamesniehues.com
+thunderbong,11,35492067,121,1680949754,"Trashcan – web based service for indexing scientific papers, or other documents",story,https://gitlab.com/mildlyparallel/trashcan,,gitlab.com
+casca,3,35513240,11,1681139303,ChatGPT is making up fake Guardian articles. Here’s how we’re responding,story,https://www.theguardian.com/commentisfree/2023/apr/06/ai-chatgpt-guardian-technology-risks-fake-article,,theguardian.com
+pyman_in,124,35476236,230,1680825537,‘Alien calculus’ could save particle physics from infinities,story,https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/,,quantamagazine.org
+PaulHoule,45,35472750,111,1680807270,A radiation hard RISC-V microprocessor for high-energy physics applications,story,https://arxiv.org/abs/2304.02410,,arxiv.org
+AiaAidan,130,35486923,155,1680901161,Direct evidence of the use of multiple drugs in Bronze Age from human hair test,story,https://www.nature.com/articles/s41598-023-31064-2,,nature.com
 Caiero,7,35475286,58,1680819447,The Artistic Partnership of Lady Frieda Harris and Aleister Crowley,story,https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter,,laphamsquarterly.org
-satoshiiii,15,35478268,64,1680844332,Crazy ants’ strange genomes are a biological first,story,https://www.nature.com/articles/d41586-023-01002-3,,nature.com
+satoshiiii,15,35478268,65,1680844332,Crazy ants’ strange genomes are a biological first,story,https://www.nature.com/articles/d41586-023-01002-3,,nature.com
 geox,8,35485511,95,1680893692,Frequency comb breathalyzer detects Covid with excellent accuracy,story,https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy,,nist.gov
 greyface-,79,35484978,195,1680891582,Why did Phreesia share my medical data after I opted out?,story,https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/,,statnews.com
-hochmartinez,14,35485976,54,1680895833,Cancer and heart disease vaccines ‘ready by end of the decade’,story,https://www.theguardian.com/society/2023/apr/07/cancer-and-heart-disease-vaccines-ready-by-end-of-the-decade,,theguardian.com
-giuliomagnifico,0,35481372,13,1680874145,Physicists Discover That Gravity Can Create Light,story,https://www.universetoday.com/160838/physicists-discover-that-gravity-can-create-light/,,universetoday.com
-connor11528,28,35486080,28,1680896444,Obamacare Created Big Medicine,story,https://mattstoller.substack.com/p/how-obamacare-created-big-medicine,,mattstoller.substack.com
