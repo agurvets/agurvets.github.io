@@ -1,19 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-wglb,45,35513643,73,1681141280,Previously unknown isotope of uranium discovered,story,https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html,,phys.org
-lastdong,25,35507558,161,1681083533,ArmorPaint and ArmorLab: open-source alternative to Adobe Substance,story,https://armorpaint.org/,,armorpaint.org
-fortran77,289,35507688,129,1681085213,"Xylazine, a dangerous new drug fuelling Canada’s opioid crisis",story,https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/,,macleans.ca
-lxm,14,35503743,105,1681054696,Russia’s New Mystery Shortwave Station,story,https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/,,hackaday.com
-mtharrison,15,35507546,17,1681083412,Show HN: ThoughtCoach: Helping to improve mental health with AI,story,https://thoughtcoach.app/,,thoughtcoach.app
+gshakir,42,35538477,104,1681302073,Former executives of Outcome Health convicted in $1B corporate fraud scheme,story,https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme,,justice.gov
+Caiero,3,35521314,41,1681192066,The Candy Wrapper Museum,story,https://www.smithsonianmag.com/travel/take-a-peek-inside-the-candy-wrapper-museum-180981957/,,smithsonianmag.com
+BerislavLopac,16,35524611,186,1681218606,Open source and the future of nuclear physics,story,https://github.com/readme/featured/nuclear-fusion-open-source,,github.com
+mfiguiere,1,35529193,27,1681237730,A different way to measure the climate impact of food,story,https://www.economist.com/graphic-detail/2023/04/11/a-different-way-to-measure-the-climate-impact-of-food,,economist.com
+Thevet,11,35505954,42,1681070592,Saving the Mystery Symbols Carved into Australia’s Boab Trees,story,https://www.atlasobscura.com/articles/boab-tree-carvings-australia,,atlasobscura.com
+Brajeshwar,0,35527561,12,1681231015,The Mysterious Underground City Found in a Man’s Basement,story,https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps,,atlasobscura.com
+ilamont,10,35529438,38,1681238615,"Amazon now charges fees for UPS Store returns, forcing Whole Foods dropoffs",story,https://twitter.com/mattahertz/status/1645780111482933250,,twitter.com
+wglb,61,35513643,120,1681141280,Previously unknown isotope of uranium discovered,story,https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html,,phys.org
+lastdong,27,35507558,170,1681083533,ArmorPaint and ArmorLab: open-source alternative to Adobe Substance,story,https://armorpaint.org/,,armorpaint.org
+lxm,16,35503743,105,1681054696,Russia’s New Mystery Shortwave Station,story,https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/,,hackaday.com
+paulpauper,12,35534264,20,1681265816,Processed foods key to rising obesity 'Protein hunger' drive obesity study shows,story,https://www.sciencedaily.com/releases/2022/11/221108082623.htm,,sciencedaily.com
+fortran77,297,35507688,133,1681085213,"Xylazine, a dangerous new drug fuelling Canada’s opioid crisis",story,https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/,,macleans.ca
+donsupreme,0,35517479,15,1681161227,"Warren, AOC press top SVB depositors about any cushy treatment they received",story,https://www.cnbc.com/2023/04/10/warren-aoc-press-silicon-valley-bank-depositors-about-treatment.html,,cnbc.com
+mtharrison,17,35507546,18,1681083412,Show HN: ThoughtCoach: Helping to improve mental health with AI,story,https://thoughtcoach.app/,,thoughtcoach.app
 thunderbong,24,35504249,56,1681058097,Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging,story,https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/,,theregister.com
-retronick2020,17,35496718,81,1680982046,PyDPainter 1.0.5 – Amiga Deluxe Paint Clone Written in Python,story,https://www.pygame.org/project/5157/8204,,pygame.org
 ymolinar,5,35508857,28,1681096919,DoctorGPT brings GPT into production for error diagnosing,story,https://github.com/ingyamilmolinar/doctorgpt,,github.com
-thunderbong,44,35480136,194,1680863522,James Niehues Ski Map Artist,story,https://jamesniehues.com/,,jamesniehues.com
-thunderbong,11,35492067,121,1680949754,"Trashcan – web based service for indexing scientific papers, or other documents",story,https://gitlab.com/mildlyparallel/trashcan,,gitlab.com
-casca,3,35513240,11,1681139303,ChatGPT is making up fake Guardian articles. Here’s how we’re responding,story,https://www.theguardian.com/commentisfree/2023/apr/06/ai-chatgpt-guardian-technology-risks-fake-article,,theguardian.com
-pyman_in,124,35476236,230,1680825537,‘Alien calculus’ could save particle physics from infinities,story,https://www.quantamagazine.org/alien-calculus-could-save-particle-physics-from-infinities-20230406/,,quantamagazine.org
-PaulHoule,45,35472750,111,1680807270,A radiation hard RISC-V microprocessor for high-energy physics applications,story,https://arxiv.org/abs/2304.02410,,arxiv.org
-AiaAidan,130,35486923,155,1680901161,Direct evidence of the use of multiple drugs in Bronze Age from human hair test,story,https://www.nature.com/articles/s41598-023-31064-2,,nature.com
-Caiero,7,35475286,58,1680819447,The Artistic Partnership of Lady Frieda Harris and Aleister Crowley,story,https://www.laphamsquarterly.org/roundtable/analysis-does-cramp-painter,,laphamsquarterly.org
-satoshiiii,15,35478268,65,1680844332,Crazy ants’ strange genomes are a biological first,story,https://www.nature.com/articles/d41586-023-01002-3,,nature.com
-geox,8,35485511,95,1680893692,Frequency comb breathalyzer detects Covid with excellent accuracy,story,https://www.nist.gov/news-events/news/2023/04/jilas-frequency-comb-breathalyzer-detects-covid-19-excellent-accuracy,,nist.gov
-greyface-,79,35484978,195,1680891582,Why did Phreesia share my medical data after I opted out?,story,https://www.statnews.com/2023/04/07/medical-data-privacy-phreesia/,,statnews.com
