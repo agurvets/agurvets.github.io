@@ -1,18 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-gk1,2,35544851,27,1681325591,"Experimenting with LLMs to Research, Reflect, and Plan",story,https://eugeneyan.com/writing/llm-experiments/,,eugeneyan.com
-gshakir,44,35538477,107,1681302073,Former executives of Outcome Health convicted in $1B corporate fraud scheme,story,https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme,,justice.gov
-doener,2,35545455,11,1681327940,15-minute cities will free us to improve our mental health and wellbeing,story,https://theconversation.com/forget-the-conspiracies-15-minute-cities-will-free-us-to-improve-our-mental-health-and-wellbeing-200823,,theconversation.com
+gk1,7,35544851,81,1681325591,"Experimenting with LLMs to Research, Reflect, and Plan",story,https://eugeneyan.com/writing/llm-experiments/,,eugeneyan.com
+gshakir,46,35538477,113,1681302073,Former executives of Outcome Health convicted in $1B corporate fraud scheme,story,https://www.justice.gov/opa/pr/former-executives-outcome-health-convicted-1b-corporate-fraud-scheme,,justice.gov
+maxwell,5,35546029,17,1681330195,U.S. federal judge tosses gun possession case against drug users,story,https://thereload.com/federal-judge-tosses-gun-possession-case-against-drug-users/,,thereload.com
 Caiero,3,35521314,41,1681192066,The Candy Wrapper Museum,story,https://www.smithsonianmag.com/travel/take-a-peek-inside-the-candy-wrapper-museum-180981957/,,smithsonianmag.com
-BerislavLopac,16,35524611,186,1681218606,Open source and the future of nuclear physics,story,https://github.com/readme/featured/nuclear-fusion-open-source,,github.com
-mfiguiere,1,35529193,27,1681237730,A different way to measure the climate impact of food,story,https://www.economist.com/graphic-detail/2023/04/11/a-different-way-to-measure-the-climate-impact-of-food,,economist.com
+BerislavLopac,16,35524611,187,1681218606,Open source and the future of nuclear physics,story,https://github.com/readme/featured/nuclear-fusion-open-source,,github.com
+doener,7,35545455,15,1681327940,15-minute cities will free us to improve our mental health and wellbeing,story,https://theconversation.com/forget-the-conspiracies-15-minute-cities-will-free-us-to-improve-our-mental-health-and-wellbeing-200823,,theconversation.com
+mfiguiere,1,35529193,29,1681237730,A different way to measure the climate impact of food,story,https://www.economist.com/graphic-detail/2023/04/11/a-different-way-to-measure-the-climate-impact-of-food,,economist.com
 Thevet,11,35505954,42,1681070592,Saving the Mystery Symbols Carved into Australia’s Boab Trees,story,https://www.atlasobscura.com/articles/boab-tree-carvings-australia,,atlasobscura.com
-Brajeshwar,0,35527561,13,1681231015,The Mysterious Underground City Found in a Man’s Basement,story,https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps,,atlasobscura.com
+Brajeshwar,0,35527561,16,1681231015,The Mysterious Underground City Found in a Man’s Basement,story,https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps,,atlasobscura.com
 wglb,61,35513643,120,1681141280,Previously unknown isotope of uranium discovered,story,https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html,,phys.org
-ilamont,10,35529438,38,1681238615,"Amazon now charges fees for UPS Store returns, forcing Whole Foods dropoffs",story,https://twitter.com/mattahertz/status/1645780111482933250,,twitter.com
 lastdong,27,35507558,170,1681083533,ArmorPaint and ArmorLab: open-source alternative to Adobe Substance,story,https://armorpaint.org/,,armorpaint.org
+ilamont,10,35529438,38,1681238615,"Amazon now charges fees for UPS Store returns, forcing Whole Foods dropoffs",story,https://twitter.com/mattahertz/status/1645780111482933250,,twitter.com
 lxm,16,35503743,105,1681054696,Russia’s New Mystery Shortwave Station,story,https://hackaday.com/2023/04/08/russias-new-mystery-shortwave-station/,,hackaday.com
+fortran77,298,35507688,133,1681085213,"Xylazine, a dangerous new drug fuelling Canada’s opioid crisis",story,https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/,,macleans.ca
 paulpauper,12,35534264,20,1681265816,Processed foods key to rising obesity 'Protein hunger' drive obesity study shows,story,https://www.sciencedaily.com/releases/2022/11/221108082623.htm,,sciencedaily.com
-fortran77,297,35507688,133,1681085213,"Xylazine, a dangerous new drug fuelling Canada’s opioid crisis",story,https://macleans.ca/society/what-is-xylazine-the-dangerous-new-drug-fuelling-canadas-opioid-crisis/,,macleans.ca
 mtharrison,17,35507546,18,1681083412,Show HN: ThoughtCoach: Helping to improve mental health with AI,story,https://thoughtcoach.app/,,thoughtcoach.app
 donsupreme,0,35517479,15,1681161227,"Warren, AOC press top SVB depositors about any cushy treatment they received",story,https://www.cnbc.com/2023/04/10/warren-aoc-press-silicon-valley-bank-depositors-about-treatment.html,,cnbc.com
 thunderbong,24,35504249,56,1681058097,Lawyers cough up $200k after health data stolen in Microsoft Exchange pillaging,story,https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/,,theregister.com
