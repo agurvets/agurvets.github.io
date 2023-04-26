@@ -1,6 +1,14 @@
 by,descendants,id,score,time,title,type,url,text,domain
-louison11,45,35692242,43,1682365752,"Digital addiction: Focusing on the cure, not the disease",story,https://louison.substack.com/p/digital-addiction-focusing-on-the,,louison.substack.com
-fahad19,5,35691803,43,1682363425,Show HN: Featurevisor – Git-based feature flags and experiments management,story,https://featurevisor.com/,"Why?<p>- Decouple application deployment from releases<p>How it works:<p>- Make changes to your features and segments (YAMLs) via Pull Requests
+Feuilles_Mortes,54,35704626,99,1682447236,What Rosalind Franklin contributed to the discovery of DNA’s structure,story,https://www.nature.com/articles/d41586-023-01313-5,,nature.com
+mdp2021,212,35700881,327,1682432452,Use of antibiotics in farming ‘endangering human immune system’,story,https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system,,theguardian.com
+pelasaco,16,35698702,189,1682419684,The Nature of Code (2012),story,https://natureofcode.com/,,natureofcode.com
+occamschainsaw,113,35698541,135,1682418013,Congress gets 40 ChatGPT Plus licenses to start experimenting with generative AI,story,https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/,,fedscoop.com
+isaacfrond,79,35684808,126,1682322861,Heavy particles don’t explain gravitational lensing oddities,story,https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/,,arstechnica.com
+wrycoder,148,35688233,96,1682347308,Quantum physics falls apart without imaginary numbers,story,https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/,,scientificamerican.com
+pseudosim,0,35706721,14,1682456333,"The mysterious disappearance of ChaosGPT, the AI that wants to destroy humanity",story,https://decrypt.co/137898/mysterious-disappearance-chaosgpt-evil-ai-destroy-humanity,,decrypt.co
+louison11,63,35692242,60,1682365752,"Digital addiction: Focusing on the cure, not the disease",story,https://louison.substack.com/p/digital-addiction-focusing-on-the,,louison.substack.com
+averageValentin,119,35691854,200,1682363733,The Effects of Noise on Health (2022),story,https://hms.harvard.edu/magazine/viral-world/effects-noise-health,,hms.harvard.edu
+fahad19,8,35691803,47,1682363425,Show HN: Featurevisor – Git-based feature flags and experiments management,story,https://featurevisor.com/,"Why?<p>- Decouple application deployment from releases<p>How it works:<p>- Make changes to your features and segments (YAMLs) via Pull Requests
 - Generate datafile (JSON file) in CI&#x2F;CD workflow and upload to your CDN
 - Fetch datafile in your application runtime and consume with SDKs<p>Supports:<p>- Feature flags: boolean flags
 - Experimentation: a&#x2F;b tests
@@ -14,18 +22,12 @@ fahad19,5,35691803,43,1682363425,Show HN: Featurevisor – Git-based feature fla
 - Tracking: integration with any analytics tool
 - Status site generator: for human friendly status reporting
 - SDKs: for Node.js and browser environments, Kotlin&#x2F;Swift planned for future",featurevisor.com
-averageValentin,109,35691854,188,1682363733,The Effects of Noise on Health (2022),story,https://hms.harvard.edu/magazine/viral-world/effects-noise-health,,hms.harvard.edu
-sfstandard,3,35694534,13,1682378156,Bob Lee Killing: What Role Did Drugs Play in SF Slaying of Tech Exec?,story,https://sfstandard.com/criminal-justice/bob-lee-killing-what-role-did-drugs-play-in-sf-slaying-of-tech-exec/,,sfstandard.com
-karaokeyoga,52,35682523,164,1682298420,Tony Hsieh’s Friends/Family Milked Millions in His Drug-Fueled Final Months,story,https://www.forbes.com/sites/angelauyeung/2023/04/23/wonder-boy-book-excerpt-tony-hsieh-final-days/,,forbes.com
-rolph,139,35667429,300,1682176661,Why the brain’s connections to the body are crisscrossed,story,https://www.quantamagazine.org/why-the-brains-connections-to-the-body-are-crisscrossed-20230419/,,quantamagazine.org
-wrycoder,49,35688233,32,1682347308,Quantum physics falls apart without imaginary numbers,story,https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/,,scientificamerican.com
-diodorus,7,35660090,41,1682110919,Stone age animal urine could solve a mystery about technological development,story,https://www.scientificamerican.com/article/stone-age-animal-urine-could-solve-a-mystery-about-technological-development/,,scientificamerican.com
-Brajeshwar,57,35677880,138,1682268467,Longevity study across 5 species found a new pathway to reverse aging,story,https://singularityhub.com/2023/04/18/this-longevity-study-across-5-species-found-a-new-pathway-to-reverse-aging/,,singularityhub.com
-ta988,2,35687969,12,1682345839,The boozy story of how we decided alcohol was a health boon in the ’90s,story,https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html,,slate.com
-tamaharbor,92,35662580,133,1682128506,More than 19k undersea volcanoes discovered,story,https://www.science.org/content/article/it-s-just-mind-boggling-more-19-000-undersea-volcanoes-discovered,,science.org
-mathgenius,8,35681048,12,1682286804,The Cancer Industry: Hype versus Reality,story,https://johnhorgan.org/cross-check/the-cancer-industry-hype-versus-reality,,johnhorgan.org
-ouzb64ty,19,35665101,63,1682159687,"Medical wordlists in English, French and Ukrainian",story,https://github.com/theophpo/medical-wordlist,,github.com
+jseliger,5,35701639,12,1682435747,There's no big mystery about why colleges are ditching the SAT,story,https://www.slowboring.com/p/sat-optional-affirmative-action,,slowboring.com
+karaokeyoga,54,35682523,167,1682298420,Tony Hsieh’s Friends/Family Milked Millions in His Drug-Fueled Final Months,story,https://www.forbes.com/sites/angelauyeung/2023/04/23/wonder-boy-book-excerpt-tony-hsieh-final-days/,,forbes.com
+elmalto,4,35701452,26,1682434975,Florida surgeon general altered key findings in study on Covid-19 vaccine safety,story,https://www.politico.com/news/2023/04/24/florida-surgeon-general-covid-vaccine-00093510,,politico.com
+Brajeshwar,59,35677880,138,1682268467,Longevity study across 5 species found a new pathway to reverse aging,story,https://singularityhub.com/2023/04/18/this-longevity-study-across-5-species-found-a-new-pathway-to-reverse-aging/,,singularityhub.com
+sfstandard,3,35694534,17,1682378156,Bob Lee Killing: What Role Did Drugs Play in SF Slaying of Tech Exec?,story,https://sfstandard.com/criminal-justice/bob-lee-killing-what-role-did-drugs-play-in-sf-slaying-of-tech-exec/,,sfstandard.com
+ta988,2,35687969,13,1682345839,The boozy story of how we decided alcohol was a health boon in the ’90s,story,https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html,,slate.com
 dangle1,1,35676064,28,1682256504,Physicist Sameera Moussa went from a role model to a target,story,https://arstechnica.com/science/2023/04/the-strange-tragic-story-of-egypts-foremost-female-nuclear-scientist/,,arstechnica.com
-krn,1,35658259,30,1682103007,Cocaine-smuggling submarine reveals Europe's drug crisis,story,https://www.bbc.com/news/world-europe-65337215,,bbc.com
-herbertl,1,35670688,11,1682195932,Curing disease is the hot new field for AI talent,story,https://www.semafor.com/article/04/21/2023/curing-disease-is-the-hot-new-field-for-ai-talent,,semafor.com
-RadixDLT,4,35658940,14,1682106044,U.S. says it 'infiltrated' the Sinaloa drug cartel in the fight against fentanyl,story,https://www.npr.org/2023/04/21/1170326191/fentanyl-mexico-drug-cartel-sinaloa-chapitos-el-chapo,,npr.org
+mathgenius,8,35681048,14,1682286804,The Cancer Industry: Hype versus Reality,story,https://johnhorgan.org/cross-check/the-cancer-industry-hype-versus-reality,,johnhorgan.org
+karaokeyoga,10,35681650,18,1682291311,Chinese Censorship Is Quietly Rewriting the Covid-19 Story,story,https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html,,nytimes.com
