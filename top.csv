@@ -1,14 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Feuilles_Mortes,54,35704626,99,1682447236,What Rosalind Franklin contributed to the discovery of DNA’s structure,story,https://www.nature.com/articles/d41586-023-01313-5,,nature.com
-mdp2021,212,35700881,327,1682432452,Use of antibiotics in farming ‘endangering human immune system’,story,https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system,,theguardian.com
-pelasaco,16,35698702,189,1682419684,The Nature of Code (2012),story,https://natureofcode.com/,,natureofcode.com
-occamschainsaw,113,35698541,135,1682418013,Congress gets 40 ChatGPT Plus licenses to start experimenting with generative AI,story,https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/,,fedscoop.com
-isaacfrond,79,35684808,126,1682322861,Heavy particles don’t explain gravitational lensing oddities,story,https://arstechnica.com/science/2023/04/gravitational-lensing-may-point-to-lighter-dark-matter-candidate/,,arstechnica.com
-wrycoder,148,35688233,96,1682347308,Quantum physics falls apart without imaginary numbers,story,https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/,,scientificamerican.com
-pseudosim,0,35706721,14,1682456333,"The mysterious disappearance of ChaosGPT, the AI that wants to destroy humanity",story,https://decrypt.co/137898/mysterious-disappearance-chaosgpt-evil-ai-destroy-humanity,,decrypt.co
-louison11,63,35692242,60,1682365752,"Digital addiction: Focusing on the cure, not the disease",story,https://louison.substack.com/p/digital-addiction-focusing-on-the,,louison.substack.com
-averageValentin,119,35691854,200,1682363733,The Effects of Noise on Health (2022),story,https://hms.harvard.edu/magazine/viral-world/effects-noise-health,,hms.harvard.edu
-fahad19,8,35691803,47,1682363425,Show HN: Featurevisor – Git-based feature flags and experiments management,story,https://featurevisor.com/,"Why?<p>- Decouple application deployment from releases<p>How it works:<p>- Make changes to your features and segments (YAMLs) via Pull Requests
+redm,59,35733190,97,1682623005,New nanoparticles can perform gene editing in the lungs,story,https://news.mit.edu/2023/new-nanoparticles-can-perform-gene-editing-lungs-0330,,news.mit.edu
+erjiang,1,35736913,14,1682649246,Is Krita ready for HDR painting?,story,https://notes.ericjiang.com/posts/1241,,notes.ericjiang.com
+bookofjoe,8,35707031,33,1682458392,Risk of testicular cancer and neurodevelopmental or other psychiatric disorders,story,https://www.nature.com/articles/s41416-023-02260-8,,nature.com
+mrleinad,202,35713042,198,1682514382,"The Role of Diet on the Gut Microbiome, Mood and Happiness",story,https://pubmed.ncbi.nlm.nih.gov/36993403/,,pubmed.ncbi.nlm.nih.gov
+surprisetalk,16,35726670,16,1682596399,Stannous Fluoride – Oral Health Benefits,story,https://en.wikipedia.org/wiki/Tin(II)_fluoride,,en.wikipedia.org
+occamschainsaw,127,35698541,158,1682418013,Congress gets 40 ChatGPT Plus licenses to start experimenting with generative AI,story,https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/,,fedscoop.com
+Feuilles_Mortes,134,35704626,153,1682447236,What Rosalind Franklin contributed to the discovery of DNA’s structure,story,https://www.nature.com/articles/d41586-023-01313-5,,nature.com
+pelasaco,22,35698702,209,1682419684,The Nature of Code (2012),story,https://natureofcode.com/,,natureofcode.com
+mdp2021,249,35700881,392,1682432452,Use of antibiotics in farming ‘endangering human immune system’,story,https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system,,theguardian.com
+georgecmu,65,35735828,35,1682638337,Sperm counts are declining. Scientists have pinpointed the main causes,story,https://www.euronews.com/next/2023/04/26/sperm-counts-are-declining-scientists-believe-they-have-pinpointed-the-main-causes-why,,euronews.com
+louison11,65,35692242,63,1682365752,"Digital addiction: Focusing on the cure, not the disease",story,https://louison.substack.com/p/digital-addiction-focusing-on-the,,louison.substack.com
+fahad19,8,35691803,48,1682363425,Show HN: Featurevisor – Git-based feature flags and experiments management,story,https://featurevisor.com/,"Why?<p>- Decouple application deployment from releases<p>How it works:<p>- Make changes to your features and segments (YAMLs) via Pull Requests
 - Generate datafile (JSON file) in CI&#x2F;CD workflow and upload to your CDN
 - Fetch datafile in your application runtime and consume with SDKs<p>Supports:<p>- Feature flags: boolean flags
 - Experimentation: a&#x2F;b tests
@@ -22,12 +24,9 @@ fahad19,8,35691803,47,1682363425,Show HN: Featurevisor – Git-based feature fla
 - Tracking: integration with any analytics tool
 - Status site generator: for human friendly status reporting
 - SDKs: for Node.js and browser environments, Kotlin&#x2F;Swift planned for future",featurevisor.com
-jseliger,5,35701639,12,1682435747,There's no big mystery about why colleges are ditching the SAT,story,https://www.slowboring.com/p/sat-optional-affirmative-action,,slowboring.com
-karaokeyoga,54,35682523,167,1682298420,Tony Hsieh’s Friends/Family Milked Millions in His Drug-Fueled Final Months,story,https://www.forbes.com/sites/angelauyeung/2023/04/23/wonder-boy-book-excerpt-tony-hsieh-final-days/,,forbes.com
-elmalto,4,35701452,26,1682434975,Florida surgeon general altered key findings in study on Covid-19 vaccine safety,story,https://www.politico.com/news/2023/04/24/florida-surgeon-general-covid-vaccine-00093510,,politico.com
-Brajeshwar,59,35677880,138,1682268467,Longevity study across 5 species found a new pathway to reverse aging,story,https://singularityhub.com/2023/04/18/this-longevity-study-across-5-species-found-a-new-pathway-to-reverse-aging/,,singularityhub.com
-sfstandard,3,35694534,17,1682378156,Bob Lee Killing: What Role Did Drugs Play in SF Slaying of Tech Exec?,story,https://sfstandard.com/criminal-justice/bob-lee-killing-what-role-did-drugs-play-in-sf-slaying-of-tech-exec/,,sfstandard.com
-ta988,2,35687969,13,1682345839,The boozy story of how we decided alcohol was a health boon in the ’90s,story,https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html,,slate.com
-dangle1,1,35676064,28,1682256504,Physicist Sameera Moussa went from a role model to a target,story,https://arstechnica.com/science/2023/04/the-strange-tragic-story-of-egypts-foremost-female-nuclear-scientist/,,arstechnica.com
-mathgenius,8,35681048,14,1682286804,The Cancer Industry: Hype versus Reality,story,https://johnhorgan.org/cross-check/the-cancer-industry-hype-versus-reality,,johnhorgan.org
-karaokeyoga,10,35681650,18,1682291311,Chinese Censorship Is Quietly Rewriting the Covid-19 Story,story,https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html,,nytimes.com
+averageValentin,120,35691854,201,1682363733,The Effects of Noise on Health (2022),story,https://hms.harvard.edu/magazine/viral-world/effects-noise-health,,hms.harvard.edu
+malshe,2,35718996,13,1682538503,Apple is reportedly working on an AI health coach,story,https://mashable.com/article/apple-watch-ai-health-coach-ipados17-ios17,,mashable.com
+SirLJ,15,35727666,11,1682601641,Powerful new obesity drug poised to upend weight loss care,story,https://apnews.com/article/mounjaro-wegovy-ozempic-obesity-weight-loss-bd0e037cc5981513487260d40636752a,,apnews.com
+karaokeyoga,6,35721139,11,1682550254,"On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox",story,https://www.nytimes.com/2023/04/26/business/media/tucker-carlson-dominion-fox-news.html,,nytimes.com
+pseudolus,4,35708320,16,1682467742,"'High Risk of Biological Hazard' in Sudan After Fighters Seize Biolab, WHO Says",story,https://www.vice.com/en/article/epvnjn/high-risk-of-biological-hazard-in-sudan-after-fighters-seize-biolab-who-says,,vice.com
+DocFeind,92,35731962,87,1682617839,Oral Sex Stoking Throat Cancer ‘Epidemic’ in UK and US,story,https://www.independent.co.uk/news/health/oral-sex-throat-cancer-uk-us-b2327921.html,,independent.co.uk
