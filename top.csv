@@ -1,17 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-isaacfrond,281,35829294,301,1683295253,Journalist writes about discovering she’d been surveilled by TikTok,story,https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/,,arstechnica.com
-zdw,26,35836601,26,1683331248,Things I Want to Communicate to the Human Species Before I Die,story,https://www.raptitude.com/2023/05/10-things-i-want-to-communicate-to-the-human-species-before-i-die/,,raptitude.com
-rbanffy,1,35835740,19,1683324764,Scientists say they have found more moons with oceans in the Solar System,story,https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/,,arstechnica.com
+barry-cotter,28,35839594,58,1683364545,Outcomes after surgery performed by associate clinicians vs doctors (2021),story,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739,,jamanetwork.com
+atombender,67,35840530,174,1683374836,Desulfovibrio bacteria are probable causes of Parkinson's disease: study,story,https://yle.fi/a/74-20030498,,yle.fi
+isaacfrond,297,35829294,314,1683295253,Journalist writes about discovering she’d been surveilled by TikTok,story,https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/,,arstechnica.com
+zdw,32,35836601,30,1683331248,Things I Want to Communicate to the Human Species Before I Die,story,https://www.raptitude.com/2023/05/10-things-i-want-to-communicate-to-the-human-species-before-i-die/,,raptitude.com
 a-poor,18,35816224,134,1683211715,Running JavaScript in Rust with Deno: Experimenting with Deno's Rust Crates,story,https://austinpoor.com/blog/js-in-rs,,austinpoor.com
-nateb2022,181,35810977,248,1683172078,Ryujinx: Experimental Nintendo Switch Emulator written in C#,story,https://github.com/Ryujinx/Ryujinx,,github.com
-mystcb,12,35829059,32,1683294022,"WHO downgrades Covid pandemic, says it’s no longer emergency",story,https://apnews.com/article/who-declares-covid-emergency-over-pandemic-8b6445735df5218b5d9d6ec32fa047ca,,apnews.com
+nateb2022,186,35810977,248,1683172078,Ryujinx: Experimental Nintendo Switch Emulator written in C#,story,https://github.com/Ryujinx/Ryujinx,,github.com
+rbanffy,1,35835740,19,1683324764,Scientists say they have found more moons with oceans in the Solar System,story,https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/,,arstechnica.com
 andyjohnson0,22,35807957,74,1683148845,Voyager as Technosignature,story,https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/,,centauri-dreams.org
-doener,2,35829727,13,1683297115,WHO says Covid-19 is no longer a global health emergency,story,https://www.cnn.com/2023/05/05/health/who-ends-covid-health-emergency/index.html,,cnn.com
-ourmandave,138,35806753,157,1683143070,FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine,story,https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine,,fda.gov
+mystcb,12,35829059,33,1683294022,"WHO downgrades Covid pandemic, says it’s no longer emergency",story,https://apnews.com/article/who-declares-covid-emergency-over-pandemic-8b6445735df5218b5d9d6ec32fa047ca,,apnews.com
+ourmandave,141,35806753,157,1683143070,FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine,story,https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine,,fda.gov
 pseudolus,4,35804298,72,1683131116,"New Alzheimer’s drug slows cognitive decline by 35%, trial results show",story,https://www.theguardian.com/society/2023/may/03/new-alzheimers-drug-slows-cognitive-decline-by-35-trial-results-show,,theguardian.com
-moeinsh,4,35829635,11,1683296700,End of Covid-19 as a global health emergency,story,https://twitter.com/DrTedros/status/1654484522358939650,,twitter.com
+doener,2,35829727,13,1683297115,WHO says Covid-19 is no longer a global health emergency,story,https://www.cnn.com/2023/05/05/health/who-ends-covid-health-emergency/index.html,,cnn.com
 throw0101a,9,35816819,16,1683213659,US Surgeon general lays out framework to tackle loneliness,story,https://www.cnn.com/2023/05/02/health/murthy-loneliness-isolation/index.html,,cnn.com
-rbanffy,7,35812168,15,1683183637,Experiment demonstrates continuously operating optical fiber made of thin air,story,https://phys.org/news/2023-05-optical-fiber-thin-air.html,,phys.org
 _xerces_,132,35792360,214,1683053376,Exercise increases number of immune cells in cancer patients,story,https://www.utu.fi/en/news/press-release/exercise-increases-the-number-of-cancer-destroying-immune-cells-in-cancer,,utu.fi
-KqAmJQ7,33,35799691,49,1683103542,A professor found her name on an article she didn’t write. Then it got worse,story,https://retractionwatch.com/2023/04/18/a-professor-found-her-name-on-an-article-she-didnt-write-then-it-got-worse/,,retractionwatch.com
-belltaco,0,35820080,12,1683225306,Why doctors fear Covid could be causing diabetes in otherwise healthy patients,story,https://www.telegraph.co.uk/global-health/science-and-disease/diabetes-type-one-type-two-covid-link-pandemic-coronavirus/,,telegraph.co.uk
+rbanffy,7,35812168,15,1683183637,Experiment demonstrates continuously operating optical fiber made of thin air,story,https://phys.org/news/2023-05-optical-fiber-thin-air.html,,phys.org
+moeinsh,6,35829635,11,1683296700,End of Covid-19 as a global health emergency,story,https://twitter.com/DrTedros/status/1654484522358939650,,twitter.com
