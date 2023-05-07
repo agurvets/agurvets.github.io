@@ -1,13 +1,13 @@
 by,descendants,id,score,time,title,type,url,text,domain
-gumby,4,35841703,12,1683383301,Scientists Might Have Found the Best Way to Catcall a Cat,story,https://gizmodo.com/your-cat-knows-when-youre-using-your-cat-talk-voice-1849695518,,gizmodo.com
-CharlesW,116,35847814,188,1683432186,Large-scale study reveals autoimmune disorders now affect around one in ten,story,https://www.gla.ac.uk/news/headline_952084_en.html,,gla.ac.uk
-voisin,54,35847774,138,1683431644,AI tool designs mRNA vaccines that are more potent and stable,story,https://www.nature.com/articles/d41586-023-01487-y,,nature.com
-8bitsrule,14,35848343,92,1683439289,Scientists find link between photosynthesis and 'fifth state of matter',story,https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html,,phys.org
+CharlesW,127,35847814,195,1683432186,Large-scale study reveals autoimmune disorders now affect around one in ten,story,https://www.gla.ac.uk/news/headline_952084_en.html,,gla.ac.uk
+lopkeny12ko,33,35854087,69,1683483630,OpenAI CEO says the remote work ‘experiment’ was a mistake–and ‘it’s over’,story,https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/,,fortune.com
+8bitsrule,14,35848343,93,1683439289,Scientists find link between photosynthesis and 'fifth state of matter',story,https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html,,phys.org
 lis,23,35845308,79,1683406714,Mailbox.org discovers unencrypted password transmission in myMail,story,https://mailbox.org/en/post/mailbox-org-discovers-unencrypted-password-transmission-in-mymail,,mailbox.org
-geox,153,35846517,146,1683417353,New study: 70% of type 2 diabetes cases linked to food choices,story,https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/,,scitechdaily.com
-mehyar500,6,35845193,15,1683405661,Show HN: MoodFood – AI Chef Assistant for Personalized Meals and Mood Dining,story,https://www.moodfood.app/,,moodfood.app
-pech0rin,4,35848193,12,1683437118,Sam Altman says the remote work ‘experiment’ was a mistake,story,https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/,,fortune.com
+voisin,54,35847774,138,1683431644,AI tool designs mRNA vaccines that are more potent and stable,story,https://www.nature.com/articles/d41586-023-01487-y,,nature.com
+geox,153,35846517,148,1683417353,New study: 70% of type 2 diabetes cases linked to food choices,story,https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/,,scitechdaily.com
+mehyar500,6,35845193,16,1683405661,Show HN: MoodFood – AI Chef Assistant for Personalized Meals and Mood Dining,story,https://www.moodfood.app/,,moodfood.app
 barry-cotter,30,35839594,71,1683364545,Outcomes after surgery performed by associate clinicians vs doctors (2021),story,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739,,jamanetwork.com
+pech0rin,5,35848193,12,1683437118,Sam Altman says the remote work ‘experiment’ was a mistake,story,https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/,,fortune.com
 atombender,77,35840530,181,1683374836,Desulfovibrio bacteria are probable causes of Parkinson's disease: study,story,https://yle.fi/a/74-20030498,,yle.fi
 jacquesm,6,35843822,30,1683396572,Ex-CEO of hacked clinic sentenced for failing to protect patients' session notes,story,https://www.bitdefender.com/blog/hotforsecurity/ex-ceo-of-hacked-therapy-clinic-sentenced-for-failing-to-protect-patients-session-notes/,,bitdefender.com
 isaacfrond,302,35829294,318,1683295253,Journalist writes about discovering she’d been surveilled by TikTok,story,https://arstechnica.com/tech-policy/2023/05/tiktok-spied-on-me-why/,,arstechnica.com
@@ -16,5 +16,5 @@ a-poor,18,35816224,134,1683211715,Running JavaScript in Rust with Deno: Experime
 zdw,35,35836601,30,1683331248,Things I Want to Communicate to the Human Species Before I Die,story,https://www.raptitude.com/2023/05/10-things-i-want-to-communicate-to-the-human-species-before-i-die/,,raptitude.com
 andyjohnson0,22,35807957,74,1683148845,Voyager as Technosignature,story,https://www.centauri-dreams.org/2023/05/03/voyager-as-technosignature/,,centauri-dreams.org
 rbanffy,1,35835740,20,1683324764,Scientists say they have found more moons with oceans in the Solar System,story,https://arstechnica.com/science/2023/05/as-many-as-four-moons-around-uranus-may-have-oceans-below-the-surface/,,arstechnica.com
-ourmandave,143,35806753,157,1683143070,FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine,story,https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine,,fda.gov
+ourmandave,144,35806753,157,1683143070,FDA Approves First Respiratory Syncytial Virus (RSV) Vaccine,story,https://www.fda.gov/news-events/press-announcements/fda-approves-first-respiratory-syncytial-virus-rsv-vaccine,,fda.gov
 pseudolus,4,35804298,72,1683131116,"New Alzheimer’s drug slows cognitive decline by 35%, trial results show",story,https://www.theguardian.com/society/2023/may/03/new-alzheimers-drug-slows-cognitive-decline-by-35-trial-results-show,,theguardian.com
