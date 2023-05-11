@@ -1,11 +1,11 @@
 by,descendants,id,score,time,title,type,url,text,domain
-geox,5,35895417,36,1683763719,Scientists Regenerate Hair Cells That Enable Hearing,story,https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing,,hms.harvard.edu
-mfiguiere,135,35894039,173,1683755776,Expensive energy may have killed more Europeans than Covid-19 last winter,story,https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter,,economist.com
-luu,8,35892686,19,1683748873,Do adenovirus-vector Covid-19 vaccines have beneficial non-specific effects?,story,https://www.cell.com/iscience/fulltext/S2589-0042(23)00810-6,,cell.com
+geox,13,35895417,71,1683763719,Scientists Regenerate Hair Cells That Enable Hearing,story,https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing,,hms.harvard.edu
+mfiguiere,147,35894039,189,1683755776,Expensive energy may have killed more Europeans than Covid-19 last winter,story,https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter,,economist.com
+luu,12,35892686,20,1683748873,Do adenovirus-vector Covid-19 vaccines have beneficial non-specific effects?,story,https://www.cell.com/iscience/fulltext/S2589-0042(23)00810-6,,cell.com
 _hypx,32,35883891,130,1683695750,An experimental editor for WebGPU compute shaders,story,https://compute.toys/,,compute.toys
 tpmx,34,35890989,69,1683741734,Google's Latest Experiments in Labs,story,https://labs.withgoogle.com/,,labs.withgoogle.com
-zdw,81,35891362,86,1683743254,Psychoactive substance use by professional programmers,story,https://arxiv.org/abs/2305.01056,,arxiv.org
-pseudolus,166,35874670,225,1683641823,Health advisory on social media use in adolescence,story,https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use,,apa.org
+pseudolus,167,35874670,225,1683641823,Health advisory on social media use in adolescence,story,https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use,,apa.org
+zdw,85,35891362,86,1683743254,Psychoactive substance use by professional programmers,story,https://arxiv.org/abs/2305.01056,,arxiv.org
 Avi-D-coder,2,35893762,12,1683753985,The Medical Care That Helps No One,story,https://www.theatlantic.com/ideas/archive/2023/05/icu-nurse-palliative-care-ventilators-intubation/673984/,,theatlantic.com
 gmays,13,35875393,124,1683644578,T cells can activate themselves to fight tumors,story,https://today.ucsd.edu/story/t-cells-can-activate-themselves-to-fight-tumors,,today.ucsd.edu
 geox,233,35876062,314,1683646841,Reduced cancer mortality with daily Vitamin D intake,story,https://www.dkfz.de/en/presse/pressemitteilungen/2023/dkfz-pm-23-27-Reduced-cancer-mortality-with-daily-vitamin-D-intake.php,,dkfz.de
@@ -14,6 +14,6 @@ sandebert,9,35884124,12,1683698227,Microbes discovered that can digest plastics 
 ter_adata,4,35878002,22,1683654846,AI predicts pancreatic cancer 3 years before it happens,story,https://www.theregister.com/2023/05/09/ai_pancreatic_cancer/,,theregister.com
 panabee,50,35869976,43,1683604200,PMC-LLaMA: Further Finetuning LLaMA on Medical Papers,story,https://arxiv.org/abs/2304.14454,,arxiv.org
 LinuxBender,2,35876238,11,1683647455,Major psychologists' group warns of social media's potential harm to kids,story,https://text.npr.org/1174838633,,text.npr.org
-rntn,108,35876150,63,1683647146,Many people living in the 'Diabetes Belt' are plagued with medical debt,story,https://text.npr.org/1173439205,,text.npr.org
 daniel_iversen,103,35874375,108,1683640603,Scientists Use GPT AI to Passively Read People's Thoughts in Breakthrough,story,https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough,,vice.com
+rntn,108,35876150,63,1683647146,Many people living in the 'Diabetes Belt' are plagued with medical debt,story,https://text.npr.org/1173439205,,text.npr.org
 putlake,2,35869492,12,1683598745,US food pesticides contaminated with toxic ‘forever chemicals’ testing finds,story,https://www.theguardian.com/environment/2023/may/07/food-pesticides-toxic-forever-chemicals-pfas,,theguardian.com
