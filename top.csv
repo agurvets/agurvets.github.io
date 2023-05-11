@@ -1,17 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-_hypx,30,35883891,120,1683695750,An experimental editor for WebGPU compute shaders,story,https://compute.toys/,,compute.toys
-coloneltcb,85,35887281,108,1683726359,Health Insurance Claim Denied? See What Insurers Said Behind the Scenes,story,https://www.propublica.org/article/find-out-why-health-insurance-claim-denied,,propublica.org
-pseudolus,162,35874670,223,1683641823,Health advisory on social media use in adolescence,story,https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use,,apa.org
-gmays,12,35875393,122,1683644578,T cells can activate themselves to fight tumors,story,https://today.ucsd.edu/story/t-cells-can-activate-themselves-to-fight-tumors,,today.ucsd.edu
-sandebert,8,35884124,11,1683698227,Microbes discovered that can digest plastics at low temperatures,story,https://www.theguardian.com/science/2023/may/10/microbes-digest-plastics-low-temperatures-recycling,,theguardian.com
-geox,232,35876062,309,1683646841,Reduced cancer mortality with daily Vitamin D intake,story,https://www.dkfz.de/en/presse/pressemitteilungen/2023/dkfz-pm-23-27-Reduced-cancer-mortality-with-daily-vitamin-D-intake.php,,dkfz.de
-bookofjoe,7,35861276,41,1683552255,Videocard Virtual Museum,story,https://vgamuseum.ru/?ref=scopeofwork.net,,vgamuseum.ru
-theNewMicrosoft,175,35858268,203,1683521965,Rapamycin: The unlucky history of an anti-aging drug,story,https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/,,bigthink.com
-CharlesW,171,35847814,248,1683432186,Large-scale study reveals autoimmune disorders now affect around one in ten,story,https://www.gla.ac.uk/news/headline_952084_en.html,,gla.ac.uk
-ter_adata,4,35878002,20,1683654846,AI predicts pancreatic cancer 3 years before it happens,story,https://www.theregister.com/2023/05/09/ai_pancreatic_cancer/,,theregister.com
-lis,29,35845308,83,1683406714,Mailbox.org discovers unencrypted password transmission in myMail,story,https://mailbox.org/en/post/mailbox-org-discovers-unencrypted-password-transmission-in-mymail,,mailbox.org
-8bitsrule,20,35848343,109,1683439289,Scientists find link between photosynthesis and 'fifth state of matter',story,https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html,,phys.org
-geox,170,35846517,166,1683417353,New study: 70% of type 2 diabetes cases linked to food choices,story,https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/,,scitechdaily.com
-LinuxBender,2,35876238,11,1683647455,Major psychologists' group warns of social media's potential harm to kids,story,https://text.npr.org/1174838633,,text.npr.org
+mfiguiere,128,35894039,161,1683755776,Expensive energy may have killed more Europeans than Covid-19 last winter,story,https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter,,economist.com
+zdw,77,35891362,86,1683743254,Psychoactive substance use by professional programmers,story,https://arxiv.org/abs/2305.01056,,arxiv.org
+luu,7,35892686,18,1683748873,Do adenovirus-vector Covid-19 vaccines have beneficial non-specific effects?,story,https://www.cell.com/iscience/fulltext/S2589-0042(23)00810-6,,cell.com
+tpmx,34,35890989,68,1683741734,Google's Latest Experiments in Labs,story,https://labs.withgoogle.com/,,labs.withgoogle.com
+_hypx,32,35883891,130,1683695750,An experimental editor for WebGPU compute shaders,story,https://compute.toys/,,compute.toys
+pseudolus,166,35874670,225,1683641823,Health advisory on social media use in adolescence,story,https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use,,apa.org
+Avi-D-coder,2,35893762,11,1683753985,The Medical Care That Helps No One,story,https://www.theatlantic.com/ideas/archive/2023/05/icu-nurse-palliative-care-ventilators-intubation/673984/,,theatlantic.com
+gmays,12,35875393,123,1683644578,T cells can activate themselves to fight tumors,story,https://today.ucsd.edu/story/t-cells-can-activate-themselves-to-fight-tumors,,today.ucsd.edu
+coloneltcb,104,35887281,118,1683726359,Health Insurance Claim Denied? See What Insurers Said Behind the Scenes,story,https://www.propublica.org/article/find-out-why-health-insurance-claim-denied,,propublica.org
+geox,233,35876062,314,1683646841,Reduced cancer mortality with daily Vitamin D intake,story,https://www.dkfz.de/en/presse/pressemitteilungen/2023/dkfz-pm-23-27-Reduced-cancer-mortality-with-daily-vitamin-D-intake.php,,dkfz.de
+sandebert,9,35884124,12,1683698227,Microbes discovered that can digest plastics at low temperatures,story,https://www.theguardian.com/science/2023/may/10/microbes-digest-plastics-low-temperatures-recycling,,theguardian.com
+ter_adata,4,35878002,21,1683654846,AI predicts pancreatic cancer 3 years before it happens,story,https://www.theregister.com/2023/05/09/ai_pancreatic_cancer/,,theregister.com
 panabee,50,35869976,43,1683604200,PMC-LLaMA: Further Finetuning LLaMA on Medical Papers,story,https://arxiv.org/abs/2304.14454,,arxiv.org
-voisin,57,35847774,146,1683431644,AI tool designs mRNA vaccines that are more potent and stable,story,https://www.nature.com/articles/d41586-023-01487-y,,nature.com
+LinuxBender,2,35876238,11,1683647455,Major psychologists' group warns of social media's potential harm to kids,story,https://text.npr.org/1174838633,,text.npr.org
+rntn,108,35876150,63,1683647146,Many people living in the 'Diabetes Belt' are plagued with medical debt,story,https://text.npr.org/1173439205,,text.npr.org
+daniel_iversen,103,35874375,108,1683640603,Scientists Use GPT AI to Passively Read People's Thoughts in Breakthrough,story,https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough,,vice.com
+putlake,2,35869492,12,1683598745,US food pesticides contaminated with toxic ‘forever chemicals’ testing finds,story,https://www.theguardian.com/environment/2023/may/07/food-pesticides-toxic-forever-chemicals-pfas,,theguardian.com
