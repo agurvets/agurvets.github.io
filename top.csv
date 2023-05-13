@@ -1,10 +1,10 @@
 by,descendants,id,score,time,title,type,url,text,domain
-wglb,0,35924495,29,1683940843,RNA repair mechanism discovered in humans,story,https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html,,phys.org
-samwillis,2,35929377,22,1683992171,Large language models generate functional protein sequences across families,story,https://www.nature.com/articles/s41587-022-01618-2,,nature.com
-tyjen,80,35928936,136,1683989385,Fake scientific papers are alarmingly common,story,https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common,,science.org
-bookofjoe,7,35927477,58,1683978645,Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion,story,https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid,,theguardian.com
+wglb,3,35924495,87,1683940843,RNA repair mechanism discovered in humans,story,https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html,,phys.org
+samwillis,7,35929377,41,1683992171,Large language models generate functional protein sequences across families,story,https://www.nature.com/articles/s41587-022-01618-2,,nature.com
+tyjen,85,35928936,151,1683989385,Fake scientific papers are alarmingly common,story,https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common,,science.org
+bookofjoe,8,35927477,58,1683978645,Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion,story,https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid,,theguardian.com
 dcminter,142,35918660,177,1683909845,A vaccine for pancreatic cancer treatment?,story,https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment,,science.org
-PaulHoule,23,35919667,73,1683914242,Exploring the native use of 64-bit posit arithmetic in scientific computing,story,https://arxiv.org/abs/2305.06946,,arxiv.org
+PaulHoule,23,35919667,74,1683914242,Exploring the native use of 64-bit posit arithmetic in scientific computing,story,https://arxiv.org/abs/2305.06946,,arxiv.org
 geox,86,35895417,399,1683763719,Scientists regenerate hair cells that enable hearing,story,https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing,,hms.harvard.edu
 prismatic,71,35889074,67,1683733671,Remembering the Golden Age of Airline Food,story,https://www.atlasobscura.com/articles/airline-food-history,,atlasobscura.com
 Brajeshwar,113,35913628,54,1683881576,What if we tolerated diseases?,story,https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases,,knowablemagazine.org
@@ -12,7 +12,7 @@ nikolamilosevic,10,35901538,73,1683810757,A transformer-based method for zero an
 LinuxBender,41,35908120,92,1683837902,"Millions of mobile phones come pre-infected with malware, say researchers",story,https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/,,theregister.com
 zdw,121,35891362,120,1683743254,Psychoactive substance use by professional programmers,story,https://arxiv.org/abs/2305.01056,,arxiv.org
 fagnerbrack,9,35904008,60,1683820509,Scientists find enzyme that can make electricity out of tiny amounts of hydrogen,story,https://www.abc.net.au/news/2023-03-09/monash-university-air-electricity-enzyme-soil/102071786,,abc.net.au
-mfiguiere,194,35894039,238,1683755776,Expensive energy may have killed more Europeans than Covid-19 last winter,story,https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter,,economist.com
+mfiguiere,195,35894039,238,1683755776,Expensive energy may have killed more Europeans than Covid-19 last winter,story,https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter,,economist.com
 orhmeh09,225,35909326,136,1683844885,"Drug shortages have worsened and may only increase in the future, experts say",story,https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say,,cidrap.umn.edu
 Jimmc414,7,35902074,45,1683813070,"Common disinfectant wipes expose people to dangerous chemicals, research reveals",story,https://www.theguardian.com/us-news/2023/may/11/concern-over-increase-in-disinfectant-wipes-linked-to-health-problems,,theguardian.com
 slow_typist,47,35901881,47,1683812400,Basic Physics of Rowing (2007),story,http://eodg.atm.ox.ac.uk/user/dudhia/rowing/physics/basics.html,,eodg.atm.ox.ac.uk
