@@ -1,25 +1,25 @@
 by,descendants,id,score,time,title,type,url,text,domain
-vanilla-almond,17,35937196,88,1684063932,Chemotherapy drug reaches brain tumors using novel ultrasound technology,story,https://news.northwestern.edu/stories/2023/05/chemotherapy-drug-reaches-brain-in-humans-for-first-time/,,news.northwestern.edu
-diodorus,40,35937540,68,1684068212,The mysterious dodecahedrons of the Roman Empire,story,https://www.atlasobscura.com/articles/dodecahedrons-roman-empire,,atlasobscura.com
-wglb,17,35924483,97,1683940728,Researchers use genomes of 241 species to redefine mammalian tree of life,story,https://phys.org/news/2023-04-genomes-species-redefine-mammalian-tree.html,,phys.org
-bookofjoe,5,35927818,21,1683981746,Ancient-human species mingled in Siberia’s hottest property 300k years (2019),story,https://www.nature.com/articles/d41586-019-00353-0,,nature.com
-VagueMag,43,35934223,93,1684024400,"As COVID raged in New York hospitals, executives pocketed $73M in bonuses (2022)",story,https://www.lohud.com/in-depth/news/2022/09/14/ny-hospital-executives-paid-millions-in-bonuses-salary-as-covid-raged/65411150007/,,lohud.com
-samwillis,32,35929377,168,1683992171,Large language models generate functional protein sequences across families,story,https://www.nature.com/articles/s41587-022-01618-2,,nature.com
-Hooke,0,35925491,11,1683951754,Pond of Gloop: Review of Anaximander and the Nature of Science,story,https://www.lrb.co.uk/the-paper/v45/n10/claire-hall/pond-of-gloop,,lrb.co.uk
-wglb,75,35924495,282,1683940843,RNA repair mechanism discovered in humans,story,https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html,,phys.org
-tyjen,98,35928936,186,1683989385,Fake scientific papers are alarmingly common,story,https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common,,science.org
-rntn,3,35937112,14,1684062669,As some families learn the hard way dementia can take a toll on financial health,story,https://text.npr.org/1175141042,,text.npr.org
-geox,86,35895417,402,1683763719,Scientists regenerate hair cells that enable hearing,story,https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing,,hms.harvard.edu
+vanilla-almond,40,35937196,116,1684063932,Chemotherapy drug reaches brain tumors using novel ultrasound technology,story,https://news.northwestern.edu/stories/2023/05/chemotherapy-drug-reaches-brain-in-humans-for-first-time/,,news.northwestern.edu
+diodorus,85,35937540,117,1684068212,The mysterious dodecahedrons of the Roman Empire,story,https://www.atlasobscura.com/articles/dodecahedrons-roman-empire,,atlasobscura.com
+rbanffy,8,35941131,31,1684096229,Drug-resistant ringworm reported in US for first time; community spread likely,story,https://arstechnica.com/science/2023/05/drug-resistant-ringworm-reported-in-us-for-first-time-community-spread-likely/,,arstechnica.com
+technocratius,4,35942080,15,1684104745,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality and Computation",story,https://www.youtube.com/watch?v=PdE-waSx-d8,,youtube.com
+wglb,20,35924483,103,1683940728,Researchers use genomes of 241 species to redefine mammalian tree of life,story,https://phys.org/news/2023-04-genomes-species-redefine-mammalian-tree.html,,phys.org
+bookofjoe,6,35927818,24,1683981746,Ancient-human species mingled in Siberia for 300k years (2019),story,https://www.nature.com/articles/d41586-019-00353-0,,nature.com
+samwillis,33,35929377,171,1683992171,Large language models generate functional protein sequences across families,story,https://www.nature.com/articles/s41587-022-01618-2,,nature.com
+VagueMag,58,35934223,103,1684024400,"As COVID raged in New York hospitals, executives pocketed $73M in bonuses (2022)",story,https://www.lohud.com/in-depth/news/2022/09/14/ny-hospital-executives-paid-millions-in-bonuses-salary-as-covid-raged/65411150007/,,lohud.com
+Hooke,0,35925491,13,1683951754,Pond of Gloop: Review of Anaximander and the Nature of Science,story,https://www.lrb.co.uk/the-paper/v45/n10/claire-hall/pond-of-gloop,,lrb.co.uk
+wglb,75,35924495,283,1683940843,RNA repair mechanism discovered in humans,story,https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html,,phys.org
+tyjen,99,35928936,187,1683989385,Fake scientific papers are alarmingly common,story,https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common,,science.org
+geox,86,35895417,406,1683763719,Scientists regenerate hair cells that enable hearing,story,https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing,,hms.harvard.edu
 dcminter,143,35918660,177,1683909845,A vaccine for pancreatic cancer treatment?,story,https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment,,science.org
+prismatic,71,35889074,68,1683733671,Remembering the Golden Age of Airline Food,story,https://www.atlasobscura.com/articles/airline-food-history,,atlasobscura.com
+rntn,3,35937112,15,1684062669,As some families learn the hard way dementia can take a toll on financial health,story,https://text.npr.org/1175141042,,text.npr.org
 PaulHoule,23,35919667,77,1683914242,Exploring the native use of 64-bit posit arithmetic in scientific computing,story,https://arxiv.org/abs/2305.06946,,arxiv.org
-prismatic,71,35889074,67,1683733671,Remembering the Golden Age of Airline Food,story,https://www.atlasobscura.com/articles/airline-food-history,,atlasobscura.com
 Brajeshwar,111,35913628,54,1683881576,What if we tolerated diseases?,story,https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases,,knowablemagazine.org
 nikolamilosevic,10,35901538,73,1683810757,A transformer-based method for zero and few-shot biomedical NER,story,https://arxiv.org/abs/2305.04928,,arxiv.org
 zdw,121,35891362,123,1683743254,Psychoactive substance use by professional programmers,story,https://arxiv.org/abs/2305.01056,,arxiv.org
 LinuxBender,41,35908120,94,1683837902,"Millions of mobile phones come pre-infected with malware, say researchers",story,https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/,,theregister.com
-bookofjoe,9,35927477,65,1683978645,Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion,story,https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid,,theguardian.com
-mfiguiere,195,35894039,239,1683755776,Expensive energy may have killed more Europeans than Covid-19 last winter,story,https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter,,economist.com
-fagnerbrack,9,35904008,60,1683820509,Scientists find enzyme that can make electricity out of tiny amounts of hydrogen,story,https://www.abc.net.au/news/2023-03-09/monash-university-air-electricity-enzyme-soil/102071786,,abc.net.au
-orhmeh09,228,35909326,137,1683844885,"Drug shortages have worsened and may only increase in the future, experts say",story,https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say,,cidrap.umn.edu
-slow_typist,47,35901881,48,1683812400,Basic Physics of Rowing (2007),story,http://eodg.atm.ox.ac.uk/user/dudhia/rowing/physics/basics.html,,eodg.atm.ox.ac.uk
-Jimmc414,7,35902074,46,1683813070,"Common disinfectant wipes expose people to dangerous chemicals, research reveals",story,https://www.theguardian.com/us-news/2023/may/11/concern-over-increase-in-disinfectant-wipes-linked-to-health-problems,,theguardian.com
+mfiguiere,195,35894039,242,1683755776,Expensive energy may have killed more Europeans than Covid-19 last winter,story,https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter,,economist.com
+fagnerbrack,9,35904008,61,1683820509,Scientists find enzyme that can make electricity out of tiny amounts of hydrogen,story,https://www.abc.net.au/news/2023-03-09/monash-university-air-electricity-enzyme-soil/102071786,,abc.net.au
+bookofjoe,9,35927477,66,1683978645,Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion,story,https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid,,theguardian.com
+orhmeh09,228,35909326,138,1683844885,"Drug shortages have worsened and may only increase in the future, experts say",story,https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say,,cidrap.umn.edu
