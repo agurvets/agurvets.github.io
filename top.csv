@@ -1,19 +1,20 @@
 by,descendants,id,score,time,title,type,url,text,domain
-sp332,2,36350280,38,1686882521,Metformin shown to prevent long Covid,story,https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid,,cidrap.umn.edu
-joshuawitzer,2,36350439,14,1686883631,Show HN: Chronological List of All the James Webb Telescope Discoveries,story,https://www.jameswebbdiscovery.com,,jameswebbdiscovery.com
-legrande,21,36342785,59,1686845916,Scientific colour maps,story,https://www.fabiocrameri.ch/colourmaps/,,fabiocrameri.ch
-LinuxBender,3,36349325,15,1686876420,Drugmakers want to stop Medicare from negotiating prices,story,https://www.cnn.com/2023/06/15/politics/medicare-drug-price-negotiations-lawsuits/index.html,,cnn.com
-dnetesn,8,36338484,28,1686824497,Bioacoustics: Finding the Voices of Other Species,story,https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/,,worldsensorium.com
-ValentineC,5,36348480,12,1686871940,Cancer rates are climbing among young people. It’s not clear why,story,https://thehill.com/policy/healthcare/4041032-cancer-rates-are-climbing-among-young-people-its-not-clear-why/,,thehill.com
-kitkat_new,22,36340591,51,1686837444,Abrupt expansion of climate change risks for species globally,story,https://www.nature.com/articles/s41559-023-02070-4,,nature.com
+sp332,18,36350280,66,1686882521,Metformin shown to prevent long Covid,story,https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid,,cidrap.umn.edu
+joshuawitzer,3,36350439,18,1686883631,Show HN: Chronological List of All the James Webb Telescope Discoveries,story,https://www.jameswebbdiscovery.com,,jameswebbdiscovery.com
+legrande,22,36342785,59,1686845916,Scientific colour maps,story,https://www.fabiocrameri.ch/colourmaps/,,fabiocrameri.ch
+LinuxBender,4,36349325,19,1686876420,Drugmakers want to stop Medicare from negotiating prices,story,https://www.cnn.com/2023/06/15/politics/medicare-drug-price-negotiations-lawsuits/index.html,,cnn.com
+RafelMri,12,36349991,11,1686880692,'Smart drugs' don't make people better at a problem-solving test,story,https://www.newscientist.com/article/2378272-smart-drugs-dont-make-people-better-at-a-problem-solving-test/,,newscientist.com
+dnetesn,8,36338484,29,1686824497,Bioacoustics: Finding the Voices of Other Species,story,https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/,,worldsensorium.com
 yk,110,36334912,140,1686789500,SETI scientists to devise plan for lunar listening station,story,https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/,,supercluster.com
+ValentineC,5,36348480,13,1686871940,Cancer rates are climbing among young people. It’s not clear why,story,https://thehill.com/policy/healthcare/4041032-cancer-rates-are-climbing-among-young-people-its-not-clear-why/,,thehill.com
 pseudolus,23,36333762,141,1686782128,Scientists Discover Phosphorus on Enceladus,story,https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus,,tlpnetwork.com
-larsiusprime,671,36328352,674,1686760080,First people sickened by Covid-19 were scientists at WIV: US government sources,story,https://public.substack.com/p/first-people-sickened-by-covid-19,,public.substack.com
-tfourb,199,36338870,187,1686828001,Germany wants to legalize quality control of illegal drugs,story,https://www.spiegel.de/politik/deutschland/arzneimittel-reform-karl-lauterbach-will-drugchecking-bundesweit-einfuehren-a-b642b609-9149-47bc-a013-11476d54e96f,,spiegel.de
+larsiusprime,674,36328352,676,1686760080,First people sickened by Covid-19 were scientists at WIV: US government sources,story,https://public.substack.com/p/first-people-sickened-by-covid-19,,public.substack.com
+tfourb,199,36338870,188,1686828001,Germany wants to legalize quality control of illegal drugs,story,https://www.spiegel.de/politik/deutschland/arzneimittel-reform-karl-lauterbach-will-drugchecking-bundesweit-einfuehren-a-b642b609-9149-47bc-a013-11476d54e96f,,spiegel.de
 amichail,47,36329645,160,1686764849,Brain fog after Covid-19 has similarities to ‘chemo brain’ in humans and mice,story,https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html,,med.stanford.edu
+kitkat_new,23,36340591,51,1686837444,Abrupt expansion of climate change risks for species globally,story,https://www.nature.com/articles/s41559-023-02070-4,,nature.com
 belter,0,36338909,13,1686828283,"Scientists create long-lasting, cobalt-free, lithium-ion batteries",story,https://techxplore.com/news/2023-06-scientists-long-lasting-cobalt-free-lithium-ion-batteries.html,,techxplore.com
 alecst,244,36316883,487,1686688878,Open source hospital price database,story,https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate,,dolthub.com
 headalgorithm,15,36329143,12,1686762908,How psychedelic drugs achieve their potent health benefits,story,https://www.nature.com/articles/d41586-023-01920-2,,nature.com
 rntn,3,36317757,25,1686691962,"In Slovakia, swans became “drug addicts” after feasting in a poppy field",story,https://baltics.news/2023/06/11/in-slovakia-swans-became-drug-addicts-after-feasting-in-a-poppy-field/,,baltics.news
 andsoitis,0,36336096,17,1686800323,"VA hospitals are outperforming private hospitals, latest Medicare survey shows",story,https://www.npr.org/2023/06/14/1181827077/va-hospitals-health-care,,npr.org
-technocratius,64,36335730,39,1686796318,"Drugs like ritalin, dexamphetamine decrease the quality of cognitive effort",story,https://www.science.org/doi/10.1126/sciadv.add4165,,science.org
+technocratius,65,36335730,39,1686796318,"Drugs like ritalin, dexamphetamine decrease the quality of cognitive effort",story,https://www.science.org/doi/10.1126/sciadv.add4165,,science.org
