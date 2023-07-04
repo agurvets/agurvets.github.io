@@ -1,10 +1,10 @@
 by,descendants,id,score,time,title,type,url,text,domain
-luplex,1,36592033,11,1688502032,"""How's your PhD going?"" A study on mental health",story,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103,,journals.plos.org
-mfiguiere,185,36586262,146,1688476732,Anti-ageing protein injection boosts monkeys’ memories,story,https://www.nature.com/articles/d41586-023-02214-3,,nature.com
+luplex,25,36592033,43,1688502032,"""How's your PhD going?"" A study on mental health",story,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103,,journals.plos.org
+mfiguiere,189,36586262,150,1688476732,Anti-ageing protein injection boosts monkeys’ memories,story,https://www.nature.com/articles/d41586-023-02214-3,,nature.com
 Caiero,0,36578285,15,1688415916,Tracing food history with ancient leftovers,story,https://www.atlasobscura.com/articles/penn-ancient-food-exhibit,,atlasobscura.com
-elorant,293,36563590,955,1688319197,First 'tooth regrowth' medicine moves toward clinical trials in Japan,story,https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c,,mainichi.jp
+elorant,294,36563590,955,1688319197,First 'tooth regrowth' medicine moves toward clinical trials in Japan,story,https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c,,mainichi.jp
+ren_engineer,167,36578489,198,1688416822,Huge phosphate rock deposit discovered in Norway,story,https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html,,independent.co.uk
 sarang23592,36,36584642,54,1688465948,Why Physicists Tried to Put a Ferret in a Particle Accelerator,story,https://www.atlasobscura.com/articles/felicia-ferret-particle-accelerator-fermilab,,atlasobscura.com
-ren_engineer,166,36578489,198,1688416822,Huge phosphate rock deposit discovered in Norway,story,https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html,,independent.co.uk
 janandonly,9,36576361,148,1688406123,A Dive into the Math Behind Bitcoin Schnorr Signatures,story,https://conduition.io/cryptography/schnorr/,,conduition.io
 zdw,2,36579995,12,1688425832,Making Radiative Sky Cooling Paint (With Novel CaCO₃ Microsphere Synthesis) [video],story,https://www.youtube.com/watch?v=KDRnEm-B3AI,,youtube.com
 Tomte,6,36560754,45,1688300199,The mystery of the blend file format (2009),story,https://github.com/fschutt/mystery-of-the-blend-backup,,github.com
@@ -18,6 +18,6 @@ beauHD,0,36554788,12,1688243299,Test Autodiscovery Is a Silver Bullet,story,http
 benbreen,1,36552242,14,1688231270,Patent medicines and the history of cocaine (2020),story,https://histmed.collegeofphysicians.org/patent-medicines/,,histmed.collegeofphysicians.org
 Melchizedek,5,36564138,19,1688322071,Industrial Civilization Needs a Biological Future,story,https://www.palladiummag.com/2023/05/18/industrial-civilization-needs-a-biological-future/,,palladiummag.com
 IAmPaigeAT,7,36567222,22,1688343449,The “faces of Amazon” ex-employee stories site has mysteriously vanished,story,https://www.google.com/search?q=faces+of+amazon&ie=UTF-8&oe=UTF-8&hl=en-us,,google.com
-zeristor,9,36565865,21,1688332647,‘It was an accident’: the scientists who have turned humid air into electricity,story,https://www.theguardian.com/science/2023/jul/02/it-was-an-accident-the-scientists-who-have-turned-humid-air-into-renewable-power,,theguardian.com
 og_kalu,0,36551518,12,1688227296,Protein-Protein Interaction Prediction Is Achievable with Large Language Models,story,https://www.biorxiv.org/content/10.1101/2023.06.07.544109v1,,biorxiv.org
+zeristor,9,36565865,21,1688332647,‘It was an accident’: the scientists who have turned humid air into electricity,story,https://www.theguardian.com/science/2023/jul/02/it-was-an-accident-the-scientists-who-have-turned-humid-air-into-renewable-power,,theguardian.com
 Petiver,4,36550493,28,1688221751,The Mystery of Crime-Scene Dust,story,https://daily.jstor.org/the-mystery-of-crime-scene-dust/,,daily.jstor.org
