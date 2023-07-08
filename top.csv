@@ -1,11 +1,11 @@
 by,descendants,id,score,time,title,type,url,text,domain
-lukastyrychtr,17,36642867,123,1688809271,Bevy XPBD: A physics engine for the Bevy game engine,story,https://joonaa.dev/blog/02/bevy-xpbd-0-1-0,,joonaa.dev
-occamschainsaw,1,36644933,47,1688827668,CrunchGPT: A ChatGPT assisted framework for scientific machine learning,story,https://arxiv.org/abs/2306.15551,,arxiv.org
-thunderbong,17,36647912,54,1688844794,A mysterious grey-hat is patching people's outdated MikroTik routers (2018),story,https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/,,zdnet.com
-pyinstallwoes,5,36643211,83,1688813437,Experiments with plane-filling curves and Fourier transform,story,https://github.com/mxmlnkn/fft-image-experiments,,github.com
-hrl,505,36638752,241,1688766528,"Once hailed for decriminalizing drugs, Portugal is now having doubts",story,https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/,,washingtonpost.com
+lukastyrychtr,17,36642867,129,1688809271,Bevy XPBD: A physics engine for the Bevy game engine,story,https://joonaa.dev/blog/02/bevy-xpbd-0-1-0,,joonaa.dev
+occamschainsaw,1,36644933,54,1688827668,CrunchGPT: A ChatGPT assisted framework for scientific machine learning,story,https://arxiv.org/abs/2306.15551,,arxiv.org
+pyinstallwoes,6,36643211,89,1688813437,Experiments with plane-filling curves and Fourier transform,story,https://github.com/mxmlnkn/fft-image-experiments,,github.com
+thunderbong,21,36647912,62,1688844794,A mysterious grey-hat is patching people's outdated MikroTik routers (2018),story,https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/,,zdnet.com
+hrl,511,36638752,242,1688766528,"Once hailed for decriminalizing drugs, Portugal is now having doubts",story,https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/,,washingtonpost.com
 cs702,26,36643212,39,1688813464,Super Drug,story,https://www.profgalloway.com/super-drug/,,profgalloway.com
-galapago,63,36629195,105,1688721411,Show HN: Mystery-o-matic – A daily murder mystery to solve,story,https://mystery-o-matic.com/,,mystery-o-matic.com
+galapago,63,36629195,106,1688721411,Show HN: Mystery-o-matic – A daily murder mystery to solve,story,https://mystery-o-matic.com/,,mystery-o-matic.com
 wglb,13,36637418,34,1688759505,New discovery toward sugar origami,story,https://phys.org/news/2023-07-discovery-sugar-origami.html,,phys.org
 dnetesn,3,36637774,42,1688761233,A New Experiment Casts Doubt on the Leading Theory of the Nucleus,story,https://nautil.us/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-352026/,,nautil.us
 pepys,1,36621563,20,1688672056,Mapping the Materials of the Human Body: The Evelyn Tables (2013),story,https://dabrownstein.com/category/evelyn-tables/,,dabrownstein.com
@@ -17,6 +17,6 @@ mgh2,13,36635680,31,1688752696,Eating too much added sugar increases risk of dyi
 gmays,52,36600179,129,1688563736,Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery,story,https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/,,scientificamerican.com
 L_226,8,36629778,32,1688726518,FDA fully approves first drug to slow down Alzheimer's disease,story,https://www.npr.org/sections/health-shots/2023/07/06/1186225580/alzheimers-drug-leqembi-gets-full-fda-approval-medicare-coverage-lecanemab,,npr.org
 bookofjoe,111,36630906,103,1688734119,Vit D supplementation and major cardiovascular events: D-Health randomised trial,story,https://www.bmj.com/content/381/bmj-2023-075230,,bmj.com
-tlogan,3,36641611,12,1688794286,"Prigozhin Is Said to Be in Russia, as Wagner Mystery Deepens",story,https://www.nytimes.com/2023/07/06/world/europe/prigozhin-russia-belarus-lukashenko.html,,nytimes.com
 sohkamyung,7,36600370,54,1688564619,‘Mind-boggling’ palm that flowers and fruits underground thrills scientists,story,https://www.theguardian.com/environment/2023/jun/27/mind-boggling-palm-that-flowers-and-fruits-underground-thrills-scientists,,theguardian.com
 geox,168,36617822,181,1688658451,USGS estimates at least 45% of U.S. tap water contain forever chemicals,story,https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us,,usgs.gov
+tlogan,3,36641611,12,1688794286,"Prigozhin Is Said to Be in Russia, as Wagner Mystery Deepens",story,https://www.nytimes.com/2023/07/06/world/europe/prigozhin-russia-belarus-lukashenko.html,,nytimes.com
