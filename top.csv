@@ -1,22 +1,22 @@
 by,descendants,id,score,time,title,type,url,text,domain
-pyinstallwoes,7,36643211,97,1688813437,Experiments with plane-filling curves and Fourier transform,story,https://github.com/mxmlnkn/fft-image-experiments,,github.com
-occamschainsaw,3,36644933,64,1688827668,CrunchGPT: A ChatGPT assisted framework for scientific machine learning,story,https://arxiv.org/abs/2306.15551,,arxiv.org
-thunderbong,22,36647912,76,1688844794,A mysterious grey-hat is patching people's outdated MikroTik routers (2018),story,https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/,,zdnet.com
-lukastyrychtr,19,36642867,133,1688809271,Bevy XPBD: A physics engine for the Bevy game engine,story,https://joonaa.dev/blog/02/bevy-xpbd-0-1-0,,joonaa.dev
-hrl,523,36638752,247,1688766528,"Once hailed for decriminalizing drugs, Portugal is now having doubts",story,https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/,,washingtonpost.com
-galapago,64,36629195,107,1688721411,Show HN: Mystery-o-matic – A daily murder mystery to solve,story,https://mystery-o-matic.com/,,mystery-o-matic.com
-cs702,26,36643212,39,1688813464,Super Drug,story,https://www.profgalloway.com/super-drug/,,profgalloway.com
+el_hacker,13,36655756,13,1688919315,Google’s medical AI chatbot is already being tested in hospitals,story,https://www.theverge.com/2023/7/8/23788265/google-med-palm-2-mayo-clinic-chatbot-bard-chatgpt,,theverge.com
+hoffmannesque,2,36648550,20,1688849055,Onfim the Artist (2017),story,https://www.cabinetmagazine.org/issues/64/smith.php,,cabinetmagazine.org
+lukastyrychtr,20,36642867,141,1688809271,Bevy XPBD: A physics engine for the Bevy game engine,story,https://joonaa.dev/blog/02/bevy-xpbd-0-1-0,,joonaa.dev
+pyinstallwoes,8,36643211,104,1688813437,Experiments with plane-filling curves and Fourier transform,story,https://github.com/mxmlnkn/fft-image-experiments,,github.com
+hrl,547,36638752,257,1688766528,"Once hailed for decriminalizing drugs, Portugal is now having doubts",story,https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/,,washingtonpost.com
+thunderbong,27,36647912,88,1688844794,A mysterious grey-hat is patching people's outdated MikroTik routers (2018),story,https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/,,zdnet.com
+occamschainsaw,3,36644933,74,1688827668,CrunchGPT: A ChatGPT assisted framework for scientific machine learning,story,https://arxiv.org/abs/2306.15551,,arxiv.org
+galapago,64,36629195,108,1688721411,Show HN: Mystery-o-matic – A daily murder mystery to solve,story,https://mystery-o-matic.com/,,mystery-o-matic.com
+janandonly,126,36645038,84,1688828469,"As a therapist, I know what’s breaking couples up",story,https://thewalrus.ca/what-breaks-up-couples/,,thewalrus.ca
+Dwolb,56,36623827,119,1688681228,More green spaces linked to slower biological aging,story,https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/,,news.northwestern.edu
 wglb,13,36637418,34,1688759505,New discovery toward sugar origami,story,https://phys.org/news/2023-07-discovery-sugar-origami.html,,phys.org
 dnetesn,3,36637774,42,1688761233,A New Experiment Casts Doubt on the Leading Theory of the Nucleus,story,https://nautil.us/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-352026/,,nautil.us
-Dwolb,56,36623827,119,1688681228,More green spaces linked to slower biological aging,story,https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/,,news.northwestern.edu
 pepys,1,36621563,20,1688672056,Mapping the Materials of the Human Body: The Evelyn Tables (2013),story,https://dabrownstein.com/category/evelyn-tables/,,dabrownstein.com
 benbreen,0,36631556,18,1688737022,Tombs rich in artifacts discovered by Swedish expedition in Cyprus,story,https://phys.org/news/2023-07-tombs-rich-artifacts-swedish-cyprus.html,,phys.org
+cs702,26,36643212,41,1688813464,Super Drug,story,https://www.profgalloway.com/super-drug/,,profgalloway.com
 KentBeck,34,36616798,70,1688654876,Paint Drip People,story,https://tidyfirst.substack.com/p/paint-drip-people,,tidyfirst.substack.com
-hhs,11,36620413,100,1688667353,Physicists generate the first snapshots of fermion pairs,story,https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706,,news.mit.edu
 gmays,52,36600179,129,1688563736,Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery,story,https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/,,scientificamerican.com
+hhs,11,36620413,100,1688667353,Physicists generate the first snapshots of fermion pairs,story,https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706,,news.mit.edu
 mgh2,13,36635680,31,1688752696,Eating too much added sugar increases risk of dying with heart disease (2014),story,https://www.health.harvard.edu/blog/eating-too-much-added-sugar-increases-the-risk-of-dying-with-heart-disease-201402067021,,health.harvard.edu
 L_226,8,36629778,32,1688726518,FDA fully approves first drug to slow down Alzheimer's disease,story,https://www.npr.org/sections/health-shots/2023/07/06/1186225580/alzheimers-drug-leqembi-gets-full-fda-approval-medicare-coverage-lecanemab,,npr.org
-bookofjoe,112,36630906,103,1688734119,Vit D supplementation and major cardiovascular events: D-Health randomised trial,story,https://www.bmj.com/content/381/bmj-2023-075230,,bmj.com
-sohkamyung,7,36600370,54,1688564619,‘Mind-boggling’ palm that flowers and fruits underground thrills scientists,story,https://www.theguardian.com/environment/2023/jun/27/mind-boggling-palm-that-flowers-and-fruits-underground-thrills-scientists,,theguardian.com
-geox,168,36617822,181,1688658451,USGS estimates at least 45% of U.S. tap water contain forever chemicals,story,https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us,,usgs.gov
-tlogan,3,36641611,12,1688794286,"Prigozhin Is Said to Be in Russia, as Wagner Mystery Deepens",story,https://www.nytimes.com/2023/07/06/world/europe/prigozhin-russia-belarus-lukashenko.html,,nytimes.com
+bookofjoe,112,36630906,104,1688734119,Vit D supplementation and major cardiovascular events: D-Health randomised trial,story,https://www.bmj.com/content/381/bmj-2023-075230,,bmj.com
