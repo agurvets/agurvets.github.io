@@ -1,23 +1,24 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Jimmc414,23,36660598,68,1688949320,"'Forever chemicals' could be in nearly half of US tap water, federal study finds",story,https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds,,ijpr.org
-LinuxBender,3,36656963,27,1688925398,Probing the mysteries of neutron stars with a surprising earthly analog,story,https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/,,arstechnica.com
-adrian_mrd,20,36659269,25,1688939225,Deep space experts prove Starlink is interfering in scientific work,story,https://www.abc.net.au/news/2023-07-09/elon-musk-starlink-interfering-in-scientific-work/102575480,,abc.net.au
-hoffmannesque,2,36648550,23,1688849055,Onfim the Artist (2017),story,https://www.cabinetmagazine.org/issues/64/smith.php,,cabinetmagazine.org
-hammock,23,36658667,40,1688935310,Tail vaccination in cats: a pilot study (2014),story,https://pubmed.ncbi.nlm.nih.gov/24108201/,,pubmed.ncbi.nlm.nih.gov
-lukastyrychtr,20,36642867,147,1688809271,Bevy XPBD: A physics engine for the Bevy game engine,story,https://joonaa.dev/blog/02/bevy-xpbd-0-1-0,,joonaa.dev
-hrl,565,36638752,262,1688766528,"Once hailed for decriminalizing drugs, Portugal is now having doubts",story,https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/,,washingtonpost.com
-pyinstallwoes,8,36643211,105,1688813437,Experiments with plane-filling curves and Fourier transform,story,https://github.com/mxmlnkn/fft-image-experiments,,github.com
+prismatic,0,36673288,20,1689024934,The LSD Museum (2021),story,https://www.openculture.com/2021/08/take-a-trip-to-the-lsd-museum-the-largest-collection-of-blotter-art-in-the-world.html,,openculture.com
+42droids,59,36682468,122,1689089730,Interaction to Next Paint (INP),story,https://web.dev/inp/,,web.dev
+benbreen,26,36680131,73,1689079078,Do painters subconsciously paint themselves into their work?,story,https://resobscura.substack.com/p/do-painters-subconsciously-paint,,resobscura.substack.com
+ageitgey,216,36685350,188,1689100578,A petabyte of health insurance prices per month,story,https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/,,turquoise.health
+gmays,23,36683938,72,1689095254,"Cancer’s origin story features predictable plot line, researchers find",story,https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html,,med.stanford.edu
+rbanffy,7,36687490,11,1689111093,Scientists Have Found a Hot Spot on the Moon’s Far Side,story,https://www.nytimes.com/2023/07/11/science/moon-hot-spot-granite.html,,nytimes.com
+hliyan,17,36667103,75,1688999817,HyperPhysics (1998),story,http://hyperphysics.phy-astr.gsu.edu/hbase/index.html,,hyperphysics.phy-astr.gsu.edu
+theafh,359,36667278,261,1689000535,A physicist who bets that gravity can’t be quantized,story,https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/,,quantamagazine.org
+LinuxBender,2,36682383,24,1689089398,Data for 11M patients stolen in breach of HCA Healthcare,story,https://www.scmagazine.com/news/privacy/personal-data-for-11-million-patients-stolen-from-nationwide-healthcare-chain,,scmagazine.com
+giuliomagnifico,114,36663498,187,1688977563,A biological camera that captures and stores images directly into DNA,story,https://www.nature.com/articles/s41467-023-38876-w,,nature.com
+abhayhegde,27,36675669,31,1689041646,Drinking water from nearly half of US faucets may have harmful chemicals,story,https://www.npr.org/2023/07/06/1186230007/drinking-water-forever-chemicals-pfas-study,,npr.org
+benbreen,7,36662346,11,1688965601,William Saville-Kent: Marine Biology's Unsolved Murder (2021),story,https://www.theatlantic.com/science/archive/2021/06/william-saville-kent-murder-mystery/619202/,,theatlantic.com
+Jimmc414,56,36660598,229,1688949320,"'Forever chemicals' could be in nearly half of US tap water, federal study finds",story,https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds,,ijpr.org
+hrl,601,36638752,268,1688766528,"Once hailed for decriminalizing drugs, Portugal is now having doubts",story,https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/,,washingtonpost.com
+lukastyrychtr,20,36642867,150,1688809271,Bevy XPBD: A physics engine for the Bevy game engine,story,https://joonaa.dev/blog/02/bevy-xpbd-0-1-0,,joonaa.dev
+LinuxBender,6,36656963,30,1688925398,Probing the mysteries of neutron stars with a surprising earthly analog,story,https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/,,arstechnica.com
+hoffmannesque,2,36648550,24,1688849055,Onfim the Artist (2017),story,https://www.cabinetmagazine.org/issues/64/smith.php,,cabinetmagazine.org
+pyinstallwoes,8,36643211,106,1688813437,Experiments with plane-filling curves and Fourier transform,story,https://github.com/mxmlnkn/fft-image-experiments,,github.com
+sigtstp,1,36677844,23,1689062622,EU to drop ban of hazardous chemicals after industry pressure,story,https://www.theguardian.com/environment/2023/jul/11/eu-to-drop-ban-of-hazardous-chemicals-after-industry-pressure,,theguardian.com
+WaitWaitWha,3,36674038,14,1689029140,Alzheimer’s Drug Lecanemab Wins Full FDA Approval,story,https://www.prevention.com/health/memory/a44475541/alzheimers-drug-lecanemab-leqembi-fda-approval/,,prevention.com
 occamschainsaw,3,36644933,75,1688827668,CrunchGPT: A ChatGPT assisted framework for scientific machine learning,story,https://arxiv.org/abs/2306.15551,,arxiv.org
-thunderbong,29,36647912,89,1688844794,A mysterious grey-hat is patching people's outdated MikroTik routers (2018),story,https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/,,zdnet.com
-galapago,65,36629195,110,1688721411,Show HN: Mystery-o-matic – A daily murder mystery to solve,story,https://mystery-o-matic.com/,,mystery-o-matic.com
-Dwolb,59,36623827,120,1688681228,More green spaces linked to slower biological aging,story,https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/,,news.northwestern.edu
-wglb,14,36637418,34,1688759505,New discovery toward sugar origami,story,https://phys.org/news/2023-07-discovery-sugar-origami.html,,phys.org
-el_hacker,40,36655756,38,1688919315,Google’s medical AI chatbot is being tested in hospitals,story,https://www.theverge.com/2023/7/8/23788265/google-med-palm-2-mayo-clinic-chatbot-bard-chatgpt,,theverge.com
-pepys,1,36621563,20,1688672056,Mapping the Materials of the Human Body: The Evelyn Tables (2013),story,https://dabrownstein.com/category/evelyn-tables/,,dabrownstein.com
-dnetesn,3,36637774,42,1688761233,A New Experiment Casts Doubt on the Leading Theory of the Nucleus,story,https://nautil.us/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-352026/,,nautil.us
-janandonly,130,36645038,86,1688828469,"As a therapist, I know what’s breaking couples up",story,https://thewalrus.ca/what-breaks-up-couples/,,thewalrus.ca
-benbreen,0,36631556,19,1688737022,Tombs rich in artifacts discovered by Swedish expedition in Cyprus,story,https://phys.org/news/2023-07-tombs-rich-artifacts-swedish-cyprus.html,,phys.org
-cs702,26,36643212,41,1688813464,Super Drug,story,https://www.profgalloway.com/super-drug/,,profgalloway.com
-mgh2,13,36635680,31,1688752696,Eating too much added sugar increases risk of dying with heart disease (2014),story,https://www.health.harvard.edu/blog/eating-too-much-added-sugar-increases-the-risk-of-dying-with-heart-disease-201402067021,,health.harvard.edu
-L_226,8,36629778,33,1688726518,FDA fully approves first drug to slow down Alzheimer's disease,story,https://www.npr.org/sections/health-shots/2023/07/06/1186225580/alzheimers-drug-leqembi-gets-full-fda-approval-medicare-coverage-lecanemab,,npr.org
-bookofjoe,112,36630906,104,1688734119,Vit D supplementation and major cardiovascular events: D-Health randomised trial,story,https://www.bmj.com/content/381/bmj-2023-075230,,bmj.com
+thunderbong,29,36647912,90,1688844794,A mysterious grey-hat is patching people's outdated MikroTik routers (2018),story,https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/,,zdnet.com
+wglb,14,36637418,35,1688759505,New discovery toward sugar origami,story,https://phys.org/news/2023-07-discovery-sugar-origami.html,,phys.org
