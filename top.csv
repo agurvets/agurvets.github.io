@@ -1,24 +1,14 @@
 by,descendants,id,score,time,title,type,url,text,domain
-prismatic,11,36673288,45,1689024934,The LSD Museum (2021),story,https://www.openculture.com/2021/08/take-a-trip-to-the-lsd-museum-the-largest-collection-of-blotter-art-in-the-world.html,,openculture.com
-42droids,60,36682468,126,1689089730,Interaction to Next Paint (INP),story,https://web.dev/inp/,,web.dev
-benbreen,32,36680131,92,1689079078,Do painters subconsciously paint themselves into their work?,story,https://resobscura.substack.com/p/do-painters-subconsciously-paint,,resobscura.substack.com
-ageitgey,225,36685350,202,1689100578,A petabyte of health insurance prices per month,story,https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/,,turquoise.health
-gmays,25,36683938,75,1689095254,"Cancer’s origin story features predictable plot line, researchers find",story,https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html,,med.stanford.edu
-hliyan,17,36667103,77,1688999817,HyperPhysics (1998),story,http://hyperphysics.phy-astr.gsu.edu/hbase/index.html,,hyperphysics.phy-astr.gsu.edu
-theafh,359,36667278,261,1689000535,A physicist who bets that gravity can’t be quantized,story,https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/,,quantamagazine.org
-rbanffy,7,36687490,13,1689111093,Scientists Have Found a Hot Spot on the Moon’s Far Side,story,https://www.nytimes.com/2023/07/11/science/moon-hot-spot-granite.html,,nytimes.com
-LinuxBender,2,36682383,25,1689089398,Data for 11M patients stolen in breach of HCA Healthcare,story,https://www.scmagazine.com/news/privacy/personal-data-for-11-million-patients-stolen-from-nationwide-healthcare-chain,,scmagazine.com
-giuliomagnifico,114,36663498,187,1688977563,A biological camera that captures and stores images directly into DNA,story,https://www.nature.com/articles/s41467-023-38876-w,,nature.com
-abhayhegde,27,36675669,31,1689041646,Drinking water from nearly half of US faucets may have harmful chemicals,story,https://www.npr.org/2023/07/06/1186230007/drinking-water-forever-chemicals-pfas-study,,npr.org
-benbreen,7,36662346,11,1688965601,William Saville-Kent: Marine Biology's Unsolved Murder (2021),story,https://www.theatlantic.com/science/archive/2021/06/william-saville-kent-murder-mystery/619202/,,theatlantic.com
-hrl,601,36638752,268,1688766528,"Once hailed for decriminalizing drugs, Portugal is now having doubts",story,https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/,,washingtonpost.com
-Jimmc414,56,36660598,229,1688949320,"'Forever chemicals' could be in nearly half of US tap water, federal study finds",story,https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds,,ijpr.org
-lukastyrychtr,20,36642867,150,1688809271,Bevy XPBD: A physics engine for the Bevy game engine,story,https://joonaa.dev/blog/02/bevy-xpbd-0-1-0,,joonaa.dev
-hoffmannesque,2,36648550,24,1688849055,Onfim the Artist (2017),story,https://www.cabinetmagazine.org/issues/64/smith.php,,cabinetmagazine.org
-LinuxBender,6,36656963,30,1688925398,Probing the mysteries of neutron stars with a surprising earthly analog,story,https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/,,arstechnica.com
-pyinstallwoes,8,36643211,106,1688813437,Experiments with plane-filling curves and Fourier transform,story,https://github.com/mxmlnkn/fft-image-experiments,,github.com
+bookofjoe,147,36694676,191,1689170482,Gene linked to long Covid found in analysis of thousands of patients,story,https://www.nature.com/articles/d41586-023-02269-2,,nature.com
+benbreen,40,36680131,111,1689079078,Do painters subconsciously paint themselves into their work?,story,https://resobscura.substack.com/p/do-painters-subconsciously-paint,,resobscura.substack.com
+g42gregory,9,36701250,44,1689194013,Chemically induced reprogramming to reverse cellular aging,story,https://www.aging-us.com/article/204896/text,,aging-us.com
+morisy,3,36698140,13,1689182456,"Atomic Fallout: Government downplayed, ignored health risks of radioactive waste",story,https://www.muckrock.com/news/archives/2023/jul/12/st-louis-landfill-toxic-superfund/,,muckrock.com
+42droids,72,36682468,140,1689089730,Interaction to Next Paint (INP),story,https://web.dev/inp/,,web.dev
+gmays,33,36683938,91,1689095254,"Cancer’s origin story features predictable plot line, researchers find",story,https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html,,med.stanford.edu
+ageitgey,255,36685350,229,1689100578,A petabyte of health insurance prices per month,story,https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/,,turquoise.health
+prismatic,24,36673288,63,1689024934,The LSD Museum (2021),story,https://www.openculture.com/2021/08/take-a-trip-to-the-lsd-museum-the-largest-collection-of-blotter-art-in-the-world.html,,openculture.com
+LinuxBender,2,36682383,27,1689089398,Data for 11M patients stolen in breach of HCA Healthcare,story,https://www.scmagazine.com/news/privacy/personal-data-for-11-million-patients-stolen-from-nationwide-healthcare-chain,,scmagazine.com
+abhayhegde,28,36675669,32,1689041646,Drinking water from nearly half of US faucets may have harmful chemicals,story,https://www.npr.org/2023/07/06/1186230007/drinking-water-forever-chemicals-pfas-study,,npr.org
+rbanffy,7,36687490,15,1689111093,Scientists Have Found a Hot Spot on the Moon’s Far Side,story,https://www.nytimes.com/2023/07/11/science/moon-hot-spot-granite.html,,nytimes.com
 WaitWaitWha,3,36674038,14,1689029140,Alzheimer’s Drug Lecanemab Wins Full FDA Approval,story,https://www.prevention.com/health/memory/a44475541/alzheimers-drug-lecanemab-leqembi-fda-approval/,,prevention.com
-occamschainsaw,3,36644933,75,1688827668,CrunchGPT: A ChatGPT assisted framework for scientific machine learning,story,https://arxiv.org/abs/2306.15551,,arxiv.org
 sigtstp,1,36677844,23,1689062622,EU to drop ban of hazardous chemicals after industry pressure,story,https://www.theguardian.com/environment/2023/jul/11/eu-to-drop-ban-of-hazardous-chemicals-after-industry-pressure,,theguardian.com
-thunderbong,29,36647912,90,1688844794,A mysterious grey-hat is patching people's outdated MikroTik routers (2018),story,https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/,,zdnet.com
-wglb,14,36637418,35,1688759505,New discovery toward sugar origami,story,https://phys.org/news/2023-07-discovery-sugar-origami.html,,phys.org
