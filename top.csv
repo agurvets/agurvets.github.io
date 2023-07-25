@@ -1,22 +1,22 @@
 by,descendants,id,score,time,title,type,url,text,domain
-EvgeniyZh,74,36845943,79,1690196965,Rust vs. Julia in scientific computing,story,https://mo8it.com/blog/rust-vs-julia/,,mo8it.com
-CrankyBear,2,36855452,14,1690239799,AlmaLinux discovers working with Red Hat isn't easy,story,https://www.zdnet.com/article/almalinux-discovers-working-with-red-hat-isnt-easy/,,zdnet.com
-thunderbong,26,36852856,37,1690225596,Scientists invent double-sided solar panel that generates way more electricity,story,https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html,,independent.co.uk
+CrankyBear,3,36855452,14,1690239799,AlmaLinux discovers working with Red Hat isn't easy,story,https://www.zdnet.com/article/almalinux-discovers-working-with-red-hat-isnt-easy/,,zdnet.com
+EvgeniyZh,75,36845943,80,1690196965,Rust vs. Julia in scientific computing,story,https://mo8it.com/blog/rust-vs-julia/,,mo8it.com
+thunderbong,26,36852856,38,1690225596,Scientists invent double-sided solar panel that generates way more electricity,story,https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html,,independent.co.uk
 pseudolus,237,36828811,473,1690052416,"A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work",story,https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work,,latimes.com
 prismatic,6,36832191,60,1690081176,Gustave Moreau's mystical paintings,story,https://www.thecollector.com/gustave-moreau-paintings/,,thecollector.com
 wglb,3,36822484,58,1689991840,Research reveals the scale of disorder underpinning motor neuron disease,story,https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html,,medicalxpress.com
-daneel_w,13,36820835,77,1689978649,"Electrolytic capacitors: overview, teardown and experiments [video]",story,https://www.youtube.com/watch?v=MAP-VA1m-A4,,youtube.com
+daneel_w,14,36820835,77,1689978649,"Electrolytic capacitors: overview, teardown and experiments [video]",story,https://www.youtube.com/watch?v=MAP-VA1m-A4,,youtube.com
 LinuxBender,44,36835293,67,1690120341,"MOVEit body count closes in on 400 orgs, 20M+ individuals",story,https://www.theregister.com/2023/07/20/moveit_victim_count/,,theregister.com
 pg_1234,155,36830697,83,1690066117,Were small-brained early humans intelligent? Row erupts over scientists’ claim,story,https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm,,theguardian.com
 pseudolus,28,36837695,120,1690134097,Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid,story,https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid,,theguardian.com
 ImpressiveWebs,30,36836866,88,1690129732,Hair dye and chemical straightener use and breast cancer risk (2019),story,https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.32738,,onlinelibrary.wiley.com
-theoldlove,457,36827438,892,1690042306,"I am dying of squamous cell carcinoma, and potential treatments are out of reach",story,https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/,,jakeseliger.com
+theoldlove,457,36827438,893,1690042306,"I am dying of squamous cell carcinoma, and potential treatments are out of reach",story,https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/,,jakeseliger.com
 gtsnexp,9,36825353,77,1690025555,Computational Chemistry Using PyTorch,story,https://github.com/Mariewelt/OpenChem,,github.com
-bongoman37,1,36842672,12,1690167900,FDA Approves First Gene Therapy for Adults with Severe Hemophilia A,story,https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-adults-severe-hemophilia,,fda.gov
 amadeuspagel,354,36818896,469,1689969680,Journalists should be skeptical of all sources including scientists,story,https://natesilver.substack.com/p/journalists-should-be-skeptical-of,,natesilver.substack.com
 lastdong,1,36824333,33,1690012690,ShortGPT – Experimental AI framework for automated short/video content creation,story,https://github.com/RayVentura/ShortGPT,,github.com
-Stratoscope,143,36833523,149,1690100542,Scientists hit with massive bills after speaking at COVID-19 ‘webinars’,story,https://www.science.org/content/article/costly-invite-scientists-hit-with-massive-bills-after-speaking-at-covid-19-conferences,,science.org
 bobvanluijt,27,36822530,90,1689992370,Discovery: Metals can heal themselves,story,https://newsreleases.sandia.gov/healing_metals/,,newsreleases.sandia.gov
+bongoman37,1,36842672,12,1690167900,FDA Approves First Gene Therapy for Adults with Severe Hemophilia A,story,https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-adults-severe-hemophilia,,fda.gov
+Stratoscope,144,36833523,149,1690100542,Scientists hit with massive bills after speaking at COVID-19 ‘webinars’,story,https://www.science.org/content/article/costly-invite-scientists-hit-with-massive-bills-after-speaking-at-covid-19-conferences,,science.org
 leotravis10,21,36829524,67,1690057357,New Body Cam Data Exposes the True Scale of NYPD Violence Against Protesters,story,https://www.wired.com/story/nypd-george-floyd-nyc-protester-settlement/,,wired.com
 redbell,53,36826177,57,1690033568,Botulinum toxin: Bioweapon and magic drug (2010),story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/,,ncbi.nlm.nih.gov
 SeanBoocock,103,36836530,112,1690127871,Drugmakers are ‘throwing the kitchen sink’ to halt Medicare price negotiations,story,https://www.nytimes.com/2023/07/23/us/politics/medicare-drug-price-negotiations-lawsuits.html,,nytimes.com
@@ -29,4 +29,4 @@ PaulHoule,11,36826664,18,1690037245,Scientists: Fishing boats compete with whale
 SeanBoocock,9,36829305,15,1690056101,Oregon Decriminalized Hard Drugs,story,https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/,,theatlantic.com
 chewz,23,36830041,15,1690060566,"EVs Are Sending Toxic Tire Particles into the Water, Soil, and Air",story,https://www.theatlantic.com/technology/archive/2023/07/electric-vehicles-tires-wearing-out-particulates/674750/,,theatlantic.com
 weekay,6,36825917,11,1690031232,Experts say ‘cocaine sharks’ may be feasting on drugs dumped off Florida,story,https://www.theguardian.com/us-news/2023/jul/22/cocaine-sharks-drugs-florida-coast,,theguardian.com
-Multiset,75,36849277,46,1690211440,What do I think about biometric proof of personhood?,story,https://vitalik.ca/general/2023/07/24/biometric.html,,vitalik.ca
+Multiset,76,36849277,46,1690211440,What do I think about biometric proof of personhood?,story,https://vitalik.ca/general/2023/07/24/biometric.html,,vitalik.ca
