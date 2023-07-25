@@ -1,7 +1,8 @@
 by,descendants,id,score,time,title,type,url,text,domain
-EvgeniyZh,70,36845943,74,1690196965,Rust vs. Julia in scientific computing,story,https://mo8it.com/blog/rust-vs-julia/,,mo8it.com
-thunderbong,25,36852856,36,1690225596,Scientists invent double-sided solar panel that generates way more electricity,story,https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html,,independent.co.uk
-pseudolus,237,36828811,472,1690052416,"A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work",story,https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work,,latimes.com
+EvgeniyZh,74,36845943,77,1690196965,Rust vs. Julia in scientific computing,story,https://mo8it.com/blog/rust-vs-julia/,,mo8it.com
+CrankyBear,2,36855452,12,1690239799,AlmaLinux discovers working with Red Hat isn't easy,story,https://www.zdnet.com/article/almalinux-discovers-working-with-red-hat-isnt-easy/,,zdnet.com
+thunderbong,26,36852856,37,1690225596,Scientists invent double-sided solar panel that generates way more electricity,story,https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html,,independent.co.uk
+pseudolus,237,36828811,473,1690052416,"A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work",story,https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work,,latimes.com
 prismatic,6,36832191,60,1690081176,Gustave Moreau's mystical paintings,story,https://www.thecollector.com/gustave-moreau-paintings/,,thecollector.com
 wglb,3,36822484,58,1689991840,Research reveals the scale of disorder underpinning motor neuron disease,story,https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html,,medicalxpress.com
 daneel_w,12,36820835,77,1689978649,"Electrolytic capacitors: overview, teardown and experiments [video]",story,https://www.youtube.com/watch?v=MAP-VA1m-A4,,youtube.com
@@ -12,9 +13,9 @@ ImpressiveWebs,30,36836866,88,1690129732,Hair dye and chemical straightener use 
 theoldlove,456,36827438,891,1690042306,"I am dying of squamous cell carcinoma, and potential treatments are out of reach",story,https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/,,jakeseliger.com
 gtsnexp,9,36825353,77,1690025555,Computational Chemistry Using PyTorch,story,https://github.com/Mariewelt/OpenChem,,github.com
 bongoman37,1,36842672,11,1690167900,FDA Approves First Gene Therapy for Adults with Severe Hemophilia A,story,https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-adults-severe-hemophilia,,fda.gov
-Stratoscope,143,36833523,149,1690100542,Scientists hit with massive bills after speaking at COVID-19 ‘webinars’,story,https://www.science.org/content/article/costly-invite-scientists-hit-with-massive-bills-after-speaking-at-covid-19-conferences,,science.org
 lastdong,1,36824333,33,1690012690,ShortGPT – Experimental AI framework for automated short/video content creation,story,https://github.com/RayVentura/ShortGPT,,github.com
 amadeuspagel,354,36818896,469,1689969680,Journalists should be skeptical of all sources including scientists,story,https://natesilver.substack.com/p/journalists-should-be-skeptical-of,,natesilver.substack.com
+Stratoscope,143,36833523,149,1690100542,Scientists hit with massive bills after speaking at COVID-19 ‘webinars’,story,https://www.science.org/content/article/costly-invite-scientists-hit-with-massive-bills-after-speaking-at-covid-19-conferences,,science.org
 bobvanluijt,27,36822530,90,1689992370,Discovery: Metals can heal themselves,story,https://newsreleases.sandia.gov/healing_metals/,,newsreleases.sandia.gov
 leotravis10,21,36829524,67,1690057357,New Body Cam Data Exposes the True Scale of NYPD Violence Against Protesters,story,https://www.wired.com/story/nypd-george-floyd-nyc-protester-settlement/,,wired.com
 redbell,53,36826177,57,1690033568,Botulinum toxin: Bioweapon and magic drug (2010),story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/,,ncbi.nlm.nih.gov
