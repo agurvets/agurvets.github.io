@@ -1,22 +1,25 @@
 by,descendants,id,score,time,title,type,url,text,domain
-PaulHoule,25,36881989,38,1690394138,BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster (2021),story,https://arxiv.org/abs/2007.15919,,arxiv.org
-wglb,12,36871446,39,1690330160,Scientists discover new isopod species in the Florida Keys,story,https://phys.org/news/2023-07-scientists-isopod-species-florida-keys.html,,phys.org
-myshpa,1,36885002,16,1690405451,Scientists detect sign that a crucial ocean current is near collapse,story,https://www.washingtonpost.com/climate-environment/2023/07/25/atlantic-ocean-amoc-climate-change/,,washingtonpost.com
-bookofjoe,118,36878383,87,1690382025,‘A very disturbing picture’: another retraction for controversial physicist,story,https://www.nature.com/articles/d41586-023-02401-2,,nature.com
-samwillis,32,36859880,211,1690276850,Textual Paint – MS Paint in your terminal,story,https://github.com/1j01/textual-paint,,github.com
-Flux159,6,36879808,39,1690386791,Show HN: Experiment with Hugging Face models in a single notebook interface,story,https://lastmileai.dev/workbooks/clkjugr5g0036phc1ri5g517n,,lastmileai.dev
-smartmic,17,36868978,134,1690317219,A command-line murder mystery (2014),story,https://github.com/veltman/clmystery,,github.com
+wglb,13,36871446,50,1690330160,Scientists discover new isopod species in the Florida Keys,story,https://phys.org/news/2023-07-scientists-isopod-species-florida-keys.html,,phys.org
+PaulHoule,28,36881989,47,1690394138,BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster (2021),story,https://arxiv.org/abs/2007.15919,,arxiv.org
+wahnfrieden,11,36888462,29,1690427653,"FBI Officer Speaks at Law School, Lists Food Not Bombs on “Terrorist Watch List” [pdf] (2006)",story,http://foodnotbombs.net/FBI_officer_lists_FNB_austin.pdf,,foodnotbombs.net
+instagraham,398,36880471,28,1690389156,Former intel officer says 'non-human biologics’ found at alleged UFO crash sites,story,https://www.bbc.co.uk/news/live/world-us-canada-66307705,,bbc.co.uk
+wglb,1,36871459,14,1690330243,New low-mass quiescent galaxy discovered,story,https://phys.org/news/2023-07-low-mass-quiescent-galaxy.html,,phys.org
+myshpa,4,36885002,24,1690405451,Scientists detect sign that a crucial ocean current is near collapse,story,https://www.washingtonpost.com/climate-environment/2023/07/25/atlantic-ocean-amoc-climate-change/,,washingtonpost.com
+bookofjoe,118,36878383,89,1690382025,‘A very disturbing picture’: another retraction for controversial physicist,story,https://www.nature.com/articles/d41586-023-02401-2,,nature.com
+samwillis,32,36859880,213,1690276850,Textual Paint – MS Paint in your terminal,story,https://github.com/1j01/textual-paint,,github.com
+Flux159,6,36879808,40,1690386791,Show HN: Experiment with Hugging Face models in a single notebook interface,story,https://lastmileai.dev/workbooks/clkjugr5g0036phc1ri5g517n,,lastmileai.dev
+smartmic,19,36868978,134,1690317219,A command-line murder mystery (2014),story,https://github.com/veltman/clmystery,,github.com
 xqcgrek2,1,36867753,12,1690312102,'Disturbing picture’: another retraction imminent for controversial physicist,story,https://www.nature.com/articles/d41586-023-02401-2,,nature.com
-latchkey,16,36872332,32,1690337631,They took blockbuster drugs for weight loss. Now their stomachs are paralyzed,story,https://www.cnn.com/2023/07/25/health/weight-loss-diabetes-drugs-gastroparesis/index.html,,cnn.com
+latchkey,16,36872332,33,1690337631,They took blockbuster drugs for weight loss. Now their stomachs are paralyzed,story,https://www.cnn.com/2023/07/25/health/weight-loss-diabetes-drugs-gastroparesis/index.html,,cnn.com
 walterbell,0,36869764,21,1690320008,Reality TV Show Psychologically Tortures Participants with Deepfakes of Partners,story,https://futurism.com/the-byte/reality-tv-show-deepfakes-cheating,,futurism.com
 tigerlily,5,36867450,16,1690310950,"Make way for Solein, a new vegan protein on the menu",story,https://techcrunch.com/2023/06/16/solein-chociolate-gelato/,,techcrunch.com
-Brajeshwar,5,36863684,16,1690298674,"Atlantic Ocean Circulation Could Collapse by 2050, Scientists Warn",story,https://www.sciencealert.com/atlantic-ocean-circulation-could-collapse-by-2050-scientists-warn,,sciencealert.com
 thunderbong,28,36852856,52,1690225596,Scientists invent double-sided solar panel that generates way more electricity,story,https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html,,independent.co.uk
-beardyw,2,36866340,13,1690307178,Psychopathic Tendencies Help Some People Succeed in Business,story,https://knowablemagazine.org/article/mind/2023/psychopathic-path-to-success,,knowablemagazine.org
+Brajeshwar,5,36863684,16,1690298674,"Atlantic Ocean Circulation Could Collapse by 2050, Scientists Warn",story,https://www.sciencealert.com/atlantic-ocean-circulation-could-collapse-by-2050-scientists-warn,,sciencealert.com
 CrankyBear,3,36855452,24,1690239799,AlmaLinux discovers working with Red Hat isn't easy,story,https://www.zdnet.com/article/almalinux-discovers-working-with-red-hat-isnt-easy/,,zdnet.com
-keepamovin,12,36857318,15,1690254046,"Fancy quartz countertops are killing people who make them, doctors say",story,https://nypost.com/2023/07/24/fancy-quartz-countertops-are-killing-people-new-study/,,nypost.com
-hn1986,106,36878068,115,1690380849,Community Note correcting Musk’s anti-vax tweet mysteriously disappears,story,https://old.reddit.com/r/EnoughMuskSpam/comments/15a086f/community_note_correcting_musks_antivax_tweet/,,old.reddit.com
+beardyw,2,36866340,13,1690307178,Psychopathic Tendencies Help Some People Succeed in Business,story,https://knowablemagazine.org/article/mind/2023/psychopathic-path-to-success,,knowablemagazine.org
+keepamovin,12,36857318,16,1690254046,"Fancy quartz countertops are killing people who make them, doctors say",story,https://nypost.com/2023/07/24/fancy-quartz-countertops-are-killing-people-new-study/,,nypost.com
+hn1986,106,36878068,117,1690380849,Community Note correcting Musk’s anti-vax tweet mysteriously disappears,story,https://old.reddit.com/r/EnoughMuskSpam/comments/15a086f/community_note_correcting_musks_antivax_tweet/,,old.reddit.com
 nithinj,2,36855603,13,1690241026,EU hails discovery of phosphate rock deposit in Norway,story,https://www.euractiv.com/section/energy-environment/news/great-news-eu-hails-discovery-of-massive-phosphate-rock-deposit-in-norway/,,euractiv.com
-thunderbong,77,36862579,54,1690294575,Sugary drinks tax could prevent decay and increase health equity: study,story,https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study,,monash.edu
-harryleeming,203,36862855,121,1690295677,The burden of Long Covid “so large as to be unfathomable”,story,https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid,,rnz.co.nz
-myshpa,4,36855503,14,1690240157,Climate scientists’ horror and exasperation as global predictions play out,story,https://www.theguardian.com/commentisfree/2023/jul/25/northern-hemisphere-heatwaves-europe-greece-italy-wildfires-extreme-weather-climate-experts,,theguardian.com
+thunderbong,77,36862579,55,1690294575,Sugary drinks tax could prevent decay and increase health equity: study,story,https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study,,monash.edu
+harryleeming,206,36862855,122,1690295677,The burden of Long Covid “so large as to be unfathomable”,story,https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid,,rnz.co.nz
+myshpa,4,36855503,15,1690240157,Climate scientists’ horror and exasperation as global predictions play out,story,https://www.theguardian.com/commentisfree/2023/jul/25/northern-hemisphere-heatwaves-europe-greece-italy-wildfires-extreme-weather-climate-experts,,theguardian.com
