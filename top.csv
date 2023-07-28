@@ -1,9 +1,10 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Petiver,8,36883227,16,1690398502,Can Nature Lie?,story,https://www.theatlantic.com/books/archive/2023/07/evolution-liars-of-nature-lixing-sun-review/674808/,,theatlantic.com
-ranger207,8,36901193,16,1690498423,Meat allergy from tick bites is on the rise–and US doctors are in the dark,story,https://arstechnica.com/health/2023/07/tick-bites-can-cause-meat-allergies-up-to-450000-people-in-us-may-be-affected/,,arstechnica.com
-jdcampolargo,32,36895536,42,1690473449,Radioactivity in Food (Organic Food),story,https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html,,nrc.gov
-panabee,82,36888948,104,1690432366,Google Med-Palm M: Towards Generalist Biomedical AI,story,https://arxiv.org/abs/2307.14334,,arxiv.org
-instagraham,590,36880471,95,1690389156,Former intel officer says 'non-human biologics’ found at alleged UFO crash sites,story,https://www.bbc.co.uk/news/live/world-us-canada-66307705,,bbc.co.uk
+mutant_glofish,2,36903114,18,1690518549,How to Find Scientific Literature,story,https://www.emilkirkegaard.com/p/how-to-find-scientific-literature,,emilkirkegaard.com
+Petiver,19,36883227,20,1690398502,Can Nature Lie?,story,https://www.theatlantic.com/books/archive/2023/07/evolution-liars-of-nature-lixing-sun-review/674808/,,theatlantic.com
+ranger207,13,36901193,40,1690498423,Meat allergy from tick bites is on the rise–and US doctors are in the dark,story,https://arstechnica.com/health/2023/07/tick-bites-can-cause-meat-allergies-up-to-450000-people-in-us-may-be-affected/,,arstechnica.com
+panabee,83,36888948,105,1690432366,Google Med-Palm M: Towards Generalist Biomedical AI,story,https://arxiv.org/abs/2307.14334,,arxiv.org
+jdcampolargo,33,36895536,43,1690473449,Radioactivity in Food (Organic Food),story,https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html,,nrc.gov
+instagraham,597,36880471,98,1690389156,Former intel officer says 'non-human biologics’ found at alleged UFO crash sites,story,https://www.bbc.co.uk/news/live/world-us-canada-66307705,,bbc.co.uk
 wglb,15,36871446,54,1690330160,Scientists discover new isopod species in the Florida Keys,story,https://phys.org/news/2023-07-scientists-isopod-species-florida-keys.html,,phys.org
 wglb,1,36871459,15,1690330243,New low-mass quiescent galaxy discovered,story,https://phys.org/news/2023-07-low-mass-quiescent-galaxy.html,,phys.org
 PaulHoule,32,36881989,52,1690394138,BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster (2021),story,https://arxiv.org/abs/2007.15919,,arxiv.org
@@ -11,11 +12,10 @@ bookofjoe,123,36878383,93,1690382025,‘A very disturbing picture’: another re
 smartmic,19,36868978,137,1690317219,A command-line murder mystery (2014),story,https://github.com/veltman/clmystery,,github.com
 myshpa,7,36885002,31,1690405451,Scientists detect sign that a crucial ocean current is near collapse,story,https://www.washingtonpost.com/climate-environment/2023/07/25/atlantic-ocean-amoc-climate-change/,,washingtonpost.com
 xqcgrek2,1,36867753,12,1690312102,'Disturbing picture’: another retraction imminent for controversial physicist,story,https://www.nature.com/articles/d41586-023-02401-2,,nature.com
-Flux159,7,36879808,42,1690386791,Show HN: Experiment with Hugging Face models in a single notebook interface,story,https://lastmileai.dev/workbooks/clkjugr5g0036phc1ri5g517n,,lastmileai.dev
+Flux159,7,36879808,43,1690386791,Show HN: Experiment with Hugging Face models in a single notebook interface,story,https://lastmileai.dev/workbooks/clkjugr5g0036phc1ri5g517n,,lastmileai.dev
 latchkey,17,36872332,34,1690337631,They took blockbuster drugs for weight loss. Now their stomachs are paralyzed,story,https://www.cnn.com/2023/07/25/health/weight-loss-diabetes-drugs-gastroparesis/index.html,,cnn.com
-walterbell,0,36869764,23,1690320008,Reality TV Show Psychologically Tortures Participants with Deepfakes of Partners,story,https://futurism.com/the-byte/reality-tv-show-deepfakes-cheating,,futurism.com
+walterbell,0,36869764,24,1690320008,Reality TV Show Psychologically Tortures Participants with Deepfakes of Partners,story,https://futurism.com/the-byte/reality-tv-show-deepfakes-cheating,,futurism.com
 tigerlily,5,36867450,16,1690310950,"Make way for Solein, a new vegan protein on the menu",story,https://techcrunch.com/2023/06/16/solein-chociolate-gelato/,,techcrunch.com
 Brajeshwar,5,36863684,16,1690298674,"Atlantic Ocean Circulation Could Collapse by 2050, Scientists Warn",story,https://www.sciencealert.com/atlantic-ocean-circulation-could-collapse-by-2050-scientists-warn,,sciencealert.com
 beardyw,2,36866340,14,1690307178,Psychopathic Tendencies Help Some People Succeed in Business,story,https://knowablemagazine.org/article/mind/2023/psychopathic-path-to-success,,knowablemagazine.org
-hn1986,106,36878068,123,1690380849,Community Note correcting Musk’s anti-vax tweet mysteriously disappears,story,https://old.reddit.com/r/EnoughMuskSpam/comments/15a086f/community_note_correcting_musks_antivax_tweet/,,old.reddit.com
-thunderbong,77,36862579,55,1690294575,Sugary drinks tax could prevent decay and increase health equity: study,story,https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study,,monash.edu
+hn1986,107,36878068,123,1690380849,Community Note correcting Musk’s anti-vax tweet mysteriously disappears,story,https://old.reddit.com/r/EnoughMuskSpam/comments/15a086f/community_note_correcting_musks_antivax_tweet/,,old.reddit.com
