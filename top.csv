@@ -1,28 +1,24 @@
 by,descendants,id,score,time,title,type,url,text,domain
-mfiguiere,28,36937480,57,1690762618,AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics,story,https://www.nature.com/articles/d41586-023-02403-0,,nature.com
-mpweiher,141,36924570,73,1690664658,The Psychotherapy Myth,story,https://www.aporiamagazine.com/p/the-psychotherapy-myth,,aporiamagazine.com
-donsupreme,7,36937893,20,1690766843,"Illegal medical lab discovered near Fresno, 20 potentially infectious agents",story,https://www.yourcentralvalley.com/news/local-news/ive-never-seen-anything-like-this-illegal-medical-lab-discovered-in-reedley/,,yourcentralvalley.com
-FeaturelessBug,26,36933655,91,1690738170,Illegal lab containing bioengineered mice infected with HIV and herpes in Cali,story,https://www.insider.com/illegal-lab-found-full-of-bioengineered-mice-and-infectious-diseases-2023-7,,insider.com
-mdp2021,289,36929090,335,1690705680,Scientists may have found mechanism behind cognitive decline in aging,story,https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging,,news.cuanschutz.edu
-ecliptik,45,36934350,55,1690741473,Greg Rutkowski was removed from Stable Diffusion; AI artists brought him back,story,https://decrypt.co/150575/greg-rutkowski-removed-from-stable-diffusion-but-brought-back-by-ai-artists,,decrypt.co
-Anon84,113,36917466,154,1690611728,Computer scientists discover limits of gradient descent (2021),story,https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/,,quantamagazine.org
-thunderbong,106,36903220,96,1690520083,Why doctors hate their computers (2018),story,https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers,,newyorker.com
-meany,277,36920387,133,1690639190,Alcohol without the hangover – scientists are finding ways,story,https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418,,wsj.com
-hammock,272,36925019,290,1690667265,"Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet",story,https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes,,uclahealth.org
-vvoruganti,81,36908265,247,1690557959,Flash Museum,story,https://flashmuseum.org/,,flashmuseum.org
-geox,71,36924832,112,1690666048,Red algae proteins grafted into tobacco double plant growth,story,https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth,,news.cornell.edu
+_han,33,36943866,124,1690816506,BBC on Mastodon: experimenting with distributed and decentralised social media,story,https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub,,bbc.co.uk
+mfiguiere,48,36937480,69,1690762618,AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics,story,https://www.nature.com/articles/d41586-023-02403-0,,nature.com
+mpweiher,179,36924570,90,1690664658,The Psychotherapy Myth,story,https://www.aporiamagazine.com/p/the-psychotherapy-myth,,aporiamagazine.com
+donsupreme,8,36937893,33,1690766843,"Illegal medical lab discovered near Fresno, 20 potentially infectious agents",story,https://www.yourcentralvalley.com/news/local-news/ive-never-seen-anything-like-this-illegal-medical-lab-discovered-in-reedley/,,yourcentralvalley.com
+FeaturelessBug,30,36933655,96,1690738170,Illegal lab containing bioengineered mice infected with HIV and herpes in Cali,story,https://www.insider.com/illegal-lab-found-full-of-bioengineered-mice-and-infectious-diseases-2023-7,,insider.com
+mdp2021,294,36929090,338,1690705680,Scientists may have found mechanism behind cognitive decline in aging,story,https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging,,news.cuanschutz.edu
+thunderbong,108,36903220,99,1690520083,Why doctors hate their computers (2018),story,https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers,,newyorker.com
+Anon84,118,36917466,156,1690611728,Computer scientists discover limits of gradient descent (2021),story,https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/,,quantamagazine.org
+ecliptik,46,36934350,57,1690741473,Greg Rutkowski was removed from Stable Diffusion; AI artists brought him back,story,https://decrypt.co/150575/greg-rutkowski-removed-from-stable-diffusion-but-brought-back-by-ai-artists,,decrypt.co
+meany,278,36920387,135,1690639190,Alcohol without the hangover – scientists are finding ways,story,https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418,,wsj.com
+vvoruganti,84,36908265,247,1690557959,Flash Museum,story,https://flashmuseum.org/,,flashmuseum.org
+hammock,274,36925019,291,1690667265,"Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet",story,https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes,,uclahealth.org
+geox,73,36924832,113,1690666048,Red algae proteins grafted into tobacco double plant growth,story,https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth,,news.cornell.edu
+l3x,118,36905405,147,1690543968,Cities with their own psychological disorders,story,https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm,,atlasobscura.com
 amelius,23,36930224,17,1690717922,Sex-specific differences in myocardial injury after Covid-19 Vaccination,story,https://onlinelibrary.wiley.com/doi/abs/10.1002/ejhf.2978,,onlinelibrary.wiley.com
-l3x,117,36905405,145,1690543968,Cities with their own psychological disorders,story,https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm,,atlasobscura.com
-trevin,385,36910256,452,1690565321,Play deprivation is a major cause of the teen mental health crisis,story,https://jonathanhaidt.substack.com/p/the-play-deficit,,jonathanhaidt.substack.com
-walterbell,134,36927940,151,1690692862,Microbially produced protein that is much sweeter than sugar,story,https://www.nature.com/articles/s41587-023-01865-x,,nature.com
-jonathankoren,2,36929510,27,1690710449,"A worm that survived 46,000 years in permafrost wows scientists",story,https://www.npr.org/2023/07/30/1190950660/nematode-worm-permafrost-discovery-frozen,,npr.org
+trevin,385,36910256,454,1690565321,Play deprivation is a major cause of the teen mental health crisis,story,https://jonathanhaidt.substack.com/p/the-play-deficit,,jonathanhaidt.substack.com
 _kyran,130,36903815,91,1690527848,Mindfulness-based programs show promise in reducing psychological distress,story,https://www.nature.com/articles/s44220-023-00081-5,,nature.com
+walterbell,134,36927940,154,1690692862,Microbially produced protein that is much sweeter than sugar,story,https://www.nature.com/articles/s41587-023-01865-x,,nature.com
 mutant_glofish,21,36917089,65,1690606548,Is everything we eat associated with cancer? A systematic cookbook review (2013),story,https://pubmed.ncbi.nlm.nih.gov/23193004/,,pubmed.ncbi.nlm.nih.gov
+jonathankoren,2,36929510,27,1690710449,"A worm that survived 46,000 years in permafrost wows scientists",story,https://www.npr.org/2023/07/30/1190950660/nematode-worm-permafrost-discovery-frozen,,npr.org
 webmaven,11,36910189,62,1690565048,CDC Finds 20 Infectious Agents in Unlicensed California Lab,story,https://gizmodo.com/cdc-20-infectious-agents-unlicensed-california-lab-1850685858,,gizmodo.com
+panabee,86,36888948,110,1690432366,Google Med-Palm M: Towards Generalist Biomedical AI,story,https://arxiv.org/abs/2307.14334,,arxiv.org
 tehlike,2,36902923,15,1690515694,Demon Core: How the Third Nuclear Bomb Killed American Scientists (2018),story,https://www.amusingplanet.com/2018/12/demon-core-how-third-nuclear-bomb.html,,amusingplanet.com
-panabee,86,36888948,109,1690432366,Google Med-Palm M: Towards Generalist Biomedical AI,story,https://arxiv.org/abs/2307.14334,,arxiv.org
-marbu,0,36926150,14,1690674958,The Discovery of Global Warming: The Carbon Dioxide Greenhouse Effect,story,https://history.aip.org/climate/co2.htm,,history.aip.org
-reqo,18,36923714,53,1690659297,Psychopathic tendencies help some people succeed in business,story,https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/,,scientificamerican.com
-instagraham,635,36880471,112,1690389156,Former intel officer says 'non-human biologics’ found at alleged UFO crash sites,story,https://www.bbc.co.uk/news/live/world-us-canada-66307705,,bbc.co.uk
-Petiver,24,36883227,25,1690398502,Can Nature Lie?,story,https://www.theatlantic.com/books/archive/2023/07/evolution-liars-of-nature-lixing-sun-review/674808/,,theatlantic.com
-hammock,1,36925378,13,1690669571,Subclinical Heart Damage More Prevalent Than Thought After Covid-19,story,https://onlinelibrary.wiley.com/doi/abs/10.1002/ejhf.2978,,onlinelibrary.wiley.com
