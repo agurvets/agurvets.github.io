@@ -1,11 +1,11 @@
 by,descendants,id,score,time,title,type,url,text,domain
-mikece,150,37068464,213,1691615452,CNET is deleting old articles to try to improve its Google Search ranking,story,https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo,,theverge.com
-carabiner,150,37055514,161,1691529090,"LK-99: Phonon bands, Localized Flat Band Magnetism, Models and Chemical Analysis",story,https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view,,drive.google.com
-gmays,251,37055210,134,1691527514,FDA Approves First Oral Treatment for Postpartum Depression,story,https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-treatment-postpartum-depression,,fda.gov
+mikece,187,37068464,250,1691615452,CNET is deleting old articles to try to improve its Google Search ranking,story,https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo,,theverge.com
+carabiner,151,37055514,161,1691529090,"LK-99: Phonon bands, Localized Flat Band Magnetism, Models and Chemical Analysis",story,https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view,,drive.google.com
+gmays,251,37055210,135,1691527514,FDA Approves First Oral Treatment for Postpartum Depression,story,https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-treatment-postpartum-depression,,fda.gov
 mutant_glofish,94,37043934,516,1691463322,Noclip.website: A digital museum of video game levels,story,https://noclip.website,,noclip.website
 geox,79,37042790,235,1691453821,Malignant melanoma deploys elegant molecular mechanism to evade immune responses,story,https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed,,cancer.columbia.edu
-benbreen,26,37050368,65,1691508193,Dark microbiome in Atacama fossil delta unveils Mars life detection limits,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9944251/,,ncbi.nlm.nih.gov
 wglb,37,37040205,189,1691438617,Lithium morphology discovery could lead to safer lithium-metal batteries,story,https://phys.org/news/2023-08-true-lithium-revealed.html,,phys.org
+benbreen,26,37050368,65,1691508193,Dark microbiome in Atacama fossil delta unveils Mars life detection limits,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9944251/,,ncbi.nlm.nih.gov
 srameshc,55,37052694,82,1691516103,"Project IDX: An experiment to improve full-stack, multiplatform app development",story,https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html,,developers.googleblog.com
 luu,116,37057256,83,1691540589,Rising ill-health and economic inactivity from long-term sickness: 2019 to 2023,story,https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/risingillhealthandeconomicinactivitybecauseoflongtermsicknessuk/2019to2023,,ons.gov.uk
 specto,8,37055909,48,1691531377,Author discovers AI-generated counterfeit books written in her name on Amazon,story,https://arstechnica.com/information-technology/2023/08/author-discovers-ai-generated-counterfeit-books-written-in-her-name-on-amazon/,,arstechnica.com
@@ -23,4 +23,3 @@ DemiGuru,4,37035559,20,1691421080,Physicists achieve fusion with net energy gain
 luigi23,12,37044577,14,1691469718,Beyond Meat hit as shoppers shift to cheaper animal protein,story,https://www.bbc.com/news/business-66435863,,bbc.com
 LinuxBender,0,37050870,12,1691509805,New SARS-CoV-2 variant gains dominance in US amid mild summer Covid wave,story,https://arstechnica.com/health/2023/08/covid-metrics-tick-up-in-mild-summer-wave-led-by-yet-another-new-variant/,,arstechnica.com
 laserstrahl,0,37039576,14,1691436224,Oregon hospital mourns guard shot dead while defending maternity ward,story,https://www.theguardian.com/us-news/2023/jul/25/oregon-hospital-security-guard-killed-bobby-smallwood,,theguardian.com
-giuliomagnifico,5,37044485,16,1691468681,Heat camera captures scorching nature of record Phoenix heat wave,story,https://www.reuters.com/investigates/special-report/usa-weather-phoenix/,,reuters.com
