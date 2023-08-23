@@ -1,16 +1,13 @@
 by,descendants,id,score,time,title,type,url,text,domain
-acallaghan,65,37233977,103,1692787058,Growing scientific interest in vagus nerve stimulation,story,https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists,,theguardian.com
-danboarder,14,37231148,68,1692757207,Visualizing the mysterious: Quantum entanglement photons captured in real-time,story,https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp,,phys.org
-mikece,21,37236137,50,1692799665,Apple’s treatment of small games developer makes a textbook antitrust case,story,https://9to5mac.com/2023/08/23/textbook-antitrust-case/,,9to5mac.com
-thunderbong,32,37235578,94,1692797518,AI predicts certain esophageal and stomach cancers three years before diagnosis,story,https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer,,michiganmedicine.org
-clouddrover,122,37230843,334,1692754621,Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis,story,https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis,,moorfields.nhs.uk
-murkle,8,37229403,82,1692743286,"OpenSAFELY is a secure, open-source platform for analysis of health records data",story,https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working,,opensafely.org
-grhmc,96,37224148,147,1692718164,Show HN: FlakeHub – Discover and publish Nix flakes,story,https://flakehub.com/,,flakehub.com
+acallaghan,101,37233977,176,1692787058,Growing scientific interest in vagus nerve stimulation,story,https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists,,theguardian.com
+thunderbong,36,37235578,120,1692797518,AI predicts certain esophageal and stomach cancers three years before diagnosis,story,https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer,,michiganmedicine.org
+clouddrover,130,37230843,344,1692754621,Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis,story,https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis,,moorfields.nhs.uk
+murkle,8,37229403,84,1692743286,"OpenSAFELY is a secure, open-source platform for analysis of health records data",story,https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working,,opensafely.org
+grhmc,99,37224148,147,1692718164,Show HN: FlakeHub – Discover and publish Nix flakes,story,https://flakehub.com/,,flakehub.com
 mikece,40,37210103,125,1692628582,FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver,story,https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO,,phoronix.com
 marbu,72,37215246,123,1692651443,SolarPi experiment 2: Finally something that works,story,http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html,,rfox.eu
-wglb,20,37203761,176,1692572491,Cell therapy repairs cornea damage with patient's stem cells gives trial results,story,https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html,,medicalxpress.com
 dnetesn,0,37217633,11,1692668992,New Tarantula Discovered in Unexpected Place,story,https://nautil.us/new-tarantula-discovered-in-unexpected-place-365798/,,nautil.us
 pseudolus,7,37225731,12,1692724343,"MRI scanning could lead to major cut in prostate cancer deaths, UK study",story,https://www.theguardian.com/society/2023/aug/22/mri-scanning-could-lead-to-major-cut-in-prostate-cancer-deaths-finds-uk-study,,theguardian.com
-isolli,14,37231989,34,1692766121,"In Wuhan, doctors knew the truth. They were told to keep quiet",story,https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/,,washingtonpost.com
+isolli,15,37231989,35,1692766121,"In Wuhan, doctors knew the truth. They were told to keep quiet",story,https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/,,washingtonpost.com
 segfaultbuserr,5,37216269,23,1692657404,Nvidia BIOS Signature Lock Broken – What Caused Open-Source Pains for Years,story,https://www.phoronix.com/news/NVIDIA-Lock-Broken,,phoronix.com
-PaulHoule,12,37203814,33,1692572955,Pig kidney works in a donated body for over a month,story,https://medicalxpress.com/news/2023-08-pig-kidney-donated-body-month.html,,medicalxpress.com
+LinuxBender,1,37215620,12,1692653465,BA.2.86 shows just how risky slacking off on Covid monitoring is,story,https://arstechnica.com/health/2023/08/ba-2-86-shows-just-how-risky-slacking-off-on-covid-monitoring-is/,,arstechnica.com
