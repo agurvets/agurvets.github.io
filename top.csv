@@ -1,10 +1,10 @@
 by,descendants,id,score,time,title,type,url,text,domain
-murkle,1,37229403,19,1692743286,"OpenSAFELY is a secure, open-source platform for analysis of health records data",story,https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working,,opensafely.org
-grhmc,80,37224148,128,1692718164,Show HN: FlakeHub – Discover and publish Nix flakes,story,https://flakehub.com/,,flakehub.com
-mikece,40,37210103,124,1692628582,FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver,story,https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO,,phoronix.com
-weird_science,161,37200615,516,1692548893,So you want to learn physics (2021),story,https://www.susanrigetti.com/physics,,susanrigetti.com
+murkle,2,37229403,26,1692743286,"OpenSAFELY is a secure, open-source platform for analysis of health records data",story,https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working,,opensafely.org
+grhmc,83,37224148,129,1692718164,Show HN: FlakeHub – Discover and publish Nix flakes,story,https://flakehub.com/,,flakehub.com
+mikece,40,37210103,125,1692628582,FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver,story,https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO,,phoronix.com
+weird_science,161,37200615,517,1692548893,So you want to learn physics (2021),story,https://www.susanrigetti.com/physics,,susanrigetti.com
+marbu,66,37215246,121,1692651443,SolarPi experiment 2: Finally something that works,story,http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html,,rfox.eu
 pseudolus,6,37225731,11,1692724343,"MRI scanning could lead to major cut in prostate cancer deaths, UK study",story,https://www.theguardian.com/society/2023/aug/22/mri-scanning-could-lead-to-major-cut-in-prostate-cancer-deaths-finds-uk-study,,theguardian.com
-marbu,65,37215246,120,1692651443,SolarPi experiment 2: Finally something that works,story,http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html,,rfox.eu
 dnetesn,0,37217633,11,1692668992,New Tarantula Discovered in Unexpected Place,story,https://nautil.us/new-tarantula-discovered-in-unexpected-place-365798/,,nautil.us
 wglb,20,37203761,175,1692572491,Cell therapy repairs cornea damage with patient's stem cells gives trial results,story,https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html,,medicalxpress.com
 segfaultbuserr,5,37216269,23,1692657404,Nvidia BIOS Signature Lock Broken – What Caused Open-Source Pains for Years,story,https://www.phoronix.com/news/NVIDIA-Lock-Broken,,phoronix.com
