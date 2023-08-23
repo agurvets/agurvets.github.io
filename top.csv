@@ -1,24 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-mikece,16,37210103,83,1692628582,FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver,story,https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO,,phoronix.com
-marbu,31,37215246,66,1692651443,SolarPi experiment 2: Finally something that works,story,http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html,,rfox.eu
-weird_science,159,37200615,502,1692548893,So you want to learn physics (2021),story,https://www.susanrigetti.com/physics,,susanrigetti.com
-wglb,20,37203761,172,1692572491,Cell therapy repairs cornea damage with patient's stem cells gives trial results,story,https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html,,medicalxpress.com
-segfaultbuserr,2,37216269,13,1692657404,Nvidia BIOS Signature Lock Broken – What Caused Open-Source Pains for Years,story,https://www.phoronix.com/news/NVIDIA-Lock-Broken,,phoronix.com
-jdmark,16,37194394,106,1692487768,Electrical detection of RNA cancer biomarkers at the single-molecule level,story,https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html,,medicalxpress.com
-tambourine_man,26,37196055,95,1692504580,MacPaint and QuickDraw 1984 source code (2010),story,https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/,,computerhistory.org
-geox,14,37200619,67,1692548912,Scientists trap light inside a magnet,story,https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet,,ccny.cuny.edu
-LinuxBender,1,37215620,11,1692653465,BA.2.86 shows just how risky slacking off on Covid monitoring is,story,https://arstechnica.com/health/2023/08/ba-2-86-shows-just-how-risky-slacking-off-on-covid-monitoring-is/,,arstechnica.com
-benbreen,82,37184626,48,1692409616,How Indian artists transformed the Buddha’s absence into presence,story,https://www.washingtonpost.com/entertainment/art/2023/08/14/buddha-metropolitan-museum-buddhism-india/,,washingtonpost.com
+murkle,1,37229403,19,1692743286,"OpenSAFELY is a secure, open-source platform for analysis of health records data",story,https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working,,opensafely.org
+grhmc,80,37224148,128,1692718164,Show HN: FlakeHub – Discover and publish Nix flakes,story,https://flakehub.com/,,flakehub.com
+mikece,40,37210103,124,1692628582,FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver,story,https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO,,phoronix.com
+weird_science,161,37200615,516,1692548893,So you want to learn physics (2021),story,https://www.susanrigetti.com/physics,,susanrigetti.com
+pseudolus,6,37225731,11,1692724343,"MRI scanning could lead to major cut in prostate cancer deaths, UK study",story,https://www.theguardian.com/society/2023/aug/22/mri-scanning-could-lead-to-major-cut-in-prostate-cancer-deaths-finds-uk-study,,theguardian.com
+marbu,65,37215246,120,1692651443,SolarPi experiment 2: Finally something that works,story,http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html,,rfox.eu
+dnetesn,0,37217633,11,1692668992,New Tarantula Discovered in Unexpected Place,story,https://nautil.us/new-tarantula-discovered-in-unexpected-place-365798/,,nautil.us
+wglb,20,37203761,175,1692572491,Cell therapy repairs cornea damage with patient's stem cells gives trial results,story,https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html,,medicalxpress.com
+segfaultbuserr,5,37216269,23,1692657404,Nvidia BIOS Signature Lock Broken – What Caused Open-Source Pains for Years,story,https://www.phoronix.com/news/NVIDIA-Lock-Broken,,phoronix.com
+geox,14,37200619,68,1692548912,Scientists trap light inside a magnet,story,https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet,,ccny.cuny.edu
 PaulHoule,12,37203814,33,1692572955,Pig kidney works in a donated body for over a month,story,https://medicalxpress.com/news/2023-08-pig-kidney-donated-body-month.html,,medicalxpress.com
-kibwen,37,37194302,230,1692486884,CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates,story,https://www.nature.com/articles/s41434-023-00410-4,,nature.com
-webmaven,85,37191671,75,1692469950,"Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight",story,https://www.popsci.com/technology/air-force-blended-wing-body/,,popsci.com
 PaulHoule,0,37201666,20,1692555679,Scientists find way to wipe cell's memory to better reprogram it as a stem cell,story,https://phys.org/news/2023-08-scientists-cell-memory-reprogram-stem.html,,phys.org
-dotcoma,18,37202523,18,1692562204,San Francisco’s robotaxi experiment is getting out of hand,story,https://www.vox.com/technology/2023/8/19/23837648/self-driving-taxis-gm-cruise-alphabet-waymo,,vox.com
-webmaven,87,37182306,69,1692393692,Artists have forgotten how to draw,story,https://unherd.com/2023/08/artists-have-forgotten-how-to-draw/,,unherd.com
-geox,6,37188595,43,1692451855,Miracle Plant Used in Ancient Greece Rediscovered After 2k Years,story,https://greekreporter.com/2023/08/13/plant-ancient-greece-rediscovered/,,greekreporter.com
-kosasbest,1,37201622,11,1692555412,Doctors Explain Why People Feel Better Near the Ocean,story,https://www.insider.com/doctors-explain-why-people-feel-better-near-the-ocean-2023-7,,insider.com
-gardenfelder,9,37188761,26,1692452896,Neuroscientists successfully test theory that forgetting is a form of learning,story,https://medicalxpress.com/news/2023-08-neuroscientists-successfully-theory.html,,medicalxpress.com
-amichail,28,37190172,84,1692461240,Microsoft retracts AI-written article advising tourists to visit a food bank,story,https://www.engadget.com/microsoft-retracts-ai-written-article-advising-tourists-to-visit-a-food-bank-on-an-empty-stomach-182701884.html,,engadget.com
-pseudolus,5,37199502,12,1692541872,"New malaria vaccine works well in infants, offers adults layered protection",story,https://arstechnica.com/health/2023/08/new-malaria-vaccine-works-well-in-infants-offers-adults-layered-protection/,,arstechnica.com
-leotravis10,196,37182600,122,1692395288,Analysis: Health care CEOs hauled in $4B last year as inflation pinched workers,story,https://www.statnews.com/2023/08/17/health-ceo-salaries-compensation/,,statnews.com
-clouddrover,6,37188127,17,1692448536,"Which arm gets the Covid-19 booster may make a difference, study shows",story,https://www.cnn.com/2023/08/18/health/covid-vaccine-arm-wellness/index.html,,cnn.com
+dotcoma,18,37202523,19,1692562204,San Francisco’s robotaxi experiment is getting out of hand,story,https://www.vox.com/technology/2023/8/19/23837648/self-driving-taxis-gm-cruise-alphabet-waymo,,vox.com
+LinuxBender,1,37215620,12,1692653465,BA.2.86 shows just how risky slacking off on Covid monitoring is,story,https://arstechnica.com/health/2023/08/ba-2-86-shows-just-how-risky-slacking-off-on-covid-monitoring-is/,,arstechnica.com
