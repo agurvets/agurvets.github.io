@@ -1,17 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-graypegg,205,37359193,790,1693638754,The Mystery of the Bloomfield Bridge,story,https://tylervigen.com/the-mystery-of-the-bloomfield-bridge,,tylervigen.com
-mdturnerphys,13,37358468,40,1693627125,The Craft of Experimental Physics (2015),story,http://www.jameshedberg.com/writing/2015/02/01/the-craft-of-experimental-physics.html,,jameshedberg.com
-RafelMri,29,37343450,75,1693514696,The physics of hand clapping,story,https://physicsworld.com/a/the-physics-of-hand-clapping-heres-how-to-do-it-best/,,physicsworld.com
-gmays,54,37336782,207,1693488245,New antifungal therapy for fungal meningitis,story,https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis,,med.umn.edu
+fortran77,28,37385440,48,1693864146,The Gimmicks of Food Labeling,story,https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store,,newyorker.com
+danielam,65,37380863,93,1693838150,Antioxidants found to spur cancer growth and metastasis in mice,story,https://news.ki.se/antioxidants-stimulate-blood-flow-in-tumours,,news.ki.se
+pcrh,55,37382232,101,1693846210,Medical-evidence giant Cochrane battles funding cuts and closures,story,https://www.nature.com/articles/d41586-023-02741-z,,nature.com
+CoBE10,185,37379272,358,1693825331,Sony sends copyright notices to TV Museum about shows 40 to 60 years old,story,https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/,,torrentfreak.com
+yoquan,76,37376998,147,1693799921,Scientists use quantum device to slow chemical process by factor of 100B,story,https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html,,sydney.edu.au
+graypegg,240,37359193,975,1693638754,The Mystery of the Bloomfield Bridge,story,https://tylervigen.com/the-mystery-of-the-bloomfield-bridge,,tylervigen.com
+rolph,7,37375431,56,1693781841,Copper Be Gone: The Chemistry Behind PCB Etching,story,https://hackaday.com/2023/08/31/copper-be-gone-the-chemistry-behind-pcb-etching/,,hackaday.com
+prismatic,116,37367882,102,1693717733,‘Psychonauts’ by Mike Jay review,story,https://www.historytoday.com/archive/review/psychonauts-mike-jay-review,,historytoday.com
+g42gregory,19,37384271,22,1693857112,British Court: Patient Can Be Denied Life-Sustaining Treatment Against Her Will,story,https://jonathanturley.org/2023/09/03/british-court-rules-that-competent-and-conscious-patient-can-be-denied-life-sustaining-treatment-against-her-will/,,jonathanturley.org
+mdturnerphys,13,37358468,41,1693627125,The Craft of Experimental Physics (2015),story,http://www.jameshedberg.com/writing/2015/02/01/the-craft-of-experimental-physics.html,,jameshedberg.com
+carabiner,5,37356637,58,1693605906,Four Korean universities evaluated LK-99: “Unable to discover superconductivity”,story,https://old.reddit.com/r/LK99/comments/1665l8p/lk99_verification_committee_there_is_no_case_of/,,old.reddit.com
+SirLJ,66,37349870,105,1693571023,Taking dietary supplements full of antioxidants could help cancerous tumors grow,story,https://studyfinds.org/dietary-supplements-help-tumors/,,studyfinds.org
+LinuxBender,0,37376505,11,1693793663,"X, formerly Twitter, to collect biometric and employment data",story,https://www.bbc.com/news/technology-66679922,,bbc.com
 snvzz,5,37367288,24,1693709320,Kermit Project books and articles online,story,https://www.kermitproject.org/booksonline.html,,kermitproject.org
-carabiner,5,37356637,57,1693605906,Four Korean universities evaluated LK-99: “Unable to discover superconductivity”,story,https://old.reddit.com/r/LK99/comments/1665l8p/lk99_verification_committee_there_is_no_case_of/,,old.reddit.com
-wglb,6,37335828,28,1693483249,Dense Neptune-sized exoplanet discovered with TESS,story,https://phys.org/news/2023-08-dense-neptune-sized-exoplanet-tess.html,,phys.org
-SirLJ,66,37349870,104,1693571023,Taking dietary supplements full of antioxidants could help cancerous tumors grow,story,https://studyfinds.org/dietary-supplements-help-tumors/,,studyfinds.org
-akolbe,44,37350943,44,1693576760,Cesium-soaked truffles may keep fallout in an environment’s food web,story,https://www.science.org/content/article/germany-s-radioactive-boars-are-bristly-reminder-nuclear-fallout,,science.org
-belter,157,37363035,154,1693672370,Top Russian rocket scientist dies from ‘mushroom poisoning’,story,https://www.lbc.co.uk/news/russia-scientist-mushroom-poison/,,lbc.co.uk
-wyclif,8,37345561,29,1693530520,X indicates it will start collecting ‘biometric info’ and ‘employment history’,story,https://www.independent.co.uk/tech/twitter-x-elon-musk-biometric-employment-information-b2402571.html,,independent.co.uk
-hhs,6,37344806,22,1693523784,"Doctors ghost patients, charge for surgeries left to residents",story,https://news.bloomberglaw.com/us-law-week/doctors-ghost-patients-charge-for-surgeries-left-to-residents,,news.bloomberglaw.com
-firstSpeaker,2,37338849,25,1693496126,"X Plans to Collect User Biometric Data, Job and School History",story,https://www.bnnbloomberg.ca/x-plans-to-collect-user-biometric-data-job-and-school-history-1.1965424,,bnnbloomberg.ca
-Geekette,4,37348739,11,1693562234,Studies find female surgeons' patients less likely to have adverse complications,story,https://www.wsj.com/health/wellness/female-surgeons-get-better-results-than-male-counterparts-7ba9b9c2,,wsj.com
-rntn,4,37337809,14,1693492655,The fall of Babylon: failed tele-health startup once valued at $2B goes bankrupt,story,https://techcrunch.com/2023/08/31/the-fall-of-babylon-failed-tele-health-startup-once-valued-at-nearly-2b-goes-bankrupt-and-sold-for-parts/,,techcrunch.com
-elijahparker,79,37367115,52,1693706939,Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues,story,https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html,,nytimes.com
+akolbe,47,37350943,47,1693576760,Cesium-soaked truffles may keep fallout in an environment’s food web,story,https://www.science.org/content/article/germany-s-radioactive-boars-are-bristly-reminder-nuclear-fallout,,science.org
+ColinWright,9,37373789,22,1693770750,‘No one wants to be right about this’: climate scientists,story,https://www.theguardian.com/commentisfree/2023/jul/25/northern-hemisphere-heatwaves-europe-greece-italy-wildfires-extreme-weather-climate-experts,,theguardian.com
+Geekette,4,37348739,12,1693562234,Studies find female surgeons' patients less likely to have adverse complications,story,https://www.wsj.com/health/wellness/female-surgeons-get-better-results-than-male-counterparts-7ba9b9c2,,wsj.com
+belter,164,37363035,158,1693672370,Top Russian rocket scientist dies from ‘mushroom poisoning’,story,https://www.lbc.co.uk/news/russia-scientist-mushroom-poison/,,lbc.co.uk
