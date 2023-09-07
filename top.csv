@@ -1,8 +1,9 @@
 by,descendants,id,score,time,title,type,url,text,domain
-geox,45,37403709,95,1694000595,Chemists develop new way to split water,story,https://www.uni-muenster.de/news/view.php?cmdid=13436,,uni-muenster.de
-philonoist,96,37404305,91,1694004292,"Global trends in incidence, death, burden and risk factors of early-onset cancer",story,https://bmjoncology.bmj.com/content/2/1/e000049,,bmjoncology.bmj.com
-whitepaint,1,37406372,26,1694013273,"Scientists grow whole model of human embryo, without sperm or egg",story,https://www.bbc.com/news/health-66715669,,bbc.com
-privong,90,37391161,265,1693919614,Learn Physics with Functional Programming,story,https://nostarch.com/learn-physics-functional-programming,,nostarch.com
+sohkamyung,6,37412772,25,1694042799,Beetle grows ‘termite’ on back to steal food,story,https://www.science.org/content/article/beetle-grows-termite-back-steal-food,,science.org
+geox,45,37403709,100,1694000595,Chemists develop new way to split water,story,https://www.uni-muenster.de/news/view.php?cmdid=13436,,uni-muenster.de
+philonoist,97,37404305,91,1694004292,"Global trends in incidence, death, burden and risk factors of early-onset cancer",story,https://bmjoncology.bmj.com/content/2/1/e000049,,bmjoncology.bmj.com
+privong,90,37391161,266,1693919614,Learn Physics with Functional Programming,story,https://nostarch.com/learn-physics-functional-programming,,nostarch.com
+whitepaint,1,37406372,27,1694013273,"Scientists grow whole model of human embryo, without sperm or egg",story,https://www.bbc.com/news/health-66715669,,bbc.com
 bookofjoe,24,37385362,51,1693863559,Experimental archaeologist tested out Stone-Age living on the Thames,story,https://www.nationalgeographic.com/travel/article/dr-theresa-emmerich-kamper-ancient-skills-stone-age-living,,nationalgeographic.com
 LinuxBender,9,37404350,23,1694004570,Largest local government body in Europe goes under amid Oracle disaster,story,https://www.theregister.com/2023/09/05/birmingham_city_council_oracle/,,theregister.com
 momirlan,147,37386661,201,1693875149,Farms that create habitat key to food security and biodiversity,story,https://news.stanford.edu/2023/09/04/farming-food-biodiversity/,,news.stanford.edu
@@ -15,8 +16,8 @@ CoBE10,207,37379272,402,1693825331,Sony sends copyright notices to TV Museum abo
 sherilm,46,37393502,79,1693929352,Crowdfunding a defense for scientific research,story,https://www.vox.com/future-perfect/23841742/francesca-gino-data-colada-lawsuit-gofundme-science-culture-transparency-academic-fraud-dishonesty,,vox.com
 danielam,83,37380863,150,1693838150,Antioxidants found to spur cancer growth and metastasis in mice,story,https://news.ki.se/antioxidants-stimulate-blood-flow-in-tumours,,news.ki.se
 pcrh,64,37382232,113,1693846210,Medical-evidence giant Cochrane battles funding cuts and closures,story,https://www.nature.com/articles/d41586-023-02741-z,,nature.com
-rntn,4,37397554,34,1693946999,"YouTube under no obligation to host anti-vaccine advocate’s videos, court says",story,https://arstechnica.com/tech-policy/2023/09/anti-vaccine-advocate-mercola-loses-lawsuit-over-youtube-channel-removal/,,arstechnica.com
 rolph,7,37375431,64,1693781841,Copper Be Gone: The Chemistry Behind PCB Etching,story,https://hackaday.com/2023/08/31/copper-be-gone-the-chemistry-behind-pcb-etching/,,hackaday.com
+rntn,4,37397554,34,1693946999,"YouTube under no obligation to host anti-vaccine advocate’s videos, court says",story,https://arstechnica.com/tech-policy/2023/09/anti-vaccine-advocate-mercola-loses-lawsuit-over-youtube-channel-removal/,,arstechnica.com
 PaulHoule,9,37387350,34,1693882710,"Non-gas giant has 73 times Earth’s mass, bewildering its discoverers",story,https://arstechnica.com/science/2023/08/we-dont-understand-how-a-freakishly-heavy-exoplanet-could-have-formed/,,arstechnica.com
 fortran77,68,37385440,95,1693864146,The Gimmicks of Food Labeling,story,https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store,,newyorker.com
 LinuxBender,9,37392189,25,1693924232,Blood Clotting Proteins Might Help Predict Long Covid Brain Fog,story,https://www.scientificamerican.com/article/blood-clotting-proteins-might-help-predict-long-covid-brain-fog/,,scientificamerican.com
