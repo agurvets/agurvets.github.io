@@ -1,17 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-scapecast,43,37443089,66,1694244772,Delightfully strange: Mystery 'golden egg' found on ocean floor,story,https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html,,phys.org
-jseliger,285,37450915,597,1694298436,Lithium discovery in US volcano could be biggest deposit ever found,story,https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article,,chemistryworld.com
-hanniabu,54,37455106,78,1694347908,Scientists Discover Natural Molecule That Eradicates Plaques and Cavities,story,https://scitechdaily.com/90-reduction-scientists-discover-natural-molecule-that-eradicates-plaques-and-cavities/,,scitechdaily.com
-siwatanejo,3,37456636,16,1694359098,An update on the green thread experiment for .NET,story,https://twitter.com/davidfowl/status/1700330786053116058,,twitter.com
-rbanffy,29,37444477,192,1694262020,CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab,story,https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab,,livescience.com
-gkew,1,37428505,44,1694140116,Federated benchmarking of medical artificial intelligence with MedPerf,story,https://www.nature.com/articles/s42256-023-00652-2,,nature.com
-rmason,4,37448828,15,1694284936,The first experiment to produce oxygen on another planet has come to an end,story,https://www.wral.com/story/perseverance-rover-experiment-creates-oxygen-on-mars-for-the-final-time/21037737/,,wral.com
+scapecast,83,37443089,136,1694244772,Mystery 'golden egg' found on ocean floor,story,https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html,,phys.org
+jseliger,301,37450915,644,1694298436,Lithium discovery in US volcano could be biggest deposit ever found,story,https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article,,chemistryworld.com
+LinuxBender,16,37458236,42,1694368390,KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6,story,https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6,,phoronix.com
+c420,9,37460701,12,1694384359,Big Tobacco’s Legacy: Pushing Hyperpalatable Foods in America,story,https://neurosciencenews.com/hyperpalatable-foods-big-tobacco-23906/,,neurosciencenews.com
+siwatanejo,9,37456636,31,1694359098,An update on the green thread experiment for .NET,story,https://twitter.com/davidfowl/status/1700330786053116058,,twitter.com
+rbanffy,29,37444477,193,1694262020,CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab,story,https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab,,livescience.com
+gkew,1,37428505,45,1694140116,Federated benchmarking of medical artificial intelligence with MedPerf,story,https://www.nature.com/articles/s42256-023-00652-2,,nature.com
 pseudolus,86,37431946,96,1694169766,Scientific sleuths spot dishonest ChatGPT use in papers,story,https://www.nature.com/articles/d41586-023-02477-w,,nature.com
+rmason,4,37448828,16,1694284936,The first experiment to produce oxygen on another planet has come to an end,story,https://www.wral.com/story/perseverance-rover-experiment-creates-oxygen-on-mars-for-the-final-time/21037737/,,wral.com
 sohkamyung,26,37432622,49,1694175924,NASA's Oxygen-Generating Experiment Moxie Completes Mars Mission,story,https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/,,mars.nasa.gov
-Metacelsus,109,37437739,99,1694198961,Why we didn’t get a malaria vaccine sooner,story,https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner,,worksinprogress.co
+Metacelsus,110,37437739,99,1694198961,Why we didn’t get a malaria vaccine sooner,story,https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner,,worksinprogress.co
 bookofjoe,5,37428018,13,1694135590,"Menopausal hormone therapy and dementia: nationwide, nested case-control study",story,https://www.bmj.com/content/381/bmj-2022-072770,,bmj.com
+pjmlp,0,37445924,11,1694270126,.NET Green Thread Experiment Results,story,https://github.com/dotnet/runtimelab/issues/2398,,github.com
 rajnathani,4,37425230,19,1694119119,Processed foods high in emulsifiers linked with heart disease,story,https://studyfinds.org/food-e-numbers-heart-disease/,,studyfinds.org
-deegles,18,37441666,12,1694226945,Long Covid Symptoms Can Emerge Months After Infection,story,https://www.ucsf.edu/news/2023/08/425961/long-covid-symptoms-can-emerge-months-after-infection,,ucsf.edu
-lxm,61,37433307,43,1694180166,China Offers Lesson in How to Cut Plastic Waste from Food Delivery,story,https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4,,wsj.com
-Brajeshwar,1,37421659,15,1694104787,Two New Toxic Birds Discovered,story,https://www.scientificamerican.com/article/two-new-toxic-birds-discovered/,,scientificamerican.com
-lisper,50,37442839,38,1694241592,Teen’s death after eating a single chip highlights risks of ultra-spicy foods,story,https://arstechnica.com/health/2023/09/teens-death-after-eating-a-single-chip-highlights-risks-of-ultra-spicy-foods/,,arstechnica.com
