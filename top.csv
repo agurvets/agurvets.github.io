@@ -1,18 +1,21 @@
 by,descendants,id,score,time,title,type,url,text,domain
-ibobev,4,37506028,57,1694676537,Painting with Math: A Gentle Study of Raymarching,story,https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/,,maximeheckel.com
-Hooke,34,37514079,106,1694721707,Archaeologists Discover More Than 100 Ancient Drawings in a Spanish Cave,story,https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/,,smithsonianmag.com
-manicennui,4,37528816,12,1694810351,“Inverse vaccine” shows potential to treat MS and other autoimmune diseases,story,https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases,,pme.uchicago.edu
-madviper,36,37506248,200,1694678719,Pyobd - a free and open source program for car diagnostics,story,https://github.com/barracuda-fsh/pyobd,,github.com
-Klaster_1,323,37496589,533,1694612357,Meduza co-founder's phone infected with Pegasus,story,https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter,,meduza.io
-Brajeshwar,85,37510885,239,1694708140,Stolen van Gogh painting returned in an IKEA bag,story,https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/,,smithsonianmag.com
-cainxinth,334,37522858,449,1694785487,Carrefour puts ‘shrinkflation’ price warnings on food to shame brands,story,https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands,,theguardian.com
-lormayna,8,37519310,16,1694759874,The major genetic risk factor for severe Covid-19 is inherited from Neanderthals,story,https://www.nature.com/articles/s41586-020-2818-3,,nature.com
+beefman,34,37529459,55,1694814143,"MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial",story,https://www.nature.com/articles/s41591-023-02565-4,,nature.com
+manicennui,21,37528816,61,1694810351,“Inverse vaccine” shows potential to treat MS and other autoimmune diseases,story,https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases,,pme.uchicago.edu
+ibobev,6,37506028,70,1694676537,Painting with math: A gentle study of raymarching,story,https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/,,maximeheckel.com
+Hooke,34,37514079,114,1694721707,Archaeologists discover ancient drawings in a Spanish cave,story,https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/,,smithsonianmag.com
+labrador,1,37528454,11,1694808223,DeepMind discovers that AI large language models can optimize their own prompts,story,https://venturebeat.com/business/deepmind-discovers-that-ai-large-language-models-can-optimize-their-own-prompts/,,venturebeat.com
+madviper,37,37506248,201,1694678719,Pyobd - a free and open source program for car diagnostics,story,https://github.com/barracuda-fsh/pyobd,,github.com
+Klaster_1,323,37496589,535,1694612357,Meduza co-founder's phone infected with Pegasus,story,https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter,,meduza.io
+Brajeshwar,85,37510885,240,1694708140,Stolen van Gogh painting returned in an IKEA bag,story,https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/,,smithsonianmag.com
+cainxinth,343,37522858,455,1694785487,Carrefour puts ‘shrinkflation’ price warnings on food to shame brands,story,https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands,,theguardian.com
+lormayna,8,37519310,17,1694759874,The major genetic risk factor for severe Covid-19 is inherited from Neanderthals,story,https://www.nature.com/articles/s41586-020-2818-3,,nature.com
 sohkamyung,26,37480039,61,1694521581,Scientists figured out how to write in water,story,https://arstechnica.com/science/2023/09/scientists-figured-out-how-to-write-in-water/,,arstechnica.com
-austinjp,3,37520310,22,1694768662,Scientists discover how brain cells die in Alzheimer’s,story,https://www.bbc.com/news/health-66816268,,bbc.com
 jger15,95,37510279,159,1694705298,The end of tweeted articles,story,https://www.houseofstrauss.com/p/this-post-will-not-go-viral,,houseofstrauss.com
+austinjp,3,37520310,22,1694768662,Scientists discover how brain cells die in Alzheimer’s,story,https://www.bbc.com/news/health-66816268,,bbc.com
+archo,0,37519597,11,1694762022,Psychedelic drug MDMA eases PTSD symptoms – study paves way possible US approval,story,https://apnews.com/article/mdma-ecstasy-ptsd-study-molly-fda-1155a374305027567d5f41910022022d,,apnews.com
 ZeljkoS,58,37493633,88,1694592412,Psycho and the end of the continuously showing movie,story,https://kottke.org/23/09/psycho-and-the-end-of-the-continuously-showing-movie,,kottke.org
 peter_d_sherman,27,37480313,102,1694522761,Physicists create elusive particles that remember their pasts,story,https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/,,quantamagazine.org
 cassianoleal,13,37508456,118,1694696733,Public exposure to BPA exceeds acceptable health safety levels,story,https://www.eea.europa.eu/en/newsroom/news/public-exposure-to-bisphenol-a,,eea.europa.eu
 SubiculumCode,15,37510925,60,1694708270,"Vaccine Reverse Multiple Sclerosis, Type 1 Diabetes, and Crohn’s",story,https://scitechdaily.com/new-vaccine-can-completely-reverse-autoimmune-diseases-like-multiple-sclerosis-type-1-diabetes-and-crohns-disease/,,scitechdaily.com
-c420,0,37512529,13,1694714697,Microsoft Publishes Garbled AI Article Calling Deceased NBA Player “Useless”,story,https://futurism.com/msn-ai-brandon-hunter-useless,,futurism.com
 ilamont,5,37497593,29,1694617039,The A.V. Club's AI-Generated Articles Are Copying Directly from IMDB,story,https://futurism.com/the-av-club-imdb,,futurism.com
+c420,0,37512529,13,1694714697,Microsoft Publishes Garbled AI Article Calling Deceased NBA Player “Useless”,story,https://futurism.com/msn-ai-brandon-hunter-useless,,futurism.com
