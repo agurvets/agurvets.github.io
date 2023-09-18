@@ -1,22 +1,21 @@
 by,descendants,id,score,time,title,type,url,text,domain
-michelangelo,63,37559256,101,1695058477,Paint on Windows is getting layers and transparency support,story,https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/,,blogs.windows.com
+samclemens,0,37551566,18,1695004425,Mysteries of the Court of Miracles,story,https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/,,reynolds-news.com
+rbanffy,19,37558256,49,1695053852,How unions won a 30% raise for every fast food worker in California,story,https://pluralistic.net/2023/09/14/prop-22-never-again/#norms-code-laws-markets,,pluralistic.net
+sandebert,14,37560425,18,1695063450,Danish artist who submitted empty frames as artwork told to repay funding,story,https://www.theguardian.com/world/2023/sep/18/danish-artist-jens-haaning-empty-frames-ordered-repay,,theguardian.com
+michelangelo,125,37559256,192,1695058477,Paint on Windows is getting layers and transparency support,story,https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/,,blogs.windows.com
 geox,64,37534453,92,1694869590,National Motorcycle Museum Closing Its Doors,story,https://nationalmcmuseum.org/,,nationalmcmuseum.org
-PaulHoule,124,37556030,86,1695044686,Study: U.S. dietary recommendations for protein intake are too low,story,https://bigthink.com/health/us-dietary-protein-recommendations-too-low/,,bigthink.com
-dtagames,128,37540067,86,1694908691,Insiders reveal problems at Upside Foods,story,https://www.wired.com/story/upside-foods-lab-grown-chicken/,,wired.com
-adam_gyroscope,122,37531801,373,1694835147,Subdomain.center – discover all subdomains for a domain,story,https://www.subdomain.center/,,subdomain.center
+dtagames,130,37540067,87,1694908691,Insiders reveal problems at Upside Foods,story,https://www.wired.com/story/upside-foods-lab-grown-chicken/,,wired.com
+adam_gyroscope,122,37531801,376,1694835147,Subdomain.center – discover all subdomains for a domain,story,https://www.subdomain.center/,,subdomain.center
 Twixes,1,37537877,39,1694892418,The Discovery of Copper,story,https://worksinprogress.co/issue/the-discovery-of-copper,,worksinprogress.co
 LinuxBender,193,37535537,406,1694877526,Cystic fibrosis treatment wins Breakthrough Prize,story,https://www.nature.com/articles/d41586-023-02890-1,,nature.com
 gdedhitchhiker,71,37531339,151,1694830148,enron :: discover the power of WHY (2001),story,https://enroncorp.com/corp/index.html,,enroncorp.com
-Brajeshwar,88,37510885,248,1694708140,Stolen van Gogh painting returned in an IKEA bag,story,https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/,,smithsonianmag.com
+PaulHoule,138,37556030,88,1695044686,Study: U.S. dietary recommendations for protein intake are too low,story,https://bigthink.com/health/us-dietary-protein-recommendations-too-low/,,bigthink.com
 Jason_Protell,20,37535431,77,1694876801,Wireless electrical–molecular quantum signalling for cancer cell apoptosis,story,https://www.nature.com/articles/s41565-023-01496-y,,nature.com
-drsim,10,37544892,26,1694957561,Ask HN: How to discover new and interesting papers?,story,,"I’ve recently gotten into reading scholarly papers, prompted by some very accessible and engaging papers about LLMs.<p>Most of these are hosted at arXiv which has a new function, but no ranking.<p>I’d love to discover interesting papers in the fields I follow, ranked by the community. Much like HN.<p>Does this exist? How do others keep up to date in their fields?",
-madviper,38,37506248,221,1694678719,Pyobd - a free and open source program for car diagnostics,story,https://github.com/barracuda-fsh/pyobd,,github.com
-geox,30,37548319,56,1694977573,Lead Toxicity from Ayurvedic Medicines,story,https://www.cmaj.ca/content/195/30/E1010,,cmaj.ca
-beefman,102,37529459,98,1694814143,"MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial",story,https://www.nature.com/articles/s41591-023-02565-4,,nature.com
-Hooke,38,37514079,130,1694721707,Archaeologists discover ancient drawings in a Spanish cave,story,https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/,,smithsonianmag.com
-ibobev,19,37506028,119,1694676537,Painting with math: A gentle study of raymarching,story,https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/,,maximeheckel.com
-manicennui,97,37528816,248,1694810351,“Inverse vaccine” shows potential to treat MS and other autoimmune diseases,story,https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases,,pme.uchicago.edu
-belter,9,37537427,40,1694889783,Pig Kidney Works A Record 2 Months In Donated Body,story,https://apnews.com/article/pig-kidney-transplant-xenotransplant-83dfb5e6d022ca72039a821cc6bc00ef,,apnews.com
-barry-cotter,59,37533103,115,1694854043,Why Ugly Architecture Is Bad for Your Health,story,https://www.architecturaluprising.com/studies/why-ugly-architecture-is-bad-for-your-health/,,architecturaluprising.com
-jger15,95,37510279,161,1694705298,The end of tweeted articles,story,https://www.houseofstrauss.com/p/this-post-will-not-go-viral,,houseofstrauss.com
-lormayna,8,37519310,19,1694759874,The major genetic risk factor for severe Covid-19 is inherited from Neanderthals,story,https://www.nature.com/articles/s41586-020-2818-3,,nature.com
+drsim,10,37544892,29,1694957561,Ask HN: How to discover new and interesting papers?,story,,"I’ve recently gotten into reading scholarly papers, prompted by some very accessible and engaging papers about LLMs.<p>Most of these are hosted at arXiv which has a new function, but no ranking.<p>I’d love to discover interesting papers in the fields I follow, ranked by the community. Much like HN.<p>Does this exist? How do others keep up to date in their fields?",
+beefman,102,37529459,99,1694814143,"MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial",story,https://www.nature.com/articles/s41591-023-02565-4,,nature.com
+geox,30,37548319,57,1694977573,Lead Toxicity from Ayurvedic Medicines,story,https://www.cmaj.ca/content/195/30/E1010,,cmaj.ca
+manicennui,98,37528816,249,1694810351,“Inverse vaccine” shows potential to treat MS and other autoimmune diseases,story,https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases,,pme.uchicago.edu
+belter,9,37537427,41,1694889783,Pig Kidney Works A Record 2 Months In Donated Body,story,https://apnews.com/article/pig-kidney-transplant-xenotransplant-83dfb5e6d022ca72039a821cc6bc00ef,,apnews.com
+barry-cotter,59,37533103,116,1694854043,Why Ugly Architecture Is Bad for Your Health,story,https://www.architecturaluprising.com/studies/why-ugly-architecture-is-bad-for-your-health/,,architecturaluprising.com
+labrador,1,37528454,25,1694808223,DeepMind discovers that AI large language models can optimize their own prompts,story,https://venturebeat.com/business/deepmind-discovers-that-ai-large-language-models-can-optimize-their-own-prompts/,,venturebeat.com
+takinola,0,37526312,11,1694798373,2023 Ig Nobel Winners,story,https://improbable.com/ig/winners/#ig2023,,improbable.com
