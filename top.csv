@@ -1,26 +1,27 @@
 by,descendants,id,score,time,title,type,url,text,domain
-swid,2,37597931,16,1695305665,They have genetic ALS. What should clinicians do?,story,https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/,,statnews.com
-gnufx,97,37587791,176,1695233894,Archaeologists discover oldest wooden structure,story,https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/,,news.liverpool.ac.uk
+mdtrooper,1,37598985,29,1695309662,Article reply “Godot is not the new Unity” from Juan Linietsky (BDFL of Godot),story,https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21,,gist.github.com
+swid,11,37597931,28,1695305665,They have genetic ALS. What should clinicians do?,story,https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/,,statnews.com
+gnufx,97,37587791,177,1695233894,Archaeologists discover oldest wooden structure,story,https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/,,news.liverpool.ac.uk
 suspecting,17,37580556,30,1695186398,"Insect pests and radiation: SIT, inherited sterility, biological control",story,https://www.iaea.org/newscenter/news/how-to-control-insect-pests-using-radiation,,iaea.org
-thunderbong,25,37590984,71,1695248718,"This is a black and white photo, but an artist has drawn color lines through it",story,https://twitter.com/debbiediscovers/status/1155340262245163008,,twitter.com
+thunderbong,25,37590984,76,1695248718,"This is a black and white photo, but an artist has drawn color lines through it",story,https://twitter.com/debbiediscovers/status/1155340262245163008,,twitter.com
 hddherman,21,37565688,148,1695098766,My trip to the Communication and Laptop Museum in Estonia,story,https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/,,ounapuu.ee
-emot,7,37591085,28,1695249743,Does the risk of getting long Covid increase each time you get reinfected?,story,https://www.statnews.com/2023/09/20/do-long-covid-odds-increase-with-second-infection/,,statnews.com
+emot,9,37591085,28,1695249743,Does the risk of getting long Covid increase each time you get reinfected?,story,https://www.statnews.com/2023/09/20/do-long-covid-odds-increase-with-second-infection/,,statnews.com
 BerislavLopac,11,37581889,83,1695199142,Algorithm-assisted discovery of an intrinsic order among mathematical constants,story,https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants,,fermatslibrary.com
-Petiver,51,37580498,60,1695185600,Health risks of travel in early-modern Britain,story,https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/,,dralun.wordpress.com
-femto,138,37584578,167,1695220023,Cancer expert given experimental treatments for incurable brain tumour,story,https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818,,abc.net.au
-Vagantem,2,37570055,25,1695132064,Super-precise CRISPR tool enters US clinical trials for first time,story,https://www.nature.com/articles/d41586-023-02836-7,,nature.com
+Petiver,54,37580498,60,1695185600,Health risks of travel in early-modern Britain,story,https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/,,dralun.wordpress.com
+femto,140,37584578,167,1695220023,Cancer expert given experimental treatments for incurable brain tumour,story,https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818,,abc.net.au
+Vagantem,3,37570055,25,1695132064,Super-precise CRISPR tool enters US clinical trials for first time,story,https://www.nature.com/articles/d41586-023-02836-7,,nature.com
 cwwc,13,37584311,36,1695218816,United Is Latest to Discover Bogus Parts in Plane Engines,story,https://www.bloomberg.com/news/articles/2023-09-18/united-airlines-latest-to-discover-bogus-parts-in-plane-engines,,bloomberg.com
 trafnar,1,37574150,28,1695148385,Show HN: My first interactive article – breakdown of a complex menu UI,story,https://www.nathanmanousos.com/posts/chonky-menu,,nathanmanousos.com
 gmays,14,37574192,75,1695148514,X-ray laser will ‘film’ chemical reactions in unprecedented detail,story,https://www.nature.com/articles/d41586-023-02874-1,,nature.com
-PaulHoule,236,37572394,272,1695141091,How many medical studies are faked or flawed?,story,https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w,,web.archive.org
+PaulHoule,236,37572394,273,1695141091,How many medical studies are faked or flawed?,story,https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w,,web.archive.org
 pseudotrash,32,37567302,102,1695114680,Safety Gate: the EU rapid alert system for dangerous non-food products,story,https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444,,ec.europa.eu
 elorant,15,37583310,17,1695212816,Space Drugs Factory Denied Reentry to Earth,story,https://gizmodo.com/space-pharmaceuticals-varda-regulations-faa-1850850528,,gizmodo.com
 birriel,7,37578616,57,1695166879,Google DeepMind's AI successor predicts how 71M mutations cause disease,story,https://endpts.com/google-deepminds-alphafold-successor-predicts-how-71m-mutations-cause-disease/,,endpts.com
 jhoho,17,37565140,76,1695092243,Tackling the curse of dimensionality with physics-informed neural networks,story,https://arxiv.org/abs/2307.12306,,arxiv.org
-mwexler,102,37596530,28,1695298756,Uber Eats will start accepting food stamps for grocery delivery in 2024,story,https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant,,theverge.com
 c420,0,37576926,11,1695158525,Scientists Recover RNA from an Extinct Species for the First Time,story,https://gizmodo.com/rna-recovery-extinct-species-thylacine-tasmanian-tiger-1850853441,,gizmodo.com
 chatmasta,76,37568564,76,1695123761,"Danish artist told to repay museum €67,000 after turning in blank canvasses",story,https://www.bbc.com/news/world-europe-66847139,,bbc.com
 geox,7,37583371,13,1695213340,Clinical Trial of HIV Vaccine Begins in United States and South Africa,story,https://www.niaid.nih.gov/news-events/clinical-trial-hiv-vaccine-begins-united-states-and-south-africa,,niaid.nih.gov
+mwexler,105,37596530,28,1695298756,Uber Eats will start accepting food stamps for grocery delivery in 2024,story,https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant,,theverge.com
 isaacfrond,76,37583875,46,1695216604,Fed-up consumers are going after food companies for misleading claims,story,https://www.npr.org/2023/09/20/1200417169/food-company-starbucks-misleading-claims-lawsuits,,npr.org
 I-M-S,8,37564143,18,1695082932,"Danish artist told to repay museum €67,000 after turning in blank canvasses",story,https://www.bbc.com/news/world-europe-66847139,,bbc.com
 bookofjoe,49,37592790,20,1695265718,Uber Eats will start accepting food stamps for grocery delivery in 2024,story,https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant,,theverge.com
