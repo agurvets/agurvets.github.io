@@ -1,16 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-mellosouls,92,37630543,25,1695535658,Time Doesn’t Belong to Physics – When Bergson met Einstein,story,https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607,,iai.tv
-LinuxBender,5,37650213,18,1695674002,Covid vaccines linked to unexpected vaginal bleeding,story,https://www.nature.com/articles/d41586-023-02996-6,,nature.com
-PaulHoule,56,37650198,59,1695673956,"Ultra-processed food linked to higher risk of depression, research finds",story,https://www.theguardian.com/food/2023/sep/20/ultra-processed-food-linked-higher-risk-depression-research-finds,,theguardian.com
-anigbrowl,59,37638956,203,1695607534,Japan pharma startup to begin human trials of tooth regrowth drug in 2024,story,https://english.kyodonews.net/news/2023/09/d56fb464a52b-japan-pharma-startup-developing-world-first-drug-to-grow-new-teeth.html,,english.kyodonews.net
+bookofjoe,4,37651529,23,1695680511,Distinguishing features of Long Covid identified through immune profiling,story,https://www.nature.com/articles/s41586-023-06651-y,,nature.com
+mellosouls,91,37630543,30,1695535658,Time Doesn’t Belong to Physics – When Bergson met Einstein,story,https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607,,iai.tv
+LinuxBender,7,37650213,30,1695674002,Covid vaccines linked to unexpected vaginal bleeding,story,https://www.nature.com/articles/d41586-023-02996-6,,nature.com
+PaulHoule,61,37650198,63,1695673956,"Ultra-processed food linked to higher risk of depression, research finds",story,https://www.theguardian.com/food/2023/sep/20/ultra-processed-food-linked-higher-risk-depression-research-finds,,theguardian.com
+anigbrowl,59,37638956,210,1695607534,Japan pharma startup to begin human trials of tooth regrowth drug in 2024,story,https://english.kyodonews.net/news/2023/09/d56fb464a52b-japan-pharma-startup-developing-world-first-drug-to-grow-new-teeth.html,,english.kyodonews.net
 zdw,23,37625909,111,1695493395,The process of making food models. Japanese 73-year-old craftsman [video],story,https://www.youtube.com/watch?v=Chi8hk1Vqs8,,youtube.com
-PaulHoule,0,37649738,13,1695672023,"‘Mutilating the tree of life’: Wildlife loss accelerating, scientists warn",story,https://www.theguardian.com/environment/2023/sep/19/mutilating-the-tree-of-life-wildlife-loss-accelerating-scientists-warn,,theguardian.com
-Brajeshwar,10,37629993,30,1695527480,A Disk Usage Mystery,story,https://www.marginalia.nu/log/89-disk-usage-mystery/,,marginalia.nu
+PaulHoule,0,37649738,14,1695672023,"‘Mutilating the tree of life’: Wildlife loss accelerating, scientists warn",story,https://www.theguardian.com/environment/2023/sep/19/mutilating-the-tree-of-life-wildlife-loss-accelerating-scientists-warn,,theguardian.com
+Brajeshwar,10,37629993,31,1695527480,A Disk Usage Mystery,story,https://www.marginalia.nu/log/89-disk-usage-mystery/,,marginalia.nu
 replyifuagree,5,37637657,31,1695593408,"How Shopify’s anti-meeting, anti-mandatory-office experiment is going",story,https://www.fastcompany.com/90955958/how-shopifys-anti-meeting-anti-mandatory-office-experiment-is-going,,fastcompany.com
 birriel,42,37627292,107,1695501461,Scientists improve anti-tumor power of CAR-T cells,story,https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/,,insideprecisionmedicine.com
-belltaco,135,37638840,169,1695606262,Type 2 diabetes rates in US youth rose 62% after Covid pandemic began,story,https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests,,cidrap.umn.edu
-__rito__,4,37626551,99,1695497341,Computational Discovery on Jupyter,story,https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/,,computational-discovery-on-jupyter.github.io
-sbmthakur,59,37634091,65,1695570041,Habitually Skipping Breakfast Is Associated with the Risk of GI Cancers,story,https://pubmed.ncbi.nlm.nih.gov/36869181/,,pubmed.ncbi.nlm.nih.gov
+belltaco,135,37638840,171,1695606262,Type 2 diabetes rates in US youth rose 62% after Covid pandemic began,story,https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests,,cidrap.umn.edu
+__rito__,4,37626551,100,1695497341,Computational Discovery on Jupyter,story,https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/,,computational-discovery-on-jupyter.github.io
+sbmthakur,59,37634091,66,1695570041,Habitually Skipping Breakfast Is Associated with the Risk of GI Cancers,story,https://pubmed.ncbi.nlm.nih.gov/36869181/,,pubmed.ncbi.nlm.nih.gov
 shaicoleman,37,37625871,60,1695493175,Biodistribution of mRNA COVID-19 vaccines in human breast milk,story,https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00366-3/fulltext,,thelancet.com
 PaulHoule,1,37634422,13,1695572222,California legislature passes ban on 4 food additives linked to health issues,story,https://medicalxpress.com/news/2023-09-california-legislature-food-additives-linked.html,,medicalxpress.com
 doublemint2202,56,37620043,53,1695435106,Show HN: ChatGPT for Med-School and Healthcare,story,https://chat.radiantai.health/,,chat.radiantai.health
@@ -23,4 +24,4 @@ gardenfelder,2,37635318,14,1695577264,Scientists found the most intense heat wav
 givinguflac,3,37619819,18,1695432236,"3 iOS 0-days, a cellular network compromise, and HTTP used to infect an iPhone",story,https://arstechnica.com/security/2023/09/how-the-iphone-of-a-presidential-candidate-in-egypt-got-hacked-for-the-2nd-time/,,arstechnica.com
 gardenfelder,5,37625801,17,1695492671,A climate scientist wanted to start a debate in academia. He set off a firestorm,story,https://www.latimes.com/environment/story/2023-09-12/california-scientist-blasts-climate-change-research,,latimes.com
 geox,4,37619905,14,1695433296,CDC recommends first maternal RSV vaccine to protect babies before they're born,story,https://abcnews.go.com/Health/cdc-recommends-1st-maternal-rsv-vaccine-protect-babies/story?id=103420977,,abcnews.go.com
-paulpauper,42,37637706,17,1695593859,"What I learned losing 70 pounds: Medical interventions work, among other things",story,https://www.slowboring.com/p/what-i-learned-losing-70-pounds,,slowboring.com
+paulpauper,43,37637706,17,1695593859,"What I learned losing 70 pounds: Medical interventions work, among other things",story,https://www.slowboring.com/p/what-i-learned-losing-70-pounds,,slowboring.com
