@@ -1,16 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-adamnemecek,24,37692166,37,1695919302,RZK: Experimental proof assistant for synthetic ∞-categories,story,https://github.com/rzk-lang/rzk,,github.com
-geox,84,37688165,94,1695901226,Scientists unveil fire-safe fuel,story,https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel,,news.ucr.edu
-rntn,97,37693221,65,1695923842,Japanese scientists working on creating human eggs and sperm in the lab,story,https://www.npr.org/sections/health-shots/2023/09/28/1200105467/japanese-scientists-race-to-create-human-eggs-and-sperm-in-the-lab,,npr.org
-fortran77,69,37680358,56,1695844567,Is the Physics of Time Changing?,story,https://www.wired.com/story/physics-of-time-actually-changing/,,wired.com
-wglb,65,37675003,124,1695824233,JWST discovers massive and compact quiescent galaxy,story,https://phys.org/news/2023-09-jwst-massive-compact-quiescent-galaxy.html,,phys.org
-diodorus,3,37668687,21,1695778913,Biomolecular analysis of early Viking Age hair combs from Hedeby,story,https://www.cambridge.org/core/journals/antiquity/article/in-the-footsteps-of-ohthere-biomolecular-analysis-of-early-viking-age-hair-combs-from-hedeby-haithabu/5200C00F0D7CED6850921343AF1F89C8,,cambridge.org
+adamnemecek,36,37692166,45,1695919302,RZK: Experimental proof assistant for synthetic ∞-categories,story,https://github.com/rzk-lang/rzk,,github.com
+geox,87,37688165,97,1695901226,Scientists unveil fire-safe fuel,story,https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel,,news.ucr.edu
+car,54,37686074,69,1695882847,US surgeons are killing themselves at an alarming rate. One decided to speak out,story,https://www.theguardian.com/us-news/2023/sep/26/surgeons-suicide-doctors-physicians-mental-health,,theguardian.com
+fortran77,70,37680358,60,1695844567,Is the Physics of Time Changing?,story,https://www.wired.com/story/physics-of-time-actually-changing/,,wired.com
+rntn,110,37693221,68,1695923842,Japanese scientists working on creating human eggs and sperm in the lab,story,https://www.npr.org/sections/health-shots/2023/09/28/1200105467/japanese-scientists-race-to-create-human-eggs-and-sperm-in-the-lab,,npr.org
+wglb,66,37675003,124,1695824233,JWST discovers massive and compact quiescent galaxy,story,https://phys.org/news/2023-09-jwst-massive-compact-quiescent-galaxy.html,,phys.org
+diodorus,3,37668687,22,1695778913,Biomolecular analysis of early Viking Age hair combs from Hedeby,story,https://www.cambridge.org/core/journals/antiquity/article/in-the-footsteps-of-ohthere-biomolecular-analysis-of-early-viking-age-hair-combs-from-hedeby-haithabu/5200C00F0D7CED6850921343AF1F89C8,,cambridge.org
 Petiver,3,37681127,12,1695847869,Naturalists Unknown: Lives marked by discovery and erasure,story,https://theamericanscholar.org/naturalists-unknown/,,theamericanscholar.org
 zcrar70,2,37678034,19,1695835674,"Antimatter falls down, not up: CERN experiment confirms theory",story,https://www.nature.com/articles/d41586-023-03043-0,,nature.com
 jandeboevrie,377,37658208,108,1695730941,My Unhealthy Relationship with Keyboards,story,https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html,,jackevansevo.github.io
-car,54,37686074,68,1695882847,US surgeons are killing themselves at an alarming rate. One decided to speak out,story,https://www.theguardian.com/us-news/2023/sep/26/surgeons-suicide-doctors-physicians-mental-health,,theguardian.com
 hanniabu,74,37659327,175,1695736378,Newly discovered deep-sea enzyme breaks down PET plastic,story,https://phys.org/news/2023-09-newly-deep-sea-enzyme-pet-plastic.html,,phys.org
-mikece,6,37675879,41,1695827816,"Antimatter Reacts to Gravity in the Same Way as Ordinary Matter, Physicists Find",story,https://gizmodo.com/antimatter-physics-cern-gravity-ordinary-matter-1850877655,,gizmodo.com
+mikece,7,37675879,41,1695827816,"Antimatter Reacts to Gravity in the Same Way as Ordinary Matter, Physicists Find",story,https://gizmodo.com/antimatter-physics-cern-gravity-ordinary-matter-1850877655,,gizmodo.com
 hampelm,236,37661034,221,1695743006,Common infections can spark psychiatric illnesses in children,story,https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children,,economist.com
 LinuxBender,0,37661055,21,1695743082,Mysterious bubble 10k the size of the Milky Way could be relic from the Big Bang,story,https://www.livescience.com/space/astronomy/mysterious-fossilized-bubble-10000-times-the-size-of-the-milky-way-could-be-a-relic-from-the-big-bang,,livescience.com
 rntn,11,37664810,19,1695757277,"In depression treatment trials, placebo effect is growing stronger",story,https://arstechnica.com/science/2023/09/in-depression-treatment-trials-placebo-effect-is-growing-stronger/,,arstechnica.com
