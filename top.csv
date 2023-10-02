@@ -1,15 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-bx376,43,37733763,164,1696218575,Pg_branch: Experimental Postgres extension brings Neon-like branching,story,https://github.com/NAlexPear/pg_branch,,github.com
-LinuxBender,3,37739527,12,1696261131,The CDC Awards $260M Contract for Disease Surveillance,story,https://reclaimthenet.org/the-cdc-awards-260-million-contract-for-disease-surveillance,,reclaimthenet.org
-OskarS,236,37736035,346,1696240254,Nobel Prize in Medicine awarded to Katalin Karikó and Drew Weissman,story,https://www.nobelprize.org/prizes/medicine/2023/press-release/,,nobelprize.org
+LinuxBender,4,37739527,17,1696261131,The CDC Awards $260M Contract for Disease Surveillance,story,https://reclaimthenet.org/the-cdc-awards-260-million-contract-for-disease-surveillance,,reclaimthenet.org
+OskarS,246,37736035,352,1696240254,Nobel Prize in Medicine awarded to Katalin Karikó and Drew Weissman,story,https://www.nobelprize.org/prizes/medicine/2023/press-release/,,nobelprize.org
 neversaydie,29,37736194,62,1696241656,James Webb Telescope makes 'JuMBO' discovery of planet-like objects in Orion,story,https://www.bbc.co.uk/news/science-environment-66974738,,bbc.co.uk
-ta8645,7,37737626,30,1696252388,Urgent appeal to get flu jab after virus killed more than Covid last winter,story,https://www.mirror.co.uk/news/health/urgent-appeal-flu-jab-after-31080392,,mirror.co.uk
+bx376,46,37733763,173,1696218575,Pg_branch: Experimental Postgres extension brings Neon-like branching,story,https://github.com/NAlexPear/pg_branch,,github.com
+ta8645,7,37737626,31,1696252388,Urgent appeal to get flu jab after virus killed more than Covid last winter,story,https://www.mirror.co.uk/news/health/urgent-appeal-flu-jab-after-31080392,,mirror.co.uk
 Ariarule,50,37718859,109,1696102015,Pharmacokinetics: Drug development's broken stair,story,https://trevorklee.substack.com/p/pharmacokinetics-drug-developments,,trevorklee.substack.com
 wglb,7,37712324,52,1696041154,Physicists coax superconductivity and more from quasicrystals,story,https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html,,phys.org
 rntn,1,37719834,41,1696108137,75k workers' contracts expiring; the largest US health care strike could be next,story,https://www.cnn.com/2023/09/30/business/kaiser-permanente-contract-deadline/index.html,,cnn.com
 nikolay,1,37733037,20,1696211125,Covid-19 Virus Infects Coronary Vasculature,story,https://www.medscape.com/viewarticle/996964,,medscape.com
 thunderbong,62,37706706,119,1696005485,A scientific curiosity that happened to me,story,https://old.reddit.com/r/Physics/comments/16v8g6e/a_scientific_curiosity_that_happened_to_me/,,old.reddit.com
-felixbraun,152,37723304,146,1696141869,Many of today’s unhealthy foods were brought to you by Big Tobacco,story,https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/,,washingtonpost.com
+felixbraun,153,37723304,146,1696141869,Many of today’s unhealthy foods were brought to you by Big Tobacco,story,https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/,,washingtonpost.com
 benjvi,6,37713497,24,1696060583,Palantir’s Reputation Stalks Its Bid for the UK’s National Health Data,story,https://www.wired.com/story/palantir-nhs-data/,,wired.com
 pseudolus,0,37732007,11,1696202507,Climate scientist Michael Mann on our last chance to save human civilisation,story,https://www.theguardian.com/environment/2023/sep/30/human-civilisation-climate-scientist-prof-michael-mann,,theguardian.com
 giuliomagnifico,3,37705895,16,1696002176,Food Delivery Robots Are Feeding Camera Footage to the LAPD,story,https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/,,404media.co
