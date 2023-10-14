@@ -1,26 +1,26 @@
 by,descendants,id,score,time,title,type,url,text,domain
-rasbt,26,37870930,174,1697206803,Takeaways from hundreds of LLM finetuning experiments with LoRA,story,https://lightning.ai/pages/community/lora-insights/,,lightning.ai
-rmason,8,37874587,73,1697225593,Histotripsy – a technique that harnesses soundwaves to attack cancer,story,https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/,,news.engin.umich.edu
-clouddrover,28,37873798,69,1697221426,Sodium ascorbate treatment for sepsis moves to next phase of human trials,story,https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/,,florey.edu.au
-Hooke,18,37866905,70,1697173421,"Nineteenth century scientists set out to solve the ""problem of American storms""",story,https://www.neh.gov/article/storm-patrol,,neh.gov
-psxuaw,69,37869445,83,1697197019,Nature: Programming language to experience the joy of programming,story,https://nature-lang.org/,,nature-lang.org
-razin,180,37857417,909,1697119878,First word discovered in unopened Herculaneum scroll by CS student,story,https://scrollprize.org/firstletters,,scrollprize.org
-PaulHoule,7,37863784,27,1697148297,Quantum dots: the tiny 'rainbow' crystals behind chemistry Nobel,story,https://phys.org/news/2023-10-quantum-dots-tiny-rainbow-crystals.html,,phys.org
-EvgeniyZh,29,37868196,81,1697185499,Reproducibility trial: Biologists get different results from same data sets,story,https://www.nature.com/articles/d41586-023-03177-1,,nature.com
-tuanx5,33,37862924,109,1697143397,"MS Paint Cocreator, a new AI-powered experience powered by DALL-E",story,https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/,,blogs.windows.com
-g42gregory,0,37874811,14,1697226719,Study: Covid-19 treatment with hydroxychloroquine and azithromycin in hospitals,story,https://www.sciencedirect.com/science/article/pii/S2052297523000914,,sciencedirect.com
+rasbt,30,37870930,213,1697206803,Takeaways from hundreds of LLM finetuning experiments with LoRA,story,https://lightning.ai/pages/community/lora-insights/,,lightning.ai
+clouddrover,57,37873798,116,1697221426,Sodium ascorbate treatment for sepsis moves to next phase of human trials,story,https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/,,florey.edu.au
+wglb,3,37865610,34,1697161870,Scientists generate first single-cell atlas of the primate brain,story,https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html,,phys.org
+Hooke,47,37866905,88,1697173421,"Nineteenth century scientists set out to solve the ""problem of American storms""",story,https://www.neh.gov/article/storm-patrol,,neh.gov
+rmason,25,37874587,115,1697225593,Histotripsy – a technique that harnesses soundwaves to attack cancer,story,https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/,,news.engin.umich.edu
+razin,191,37857417,941,1697119878,First word discovered in unopened Herculaneum scroll by CS student,story,https://scrollprize.org/firstletters,,scrollprize.org
+psxuaw,101,37869445,107,1697197019,Nature: Programming language to experience the joy of programming,story,https://nature-lang.org/,,nature-lang.org
+PaulHoule,7,37863784,32,1697148297,Quantum dots: the tiny 'rainbow' crystals behind chemistry Nobel,story,https://phys.org/news/2023-10-quantum-dots-tiny-rainbow-crystals.html,,phys.org
+clumsysmurf,2,37874851,14,1697226930,CR in humans builds strong muscle and stimulates healthy aging genes,story,https://medicalxpress.com/news/2023-10-calorie-restriction-humans-strong-muscle.html,,medicalxpress.com
+EvgeniyZh,29,37868196,83,1697185499,Reproducibility trial: Biologists get different results from same data sets,story,https://www.nature.com/articles/d41586-023-03177-1,,nature.com
+tuanx5,35,37862924,113,1697143397,"MS Paint Cocreator, a new AI-powered experience powered by DALL-E",story,https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/,,blogs.windows.com
+anjel,44,37865534,77,1697161307,Higher Mushroom Consumption Associated with Lower Cancer Risk,story,https://www.sciencedirect.com/science/article/pii/S2161831322004641,,sciencedirect.com
 mdp2021,13,37868792,31,1697190991,New brain atlases will unlock mysteries of the human mind,story,https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463,,dw.com
-anjel,43,37865534,77,1697161307,Higher Mushroom Consumption Associated with Lower Cancer Risk,story,https://www.sciencedirect.com/science/article/pii/S2161831322004641,,sciencedirect.com
+jordigg,48,37858766,127,1697125370,Woman's experimental bionic hand passes major test,story,https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751,,gizmodo.com
 wslh,3,37870653,11,1697205337,The drugs did work (2006),story,https://www.theguardian.com/film/2006/aug/12/sciencefictionfantasyandhorror.philipkdick,,theguardian.com
-wglb,20,37839458,119,1696983332,"Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment",story,https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html,,medicalxpress.com
-jordigg,48,37858766,126,1697125370,Woman's experimental bionic hand passes major test,story,https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751,,gizmodo.com
+wglb,20,37839458,120,1696983332,"Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment",story,https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html,,medicalxpress.com
 rmason,13,37850226,24,1697058171,Christopher Columbus Letter on What He Discovered in America Could Fetch $1.5M,story,https://news.artnet.com/market/columbus-letter-america-2371362,,news.artnet.com
 grzm,6,37838914,38,1696979121,Why Dizziness Is Still a Medical Mystery,story,https://www.newyorker.com/culture/annals-of-inquiry/why-dizziness-is-still-a-mystery,,newyorker.com
 jjgreen,16,37855251,51,1697104920,Excel recruitment time bomb makes top trainee doctors 'unappointable',story,https://www.theregister.com/2023/10/12/excel_anesthetist_recruitment_blunder/,,theregister.com
 wglb,11,37840038,96,1696988888,Scientists identify pathway activated by interferon-gamma leading to tumor death,story,https://medicalxpress.com/news/2023-10-scientists-pathway-interferon-gamma-tumor-cell.html,,medicalxpress.com
 madaxe_again,23,37842171,77,1697012755,Newly discovered Terry Pratchett stories published,story,https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories,,theguardian.com
 myroon5,31,37857085,25,1697118594,US electric vehicle transition would save over 100k lives and $1T in healthcare,story,https://www.theguardian.com/us-news/2022/mar/30/us-electric-vehicles-save-lives-public-health-costs-study,,theguardian.com
-PaulHoule,2,37851058,13,1697062830,Is Psychology Good for Anything?,story,https://bigthink.com/neuropsych/is-psychology-good-for-anything/,,bigthink.com
 alwillis,19,37839596,35,1696984569,"Metformin could treat gum disease and help with healthy aging, study claims",story,https://medicalxpress.com/news/2023-10-common-diabetes-drug-gum-disease.html,,medicalxpress.com
+PaulHoule,2,37851058,13,1697062830,Is Psychology Good for Anything?,story,https://bigthink.com/neuropsych/is-psychology-good-for-anything/,,bigthink.com
 JohnHammersley,71,37842239,52,1697013862,ChatGPT and other AI tools could disrupt scientific publishing,story,https://www.nature.com/articles/d41586-023-03144-w,,nature.com
-galoisscobi,5,37833532,26,1696952419,FTC: BetterHelp pushed people into handing over health information,story,https://www.ftc.gov/business-guidance/blog/2023/03/ftc-says-online-counseling-service-betterhelp-pushed-people-handing-over-health-information-broke,,ftc.gov
