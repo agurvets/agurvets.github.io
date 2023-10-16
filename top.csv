@@ -1,26 +1,24 @@
 by,descendants,id,score,time,title,type,url,text,domain
-elorant,11,37879893,101,1697285762,Tumor-destroying sound waves receive FDA approval for liver treatment in humans,story,https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/,,news.umich.edu
-samclemens,2,37878532,21,1697265292,"Louise Glück, Nobel-Winning Poet Who Explored Trauma and Loss, Dies at 80",story,https://www.nytimes.com/2023/10/13/books/louise-gluck-dead.html,,nytimes.com
-razin,194,37857417,995,1697119878,First word discovered in unopened Herculaneum scroll by CS student,story,https://scrollprize.org/firstletters,,scrollprize.org
-clouddrover,69,37873798,167,1697221426,Sodium ascorbate treatment for sepsis moves to next phase of human trials,story,https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/,,florey.edu.au
-rasbt,37,37870930,242,1697206803,Takeaways from hundreds of LLM finetuning experiments with LoRA,story,https://lightning.ai/pages/community/lora-insights/,,lightning.ai
-wglb,11,37865610,66,1697161870,Scientists generate first single-cell atlas of the primate brain,story,https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html,,phys.org
-Hooke,54,37866905,103,1697173421,"Nineteenth century scientists set out to solve the ""problem of American storms""",story,https://www.neh.gov/article/storm-patrol,,neh.gov
-psxuaw,119,37869445,128,1697197019,Nature: Programming language to experience the joy of programming,story,https://nature-lang.org/,,nature-lang.org
-rmason,30,37874587,146,1697225593,Histotripsy – a technique that harnesses soundwaves to attack cancer,story,https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/,,news.engin.umich.edu
-PaulHoule,8,37863784,32,1697148297,Quantum dots: the tiny 'rainbow' crystals behind chemistry Nobel,story,https://phys.org/news/2023-10-quantum-dots-tiny-rainbow-crystals.html,,phys.org
-tuanx5,35,37862924,117,1697143397,"MS Paint Cocreator, a new AI-powered experience powered by DALL-E",story,https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/,,blogs.windows.com
-EvgeniyZh,30,37868196,85,1697185499,Reproducibility trial: Biologists get different results from same data sets,story,https://www.nature.com/articles/d41586-023-03177-1,,nature.com
-anjel,46,37865534,81,1697161307,Higher Mushroom Consumption Associated with Lower Cancer Risk,story,https://www.sciencedirect.com/science/article/pii/S2161831322004641,,sciencedirect.com
-clumsysmurf,3,37874851,15,1697226930,CR in humans builds strong muscle and stimulates healthy aging genes,story,https://medicalxpress.com/news/2023-10-calorie-restriction-humans-strong-muscle.html,,medicalxpress.com
+Dzidas,74,37890685,148,1697384599,Causal inference as a blind spot of data scientists,story,https://dzidas.com/ml/2023/10/15/blind-spot-ds/,,dzidas.com
+geox,17,37894081,16,1697409817,"Extroverts more likely to resist vaccines, study shows",story,https://www.utep.edu/newsfeed/2023/extroverts-more-likely-to-resist-vaccines-study-shows.html,,utep.edu
+gardenfelder,13,37890570,33,1697383916,Scientists begin building AI for scientific discovery using tech behind ChatGPT,story,https://techxplore.com/news/2023-10-scientists-ai-scientific-discovery-tech.html,,techxplore.com
+galapago,27,37884375,41,1697318426,Show HN: mystery-o-matic offers a daily random murder mystery,story,https://mystery-o-matic.com/?hn,,mystery-o-matic.com
+miguelazo,1,37892735,33,1697398715,Review estimates 69% 3-dose vaccine efficacy against long Covid,story,https://www.cidrap.umn.edu/covid-19/review-estimates-69-3-dose-vaccine-efficacy-against-long-covid,,cidrap.umn.edu
+LinuxBender,1,37890878,11,1697385744,NASA's Psyche Mission Launches to Mysterious Metallic Asteroid,story,https://www.scientificamerican.com/article/nasas-psyche-mission-launches-to-mysterious-metallic-asteroid1/,,scientificamerican.com
+rasbt,39,37870930,251,1697206803,Takeaways from hundreds of LLM finetuning experiments with LoRA,story,https://lightning.ai/pages/community/lora-insights/,,lightning.ai
+rmason,72,37874587,166,1697225593,Histotripsy – a technique that harnesses soundwaves to attack cancer,story,https://news.engin.umich.edu/2023/10/these-bubbles-kill-cancer/,,news.engin.umich.edu
+clouddrover,80,37873798,181,1697221426,Sodium ascorbate treatment for sepsis moves to next phase of human trials,story,https://florey.edu.au/news/2023/10/remarkable-medical-discovery-for-sepsis-moves-to-next-phase-of-human-trials/,,florey.edu.au
+the_bookmaker,103,37887071,176,1697346959,Decline in independent activity as a cause of  decline in child mental health,story,https://cdn2.psychologytoday.com/assets/2023-02/Children%27s%20Independence%20IN%20PRESS%20.pdf,,cdn2.psychologytoday.com
+wglb,12,37865610,72,1697161870,Scientists generate first single-cell atlas of the primate brain,story,https://phys.org/news/2023-10-scientists-generate-single-cell-atlas-primate.html,,phys.org
+Hooke,58,37866905,105,1697173421,"Nineteenth century scientists set out to solve the ""problem of American storms""",story,https://www.neh.gov/article/storm-patrol,,neh.gov
+psxuaw,123,37869445,134,1697197019,Nature: Programming language to experience the joy of programming,story,https://nature-lang.org/,,nature-lang.org
+rstocker99,58,37880931,108,1697295318,Calorie restriction in humans builds strong muscle and stimulates healthy aging,story,https://www.nih.gov/news-events/news-releases/calorie-restriction-humans-builds-strong-muscle-stimulates-healthy-aging-genes,,nih.gov
+PaulHoule,8,37863784,33,1697148297,Quantum dots: the tiny 'rainbow' crystals behind chemistry Nobel,story,https://phys.org/news/2023-10-quantum-dots-tiny-rainbow-crystals.html,,phys.org
+tuanx5,37,37862924,118,1697143397,"MS Paint Cocreator, a new AI-powered experience powered by DALL-E",story,https://blogs.windows.com/windows-insider/2023/09/27/paint-app-update-introducing-paint-cocreator-begins-rolling-out-to-windows-insiders/,,blogs.windows.com
+EvgeniyZh,30,37868196,89,1697185499,Reproducibility trial: Biologists get different results from same data sets,story,https://www.nature.com/articles/d41586-023-03177-1,,nature.com
+Brajeshwar,59,37880838,46,1697294581,Apple's new video reactions are making therapy awkward,story,https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice,,theverge.com
 jordigg,48,37858766,128,1697125370,Woman's experimental bionic hand passes major test,story,https://gizmodo.com/bionic-mia-hand-prosthetic-amputee-phantom-pain-1850919751,,gizmodo.com
+anjel,46,37865534,82,1697161307,Higher Mushroom Consumption Associated with Lower Cancer Risk,story,https://www.sciencedirect.com/science/article/pii/S2161831322004641,,sciencedirect.com
 mdp2021,13,37868792,31,1697190991,New brain atlases will unlock mysteries of the human mind,story,https://www.dw.com/en/new-brain-atlases-will-unlock-mysteries-of-the-human-mind/a-67078463,,dw.com
-wglb,22,37839458,120,1696983332,"Copycat nutrient leaves pancreatic tumors starving, may inform cancer treatment",story,https://medicalxpress.com/news/2023-10-copycat-nutrient-pancreatic-tumors-starving.html,,medicalxpress.com
-rmason,13,37850226,24,1697058171,Christopher Columbus Letter on What He Discovered in America Could Fetch $1.5M,story,https://news.artnet.com/market/columbus-letter-america-2371362,,news.artnet.com
-grzm,6,37838914,38,1696979121,Why Dizziness Is Still a Medical Mystery,story,https://www.newyorker.com/culture/annals-of-inquiry/why-dizziness-is-still-a-mystery,,newyorker.com
-wslh,3,37870653,11,1697205337,The drugs did work (2006),story,https://www.theguardian.com/film/2006/aug/12/sciencefictionfantasyandhorror.philipkdick,,theguardian.com
-jjgreen,16,37855251,51,1697104920,Excel recruitment time bomb makes top trainee doctors 'unappointable',story,https://www.theregister.com/2023/10/12/excel_anesthetist_recruitment_blunder/,,theregister.com
-samizdis,65,37878587,33,1697266087,UK's nuclear fusion site ends experiments after 40 years,story,https://www.bbc.co.uk/news/science-environment-67101176,,bbc.co.uk
-wglb,11,37840038,96,1696988888,Scientists identify pathway activated by interferon-gamma leading to tumor death,story,https://medicalxpress.com/news/2023-10-scientists-pathway-interferon-gamma-tumor-cell.html,,medicalxpress.com
-madaxe_again,23,37842171,77,1697012755,Newly discovered Terry Pratchett stories published,story,https://www.theguardian.com/books/2023/oct/11/a-stroke-of-the-pen-by-terry-pratchett-review-newly-discovered-early-stories,,theguardian.com
-myroon5,32,37857085,25,1697118594,US electric vehicle transition would save over 100k lives and $1T in healthcare,story,https://www.theguardian.com/us-news/2022/mar/30/us-electric-vehicles-save-lives-public-health-costs-study,,theguardian.com
+clumsysmurf,3,37874851,17,1697226930,CR in humans builds strong muscle and stimulates healthy aging genes,story,https://medicalxpress.com/news/2023-10-calorie-restriction-humans-strong-muscle.html,,medicalxpress.com
+wslh,5,37870653,11,1697205337,The drugs did work (2006),story,https://www.theguardian.com/film/2006/aug/12/sciencefictionfantasyandhorror.philipkdick,,theguardian.com
