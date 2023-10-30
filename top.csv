@@ -1,11 +1,12 @@
 by,descendants,id,score,time,title,type,url,text,domain
-gardenfelder,2,38072031,17,1698684659,Why many scientists are now saying climate change is an all-out 'emergency',story,https://www.washingtonpost.com/climate-environment/2023/10/30/climate-emergency-scientists-declaration/,,washingtonpost.com
-wglb,5,38064441,85,1698627117,Spy satellites reveal undiscovered Roman forts,story,https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html,,phys.org
-adrian_mrd,61,38032386,121,1698358498,Scientists discover why dozens of endangered elephants died,story,https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead,,theguardian.com
+wglb,5,38064441,93,1698627117,Spy satellites reveal undiscovered Roman forts,story,https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html,,phys.org
+digital55,6,38071508,14,1698682476,History Says 1918 Flu Killed the Young and Healthy. These Bones Say Otherwise,story,https://www.wired.com/story/history-says-the-1918-flu-killed-the-young-and-healthy-these-bones-say-otherwise/,,wired.com
+adrian_mrd,61,38032386,124,1698358498,Scientists discover why dozens of endangered elephants died,story,https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead,,theguardian.com
 thunderbong,15,38028610,125,1698340267,Particle accelerator on a chip hits penny-size,story,https://spectrum.ieee.org/particle-accelerator-chip-sized,,spectrum.ieee.org
+Brajeshwar,5,38027687,19,1698336862,Pottery becomes water treatment device for Navajo nation,story,https://techxplore.com/news/2023-10-pottery-treatment-device-navajo-nation.html,,techxplore.com
 diodorus,2,38064412,35,1698626887,Biomarkers to detect the heating of fatty acids in residues from pottery use,story,https://www.sciencedirect.com/science/article/pii/S0305440323001346,,sciencedirect.com
-Brajeshwar,4,38027687,19,1698336862,Pottery becomes water treatment device for Navajo nation,story,https://techxplore.com/news/2023-10-pottery-treatment-device-navajo-nation.html,,techxplore.com
-gridentio,219,38035672,490,1698391532,Lean4 helped Terence Tao discover a small bug in his recent paper,story,https://mathstodon.xyz/@tao/111287749336059662,,mathstodon.xyz
+gardenfelder,88,38072031,44,1698684659,Why many scientists are now saying climate change is an all-out 'emergency',story,https://www.washingtonpost.com/climate-environment/2023/10/30/climate-emergency-scientists-declaration/,,washingtonpost.com
+gridentio,219,38035672,491,1698391532,Lean4 helped Terence Tao discover a small bug in his recent paper,story,https://mathstodon.xyz/@tao/111287749336059662,,mathstodon.xyz
 geox,145,38058902,125,1698589325,A fourth of U.S. health visits now delivered by non-physicians,story,https://hms.harvard.edu/news/fourth-us-health-visits-now-delivered-non-physicians,,hms.harvard.edu
 PaulHoule,21,38050010,61,1698502813,Webb discovers new feature in Jupiter's atmosphere,story,https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html,,phys.org
 Hooke,5,38045429,52,1698450478,Bacteria enhances host insect's fertility with implications for disease control,story,https://news.ucsc.edu/2023/10/russell-plos-23.html,,news.ucsc.edu
@@ -16,11 +17,10 @@ TakakiTohno,63,38045112,115,1698447829,Scientists simulate backward time travel 
 jpster,11,38045625,27,1698452321,"US student, 14, wins award for developing soap to treat skin cancer",story,https://www.theguardian.com/society/2023/oct/25/skin-cancer-soap-virginia-student,,theguardian.com
 crhulls,25,38021505,71,1698293310,Viagra could slash risk of Alzheimer's disease by 60%,story,https://nypost.com/2023/10/23/viagra-could-slash-risk-of-alzheimers-disease-by-60-study/,,nypost.com
 goplayoutside,0,38047602,11,1698473988,'Forever chemical' bans face hard truth: Many can't be replaced,story,https://www.pressherald.com/2023/10/20/forever-chemical-bans-face-hard-truth-many-cant-be-replaced/,,pressherald.com
-srbhr,19,38049946,17,1698502312,Ask HN: Need tips from Software Developers on maintaining health,story,,"Hello World,
+srbhr,20,38049946,17,1698502312,Ask HN: Need tips from Software Developers on maintaining health,story,,"Hello World,
 I&#x27;m struggling a bit with my health. As a software developer all day long, I keep staring on my laptop. Sitting and I&#x27;m so used to this that even on Saturdays, I&#x27;ve (out of habit) open up the laptop and try something out.<p>This is impacting my health.
 - I&#x27;ve gained weight.
 - I&#x27;ve got nothing else to do.
 - I have tried gym but extensive work hours keep messing with my rhythm.<p>The internet advice is from people who aren&#x27;t in the same situation as I am. They say wake up at certain time, eat X Y Z meals. N % protien,  G gms of Sodium etc. 
 But I on the other hand need to run builds, do deployments, and fix if anything is broken. I get mentally exhausted by the end of day.<p>How are you able to deal with this? Need help please.",
 mooreds,15,38046914,45,1698464446,"It's Me, the Person Putting Drugs in the Halloween Candy (2022)",story,https://www.mcsweeneys.net/articles/its-me-the-person-putting-drugs-in-the-halloween-candy,,mcsweeneys.net
-quantified,15,38030194,39,1698346642,Mysterious bylines appeared on a USA Today site. Did these writers exist?,story,https://www.washingtonpost.com/style/media/2023/10/26/usa-today-gannett-reviewed-ai-fake-writers/,,washingtonpost.com
