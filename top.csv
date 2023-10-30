@@ -1,16 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-wglb,4,38064441,76,1698627117,Spy satellites reveal undiscovered Roman forts,story,https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html,,phys.org
-diodorus,2,38064412,34,1698626887,Biomarkers to detect the heating of fatty acids in residues from pottery use,story,https://www.sciencedirect.com/science/article/pii/S0305440323001346,,sciencedirect.com
-adrian_mrd,60,38032386,120,1698358498,Scientists discover why dozens of endangered elephants died,story,https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead,,theguardian.com
-thunderbong,14,38028610,123,1698340267,Particle accelerator on a chip hits penny-size,story,https://spectrum.ieee.org/particle-accelerator-chip-sized,,spectrum.ieee.org
+gardenfelder,2,38072031,17,1698684659,Why many scientists are now saying climate change is an all-out 'emergency',story,https://www.washingtonpost.com/climate-environment/2023/10/30/climate-emergency-scientists-declaration/,,washingtonpost.com
+wglb,5,38064441,85,1698627117,Spy satellites reveal undiscovered Roman forts,story,https://phys.org/news/2023-10-spy-satellites-reveal-hundreds-undiscovered.html,,phys.org
+adrian_mrd,61,38032386,121,1698358498,Scientists discover why dozens of endangered elephants died,story,https://www.theguardian.com/environment/2023/oct/25/scientists-discover-why-dozens-of-endangered-elephants-dropped-dead,,theguardian.com
+thunderbong,15,38028610,125,1698340267,Particle accelerator on a chip hits penny-size,story,https://spectrum.ieee.org/particle-accelerator-chip-sized,,spectrum.ieee.org
+diodorus,2,38064412,35,1698626887,Biomarkers to detect the heating of fatty acids in residues from pottery use,story,https://www.sciencedirect.com/science/article/pii/S0305440323001346,,sciencedirect.com
 Brajeshwar,4,38027687,19,1698336862,Pottery becomes water treatment device for Navajo nation,story,https://techxplore.com/news/2023-10-pottery-treatment-device-navajo-nation.html,,techxplore.com
 gridentio,219,38035672,490,1698391532,Lean4 helped Terence Tao discover a small bug in his recent paper,story,https://mathstodon.xyz/@tao/111287749336059662,,mathstodon.xyz
 geox,145,38058902,125,1698589325,A fourth of U.S. health visits now delivered by non-physicians,story,https://hms.harvard.edu/news/fourth-us-health-visits-now-delivered-non-physicians,,hms.harvard.edu
 PaulHoule,21,38050010,61,1698502813,Webb discovers new feature in Jupiter's atmosphere,story,https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html,,phys.org
 Hooke,5,38045429,52,1698450478,Bacteria enhances host insect's fertility with implications for disease control,story,https://news.ucsc.edu/2023/10/russell-plos-23.html,,news.ucsc.edu
 lupyuen,2,38054232,19,1698533850,Star64 JH7110 RISC-V SBC: Experiments with OpenSBI (Supervisor Binary Interface),story,https://lupyuen.codeberg.page/articles/sbi.html,,lupyuen.codeberg.page
-belter,7,38057924,17,1698582454,World's Smallest Particle Accelerator,story,https://www.livescience.com/physics-mathematics/particle-physics/worlds-smallest-particle-accelerator-is-54-million-times-smaller-than-the-large-hadron-collider-and-it-works,,livescience.com
 bookofjoe,9,38032982,33,1698362996,"The Eye, a mysterious rotating island in Argentina",story,https://mybestplace.com/en/article/the-eye-the-mysterious-rotating-island-in-argentina,,mybestplace.com
+belter,7,38057924,17,1698582454,World's Smallest Particle Accelerator,story,https://www.livescience.com/physics-mathematics/particle-physics/worlds-smallest-particle-accelerator-is-54-million-times-smaller-than-the-large-hadron-collider-and-it-works,,livescience.com
 TakakiTohno,63,38045112,115,1698447829,Scientists simulate backward time travel using quantum entanglement,story,https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/,,thedebrief.org
 jpster,11,38045625,27,1698452321,"US student, 14, wins award for developing soap to treat skin cancer",story,https://www.theguardian.com/society/2023/oct/25/skin-cancer-soap-virginia-student,,theguardian.com
 crhulls,25,38021505,71,1698293310,Viagra could slash risk of Alzheimer's disease by 60%,story,https://nypost.com/2023/10/23/viagra-could-slash-risk-of-alzheimers-disease-by-60-study/,,nypost.com
