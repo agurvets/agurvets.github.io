@@ -1,8 +1,8 @@
 by,descendants,id,score,time,title,type,url,text,domain
-thunderbong,0,38028610,50,1698340267,Particle accelerator on a chip hits penny-size,story,https://spectrum.ieee.org/particle-accelerator-chip-sized,,spectrum.ieee.org
-geox,88,38058902,92,1698589325,A fourth of U.S. health visits now delivered by non-physicians,story,https://hms.harvard.edu/news/fourth-us-health-visits-now-delivered-non-physicians,,hms.harvard.edu
-belter,7,38057924,17,1698582454,World's Smallest Particle Accelerator,story,https://www.livescience.com/physics-mathematics/particle-physics/worlds-smallest-particle-accelerator-is-54-million-times-smaller-than-the-large-hadron-collider-and-it-works,,livescience.com
+thunderbong,0,38028610,68,1698340267,Particle accelerator on a chip hits penny-size,story,https://spectrum.ieee.org/particle-accelerator-chip-sized,,spectrum.ieee.org
+geox,99,38058902,101,1698589325,A fourth of U.S. health visits now delivered by non-physicians,story,https://hms.harvard.edu/news/fourth-us-health-visits-now-delivered-non-physicians,,hms.harvard.edu
 gridentio,218,38035672,487,1698391532,Lean4 helped Terence Tao discover a small bug in his recent paper,story,https://mathstodon.xyz/@tao/111287749336059662,,mathstodon.xyz
+belter,7,38057924,17,1698582454,World's Smallest Particle Accelerator,story,https://www.livescience.com/physics-mathematics/particle-physics/worlds-smallest-particle-accelerator-is-54-million-times-smaller-than-the-large-hadron-collider-and-it-works,,livescience.com
 PaulHoule,21,38050010,61,1698502813,Webb discovers new feature in Jupiter's atmosphere,story,https://phys.org/news/2023-10-webb-feature-jupiter-atmosphere.html,,phys.org
 lupyuen,2,38054232,19,1698533850,Star64 JH7110 RISC-V SBC: Experiments with OpenSBI (Supervisor Binary Interface),story,https://lupyuen.codeberg.page/articles/sbi.html,,lupyuen.codeberg.page
 Hooke,5,38045429,52,1698450478,Bacteria enhances host insect's fertility with implications for disease control,story,https://news.ucsc.edu/2023/10/russell-plos-23.html,,news.ucsc.edu
