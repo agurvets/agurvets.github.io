@@ -1,7 +1,7 @@
 by,descendants,id,score,time,title,type,url,text,domain
-jruohonen,21,38158604,17,1699242228,Who falls for fake news? Psychological and clinical profiling evidence,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450498/,,ncbi.nlm.nih.gov
-janandonly,0,38150965,14,1699191082,"Ecological Threat Report 2023: food insecurity, water stress, natural disasters",story,https://reliefweb.int/report/world/ecological-threat-report-2023,,reliefweb.int
-geox,0,38156362,19,1699223609,A decade since 'Sapiens': Scientific knowledge or populism?,story,https://english.elpais.com/science-tech/2023-11-05/a-decade-since-sapiens-scientific-knowledge-or-populism.html,,english.elpais.com
+janandonly,0,38150965,17,1699191082,"Ecological Threat Report 2023: food insecurity, water stress, natural disasters",story,https://reliefweb.int/report/world/ecological-threat-report-2023,,reliefweb.int
+jruohonen,33,38158604,25,1699242228,Who falls for fake news? Psychological and clinical profiling evidence,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9450498/,,ncbi.nlm.nih.gov
+geox,0,38156362,21,1699223609,A decade since 'Sapiens': Scientific knowledge or populism?,story,https://english.elpais.com/science-tech/2023-11-05/a-decade-since-sapiens-scientific-knowledge-or-populism.html,,english.elpais.com
 leonry,43,38149375,137,1699173465,Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings,story,https://store.kde.org/p/1350981,,store.kde.org
 perihelions,147,38121250,624,1698964208,"In 1886, the US commissioned watercolor paintings of every known fruit (2019)",story,https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html,,openculture.com
 goplayoutside,52,38149643,126,1699177313,EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska,story,https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/,,alaskabeacon.com
@@ -15,11 +15,11 @@ mNovak,218,38120388,450,1698960362,Tell HN: Submit comments to IRS re tax treatm
 </code></pre>
 Come tax time, you now owe the government $18-30k taxes on your $0 real income.",
 asimpleusecase,21,38146211,84,1699139694,Delhi air pollution spikes to 100 times WHO health limit,story,https://www.theguardian.com/world/2023/nov/03/delhi-india-air-quality-pollution-spike-world-health-organization-limit,,theguardian.com
-belltaco,120,38146837,139,1699145268,Daylight saving time can seriously affect your health,story,https://apnews.com/article/daylight-saving-2023-fall-back-a3738d5c74301b8068825927c49fc6b4,,apnews.com
-michelangelo,87,38146122,185,1699138933,"SARS-CoV-2 Infection Affects Energy Stores in the Body, Causing Organ Failure",story,https://news.unchealthcare.org/2023/10/researchers-show-sars-cov-2-infection-affects-energy-stores-in-the-body-causing-organ-failure/,,news.unchealthcare.org
-birriel,63,38149712,95,1699178234,Six-hour time-restricted feeding inhibits lung cancer progression,story,https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y,,bmcmedicine.biomedcentral.com
+belltaco,120,38146837,140,1699145268,Daylight saving time can seriously affect your health,story,https://apnews.com/article/daylight-saving-2023-fall-back-a3738d5c74301b8068825927c49fc6b4,,apnews.com
+michelangelo,88,38146122,187,1699138933,"SARS-CoV-2 Infection Affects Energy Stores in the Body, Causing Organ Failure",story,https://news.unchealthcare.org/2023/10/researchers-show-sars-cov-2-infection-affects-energy-stores-in-the-body-causing-organ-failure/,,news.unchealthcare.org
 Tomte,24,38134935,60,1699045201,Yorick is an interpreted programming language for scientific simulations,story,https://yorick.sourceforge.net/,,yorick.sourceforge.net
-jlpcsl,86,38143180,272,1699118819,Software that supports your body should always respect your freedom,story,https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom,,fsf.org
+birriel,63,38149712,95,1699178234,Six-hour time-restricted feeding inhibits lung cancer progression,story,https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03131-y,,bmcmedicine.biomedcentral.com
+jlpcsl,86,38143180,273,1699118819,Software that supports your body should always respect your freedom,story,https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom,,fsf.org
 sjm217,63,38126997,224,1699009722,Joint statement of scientists and NGOs on the EU’s proposed eIDAS reform,story,https://eidas-open-letter.org/,,eidas-open-letter.org
 shcheklein,29,38120493,109,1698960803,ML Experiments Management with Git,story,https://github.com/iterative/dvc,,github.com
 belter,5,38134131,38,1699041227,Public funds being swallowed up by scientific journals with dubious articles,story,https://english.elpais.com/science-tech/2023-10-31/public-funds-being-swallowed-up-by-scientific-journals-with-dubious-articles.html,,english.elpais.com
@@ -29,7 +29,7 @@ lawgimenez,13,38146887,12,1699145876,Ask HN: Where do you get your health news?,
 brudgers,16,38127326,65,1699012145,Extinct Species in Audubon's Birds of North America,story,https://www.audubonart.com/extinct-species-in-audubons-birds-of-america/,,audubonart.com
 ww520,172,38133279,183,1699037677,Appeals court denies judicial immunity to judge who personally searched home,story,https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed/,,ij.org
 thehoff,2,38132715,15,1699035384,NASA spacecraft discovers tiny moon around asteroid during close flyby,story,https://apnews.com/article/asteroid-spacecraft-nasa-flyby-bc24131a8bd9dc9161ab8793e7693f45,,apnews.com
-brycewray,229,38118627,374,1698952784,An experimental Android WebView Media Integrity API early next year,story,https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html,,android-developers.googleblog.com
+brycewray,229,38118627,375,1698952784,An experimental Android WebView Media Integrity API early next year,story,https://android-developers.googleblog.com/2023/11/increasing-trust-for-embedded-media.html,,android-developers.googleblog.com
 algobro,26,38143074,31,1699118264,Turmeric can kill cancer cells and prevent their growth,story,https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/turmeric,,cancerresearchuk.org
 rntn,89,38131674,54,1699031135,DALL-E 3 Is So Good It's Stoking an Artist Revolt Against AI Scraping,story,https://www.bloomberg.com/news/articles/2023-11-03/dall-e-3-is-so-good-it-s-stoking-an-artist-revolt-against-ai-scraping,,bloomberg.com
 mattwest,128,38130129,52,1699024805,U.S. Consumers Spent More on Food in 2022 Than Ever Before (Inflation Adjusted),story,https://www.ers.usda.gov/amber-waves/2023/september/u-s-consumers-spent-more-on-food-in-2022-than-ever-before-even-after-adjusting-for-inflation/,,ers.usda.gov
