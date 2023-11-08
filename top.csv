@@ -1,18 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-boulos,9,38193494,24,1699463491,Original photo from Led Zeppelin IV album cover discovered,story,https://www.bbc.com/news/uk-england-wiltshire-67336495,,bbc.com
-paramahans,7,38188108,77,1699433688,Legendary Semiconductor Physicist Simon Sze has died,story,https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445,,legacy.com
-Jupe,19,38189545,45,1699446823,The Third Wave (Experiment),story,https://en.wikipedia.org/wiki/The_Third_Wave_(experiment),,en.wikipedia.org
-kklisura,10,38177765,66,1699370371,The Stern-Gerlach Experiment (1967) [video],story,https://www.youtube.com/watch?v=AcTqcyv-V1I,,youtube.com
+boulos,15,38193494,41,1699463491,Original photo from Led Zeppelin IV album cover discovered,story,https://www.bbc.com/news/uk-england-wiltshire-67336495,,bbc.com
+paramahans,8,38188108,80,1699433688,Legendary Semiconductor Physicist Simon Sze has died,story,https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445,,legacy.com
+Jupe,19,38189545,47,1699446823,The Third Wave (Experiment),story,https://en.wikipedia.org/wiki/The_Third_Wave_(experiment),,en.wikipedia.org
+kklisura,10,38177765,70,1699370371,The Stern-Gerlach Experiment (1967) [video],story,https://www.youtube.com/watch?v=AcTqcyv-V1I,,youtube.com
 raattgift,93,38166098,178,1699293533,UHZ1: NASA telescopes discover record-breaking black hole,story,https://chandra.si.edu/photo/2023/uhz1/,,chandra.si.edu
 birriel,18,38183960,43,1699396290,Dietary restriction of isoleucine increases healthspan and lifespan in mice,story,https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1,,cell.com
 tplrbv,1,38183838,22,1699395745,CausalPy: A Python package for causal inference in quasi-experimental settings,story,https://github.com/pymc-labs/CausalPy,,github.com
+thehoff,65,38183293,87,1699393429,Big Insurance Met Match When Turned Down a Lawyer's Request for Cancer Treatment,story,https://www.propublica.org/article/blue-cross-proton-therapy-cancer-lawyer-denial,,propublica.org
 marvinborner,119,38184750,178,1699400653,Nature retracts controversial superconductivity paper by embattled physicist,story,https://www.nature.com/articles/d41586-023-03398-4,,nature.com
 rose_ann_,108,38151776,202,1699197102,Scientists create artificial protein that can degrade PET plastics in bottles,story,https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html,,phys.org
-thehoff,65,38183293,86,1699393429,Big Insurance Met Match When Turned Down a Lawyer's Request for Cancer Treatment,story,https://www.propublica.org/article/blue-cross-proton-therapy-cancer-lawyer-denial,,propublica.org
-agwa,121,38181114,243,1699383141,Article 45 of eIDAS 2.0 will roll back web security by 12 years,story,https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years,,eff.org
+agwa,121,38181114,244,1699383141,Article 45 of eIDAS 2.0 will roll back web security by 12 years,story,https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years,,eff.org
 mbakke,157,38173457,214,1699333384,Bhutan declares its entire street dog population fully sterilized and vaccinated,story,https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/,,worldanimalnews.com
 bookofjoe,0,38183859,23,1699395889,Biological age predicts dementia and stroke regardless of actual age – new study,story,https://theconversation.com/your-biological-age-predicts-dementia-and-stroke-regardless-of-your-actual-age-new-study-215611,,theconversation.com
-belter,8,38189050,34,1699443420,"This year 'virtually certain' to be warmest in 125,000 years, EU scientists say",story,https://www.reuters.com/business/environment/this-year-virtually-certain-be-warmest-125000-years-eu-scientists-say-2023-11-08/,,reuters.com
+belter,9,38189050,34,1699443420,"This year 'virtually certain' to be warmest in 125,000 years, EU scientists say",story,https://www.reuters.com/business/environment/this-year-virtually-certain-be-warmest-125000-years-eu-scientists-say-2023-11-08/,,reuters.com
 toomuchtodo,33,38177104,29,1699367228,"We Thought Marriage Made Us Healthier, and Why We Were Wrong",story,https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646,,nbcnews.com
 michelangelo,74,38150275,92,1699184555,Roman coins discovered in the waters of Sardinia,story,https://www.agenzianova.com/en/news/Almost-50-thousand-coins-from-the-XNUMXth-century-AD-have-been-discovered-in-the-waters-of-Sardinia/,,agenzianova.com
 leonry,46,38149375,140,1699173465,Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings,story,https://store.kde.org/p/1350981,,store.kde.org
@@ -22,5 +22,5 @@ janandonly,0,38150965,24,1699191082,"Ecological Threat Report 2023: food insecur
 asimpleusecase,22,38146211,89,1699139694,Delhi air pollution spikes to 100 times WHO health limit,story,https://www.theguardian.com/world/2023/nov/03/delhi-india-air-quality-pollution-spike-world-health-organization-limit,,theguardian.com
 geox,7,38156362,43,1699223609,A decade since 'Sapiens': Scientific knowledge or populism?,story,https://english.elpais.com/science-tech/2023-11-05/a-decade-since-sapiens-scientific-knowledge-or-populism.html,,english.elpais.com
 goplayoutside,52,38149643,133,1699177313,EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska,story,https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/,,alaskabeacon.com
-PaulHoule,114,38177712,75,1699370144,LAPD considering stronger body camera policy in light of recent scandals,story,https://www.latimes.com/california/story/2023-10-26/lapd-considering-stronger-body-camera-policy,,latimes.com
 belltaco,124,38146837,146,1699145268,Daylight saving time can seriously affect your health,story,https://apnews.com/article/daylight-saving-2023-fall-back-a3738d5c74301b8068825927c49fc6b4,,apnews.com
+PaulHoule,114,38177712,75,1699370144,LAPD considering stronger body camera policy in light of recent scandals,story,https://www.latimes.com/california/story/2023-10-26/lapd-considering-stronger-body-camera-policy,,latimes.com
