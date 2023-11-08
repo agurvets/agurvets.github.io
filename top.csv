@@ -1,11 +1,13 @@
 by,descendants,id,score,time,title,type,url,text,domain
-webmaven,22,38195718,28,1699471935,$200M Gift Propels Scientific Research in the Search for Life Beyond Earth,story,https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth,,seti.org
-boulos,18,38193494,56,1699463491,Original photo from Led Zeppelin IV album cover discovered,story,https://www.bbc.com/news/uk-england-wiltshire-67336495,,bbc.com
-paramahans,8,38188108,82,1699433688,Legendary Semiconductor Physicist Simon Sze has died,story,https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445,,legacy.com
-belltaco,2,38195636,13,1699471668,Now we know how Covid attacks your heart,story,https://www.nationalgeographic.com/premium/article/covid-19-risk-heart-attack-stroke,,nationalgeographic.com
+webmaven,50,38195718,82,1699471935,$200M Gift Propels Scientific Research in the Search for Life Beyond Earth,story,https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth,,seti.org
+wglb,2,38182732,11,1699390714,TESS discovers Saturn-like planet orbiting an M-dwarf star,story,https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html,,phys.org
+boulos,22,38193494,69,1699463491,Original photo from Led Zeppelin IV album cover discovered,story,https://www.bbc.com/news/uk-england-wiltshire-67336495,,bbc.com
+paramahans,8,38188108,83,1699433688,Legendary Semiconductor Physicist Simon Sze has died,story,https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445,,legacy.com
+rntn,5,38194992,11,1699469151,Dietary guidelines may soon warn against ultraprocessed foods,story,https://www.washingtonpost.com/wellness/2023/11/07/dietary-guidelines-ultraprocessed-foods/,,washingtonpost.com
+belltaco,3,38195636,21,1699471668,Now we know how Covid attacks your heart,story,https://www.nationalgeographic.com/premium/article/covid-19-risk-heart-attack-stroke,,nationalgeographic.com
 Jupe,19,38189545,48,1699446823,The Third Wave (Experiment),story,https://en.wikipedia.org/wiki/The_Third_Wave_(experiment),,en.wikipedia.org
 kklisura,10,38177765,70,1699370371,The Stern-Gerlach Experiment (1967) [video],story,https://www.youtube.com/watch?v=AcTqcyv-V1I,,youtube.com
-raattgift,93,38166098,178,1699293533,UHZ1: NASA telescopes discover record-breaking black hole,story,https://chandra.si.edu/photo/2023/uhz1/,,chandra.si.edu
+raattgift,94,38166098,179,1699293533,UHZ1: NASA telescopes discover record-breaking black hole,story,https://chandra.si.edu/photo/2023/uhz1/,,chandra.si.edu
 birriel,18,38183960,43,1699396290,Dietary restriction of isoleucine increases healthspan and lifespan in mice,story,https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1,,cell.com
 tplrbv,1,38183838,22,1699395745,CausalPy: A Python package for causal inference in quasi-experimental settings,story,https://github.com/pymc-labs/CausalPy,,github.com
 rose_ann_,108,38151776,202,1699197102,Scientists create artificial protein that can degrade PET plastics in bottles,story,https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html,,phys.org
