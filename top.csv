@@ -1,28 +1,29 @@
 by,descendants,id,score,time,title,type,url,text,domain
-webmaven,50,38195718,82,1699471935,$200M Gift Propels Scientific Research in the Search for Life Beyond Earth,story,https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth,,seti.org
-wglb,2,38182732,11,1699390714,TESS discovers Saturn-like planet orbiting an M-dwarf star,story,https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html,,phys.org
-boulos,22,38193494,69,1699463491,Original photo from Led Zeppelin IV album cover discovered,story,https://www.bbc.com/news/uk-england-wiltshire-67336495,,bbc.com
+webmaven,63,38195718,107,1699471935,$200M gift propels scientific research in the search for life beyond earth,story,https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth,,seti.org
+wglb,2,38182732,13,1699390714,TESS discovers Saturn-like planet orbiting an M-dwarf star,story,https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html,,phys.org
+boulos,23,38193494,79,1699463491,Original photo from Led Zeppelin IV album cover discovered,story,https://www.bbc.com/news/uk-england-wiltshire-67336495,,bbc.com
 paramahans,8,38188108,83,1699433688,Legendary Semiconductor Physicist Simon Sze has died,story,https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445,,legacy.com
-rntn,5,38194992,11,1699469151,Dietary guidelines may soon warn against ultraprocessed foods,story,https://www.washingtonpost.com/wellness/2023/11/07/dietary-guidelines-ultraprocessed-foods/,,washingtonpost.com
-belltaco,3,38195636,21,1699471668,Now we know how Covid attacks your heart,story,https://www.nationalgeographic.com/premium/article/covid-19-risk-heart-attack-stroke,,nationalgeographic.com
-Jupe,19,38189545,48,1699446823,The Third Wave (Experiment),story,https://en.wikipedia.org/wiki/The_Third_Wave_(experiment),,en.wikipedia.org
+ulrischa,0,38192845,11,1699461364,Major breakthrough in the treatment of Parkinson's disease,story,https://www.chuv.ch/fr/chuv-home/espace-pro/journalistes/communiques-de-presse/detail/major-breakthrough-in-the-treatment-of-parkinsons-disease-a-neuroprosthetic-to-help-you-walk-again,,chuv.ch
+rntn,9,38194992,13,1699469151,Dietary guidelines may soon warn against ultraprocessed foods,story,https://www.washingtonpost.com/wellness/2023/11/07/dietary-guidelines-ultraprocessed-foods/,,washingtonpost.com
+belltaco,3,38195636,28,1699471668,Now we know how Covid attacks your heart,story,https://www.nationalgeographic.com/premium/article/covid-19-risk-heart-attack-stroke,,nationalgeographic.com
+Jupe,19,38189545,49,1699446823,The Third Wave (Experiment),story,https://en.wikipedia.org/wiki/The_Third_Wave_(experiment),,en.wikipedia.org
 kklisura,10,38177765,70,1699370371,The Stern-Gerlach Experiment (1967) [video],story,https://www.youtube.com/watch?v=AcTqcyv-V1I,,youtube.com
 raattgift,94,38166098,179,1699293533,UHZ1: NASA telescopes discover record-breaking black hole,story,https://chandra.si.edu/photo/2023/uhz1/,,chandra.si.edu
 birriel,18,38183960,43,1699396290,Dietary restriction of isoleucine increases healthspan and lifespan in mice,story,https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1,,cell.com
-tplrbv,1,38183838,22,1699395745,CausalPy: A Python package for causal inference in quasi-experimental settings,story,https://github.com/pymc-labs/CausalPy,,github.com
-rose_ann_,108,38151776,202,1699197102,Scientists create artificial protein that can degrade PET plastics in bottles,story,https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html,,phys.org
-thehoff,65,38183293,87,1699393429,Big Insurance Met Match When Turned Down a Lawyer's Request for Cancer Treatment,story,https://www.propublica.org/article/blue-cross-proton-therapy-cancer-lawyer-denial,,propublica.org
-marvinborner,120,38184750,178,1699400653,Nature retracts controversial superconductivity paper by embattled physicist,story,https://www.nature.com/articles/d41586-023-03398-4,,nature.com
+tplrbv,1,38183838,23,1699395745,CausalPy: A Python package for causal inference in quasi-experimental settings,story,https://github.com/pymc-labs/CausalPy,,github.com
+rose_ann_,108,38151776,203,1699197102,Scientists create artificial protein that can degrade PET plastics in bottles,story,https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html,,phys.org
+thehoff,65,38183293,88,1699393429,Big Insurance Met Match When Turned Down a Lawyer's Request for Cancer Treatment,story,https://www.propublica.org/article/blue-cross-proton-therapy-cancer-lawyer-denial,,propublica.org
+marvinborner,120,38184750,180,1699400653,Nature retracts controversial superconductivity paper by embattled physicist,story,https://www.nature.com/articles/d41586-023-03398-4,,nature.com
 agwa,121,38181114,245,1699383141,Article 45 of eIDAS 2.0 will roll back web security by 12 years,story,https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years,,eff.org
 mbakke,157,38173457,214,1699333384,Bhutan declares its entire street dog population fully sterilized and vaccinated,story,https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/,,worldanimalnews.com
 bookofjoe,0,38183859,23,1699395889,Biological age predicts dementia and stroke regardless of actual age – new study,story,https://theconversation.com/your-biological-age-predicts-dementia-and-stroke-regardless-of-your-actual-age-new-study-215611,,theconversation.com
 belter,9,38189050,34,1699443420,"This year 'virtually certain' to be warmest in 125,000 years, EU scientists say",story,https://www.reuters.com/business/environment/this-year-virtually-certain-be-warmest-125000-years-eu-scientists-say-2023-11-08/,,reuters.com
-toomuchtodo,33,38177104,29,1699367228,"We Thought Marriage Made Us Healthier, and Why We Were Wrong",story,https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646,,nbcnews.com
-michelangelo,74,38150275,92,1699184555,Roman coins discovered in the waters of Sardinia,story,https://www.agenzianova.com/en/news/Almost-50-thousand-coins-from-the-XNUMXth-century-AD-have-been-discovered-in-the-waters-of-Sardinia/,,agenzianova.com
-leonry,46,38149375,140,1699173465,Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings,story,https://store.kde.org/p/1350981,,store.kde.org
-Jimmc414,19,38181987,47,1699387209,"FDA Proposes to Ban Food Additive, brominated vegetable oil",story,https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals,,fda.gov
+hoppyhoppy2,2,38183508,11,1699394253,Room-Temperature Superconductor Discovery Is Retracted,story,https://www.nytimes.com/2023/11/07/science/superconductor-retraction-nature-paper.html,,nytimes.com
+toomuchtodo,33,38177104,30,1699367228,"We Thought Marriage Made Us Healthier, and Why We Were Wrong",story,https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646,,nbcnews.com
+michelangelo,74,38150275,93,1699184555,Roman coins discovered in the waters of Sardinia,story,https://www.agenzianova.com/en/news/Almost-50-thousand-coins-from-the-XNUMXth-century-AD-have-been-discovered-in-the-waters-of-Sardinia/,,agenzianova.com
+leonry,46,38149375,141,1699173465,Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings,story,https://store.kde.org/p/1350981,,store.kde.org
+Jimmc414,19,38181987,48,1699387209,"FDA Proposes to Ban Food Additive, brominated vegetable oil",story,https://www.fda.gov/news-events/press-announcements/fda-proposes-ban-food-additive-continues-assessments-additional-chemicals,,fda.gov
 Jimmc414,30,38184249,26,1699397796,Teens Got Therapy. Then They Got Worse,story,https://www.theatlantic.com/ideas/archive/2023/11/teen-mental-health-dbt/675895/,,theatlantic.com
 janandonly,0,38150965,24,1699191082,"Ecological Threat Report 2023: food insecurity, water stress, natural disasters",story,https://reliefweb.int/report/world/ecological-threat-report-2023,,reliefweb.int
-asimpleusecase,22,38146211,89,1699139694,Delhi air pollution spikes to 100 times WHO health limit,story,https://www.theguardian.com/world/2023/nov/03/delhi-india-air-quality-pollution-spike-world-health-organization-limit,,theguardian.com
+asimpleusecase,22,38146211,90,1699139694,Delhi air pollution spikes to 100 times WHO health limit,story,https://www.theguardian.com/world/2023/nov/03/delhi-india-air-quality-pollution-spike-world-health-organization-limit,,theguardian.com
 geox,7,38156362,43,1699223609,A decade since 'Sapiens': Scientific knowledge or populism?,story,https://english.elpais.com/science-tech/2023-11-05/a-decade-since-sapiens-scientific-knowledge-or-populism.html,,english.elpais.com
-goplayoutside,52,38149643,133,1699177313,EPA plans to limit or eliminate salmon-killing tire chemical found in Alaska,story,https://alaskabeacon.com/briefs/epa-plans-to-limit-or-eliminate-salmon-killing-tire-chemical-found-preliminary-alaska-sampling/,,alaskabeacon.com
