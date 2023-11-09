@@ -1,27 +1,27 @@
 by,descendants,id,score,time,title,type,url,text,domain
-singleton11,1,38203302,29,1699526261,"JetBrains is introducing Amper, a new experimental project configuration tool",story,https://blog.jetbrains.com/blog/2023/11/09/amper-improving-the-build-tooling-user-experience/,,jetbrains.com
+srameshc,4,38207866,30,1699550365,You Have a Right to Know Why a Health Insurer Denied Your Claim,story,https://www.propublica.org/article/your-right-to-know-why-health-insurer-denied-claim,,propublica.org
+singleton11,2,38203302,33,1699526261,"JetBrains is introducing Amper, a new experimental project configuration tool",story,https://blog.jetbrains.com/blog/2023/11/09/amper-improving-the-build-tooling-user-experience/,,jetbrains.com
 wglb,12,38182732,49,1699390714,TESS discovers Saturn-like planet orbiting an M-dwarf star,story,https://phys.org/news/2023-11-tess-saturn-like-planet-orbiting-m-dwarf.html,,phys.org
-webmaven,107,38195718,144,1699471935,$200M gift propels scientific research in the search for life beyond Earth,story,https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth,,seti.org
-boulos,43,38193494,145,1699463491,Original photo from Led Zeppelin IV album cover discovered,story,https://www.bbc.com/news/uk-england-wiltshire-67336495,,bbc.com
-paramahans,8,38188108,90,1699433688,Legendary Semiconductor Physicist Simon Sze has died,story,https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445,,legacy.com
+webmaven,107,38195718,145,1699471935,$200M gift propels scientific research in the search for life beyond Earth,story,https://www.seti.org/press-release/200m-gift-propels-scientific-research-search-life-beyond-earth,,seti.org
+boulos,45,38193494,146,1699463491,Original photo from Led Zeppelin IV album cover discovered,story,https://www.bbc.com/news/uk-england-wiltshire-67336495,,bbc.com
+paramahans,8,38188108,91,1699433688,Legendary Semiconductor Physicist Simon Sze has died,story,https://www.legacy.com/us/obituaries/sfgate/name/simon-sze-obituary?id=53535445,,legacy.com
 Brajeshwar,8,38192260,32,1699459233,Smokers Should Be Screened for Lung Cancer–Even If They Quit Long Ago,story,https://www.smithsonianmag.com/smart-news/millions-more-smokers-should-be-screened-for-lung-cancer-even-if-they-quit-long-ago-180983195/,,smithsonianmag.com
-miguelazo,80,38199670,159,1699492622,Zuckerberg personally rejected Meta's proposals to improve teen mental health,story,https://www.cnn.com/2023/11/08/tech/meta-facebook-instagram-teen-safety/index.html,,cnn.com
 kklisura,10,38177765,71,1699370371,The Stern-Gerlach Experiment (1967) [video],story,https://www.youtube.com/watch?v=AcTqcyv-V1I,,youtube.com
+miguelazo,83,38199670,160,1699492622,Zuckerberg personally rejected Meta's proposals to improve teen mental health,story,https://www.cnn.com/2023/11/08/tech/meta-facebook-instagram-teen-safety/index.html,,cnn.com
 raattgift,94,38166098,182,1699293533,UHZ1: NASA telescopes discover record-breaking black hole,story,https://chandra.si.edu/photo/2023/uhz1/,,chandra.si.edu
 rntn,24,38194992,20,1699469151,Dietary guidelines may soon warn against ultraprocessed foods,story,https://www.washingtonpost.com/wellness/2023/11/07/dietary-guidelines-ultraprocessed-foods/,,washingtonpost.com
-draculero,23,38201073,98,1699502898,Steve Wozniak Hospitalized in Mexico City,story,https://www.reuters.com/technology/apple-co-founder-hospitalized-mexico-due-possible-stroke-local-media-2023-11-09/,,reuters.com
 rose_ann_,108,38151776,205,1699197102,Scientists create artificial protein that can degrade PET plastics in bottles,story,https://phys.org/news/2023-10-scientists-artificial-protein-capable-degrading.html,,phys.org
+draculero,24,38201073,98,1699502898,Steve Wozniak Hospitalized in Mexico City,story,https://www.reuters.com/technology/apple-co-founder-hospitalized-mexico-due-possible-stroke-local-media-2023-11-09/,,reuters.com
 Jupe,21,38189545,56,1699446823,The Third Wave (Experiment),story,https://en.wikipedia.org/wiki/The_Third_Wave_(experiment),,en.wikipedia.org
 belltaco,7,38195636,43,1699471668,Now we know how Covid attacks your heart,story,https://www.nationalgeographic.com/premium/article/covid-19-risk-heart-attack-stroke,,nationalgeographic.com
 birriel,18,38183960,45,1699396290,Dietary restriction of isoleucine increases healthspan and lifespan in mice,story,https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1,,cell.com
 tplrbv,1,38183838,25,1699395745,CausalPy: A Python package for causal inference in quasi-experimental settings,story,https://github.com/pymc-labs/CausalPy,,github.com
 thehoff,65,38183293,90,1699393429,Big Insurance Met Match When Turned Down a Lawyer's Request for Cancer Treatment,story,https://www.propublica.org/article/blue-cross-proton-therapy-cancer-lawyer-denial,,propublica.org
-agwa,123,38181114,247,1699383141,Article 45 of eIDAS 2.0 will roll back web security by 12 years,story,https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years,,eff.org
-marvinborner,121,38184750,182,1699400653,Nature retracts controversial superconductivity paper by embattled physicist,story,https://www.nature.com/articles/d41586-023-03398-4,,nature.com
+agwa,123,38181114,248,1699383141,Article 45 of eIDAS 2.0 will roll back web security by 12 years,story,https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years,,eff.org
 mbakke,161,38173457,215,1699333384,Bhutan declares its entire street dog population fully sterilized and vaccinated,story,https://worldanimalnews.com/the-kingdom-of-bhutan-becomes-first-country-in-the-world-to-achieve-100-stray-dog-sterilization-vaccination/,,worldanimalnews.com
+marvinborner,121,38184750,182,1699400653,Nature retracts controversial superconductivity paper by embattled physicist,story,https://www.nature.com/articles/d41586-023-03398-4,,nature.com
 bookofjoe,0,38183859,23,1699395889,Biological age predicts dementia and stroke regardless of actual age – new study,story,https://theconversation.com/your-biological-age-predicts-dementia-and-stroke-regardless-of-your-actual-age-new-study-215611,,theconversation.com
 leonry,46,38149375,142,1699173465,Mondrian – KDE Plasma desktop inspired by Piet Mondrian's paintings,story,https://store.kde.org/p/1350981,,store.kde.org
 LinuxBender,2,38193199,11,1699462509,Senators probe lab in Montana where scientists infecting bats with Covid in 2018,story,https://www.dailymail.co.uk/health/article-12721561/Senators-probe-Fauci-run-virus-lab-Montana-Lawmakers-demand-answers-Daily-Mail-revealed-scientists-tinkering-Covid-like-viruses-years-pandemic.html,,dailymail.co.uk
 hoppyhoppy2,2,38183508,12,1699394253,Room-Temperature Superconductor Discovery Is Retracted,story,https://www.nytimes.com/2023/11/07/science/superconductor-retraction-nature-paper.html,,nytimes.com
 toomuchtodo,33,38177104,30,1699367228,"We Thought Marriage Made Us Healthier, and Why We Were Wrong",story,https://www.nbcnews.com/think/opinion/why-we-thought-marriage-made-us-healthier-why-we-were-ncna801646,,nbcnews.com
-michelangelo,75,38150275,93,1699184555,Roman coins discovered in the waters of Sardinia,story,https://www.agenzianova.com/en/news/Almost-50-thousand-coins-from-the-XNUMXth-century-AD-have-been-discovered-in-the-waters-of-Sardinia/,,agenzianova.com
