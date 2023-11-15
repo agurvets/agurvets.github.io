@@ -1,19 +1,20 @@
 by,descendants,id,score,time,title,type,url,text,domain
-ggpsv,163,38276951,380,1700058696,The Small Website Discoverability Crisis (2021),story,https://www.marginalia.nu/log/19-website-discoverability-crisis/,,marginalia.nu
-PaulHoule,19,38277412,106,1700060942,US surgeons perform first whole eye transplant,story,https://medicalxpress.com/news/2023-11-surgeons-world-eye-transplant.html,,medicalxpress.com
-cempaka,8,38279759,11,1700070344,Is the US's Vaccine Adverse Event Reporting System broken?,story,https://www.bmj.com/content/383/bmj.p2582,,bmj.com
-wallflower,100,38275384,116,1700045782,"She lived in a New York hotel for more than 40 years, but her life was a mystery",story,https://www.npr.org/2023/11/15/1213003434/she-lived-in-a-new-york-hotel-for-more-than-40-years-but-her-life-was-a-mystery,,npr.org
+ggpsv,182,38276951,405,1700058696,The Small Website Discoverability Crisis (2021),story,https://www.marginalia.nu/log/19-website-discoverability-crisis/,,marginalia.nu
+adrian_mrd,0,38281137,19,1700076114,Australia's overuse of antibiotics driving rate of drug-resistant infections,story,https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections,,theguardian.com
+PaulHoule,24,38277412,124,1700060942,US surgeons perform first whole eye transplant,story,https://medicalxpress.com/news/2023-11-surgeons-world-eye-transplant.html,,medicalxpress.com
+wallflower,107,38275384,125,1700045782,"She lived in a New York hotel for more than 40 years, but her life was a mystery",story,https://www.npr.org/2023/11/15/1213003434/she-lived-in-a-new-york-hotel-for-more-than-40-years-but-her-life-was-a-mystery,,npr.org
+cempaka,47,38279759,50,1700070344,Is the US's Vaccine Adverse Event Reporting System broken?,story,https://www.bmj.com/content/383/bmj.p2582,,bmj.com
 thunderbong,15,38262628,137,1699965942,Scientist: A Ruby library for carefully refactoring critical paths,story,https://github.com/github/scientist,,github.com
 saikatsg,41,38267739,104,1699987990,Music painted on wall of a Venetian orphanage will be heard 250 years later,story,https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995,,theconversation.com
-KoftaBob,1,38275556,13,1700047510,ProPublica: Find out why your health insurer denied your claim,story,https://projects.propublica.org/claimfile/,,projects.propublica.org
+KoftaBob,1,38275556,14,1700047510,ProPublica: Find out why your health insurer denied your claim,story,https://projects.propublica.org/claimfile/,,projects.propublica.org
 cempaka,8,38267084,44,1699985425,Review: 'JFK: What the Doctors Saw' eyewitnesses contradict Warren Commission,story,https://datebook.sfchronicle.com/movies-tv/kennedy-assassination-conspiracy-theories-18483272,,datebook.sfchronicle.com
 DocFeind,69,38252947,188,1699897827,Researchers identify 'switch' to activate cancer cell death,story,https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10,,health.ucdavis.edu
-Brajeshwar,6,38264196,33,1699974722,AI chemist finds molecule to make oxygen on Mars after sifting through millions,story,https://www.space.com/mars-oxygen-ai-robot-chemist-splitting-water,,space.com
-antiviral,22,38266792,85,1699984265,Mechanism behind aspirin protective effect against colorectal cancer identified,story,https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646,,technologynetworks.com
+Brajeshwar,6,38264196,34,1699974722,AI chemist finds molecule to make oxygen on Mars after sifting through millions,story,https://www.space.com/mars-oxygen-ai-robot-chemist-splitting-water,,space.com
+antiviral,22,38266792,86,1699984265,Mechanism behind aspirin protective effect against colorectal cancer identified,story,https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646,,technologynetworks.com
 apsec112,28,38246413,54,1699844705,More Dakka in Medicine (2019),story,https://qualiacomputing.com/2019/09/06/more-dakka-in-medicine/,,qualiacomputing.com
 wglb,65,38253130,127,1699898816,Forests with multiple tree species are more effective as carbon sinks,story,https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html,,phys.org
-gmays,85,38266867,50,1699984539,AI chemist could make oxygen on Mars,story,https://www.nature.com/articles/d41586-023-03522-4,,nature.com
 cdme,9,38255496,48,1699910115,Getting an Itemized Hospital Bill Is Basically Impossible,story,https://www.thedailybeast.com/getting-an-itemized-hospital-bill-is-basically-impossible,,thedailybeast.com
+gmays,85,38266867,50,1699984539,AI chemist could make oxygen on Mars,story,https://www.nature.com/articles/d41586-023-03522-4,,nature.com
 rjergbohn,4,38249130,13,1699875328,"Show HN: An experimental, modern package manager for operating systems",story,https://github.com/lodosgroup/lpm,,github.com
 birriel,55,38267020,52,1699985127,Restricted Ketogenic Diet Therapy for Primary Lung Cancer with Brain Metastasis,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9435310/,,ncbi.nlm.nih.gov
 rntn,37,38262182,54,1699962957,US healthcare illustrated: The impossibility of getting a bill for five stitches,story,https://www.techdirt.com/2023/11/13/the-us-healthcare-scam-illustrated-in-the-impossibility-of-getting-a-bill-for-five-stitches/,,techdirt.com
