@@ -1,18 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-adrian_mrd,71,38281137,126,1700076114,Australia's overuse of antibiotics driving rate of drug-resistant infections,story,https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections,,theguardian.com
-ggpsv,211,38276951,471,1700058696,The Small Website Discoverability Crisis (2021),story,https://www.marginalia.nu/log/19-website-discoverability-crisis/,,marginalia.nu
-areoform,5,38273947,17,1700030221,Baddeley's Body Temperature and Time Perception Is One of Science's Rare Singles,story,https://brainworldmagazine.com/baddeleys-rendition-of-body-temperature-and-time-perception-is-one-of-sciences-rare-singles/,,brainworldmagazine.com
-PaulHoule,57,38277412,191,1700060942,US surgeons perform first whole eye transplant,story,https://medicalxpress.com/news/2023-11-surgeons-world-eye-transplant.html,,medicalxpress.com
-clouddrover,8,38282068,16,1700080503,Archaeologists discover previously unknown ancient language,story,https://www.independent.co.uk/news/science/archaeology/turkey-hattusa-ancient-language-discovered-b2447473.html,,independent.co.uk
-wallflower,117,38275384,132,1700045782,"She lived in a New York hotel for more than 40 years, but her life was a mystery",story,https://www.npr.org/2023/11/15/1213003434/she-lived-in-a-new-york-hotel-for-more-than-40-years-but-her-life-was-a-mystery,,npr.org
-thunderbong,15,38262628,145,1699965942,Scientist: A Ruby library for carefully refactoring critical paths,story,https://github.com/github/scientist,,github.com
+adrian_mrd,85,38281137,141,1700076114,Australia's overuse of antibiotics driving rate of drug-resistant infections,story,https://www.theguardian.com/society/2023/nov/16/australia-antibiotics-overuse-drug-resistant-infections,,theguardian.com
+ggpsv,215,38276951,484,1700058696,The Small Website Discoverability Crisis (2021),story,https://www.marginalia.nu/log/19-website-discoverability-crisis/,,marginalia.nu
+clouddrover,9,38284141,24,1700092768,"Common pesticides in food reducing sperm count worldwide, study says",story,https://www.cnn.com/2023/11/15/health/sperm-damage-pesticides-wellness/index.html,,cnn.com
+PaulHoule,64,38277412,200,1700060942,US surgeons perform first whole eye transplant,story,https://medicalxpress.com/news/2023-11-surgeons-world-eye-transplant.html,,medicalxpress.com
+areoform,6,38273947,18,1700030221,Baddeley's Body Temperature and Time Perception Is One of Science's Rare Singles,story,https://brainworldmagazine.com/baddeleys-rendition-of-body-temperature-and-time-perception-is-one-of-sciences-rare-singles/,,brainworldmagazine.com
+wallflower,117,38275384,133,1700045782,"She lived in a New York hotel for more than 40 years, but her life was a mystery",story,https://www.npr.org/2023/11/15/1213003434/she-lived-in-a-new-york-hotel-for-more-than-40-years-but-her-life-was-a-mystery,,npr.org
+clouddrover,11,38282068,20,1700080503,Archaeologists discover previously unknown ancient language,story,https://www.independent.co.uk/news/science/archaeology/turkey-hattusa-ancient-language-discovered-b2447473.html,,independent.co.uk
+thunderbong,15,38262628,146,1699965942,Scientist: A Ruby library for carefully refactoring critical paths,story,https://github.com/github/scientist,,github.com
 saikatsg,41,38267739,104,1699987990,Music painted on wall of a Venetian orphanage will be heard 250 years later,story,https://theconversation.com/music-painted-on-the-wall-of-a-venetian-orphanage-will-be-heard-again-nearly-250-years-later-211995,,theconversation.com
 KoftaBob,1,38275556,18,1700047510,ProPublica: Find out why your health insurer denied your claim,story,https://projects.propublica.org/claimfile/,,projects.propublica.org
 cempaka,14,38267084,45,1699985425,Review: 'JFK: What the Doctors Saw' eyewitnesses contradict Warren Commission,story,https://datebook.sfchronicle.com/movies-tv/kennedy-assassination-conspiracy-theories-18483272,,datebook.sfchronicle.com
 DocFeind,71,38252947,188,1699897827,Researchers identify 'switch' to activate cancer cell death,story,https://health.ucdavis.edu/news/headlines/researchers-identify-switch-to-activate-cancer-cell-death/2023/10,,health.ucdavis.edu
 Brajeshwar,6,38264196,34,1699974722,AI chemist finds molecule to make oxygen on Mars after sifting through millions,story,https://www.space.com/mars-oxygen-ai-robot-chemist-splitting-water,,space.com
-cempaka,72,38279759,55,1700070344,Is the US's Vaccine Adverse Event Reporting System broken?,story,https://www.bmj.com/content/383/bmj.p2582,,bmj.com
 antiviral,23,38266792,87,1699984265,Mechanism behind aspirin protective effect against colorectal cancer identified,story,https://www.technologynetworks.com/drug-discovery/news/mechanism-behind-aspirins-protective-effect-against-colorectal-cancer-identified-380646,,technologynetworks.com
+cempaka,72,38279759,55,1700070344,Is the US's Vaccine Adverse Event Reporting System broken?,story,https://www.bmj.com/content/383/bmj.p2582,,bmj.com
 wglb,65,38253130,128,1699898816,Forests with multiple tree species are more effective as carbon sinks,story,https://phys.org/news/2023-11-forests-multiple-tree-species-effective.html,,phys.org
 cdme,9,38255496,48,1699910115,Getting an Itemized Hospital Bill Is Basically Impossible,story,https://www.thedailybeast.com/getting-an-itemized-hospital-bill-is-basically-impossible,,thedailybeast.com
 gmays,86,38266867,50,1699984539,AI chemist could make oxygen on Mars,story,https://www.nature.com/articles/d41586-023-03522-4,,nature.com
