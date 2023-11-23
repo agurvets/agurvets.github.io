@@ -1,20 +1,20 @@
 by,descendants,id,score,time,title,type,url,text,domain
-dv-tw,4,38382067,31,1700673737,My experience trying to write human-sounding articles using Claude AI,story,https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai,,idratherbewriting.com
-victormustar,103,38377072,368,1700645926,"LM Studio – Discover, download, and run local LLMs",story,https://lmstudio.ai/,,lmstudio.ai
-yamrzou,201,38371808,341,1700607790,"In the gut's 'second brain,' key agents of health emerge",story,https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121,,quantamagazine.org
-samizdis,24,38382485,83,1700675424,Big Pharma gave $9M to dark money groups to fight drug pricing reform,story,https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/,,arstechnica.com
-wglb,20,38357226,63,1700527714,Phosphorous discovered in outskirts of the Milky Way,story,https://phys.org/news/2023-11-phosphorous-outskirts-milky.html,,phys.org
-andrewljohnson,72,38360148,122,1700548548,"When do ""brains beat brawn"" in chess? An experiment",story,https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment,,alignmentforum.org
-rntn,121,38354939,297,1700515080,FDA considers first CRISPR gene editing treatment that may cure sickle cell,story,https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html,,cnn.com
-rntn,148,38363687,203,1700575296,'AI' Is Supercharging Our Broken Healthcare System's Worst Tendencies,story,https://www.techdirt.com/2023/11/21/ai-is-supercharging-our-broken-healthcare-systems-worst-tendencies/,,techdirt.com
+dv-tw,38,38382067,81,1700673737,My experience trying to write human-sounding articles using Claude AI,story,https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai,,idratherbewriting.com
+EA-3167,98,38386547,134,1700694694,ChatGPT generates fake data set to support scientific hypothesis,story,https://www.nature.com/articles/d41586-023-03635-w,,nature.com
+yamrzou,209,38371808,352,1700607790,"In the gut's 'second brain,' key agents of health emerge",story,https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121,,quantamagazine.org
+victormustar,122,38377072,416,1700645926,"LM Studio – Discover, download, and run local LLMs",story,https://lmstudio.ai/,,lmstudio.ai
+PaulHoule,0,38385221,23,1700687712,Polish court discovers secret cryptomining rigs hidden throughout building,story,https://therecord.media/cryptomining-in-polish-courthouse-warsaw,,therecord.media
+andrewljohnson,74,38360148,123,1700548548,"When do ""brains beat brawn"" in chess? An experiment",story,https://www.alignmentforum.org/posts/odtMt7zbMuuyavaZB/when-do-brains-beat-brawn-in-chess-an-experiment,,alignmentforum.org
+rntn,123,38354939,298,1700515080,FDA considers first CRISPR gene editing treatment that may cure sickle cell,story,https://www.cnn.com/2023/10/31/health/fda-considers-crispr-treatment-cure-sickle-cell/index.html,,cnn.com
+wglb,20,38357226,66,1700527714,Phosphorous discovered in outskirts of the Milky Way,story,https://phys.org/news/2023-11-phosphorous-outskirts-milky.html,,phys.org
+sean-reid,64,38387816,52,1700701687,I made a website that tells you which human foods are toxic for dogs,story,https://www.isittoxicformydog.com,,isittoxicformydog.com
+samizdis,29,38382485,103,1700675424,Big Pharma gave $9M to dark money groups to fight drug pricing reform,story,https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/,,arstechnica.com
+rntn,150,38363687,205,1700575296,'AI' Is Supercharging Our Broken Healthcare System's Worst Tendencies,story,https://www.techdirt.com/2023/11/21/ai-is-supercharging-our-broken-healthcare-systems-worst-tendencies/,,techdirt.com
 taubek,31,38361218,103,1700557681,11.8M CHF for clinical trials of novel arthritis repair,story,https://www.unibas.ch/en/University/Fundraising/Fundraising-News/12-Million-CHF-for-clinical-trials-of-novel-arthritis-repair.html,,unibas.ch
 wglb,0,38357167,38,1700527257,Scientists uncover aurora-like radio emission above a sunspot,story,https://phys.org/news/2023-11-scientists-uncover-aurora-like-radio-emission.html,,phys.org
-simonw,0,38373709,12,1700618879,Deciphering clues in a news article to understand how it was reported,story,https://simonwillison.net/2023/Nov/22/deciphering-clues/,,simonwillison.net
 Brajeshwar,35,38364197,27,1700577483,Do Colder or Warmer Places Eat More Spicy or Bland Food?,story,https://www.atlasobscura.com/articles/spiciest-food-in-world,,atlasobscura.com
-johntfella,8,38376073,15,1700638219,There is a scientific fraud epidemic – and we are ignoring the cure,story,https://www.ft.com/content/c88634cd-ea99-41ec-8422-b47ed2ffc45a,,ft.com
+simonw,0,38373709,12,1700618879,Deciphering clues in a news article to understand how it was reported,story,https://simonwillison.net/2023/Nov/22/deciphering-clues/,,simonwillison.net
+johntfella,8,38376073,16,1700638219,There is a scientific fraud epidemic – and we are ignoring the cure,story,https://www.ft.com/content/c88634cd-ea99-41ec-8422-b47ed2ffc45a,,ft.com
 echelon_musk,0,38361008,25,1700555852,No opt-out of personal medical data shared with Palantir,story,https://www.theguardian.com/society/2023/nov/21/nhs-data-platform-may-be-undermined-by-lack-of-public-trust-warn-campaigners,,theguardian.com
 PaulHoule,9,38353940,52,1700511208,European Telecom Body to Open-Source Radio Encryption System,story,https://www.bankinfosecurity.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599,,bankinfosecurity.com
 hdivider,12,38334538,59,1700412822,"The human brain builds structures in 11 dimensions, discover scientists",story,https://blog.physics-astronomy.com/2022/12/the-human-brain-builds-structures-in-11.html,,physics-astronomy.com
-vo2maxer,51,38336048,59,1700418962,Defence against scientific fraud: a proposal for a new MSc course,story,http://deevybee.blogspot.com/2023/11/defence-against-dark-arts-proposal-for.html,,deevybee.blogspot.com
-sohkamyung,26,38346555,24,1700480142,How can you define a 'drug'? Nobody knows,story,https://theconversation.com/how-can-you-define-a-drug-nobody-really-knows-216540,,theconversation.com
-rntn,60,38335276,89,1700415700,Ex-IBM sales veteran sues for access to health benefits,story,https://www.theregister.com/2023/11/19/ibm_sales_veteran_healthcare_lawsuit/,,theregister.com
