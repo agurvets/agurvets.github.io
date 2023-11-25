@@ -1,11 +1,11 @@
 by,descendants,id,score,time,title,type,url,text,domain
-apollinaire,4,38397956,24,1700776197,"Paul Auster on cancer, connection and the fallacy of closure",story,https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure,,theguardian.com
-geox,1,38404099,14,1700835039,Now streaming: nuclear physics,story,https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/,,ascr-discovery.org
-gardenfelder,31,38406868,51,1700851699,"Mice eating less isoleucine live longer, healthier",story,https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/,,news.wisc.edu
-benbreen,0,38388599,13,1700707555,The Vibrant Worlds of Batuan Paintings in Bali,story,https://www.sapiens.org/culture/mead-bateson-batuan-painting-bali/,,sapiens.org
-pyinstallwoes,33,38398563,217,1700779794,Experimental tree-based writing interface for GPT-3,story,https://github.com/socketteer/loom,,github.com
-bookofjoe,100,38404397,89,1700836719,Cats that fetch are an evolutionary mystery,story,https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/,,theatlantic.com
-Brajeshwar,30,38394383,193,1700756325,Guinea worm disease is close to being eradicated (2022),story,https://ourworldindata.org/guinea-worm-path-eradication,,ourworldindata.org
+apollinaire,4,38397956,31,1700776197,"Paul Auster on cancer, connection and the fallacy of closure",story,https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure,,theguardian.com
+gardenfelder,38,38406868,57,1700851699,"Mice eating less isoleucine live longer, healthier",story,https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/,,news.wisc.edu
+geox,1,38404099,16,1700835039,Now streaming: nuclear physics,story,https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/,,ascr-discovery.org
+benbreen,0,38388599,14,1700707555,The Vibrant Worlds of Batuan Paintings in Bali,story,https://www.sapiens.org/culture/mead-bateson-batuan-painting-bali/,,sapiens.org
+pyinstallwoes,33,38398563,219,1700779794,Experimental tree-based writing interface for GPT-3,story,https://github.com/socketteer/loom,,github.com
+bookofjoe,100,38404397,91,1700836719,Cats that fetch are an evolutionary mystery,story,https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/,,theatlantic.com
+Brajeshwar,30,38394383,194,1700756325,Guinea worm disease is close to being eradicated (2022),story,https://ourworldindata.org/guinea-worm-path-eradication,,ourworldindata.org
 Tomte,14,38392653,57,1700747046,Eardrum Suck: The Mystery Solved (2019),story,https://www.soundstagesolo.com/index.php/features/178-eardrum-suck-the-mystery-solved,,soundstagesolo.com
 arcza,145,38391934,215,1700741709,I discovered caching CDNs were throttling my everyday browsing,story,https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/,,abctaylor.com
 rossant,7,38398298,22,1700778198,Politicians don't understand science: advisers give evidence at UK Covid inquiry,story,https://www.nature.com/articles/d41586-023-03706-y,,nature.com
@@ -21,7 +21,7 @@ bookofjoe,13,38398321,19,1700778339,When Does Life Stop? A New Way of Harvesting
 Brajeshwar,0,38394040,15,1700754565,Libyan desert's yellow glass: the origin of these rare and mysterious shards,story,https://theconversation.com/libyan-deserts-yellow-glass-how-we-discovered-the-origin-of-these-rare-and-mysterious-shards-217565,,theconversation.com
 PaulHoule,3,38385221,34,1700687712,Polish court discovers secret cryptomining rigs hidden throughout building,story,https://therecord.media/cryptomining-in-polish-courthouse-warsaw,,therecord.media
 samizdis,34,38382485,110,1700675424,Big Pharma gave $9M to dark money groups to fight drug pricing reform,story,https://arstechnica.com/health/2023/11/big-pharma-gave-9m-to-dark-money-groups-to-fight-drug-pricing-reform/,,arstechnica.com
-hdivider,43,38402313,52,1700820612,Extremely high-energy particle detected falling to Earth,story,https://www.theguardian.com/science/2023/nov/24/amaterasu-extremely-high-energy-particle-detected-falling-to-earth,,theguardian.com
+hdivider,44,38402313,52,1700820612,Extremely high-energy particle detected falling to Earth,story,https://www.theguardian.com/science/2023/nov/24/amaterasu-extremely-high-energy-particle-detected-falling-to-earth,,theguardian.com
 johntfella,9,38376073,16,1700638219,There is a scientific fraud epidemic – and we are ignoring the cure,story,https://www.ft.com/content/c88634cd-ea99-41ec-8422-b47ed2ffc45a,,ft.com
 geox,1,38387963,71,1700702666,Threat to humanity: The mystery letter that may have sparked the OpenAI chaos,story,https://www.smh.com.au/business/companies/threat-to-humanity-the-mystery-letter-that-may-have-sparked-the-openai-chaos-20231123-p5em8z.html,,smh.com.au
 Brajeshwar,4,38404569,16,1700837691,"MIT physicists turn pencil lead into ""gold""",story,https://news.mit.edu/2023/mit-physicists-turn-pencil-lead-into-gold-1114,,news.mit.edu
