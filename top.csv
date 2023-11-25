@@ -1,16 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-todsacerdoti,15,38410160,37,1700874707,Workarounds to Computer Access in Healthcare: Password or a Dead Patient? (2015),story,https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf,,cs.dartmouth.edu
-apollinaire,6,38397956,50,1700776197,"Paul Auster on cancer, connection and the fallacy of closure",story,https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure,,theguardian.com
-geox,5,38404099,26,1700835039,Now streaming: nuclear physics,story,https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/,,ascr-discovery.org
-gardenfelder,54,38406868,78,1700851699,"Mice eating less isoleucine live longer, healthier",story,https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/,,news.wisc.edu
+todsacerdoti,20,38410160,43,1700874707,Workarounds to Computer Access in Healthcare: Password or a Dead Patient? (2015),story,https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf,,cs.dartmouth.edu
+apollinaire,6,38397956,52,1700776197,"Paul Auster on cancer, connection and the fallacy of closure",story,https://www.theguardian.com/books/2023/nov/18/paul-auster-on-cancer-connection-and-the-fallacy-of-closure,,theguardian.com
+geox,5,38404099,28,1700835039,Now streaming: nuclear physics,story,https://ascr-discovery.org/2023/10/now-streaming-nuclear-physics/,,ascr-discovery.org
+gardenfelder,54,38406868,79,1700851699,"Mice eating less isoleucine live longer, healthier",story,https://news.wisc.edu/mice-eating-less-of-specific-amino-acid-overrepresented-in-diet-of-obese-people-live-longer-healthier/,,news.wisc.edu
 benbreen,0,38388599,14,1700707555,The Vibrant Worlds of Batuan Paintings in Bali,story,https://www.sapiens.org/culture/mead-bateson-batuan-painting-bali/,,sapiens.org
-pyinstallwoes,33,38398563,222,1700779794,Experimental tree-based writing interface for GPT-3,story,https://github.com/socketteer/loom,,github.com
-bookofjoe,102,38404397,94,1700836719,Cats that fetch are an evolutionary mystery,story,https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/,,theatlantic.com
-Brajeshwar,30,38394383,194,1700756325,Guinea worm disease is close to being eradicated (2022),story,https://ourworldindata.org/guinea-worm-path-eradication,,ourworldindata.org
+pyinstallwoes,33,38398563,223,1700779794,Experimental tree-based writing interface for GPT-3,story,https://github.com/socketteer/loom,,github.com
+rolph,1,38409821,11,1700871158,"'Adopt an axolotl' campaign launches in Mexico to save iconic species [,,,]",story,https://apnews.com/article/axolotl-conservation-mexico-money-fundraiser-4f004dd6c1ae9170ec4795860c71b270,,apnews.com
+bookofjoe,103,38404397,94,1700836719,Cats that fetch are an evolutionary mystery,story,https://www.theatlantic.com/science/archive/2023/11/cat-fetching-behavior/676078/,,theatlantic.com
+Brajeshwar,30,38394383,195,1700756325,Guinea worm disease is close to being eradicated (2022),story,https://ourworldindata.org/guinea-worm-path-eradication,,ourworldindata.org
 Tomte,14,38392653,58,1700747046,Eardrum Suck: The Mystery Solved (2019),story,https://www.soundstagesolo.com/index.php/features/178-eardrum-suck-the-mystery-solved,,soundstagesolo.com
-arcza,149,38391934,216,1700741709,I discovered caching CDNs were throttling my everyday browsing,story,https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/,,abctaylor.com
+arcza,149,38391934,217,1700741709,I discovered caching CDNs were throttling my everyday browsing,story,https://blog.abctaylor.com/how-i-discovered-caching-cdns-were-throttling-my-everyday-browsing/,,abctaylor.com
 rossant,7,38398298,23,1700778198,Politicians don't understand science: advisers give evidence at UK Covid inquiry,story,https://www.nature.com/articles/d41586-023-03706-y,,nature.com
-EA-3167,132,38386547,193,1700694694,ChatGPT generates fake data set to support scientific hypothesis,story,https://www.nature.com/articles/d41586-023-03635-w,,nature.com
+EA-3167,132,38386547,194,1700694694,ChatGPT generates fake data set to support scientific hypothesis,story,https://www.nature.com/articles/d41586-023-03635-w,,nature.com
 dv-tw,56,38382067,110,1700673737,My experience trying to write human-sounding articles using Claude AI,story,https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai,,idratherbewriting.com
 rbanffy,25,38391923,57,1700741617,Training of 1T Parameter Scientific AI Begins,story,https://www.hpcwire.com/2023/11/13/training-of-1-trillion-parameter-scientific-ai-begins/,,hpcwire.com
 JPLeRouzic,10,38396634,23,1700768420,Rise in people discovered dead and decomposed in UK raises concerns,story,https://medicalxpress.com/news/2023-11-people-dead-decomposed-england-wales.html,,medicalxpress.com
