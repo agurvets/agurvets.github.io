@@ -1,12 +1,12 @@
 by,descendants,id,score,time,title,type,url,text,domain
-ramboldio,58,38531621,60,1701788258,BMW EV achieves 1000km in range using Dual-Chemistry batteries,story,https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/,,forbes.com
+ramboldio,71,38531621,63,1701788258,BMW EV achieves 1000km in range using Dual-Chemistry batteries,story,https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/,,forbes.com
 rntn,0,38531060,12,1701786105,Climate researchers need support to become scientist-communicators,story,https://www.nature.com/articles/d41586-023-03436-1,,nature.com
-gwintrob,77,38524595,96,1701731824,Towards accurate differential diagnosis with large language models,story,https://arxiv.org/abs/2312.00164,,arxiv.org
+gwintrob,78,38524595,96,1701731824,Towards accurate differential diagnosis with large language models,story,https://arxiv.org/abs/2312.00164,,arxiv.org
 0xpgm,4,38529930,24,1701779029,Notes on Python to Go Translation of reposurgeon (2018),story,https://gitlab.com/esr/reposurgeon/-/blob/1bfa90ff8c8c7ae7e409e2de9e5f24da57e364f2/GoNotes.adoc,,gitlab.com
-stl_fan,101,38526745,123,1701746775,When Google Fiber abandons your city as a failed experiment (2019),story,https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198,,gizmodo.com
-geox,75,38525429,135,1701736353,Taking low-dose aspirin is associated with 20% reduction in cancer deaths,story,https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer,,cardiff.ac.uk
-npalli,189,38512793,115,1701654126,Potential of the Julia programming language for high energy physics computing,story,https://arxiv.org/abs/2306.03675,,arxiv.org
-max_,26,38520911,25,1701714144,Ask HN: What perfect software did you discover of recent?,story,,"Of recently I discovered three tools that I would describe as perfect i.e solving my problem exactly.<p>What services or products would you describe as perfect for your needs?<p>The first was Arbitrage Calculator [1].
+stl_fan,102,38526745,123,1701746775,When Google Fiber abandons your city as a failed experiment (2019),story,https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198,,gizmodo.com
+geox,75,38525429,136,1701736353,Taking low-dose aspirin is associated with 20% reduction in cancer deaths,story,https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer,,cardiff.ac.uk
+npalli,193,38512793,116,1701654126,Potential of the Julia programming language for high energy physics computing,story,https://arxiv.org/abs/2306.03675,,arxiv.org
+max_,27,38520911,25,1701714144,Ask HN: What perfect software did you discover of recent?,story,,"Of recently I discovered three tools that I would describe as perfect i.e solving my problem exactly.<p>What services or products would you describe as perfect for your needs?<p>The first was Arbitrage Calculator [1].
 Its. A tool I used for sports betting Arbitrage to compute the arbitrage conditions &amp; payouts.<p>The second is Obsidian [2]
 This has completely replaced Google Keep as my notes taking app.<p>The third has been Lithium [3].
 I currently do 90% of my book reading in this app. The ergonomics of epub copies is just perfect and this is a perfect epub reader.<p>Fourth is Scrivener. [4]
