@@ -1,14 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-sohkamyung,4,38530030,27,1701780167,A peculiar fish and an evolutionary mystery,story,https://nautil.us/a-peculiar-fish-and-an-evolutionary-mystery-458958/,,nautil.us
-diodorus,3,38540738,17,1701840365,After the Plague: Health and History in Medieval England,story,https://www.aftertheplague.org,,aftertheplague.org
-nradov,21,38543612,16,1701869504,Child mask mandates for Covid-19: a systematic review,story,https://adc.bmj.com/content/early/2023/12/02/archdischild-2023-326215,,adc.bmj.com
-DrZootron,0,38541982,14,1701855227,When Kodak Accidentally Discovered A-Bomb Testing,story,https://www.popularmechanics.com/science/energy/a21382/how-kodak-accidentally-discovered-radioactive-fallout/,,popularmechanics.com
-derstander,157,38538162,193,1701817317,"Playstation is erasing 1,318 seasons of Discovery shows from customer libraries",story,https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/,,arstechnica.com
+rbanffy,6,38548002,12,1701888806,Physicists Find Seemingly Impossible Magnets with Just One Pole,story,https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole,,inverse.com
+sohkamyung,4,38530030,28,1701780167,A peculiar fish and an evolutionary mystery,story,https://nautil.us/a-peculiar-fish-and-an-evolutionary-mystery-458958/,,nautil.us
+diodorus,3,38540738,18,1701840365,After the Plague: Health and History in Medieval England,story,https://www.aftertheplague.org,,aftertheplague.org
+nradov,25,38543612,19,1701869504,Child mask mandates for Covid-19: a systematic review,story,https://adc.bmj.com/content/early/2023/12/02/archdischild-2023-326215,,adc.bmj.com
+DrZootron,0,38541982,15,1701855227,When Kodak Accidentally Discovered A-Bomb Testing,story,https://www.popularmechanics.com/science/energy/a21382/how-kodak-accidentally-discovered-radioactive-fallout/,,popularmechanics.com
+derstander,158,38538162,195,1701817317,"Playstation is erasing 1,318 seasons of Discovery shows from customer libraries",story,https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/,,arstechnica.com
 gwintrob,93,38524595,102,1701731824,Towards accurate differential diagnosis with large language models,story,https://arxiv.org/abs/2312.00164,,arxiv.org
 npalli,198,38512793,118,1701654126,Potential of the Julia programming language for high energy physics computing,story,https://arxiv.org/abs/2306.03675,,arxiv.org
 rntn,0,38531060,16,1701786105,Climate researchers need support to become scientist-communicators,story,https://www.nature.com/articles/d41586-023-03436-1,,nature.com
 geox,78,38525429,140,1701736353,Taking low-dose aspirin is associated with 20% reduction in cancer deaths,story,https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer,,cardiff.ac.uk
-ramboldio,84,38531621,69,1701788258,BMW EV achieves 1000km in range using Dual-Chemistry batteries,story,https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/,,forbes.com
+ramboldio,85,38531621,69,1701788258,BMW EV achieves 1000km in range using Dual-Chemistry batteries,story,https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/,,forbes.com
 stl_fan,115,38526745,127,1701746775,When Google Fiber abandons your city as a failed experiment (2019),story,https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198,,gizmodo.com
 0xpgm,7,38529930,26,1701779029,Notes on Python to Go Translation of reposurgeon (2018),story,https://gitlab.com/esr/reposurgeon/-/blob/1bfa90ff8c8c7ae7e409e2de9e5f24da57e364f2/GoNotes.adoc,,gitlab.com
 room271,2,38516381,11,1701692462,'Wobbly spacetime' may help resolve contradictory physics theories,story,https://www.theguardian.com/science/2023/dec/04/wobbly-spacetime-may-resolve-contradictory-physics-theories,,theguardian.com
@@ -20,5 +21,4 @@ This has completely replaced Google Keep as my notes taking app.<p>The third has
 I currently do 90% of my book reading in this app. The ergonomics of epub copies is just perfect and this is a perfect epub reader.<p>Fourth is Scrivener. [4]
 Planning to write by first book with this. It&#x27;s just perfect.<p>Last is Button Down [5]
 This allowed me to add a subscription page on my statically hosted blog. And the minimalistic nature of the service made it perfect.<p>[1]: https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.ajinkyamankar.surebetarbitragecalculator<p>[2]: https:&#x2F;&#x2F;obsidian.md<p>[3]: https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.faultexception.reader<p>[4]: https:&#x2F;&#x2F;www.literatureandlatte.com&#x2F;scrivener&#x2F;overview<p>[5]: https:&#x2F;&#x2F;buttondown.email&#x2F;",
-nothrowaways,43,38539576,17,1701827485,Mark Zuckerberg and Dr. Priscilla Chan: Curing All Human Diseases [video],story,https://www.youtube.com/watch?v=1Wo6SqLNmLk,,youtube.com
-Brajeshwar,2,38543542,15,1701869177,"Pregnant women, with plant-based foods, are missing vital nutrients",story,https://medicalxpress.com/news/2023-12-pregnant-women-vital-nutrients-situation.html,,medicalxpress.com
+nothrowaways,44,38539576,17,1701827485,Mark Zuckerberg and Dr. Priscilla Chan: Curing All Human Diseases [video],story,https://www.youtube.com/watch?v=1Wo6SqLNmLk,,youtube.com
