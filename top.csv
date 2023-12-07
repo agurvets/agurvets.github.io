@@ -1,22 +1,26 @@
 by,descendants,id,score,time,title,type,url,text,domain
-nsoonhui,2,38542166,16,1701857206,Stern-Gerlach experiment used to probe the clash of quantum theory and gravity,story,https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/,,quantamagazine.org
-pdpi,56,38550994,101,1701905920,Researchers have discovered magnetic monopole quasi-particles,story,https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles,,cam.ac.uk
-prismatic,42,38548774,41,1701892973,Painting is Terribly Difficult,story,https://www.lrb.co.uk/the-paper/v45/n24/julian-barnes/painting-is-terribly-difficult,,lrb.co.uk
-sohkamyung,4,38530030,31,1701780167,A peculiar fish and an evolutionary mystery,story,https://nautil.us/a-peculiar-fish-and-an-evolutionary-mystery-458958/,,nautil.us
+benbreen,24,38553259,58,1701927885,Cabinets of curiosities laid the foundation for modern museums,story,https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/,,smithsonianmag.com
+mfrw,0,38556584,14,1701958788,Being Rusty: Discovering Rust's design axioms,story,https://smallcultfollowing.com/babysteps/blog/2023/12/07/rust-design-axioms/,,smallcultfollowing.com
+qclibre22,9,38557030,33,1701960931,White House warns it might break patents of high-priced drugs,story,https://finance.yahoo.com/news/white-house-threatening-patents-high-141610644.html,,finance.yahoo.com
+nsoonhui,30,38542166,67,1701857206,Stern-Gerlach experiment used to probe the clash of quantum theory and gravity,story,https://www.quantamagazine.org/the-often-overlooked-experiment-that-revealed-the-quantum-world-20231205/,,quantamagazine.org
+pdpi,67,38550994,134,1701905920,Researchers have discovered magnetic monopole quasi-particles,story,https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles,,cam.ac.uk
+prismatic,66,38548774,83,1701892973,Painting is Terribly Difficult,story,https://www.lrb.co.uk/the-paper/v45/n24/julian-barnes/painting-is-terribly-difficult,,lrb.co.uk
+alistairSH,4,38557501,14,1701963354,Britain Put One of the Best Health Care Systems on Life Support,story,https://www.nytimes.com/2023/12/07/opinion/nhs-britain-universal-health-care.html,,nytimes.com
+sohkamyung,5,38530030,31,1701780167,A peculiar fish and an evolutionary mystery,story,https://nautil.us/a-peculiar-fish-and-an-evolutionary-mystery-458958/,,nautil.us
 diodorus,3,38540738,19,1701840365,After the Plague: Health and History in Medieval England,story,https://www.aftertheplague.org,,aftertheplague.org
-Anon84,1,38549600,14,1701897526,AI Discovered a Faster Matrix Multiplication Algorithm [video],story,https://www.youtube.com/watch?v=fDAPJ7rvcUw,,youtube.com
-rbanffy,1,38548002,23,1701888806,Physicists Find Seemingly Impossible Magnets with Just One Pole,story,https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole,,inverse.com
+ChickeNES,3,38552850,16,1701923551,The Pentagon Wants to Root Out Shoddy Drugs. The FDA Is in Its Way,story,https://www.bloomberg.com/news/features/2023-12-05/pentagon-is-skeptical-of-cheap-generic-drugs-approved-by-the-fda,,bloomberg.com
+helloworld,0,38552570,11,1701920401,Estimating impact of food choices on life expectancy (2022),story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8824353/,,ncbi.nlm.nih.gov
+gwintrob,93,38524595,104,1701731824,Towards accurate differential diagnosis with large language models,story,https://arxiv.org/abs/2312.00164,,arxiv.org
+Anon84,1,38549600,16,1701897526,AI Discovered a Faster Matrix Multiplication Algorithm [video],story,https://www.youtube.com/watch?v=fDAPJ7rvcUw,,youtube.com
+derstander,505,38538162,214,1701817317,Playstation is erasing seasons of Discovery shows from customer libraries,story,https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/,,arstechnica.com
+nradov,35,38543612,22,1701869504,Child mask mandates for Covid-19: a systematic review,story,https://adc.bmj.com/content/early/2023/12/02/archdischild-2023-326215,,adc.bmj.com
 DrZootron,0,38541982,16,1701855227,When Kodak Accidentally Discovered A-Bomb Testing (2016),story,https://www.popularmechanics.com/science/energy/a21382/how-kodak-accidentally-discovered-radioactive-fallout/,,popularmechanics.com
-derstander,488,38538162,203,1701817317,Playstation is erasing seasons of Discovery shows from customer libraries,story,https://arstechnica.com/gadgets/2023/12/playstation-is-erasing-1318-seasons-of-discovery-shows-from-customer-libraries/,,arstechnica.com
-nradov,34,38543612,21,1701869504,Child mask mandates for Covid-19: a systematic review,story,https://adc.bmj.com/content/early/2023/12/02/archdischild-2023-326215,,adc.bmj.com
-gwintrob,93,38524595,103,1701731824,Towards accurate differential diagnosis with large language models,story,https://arxiv.org/abs/2312.00164,,arxiv.org
-r721,4,38548569,15,1701891983,"Reuters has temporarily removed article ""How an Indian startup hacked the world""",story,https://www.reuters.com/investigates/special-report/usa-hackers-appin/,,reuters.com
-npalli,198,38512793,118,1701654126,Potential of the Julia programming language for high energy physics computing,story,https://arxiv.org/abs/2306.03675,,arxiv.org
-rntn,0,38531060,16,1701786105,Climate researchers need support to become scientist-communicators,story,https://www.nature.com/articles/d41586-023-03436-1,,nature.com
+npalli,202,38512793,119,1701654126,Potential of the Julia programming language for high energy physics computing,story,https://arxiv.org/abs/2306.03675,,arxiv.org
+rbanffy,1,38548002,23,1701888806,Physicists Find Seemingly Impossible Magnets with Just One Pole,story,https://www.inverse.com/science/physicists-find-seemingly-impossible-magnets-with-just-one-pole,,inverse.com
 geox,78,38525429,141,1701736353,Taking low-dose aspirin is associated with 20% reduction in cancer deaths,story,https://www.cardiff.ac.uk/news/view/2782804-aspirin-and-treating-cancer,,cardiff.ac.uk
+rntn,0,38531060,16,1701786105,Climate researchers need support to become scientist-communicators,story,https://www.nature.com/articles/d41586-023-03436-1,,nature.com
 simonebrunozzi,0,38538579,11,1701820100,EU hails discovery of phosphate rock deposit in Norway,story,https://www.euractiv.com/section/energy-environment/news/great-news-eu-hails-discovery-of-massive-phosphate-rock-deposit-in-norway/,,euractiv.com
-stl_fan,115,38526745,129,1701746775,When Google Fiber abandons your city as a failed experiment (2019),story,https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198,,gizmodo.com
+stl_fan,115,38526745,130,1701746775,When Google Fiber abandons your city as a failed experiment (2019),story,https://gizmodo.com/when-google-fiber-abandons-your-city-as-a-failed-experi-1833244198,,gizmodo.com
+r721,4,38548569,16,1701891983,"Reuters has temporarily removed article ""How an Indian startup hacked the world""",story,https://www.reuters.com/investigates/special-report/usa-hackers-appin/,,reuters.com
 PaulHoule,0,38530978,11,1701785754,Team discovers rules for breaking into Pseudomonas,story,https://phys.org/news/2023-11-team-pseudomonas.html,,phys.org
 ramboldio,87,38531621,70,1701788258,BMW EV achieves 1000km in range using Dual-Chemistry batteries,story,https://www.forbes.com/sites/samabuelsamid/2023/11/30/our-next-energy-dual-chemistry-battery-achieves-over-600-mile-range/,,forbes.com
-0xpgm,7,38529930,27,1701779029,Notes on Python to Go Translation of reposurgeon (2018),story,https://gitlab.com/esr/reposurgeon/-/blob/1bfa90ff8c8c7ae7e409e2de9e5f24da57e364f2/GoNotes.adoc,,gitlab.com
-room271,2,38516381,11,1701692462,'Wobbly spacetime' may help resolve contradictory physics theories,story,https://www.theguardian.com/science/2023/dec/04/wobbly-spacetime-may-resolve-contradictory-physics-theories,,theguardian.com
