@@ -1,9 +1,9 @@
 by,descendants,id,score,time,title,type,url,text,domain
-aragonite,2,38809642,38,1703880778,Most favorited articles by the top 10k most active HN members (2020),story,https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis,,observablehq.com
-hyperific,87,38794625,332,1703778737,Particle Life,story,https://github.com/hunar4321/particle-life,,github.com
-Brajeshwar,17,38805830,80,1703863092,Derinkuyu: Mysterious underground city in Turkey found in man's basement,story,https://bigthink.com/strange-maps/derinkuyu-underground-city/,,bigthink.com
-rntn,192,38805779,282,1703862802,Every major pharmacy chain giving government warrantless medical record access,story,https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/,,techdirt.com
-Jimmc414,12,38807531,46,1703870398,"Chemicals of ""Concern"" Found in Philips Breathing Machines",story,https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern,,propublica.org
+aragonite,5,38809642,57,1703880778,Most favorited articles by the top 10k most active HN members (2020),story,https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis,,observablehq.com
+hyperific,87,38794625,333,1703778737,Particle Life,story,https://github.com/hunar4321/particle-life,,github.com
+Brajeshwar,20,38805830,84,1703863092,Derinkuyu: Mysterious underground city in Turkey found in man's basement,story,https://bigthink.com/strange-maps/derinkuyu-underground-city/,,bigthink.com
+rntn,197,38805779,293,1703862802,Every major pharmacy chain giving government warrantless medical record access,story,https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/,,techdirt.com
+Jimmc414,12,38807531,48,1703870398,"Chemicals of ""Concern"" Found in Philips Breathing Machines",story,https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern,,propublica.org
 anaoum,27,38800438,44,1703809707,Sticking to 8192 signatures per slot post-SSF: how and why,story,https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989,,ethresear.ch
 taubek,98,38782636,178,1703689554,Scientists discover new antibiotics using AI,story,https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai,,euronews.com
 gostsamo,11,38779900,22,1703662867,Discovering Malmesbury's 'gangster' medieval monk,story,https://www.bbc.com/news/uk-england-wiltshire-67707973,,bbc.com
@@ -12,7 +12,7 @@ pabs3,63,38789332,129,1703730823,Book list for streetfighting computer scientist
 rntn,1,38797914,23,1703793701,Rock-bottom prices drive shortages of generic drugs used in hospitals,story,https://text.npr.org/1221603375,,text.npr.org
 gdubs,15,38788419,19,1703721912,SageBrush: AI Painter – the simplest way to create with AI,story,https://www.apposite.ai/sagebrush-ai-painter-the-simplest-way-to-create-with-ai.html,,apposite.ai
 rbanffy,1,38776404,26,1703627073,Discover Bpython: A Python REPL with IDE-Like Features – Real Python,story,https://realpython.com/bpython-alternative-python-repl/,,realpython.com
-jope12,87,38799778,41,1703804116,An artist fights Midjourney,story,https://garymarcus.substack.com/p/an-artist-fights-back-and-midjourney,,garymarcus.substack.com
+jope12,88,38799778,41,1703804116,An artist fights Midjourney,story,https://garymarcus.substack.com/p/an-artist-fights-back-and-midjourney,,garymarcus.substack.com
 rntn,82,38784194,45,1703697969,"NYT sues OpenAI, Microsoft over 'millions of articles' used to train ChatGPT",story,https://www.theregister.com/2023/12/27/the_new_york_times_files/,,theregister.com
 andyjohnson0,17,38782071,50,1703686495,Physics Girl: health update #2,story,https://www.youtube.com/watch?v=xbcjf-hrOAs,,youtube.com
 thenaturalist,44,38781535,113,1703682196,TU Berlin Scientists Hack Tesla Autopilot and Discover Secret Elon-Mode,story,https://t3n.de/news/tesla-autopilot-hack-geheimer-elon-modus-1598800/,,t3n.de
