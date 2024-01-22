@@ -1,15 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Jimmc414,26,39090959,51,1705939501,Harvard Teaching Hospital Seeks Retraction of 6 Papers by Top Researchers,story,https://www.wsj.com/health/dana-farber-harvard-retractions-corrections-ceo-laurie-glimcher-935636f5,,wsj.com
-conaclos,19,39089508,51,1705931528,BiomeJS 2024 Roadmap,story,https://biomejs.dev/blog/roadmap-2024/,,biomejs.dev
-Anon84,7,39092633,61,1705945615,Cervical Cancer incidence drops 65% in women who benefited from HPV vaccine,story,https://www.nbcnews.com/health/womens-health/hpv-vaccine-cervical-cancer-rising-women-research-rcna134224,,nbcnews.com
-ink404,650,39058428,575,1705686125,Nightshade: An offensive tool for artists against AI art generators,story,https://nightshade.cs.uchicago.edu/whatis.html,,nightshade.cs.uchicago.edu
+Jimmc414,30,39090959,55,1705939501,Harvard Teaching Hospital Seeks Retraction of 6 Papers by Top Researchers,story,https://www.wsj.com/health/dana-farber-harvard-retractions-corrections-ceo-laurie-glimcher-935636f5,,wsj.com
+conaclos,19,39089508,55,1705931528,BiomeJS 2024 Roadmap,story,https://biomejs.dev/blog/roadmap-2024/,,biomejs.dev
+PaulHoule,1,39094064,11,1705951220,"Chronic inflammation may be a ""disease of affluence""",story,https://bigthink.com/health/inflammation-is-malfunctioning/,,bigthink.com
+Anon84,11,39092633,67,1705945615,Cervical Cancer incidence drops 65% in women who benefited from HPV vaccine,story,https://www.nbcnews.com/health/womens-health/hpv-vaccine-cervical-cancer-rising-women-research-rcna134224,,nbcnews.com
+ink404,653,39058428,576,1705686125,Nightshade: An offensive tool for artists against AI art generators,story,https://nightshade.cs.uchicago.edu/whatis.html,,nightshade.cs.uchicago.edu
 birriel,51,39084146,277,1705879784,Scientists tame chaotic protein fueling 75% of cancers,story,https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html,,phys.org
-wglb,1,39063881,72,1705715767,"Study discovers short, toxic RNAs kill brain cells allows Alzheimer's to develop",story,https://medicalxpress.com/news/2024-01-short-toxic-rnas-brain-cells.html,,medicalxpress.com
+wglb,1,39063881,73,1705715767,"Study discovers short, toxic RNAs kill brain cells allows Alzheimer's to develop",story,https://medicalxpress.com/news/2024-01-short-toxic-rnas-brain-cells.html,,medicalxpress.com
 wglb,23,39063865,102,1705715605,"Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BCE",story,https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html,,phys.org
-prmph,145,39078061,208,1705842071,Some fish live beyond 100 and get healthier as they age,story,https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery,,nationalgeographic.com
+prmph,147,39078061,208,1705842071,Some fish live beyond 100 and get healthier as they age,story,https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery,,nationalgeographic.com
 nithinj,40,39084983,102,1705886852,Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg,story,https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107,,unilad.com
 amarant,287,39057502,475,1705682660,Thailand discovers nearly 15M tonnes of lithium,story,https://www.malaymail.com/news/money/2024/01/19/thailand-discovers-nearly-15-million-tonnes-of-lithium/113414,,malaymail.com
-voisin,89,39089488,53,1705931423,Canada's population is booming – access to family doctors hasn't kept pace,story,https://www.cbc.ca/news/politics/canada-popuation-booming-family-doctor-access-1.7087794,,cbc.ca
+voisin,90,39089488,55,1705931423,Canada's population is booming – access to family doctors hasn't kept pace,story,https://www.cbc.ca/news/politics/canada-popuation-booming-family-doctor-access-1.7087794,,cbc.ca
 LinuxBender,5,39080158,39,1705856046,Big Pharma hiked the price of 775 drugs this year so far: Report,story,https://arstechnica.com/science/2024/01/775-brand-name-drugs-saw-price-hikes-this-year-so-far-report/,,arstechnica.com
 gmays,25,39075304,49,1705808421,Potential Microbiome Links to Skin Aging,story,https://today.ucsd.edu/story/researchers-discover-potential-microbiome-links-to-skin-aging,,today.ucsd.edu
 mfld,0,39055625,33,1705673533,Potential culprit of Long Covid identified: The immune defense complement system,story,https://www.science.org/doi/10.1126/science.adn1077,,science.org
@@ -22,5 +23,3 @@ rawgabbit,0,39060027,19,1705693045,"In this Oklahoma town, almost everyone knows
 geox,53,39061000,50,1705697673,A pair of DeepMind scientists talking with investors about forming an AI startup,story,https://www.bloomberg.com/news/articles/2024-01-19/google-deepmind-ai-scientists-in-talks-to-leave-for-french-stealth-startup,,bloomberg.com
 jrflowers,4,39051812,18,1705641281,California health officials shorten Covid isolation period to 1 day,story,https://ktla.com/news/california/california-health-officials-announce-shorter-covid-isolation-guidelines/amp/,,ktla.com
 kbn,26,39064318,44,1705720612,"""Sugar Alcohols Ruined My Health: Learn from My Mistakes"" [video]",story,https://www.youtube.com/watch?v=K5v61YtDYo4,,youtube.com
-Brajeshwar,8,39056824,29,1705679282,Venture capital firm General Catalyst to buy Ohio health system Summa Health,story,https://www.axios.com/2024/01/17/summa-health-ohio-general-catalyst?stream=top,,axios.com
-pseudolus,4,39056683,15,1705678328,Scientists may have the key to treating tinnitus: Retrain the brain,story,https://www.washingtonpost.com/wellness/interactive/2024/tinnitus-treatment-lenire-bimodal-neuromodulation-duo/,,washingtonpost.com
