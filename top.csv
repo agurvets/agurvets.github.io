@@ -1,9 +1,10 @@
 by,descendants,id,score,time,title,type,url,text,domain
-gumby,10,39116387,77,1706098598,Can autoimmune diseases be cured? Scientists see hope at last,story,https://www.nature.com/articles/d41586-024-00169-7,,nature.com
-PaulHoule,27,39118988,45,1706112381,Experimental use of pig liver to filter blood offers hope for patients,story,https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants,,theguardian.com
-mikhael,224,39106464,440,1706030794,Gene therapy allows an 11-year-old boy to hear,story,https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html,,nytimes.com
-rossdavidh,107,39117525,206,1706105487,Scientific journal publishers and editors say they are being offered bribes,story,https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record,,science.org
-wjSgoWPm5bWAhXB,3,39119655,18,1706115620,Artificial spider gland spins scalable spider silk just like nature,story,https://newatlas.com/materials/artificial-gland-spins-spider-silk-rapidly-repeatedly/,,newatlas.com
+wglb,2,39112602,13,1706060730,Physics of 300-year-old firefighting methods could inform how our hearts work,story,https://phys.org/news/2024-01-physics-year-firefighting-methods-knowledge.html,,phys.org
+gumby,20,39116387,103,1706098598,Can autoimmune diseases be cured? Scientists see hope at last,story,https://www.nature.com/articles/d41586-024-00169-7,,nature.com
+mikhael,228,39106464,445,1706030794,Gene therapy allows an 11-year-old boy to hear,story,https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html,,nytimes.com
+PaulHoule,28,39118988,45,1706112381,Experimental use of pig liver to filter blood offers hope for patients,story,https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants,,theguardian.com
+rossdavidh,109,39117525,209,1706105487,Scientific journal publishers and editors say they are being offered bribes,story,https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record,,science.org
+wjSgoWPm5bWAhXB,3,39119655,20,1706115620,Artificial spider gland spins scalable spider silk just like nature,story,https://newatlas.com/materials/artificial-gland-spins-spider-silk-rapidly-repeatedly/,,newatlas.com
 Thevet,12,39100406,21,1705993538,The Rebel’s Clinic: A biography of Frantz Fanon,story,https://www.washingtonpost.com/books/2024/01/19/rebels-clinic-frantz-fanon-biography-adam-shatz-review/,,washingtonpost.com
 gumby,134,39098603,283,1705975546,"Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory",story,https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html,,nytimes.com
 fuzztester,33,39100151,98,1705990412,"Nicholas Saunders and ""Alternative London"" changed British food",story,https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food,,theguardian.com
@@ -13,8 +14,8 @@ PaulHoule,81,39109811,67,1706043899,"Oxxcu, converting CO₂ into fuels, chemica
 wglb,125,39098253,137,1705973240,Scientists report asymmetry between heating and cooling,story,https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html,,phys.org
 runnr_az,13,39110288,20,1706046032,Oreo Cookie Treatment Lowers LDL Cholesterol More Than High-Intensity Statins,story,https://www.mdpi.com/2218-1989/14/1/73,,mdpi.com
 clouddrover,1,39099485,19,1705982387,CDC now encouraging doctors to consider more blood testing for forever chemicals,story,https://abcnews.go.com/Health/cdc-now-encouraging-doctors-blood-testing-forever-chemicals/story?id=106485712,,abcnews.go.com
-w-m,4,39111043,14,1706050004,When U.S. Air Force discovered the flaw of averages,story,https://www.thestar.com/news/insight/when-u-s-air-force-discovered-the-flaw-of-averages/article_e3231734-e5da-5bf5-9496-a34e52d60bd9.html,,thestar.com
 Anon84,47,39092633,112,1705945615,Cervical Cancer incidence drops 65% in women who benefited from HPV vaccine,story,https://www.nbcnews.com/health/womens-health/hpv-vaccine-cervical-cancer-rising-women-research-rcna134224,,nbcnews.com
+w-m,4,39111043,14,1706050004,When U.S. Air Force discovered the flaw of averages,story,https://www.thestar.com/news/insight/when-u-s-air-force-discovered-the-flaw-of-averages/article_e3231734-e5da-5bf5-9496-a34e52d60bd9.html,,thestar.com
 madars,24,39095865,63,1705959655,Google News searches ranked AI-generated ripoffs above real articles,story,https://nypost.com/2024/01/22/business/google-news-searches-ranked-ai-generated-ripoffs-above-real-articles-including-a-post-exclusive/,,nypost.com
 PaulHoule,49,39094064,50,1705951220,"Chronic inflammation may be a ""disease of affluence""",story,https://bigthink.com/health/inflammation-is-malfunctioning/,,bigthink.com
 belter,9,39097031,38,1705965893,Top Harvard Cancer researchers accused of scientific fraud; 37 studies affected,story,https://arstechnica.com/science/2024/01/top-harvard-cancer-researchers-accused-of-scientific-fraud-37-studies-affected/,,arstechnica.com
