@@ -1,18 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Brajeshwar,0,39315448,11,1707490898,Scientists Find Optimal Balance of Data Storage and Time,story,https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/,,quantamagazine.org
-irsagent,53,39305931,219,1707418357,Physics for Mathematicians – Introduction,story,https://nicf.net/articles/physics-for-mathematicians/,,nicf.net
-sebg,53,39307394,136,1707424901,How to (seriously) read a scientific paper (2016),story,https://www.science.org/content/article/how-seriously-read-scientific-paper,,science.org
-WhyUVoteGarbage,34,39309534,103,1707436852,"AI cannot be used to deny health care coverage, feds clarify to insurers",story,https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/,,arstechnica.com
-marban,266,39286609,206,1707300058,"My experiment in phonelessness was a failure, and it also changed my life",story,https://www.theguardian.com/lifeandstyle/2024/feb/05/phone-screentime-detox-reflection,,theguardian.com
+Brajeshwar,5,39315448,52,1707490898,Scientists find optimal space-time balance for hash tables,story,https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/,,quantamagazine.org
+irsagent,56,39305931,220,1707418357,Physics for Mathematicians – Introduction,story,https://nicf.net/articles/physics-for-mathematicians/,,nicf.net
+sebg,55,39307394,137,1707424901,How to (seriously) read a scientific paper (2016),story,https://www.science.org/content/article/how-seriously-read-scientific-paper,,science.org
+WhyUVoteGarbage,36,39309534,106,1707436852,"AI cannot be used to deny health care coverage, feds clarify to insurers",story,https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/,,arstechnica.com
+marban,267,39286609,207,1707300058,"My experiment in phonelessness was a failure, and it also changed my life",story,https://www.theguardian.com/lifeandstyle/2024/feb/05/phone-screentime-detox-reflection,,theguardian.com
 pseudolus,1,39310164,17,1707441279,Scientists Find Optimal Balance of Data Storage and Time,story,https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/,,quantamagazine.org
-ceejayoz,53,39317424,56,1707499176,FAA says 737 MAX operator discovered loose bolts in rudder system in December,story,https://thehill.com/regulation/transportation/4458220-faa-says-737-max-operator-discovered-loose-bolts-in-rudder-control-system-on-plane/,,thehill.com
-geox,179,39303537,95,1707408186,A seafood firm wants to farm octopus. Activists say they're too smart for that,story,https://www.npr.org/2024/02/07/1229233837/octopus-farm-spain-controversy,,npr.org
-Anon84,157,39281178,802,1707256226,SQL for data scientists in 100 queries,story,https://gvwilson.github.io/sql-tutorial/,,gvwilson.github.io
-isaacfrond,141,39315367,93,1707490386,Jury awards climate scientist Michael Mann $1M in defamation lawsuit,story,https://apnews.com/article/climate-change-defamation-michael-mann-penn-state-61289ee2d8d2143768d28995c83899ef,,apnews.com
+geox,183,39303537,95,1707408186,A seafood firm wants to farm octopus. Activists say they're too smart for that,story,https://www.npr.org/2024/02/07/1229233837/octopus-farm-spain-controversy,,npr.org
+ceejayoz,59,39317424,60,1707499176,FAA says 737 MAX operator discovered loose bolts in rudder system in December,story,https://thehill.com/regulation/transportation/4458220-faa-says-737-max-operator-discovered-loose-bolts-in-rudder-control-system-on-plane/,,thehill.com
+Anon84,157,39281178,803,1707256226,SQL for data scientists in 100 queries,story,https://gvwilson.github.io/sql-tutorial/,,gvwilson.github.io
+isaacfrond,143,39315367,95,1707490386,Jury awards climate scientist Michael Mann $1M in defamation lawsuit,story,https://apnews.com/article/climate-change-defamation-michael-mann-penn-state-61289ee2d8d2143768d28995c83899ef,,apnews.com
 wglb,96,39296905,108,1707357408,Novel drug could protect brains from damage after repeat concussions,story,https://medicalxpress.com/news/2024-02-drug-brains-concussions.html,,medicalxpress.com
-apapapa,1,39309073,14,1707433814,Senators ask CEOs why their drugs cost so much more in the U.S.,story,https://www.npr.org/sections/health-shots/2024/02/08/1230174586/high-us-drug-prices,,npr.org
+apapapa,1,39309073,15,1707433814,Senators ask CEOs why their drugs cost so much more in the U.S.,story,https://www.npr.org/sections/health-shots/2024/02/08/1230174586/high-us-drug-prices,,npr.org
 cpncrunch,196,39277299,189,1707240177,"Cannabis use linked to anxiety diagnoses, worsened anxiety disorders",story,https://globalnews.ca/news/10275463/cannabis-anxiety-ontario-study/,,globalnews.ca
-rokkitmensch,13,39290760,32,1707324273,Common food preservative has unexpected effects on the gut microbiome,story,https://www.eurekalert.org/news-releases/1033327,,eurekalert.org
 dist-epoch,174,39277990,282,1707242852,Three million malware-infected smart toothbrushes used in Swiss DDoS attacks,story,https://www.tomshardware.com/networking/three-million-malware-infected-smart-toothbrushes-used-in-swiss-ddos-attacks-botnet-causes-millions-of-euros-in-damages,,tomshardware.com
-cdme,90,39290900,118,1707324870,Woman Got Cremation Ads in the Mail After Getting Chemotherapy,story,https://www.404media.co/woman-got-cremation-ads-in-the-mail-after-getting-chemotherapy/,,404media.co
+rokkitmensch,13,39290760,32,1707324273,Common food preservative has unexpected effects on the gut microbiome,story,https://www.eurekalert.org/news-releases/1033327,,eurekalert.org
+cdme,90,39290900,119,1707324870,Woman Got Cremation Ads in the Mail After Getting Chemotherapy,story,https://www.404media.co/woman-got-cremation-ads-in-the-mail-after-getting-chemotherapy/,,404media.co
 mfiguiere,57,39279113,43,1707246999,Amazon is chopping jobs at its One Medical and Pharmacy units,story,https://www.businessinsider.com/amazon-one-medical-pharmacy-layoffs-broader-cost-cutting-campaign-2024-2,,businessinsider.com
