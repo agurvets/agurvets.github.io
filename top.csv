@@ -1,7 +1,10 @@
 by,descendants,id,score,time,title,type,url,text,domain
-ulrischa,12,39413339,50,1708202368,Hitchhiking cancer vaccine makes progress in the clinic,story,https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215,,news.mit.edu
-danigrb,1,39411380,27,1708190696,"Experimenting with GPTs custom actions, an example written in Rust",story,https://danielegarbagnati.com/articles/neuro-rs,,danielegarbagnati.com
-sizzle,107,39385683,153,1708018913,Fitness trackers find new symptom of depression: body temperature,story,https://www.sacbee.com/news/nation-world/national/article285256032.html,,sacbee.com
+CharlesW,13,39416412,24,1708233230,Jeffrey Katzenberg Says A.I. Will Eliminate 90% of Artist Jobs on Animated Films,story,https://www.indiewire.com/news/business/jeffrey-katzenberg-ai-will-take-90-percent-animation-jobs-1234924809/,,indiewire.com
+blackzetsu,39,39413991,14,1708207666,Why Are People Unhealthy?,story,https://obito.blog/2024/02/17/501/,,obito.blog
+pseudolus,1,39391934,12,1708047179,Unfolding the Mysteries of Polygonal Billiards,story,https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/,,quantamagazine.org
+ulrischa,13,39413339,52,1708202368,Hitchhiking cancer vaccine makes progress in the clinic,story,https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215,,news.mit.edu
+danigrb,1,39411380,28,1708190696,"Experimenting with GPTs custom actions, an example written in Rust",story,https://danielegarbagnati.com/articles/neuro-rs,,danielegarbagnati.com
+sizzle,107,39385683,154,1708018913,Fitness trackers find new symptom of depression: body temperature,story,https://www.sacbee.com/news/nation-world/national/article285256032.html,,sacbee.com
 Brajeshwar,126,39397961,227,1708095849,$5 device tests for breast cancer in under 5 seconds: study,story,https://studyfinds.org/device-breast-cancer-5-seconds/,,studyfinds.org
 throwoutway,76,39378402,127,1707963876,Nobel Prize winner Gregg Semenza tallies tenth retraction (2023),story,https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/,,retractionwatch.com
 dragonbonheur,181,39369040,157,1707913497,What made Earth a giant snowball 700M years ago? Scientists have an answer,story,https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html,,sydney.edu.au
