@@ -1,7 +1,7 @@
 by,descendants,id,score,time,title,type,url,text,domain
-scrlk,45,39418283,254,1708256703,CorsixTH: Open-source clone of Theme Hospital,story,https://github.com/CorsixTH/CorsixTH,,github.com
-toomuchtodo,1,39424527,32,1708298127,FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering,story,https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against,,ftc.gov
-ulrischa,16,39413339,59,1708202368,Hitchhiking cancer vaccine makes progress in the clinic,story,https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215,,news.mit.edu
+toomuchtodo,5,39424527,62,1708298127,FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering,story,https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against,,ftc.gov
+scrlk,46,39418283,257,1708256703,CorsixTH: Open-source clone of Theme Hospital,story,https://github.com/CorsixTH/CorsixTH,,github.com
+ulrischa,16,39413339,60,1708202368,Hitchhiking cancer vaccine makes progress in the clinic,story,https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215,,news.mit.edu
 pseudolus,1,39391934,16,1708047179,Unfolding the Mysteries of Polygonal Billiards,story,https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/,,quantamagazine.org
 danigrb,3,39411380,30,1708190696,"Experimenting with GPTs custom actions, an example written in Rust",story,https://danielegarbagnati.com/articles/neuro-rs,,danielegarbagnati.com
 sizzle,108,39385683,156,1708018913,Fitness trackers find new symptom of depression: body temperature,story,https://www.sacbee.com/news/nation-world/national/article285256032.html,,sacbee.com
@@ -12,5 +12,5 @@ silverkite,21,39397338,16,1708093166,Scientists Resort to Once-Unthinkable Solut
 kristianp,64,39391034,70,1708041366,Scientists aghast at AI rat with genitals in peer-reviewed article,story,https://arstechnica.com/science/2024/02/scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article/,,arstechnica.com
 Kaibeezy,0,39404207,11,1708124642,Prominent astrophysics library is set to close,story,https://pubs.aip.org/physicstoday/online/43162,,pubs.aip.org
 cdme,17,39391750,20,1708045828,Instacart Is Now Using AI for Food Pics. It's Incredibly Unappetizing,story,https://www.businessinsider.com/instacart-ai-art-recipes-photos-2024-1,,businessinsider.com
-blackzetsu,45,39413991,15,1708207666,Why Are People Unhealthy?,story,https://obito.blog/2024/02/17/501/,,obito.blog
+blackzetsu,46,39413991,15,1708207666,Why Are People Unhealthy?,story,https://obito.blog/2024/02/17/501/,,obito.blog
 gmays,159,39397817,70,1708095243,Smoking has long-term effects on the immune system,story,https://www.pasteur.fr/en/home/press-area/press-documents/smoking-has-long-term-effects-immune-system,,pasteur.fr
