@@ -1,20 +1,20 @@
 by,descendants,id,score,time,title,type,url,text,domain
-moose44,5,39542567,22,1709149047,90% of tattoo ink contains chemicals that can cause organ damage,story,https://pubs.acs.org/doi/10.1021/acs.analchem.3c05687#,,pubs.acs.org
-Teever,25,39539865,124,1709136721,Man in remission from blood cancer and HIV after remarkable treatment,story,https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment,,theguardian.com
-koqoo,2,39539143,16,1709133992,Two Chinese Supercomputers (With Mystery Hardware Components) Go Online,story,https://www.oodaloop.com/archive/2024/02/27/two-chinese-supercomputers-with-mystery-hardware-components-go-online/,,oodaloop.com
-excsn,73,39519894,329,1709005142,Rapier is a set of 2D and 3D physics engines written in Rust,story,https://rapier.rs/docs/,,rapier.rs
-moose_man,214,39530487,493,1709070401,U.S. opens UnitedHealth antitrust probe,story,https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2,,wsj.com
-thunderbong,0,39527439,13,1709057778,Rapier: Fast 2D and 3D physics engines written in Rust,story,https://rapier.rs/,,rapier.rs
-jelliclesfarm,7,39530766,31,1709071550,"U.S. Kale Contains ""Disturbing"" Amounts of ""Forever Chemicals,"" Research Finds",story,https://www.greenmatters.com/health-and-wellness/pfas-kale,,greenmatters.com
+Teever,44,39539865,160,1709136721,Man in remission from blood cancer and HIV after remarkable treatment,story,https://www.theguardian.com/us-news/2024/feb/28/blood-cancer-hiv-treatment,,theguardian.com
+koqoo,2,39539143,21,1709133992,Two Chinese Supercomputers (With Mystery Hardware Components) Go Online,story,https://www.oodaloop.com/archive/2024/02/27/two-chinese-supercomputers-with-mystery-hardware-components-go-online/,,oodaloop.com
+moose44,43,39542567,52,1709149047,90% of tattoo ink contains chemicals that can cause organ damage,story,https://pubs.acs.org/doi/10.1021/acs.analchem.3c05687#,,pubs.acs.org
+excsn,73,39519894,331,1709005142,Rapier is a set of 2D and 3D physics engines written in Rust,story,https://rapier.rs/docs/,,rapier.rs
+moose_man,219,39530487,498,1709070401,U.S. opens UnitedHealth antitrust probe,story,https://www.wsj.com/health/healthcare/u-s-launches-antitrust-investigation-of-healthcare-giant-unitedhealth-ff5a00d2,,wsj.com
+thunderbong,0,39527439,14,1709057778,Rapier: Fast 2D and 3D physics engines written in Rust,story,https://rapier.rs/,,rapier.rs
+jelliclesfarm,7,39530766,32,1709071550,"U.S. Kale Contains ""Disturbing"" Amounts of ""Forever Chemicals,"" Research Finds",story,https://www.greenmatters.com/health-and-wellness/pfas-kale,,greenmatters.com
 ibobev,21,39515478,188,1708974139,"On light, colors, mixing paints, and numerical optimization",story,https://github.com/miciwan/PaintMixing,,github.com
 wglb,37,39515007,114,1708972085,A new phase of matter: Physicists show non-Abelian anyons in quantum processor,story,https://phys.org/news/2024-02-phase-physicists-abelian-anyons-quantum.html,,phys.org
-ZeidJ,19,39529927,24,1709067891,Resurrecting loved ones as AI 'ghosts' could harm your mental health,story,https://www.newscientist.com/article/2416079-resurrecting-loved-ones-as-ai-ghosts-could-harm-your-mental-health/,,newscientist.com
-Brajeshwar,186,39522798,244,1709033237,Rainwater everywhere on the planet is unsafe to drink due to chemicals (2022),story,https://phys.org/news/2022-08-rainwater-unsafe-due-chemicals.html,,phys.org
+ZeidJ,19,39529927,25,1709067891,Resurrecting loved ones as AI 'ghosts' could harm your mental health,story,https://www.newscientist.com/article/2416079-resurrecting-loved-ones-as-ai-ghosts-could-harm-your-mental-health/,,newscientist.com
+Brajeshwar,187,39522798,245,1709033237,Rainwater everywhere on the planet is unsafe to drink due to chemicals (2022),story,https://phys.org/news/2022-08-rainwater-unsafe-due-chemicals.html,,phys.org
 verve_rat,385,39516927,478,1708982718,New York medical school eliminates tuition after $1B gift,story,https://www.bbc.com/news/world-us-canada-68407453,,bbc.com
 Cyclical,23,39532319,21,1709080402,Wendy's will experiment with dynamic surge pricing for food in 2025,story,https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/,,arstechnica.com
 paulpauper,35,39514464,25,1708969827,Wendy's Bold Move: Dynamic Pricing Strategy Set to Transform Fast-Food Industry,story,https://bnnbreaking.com/world/us/wendys-bold-move-dynamic-pricing-strategy-set-to-transform-fast-food-industry,,bnnbreaking.com
-Brajeshwar,2,39522803,26,1709033270,"More women may be psychopaths than previously thought, says expert",story,https://www.theguardian.com/society/2024/feb/26/more-women-may-be-psychopaths-than-previously-thought-says-expert,,theguardian.com
-LinuxBender,72,39538533,25,1709131249,Wendy's will experiment with dynamic surge pricing for food in 2025,story,https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/,,arstechnica.com
-Geekette,82,39537104,25,1709124156,"46yr-old man claims to have a teen's body, wants to build nation of immortals",story,https://www.theatlantic.com/technology/archive/2024/02/bryan-johnson-dont-die-event/677535/,,theatlantic.com
+Brajeshwar,2,39522803,27,1709033270,"More women may be psychopaths than previously thought, says expert",story,https://www.theguardian.com/society/2024/feb/26/more-women-may-be-psychopaths-than-previously-thought-says-expert,,theguardian.com
 geox,4,39526781,22,1709054926,Albert Einstein College of Medicine goes tuition-free thanks to a $1B gift,story,https://apnews.com/article/free-medical-school-tuition-einstein-new-york-c43d8184d704d3e40328c6f97d330adb,,apnews.com
+LinuxBender,75,39538533,26,1709131249,Wendy's will experiment with dynamic surge pricing for food in 2025,story,https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/,,arstechnica.com
+Geekette,82,39537104,25,1709124156,"46yr-old man claims to have a teen's body, wants to build nation of immortals",story,https://www.theatlantic.com/technology/archive/2024/02/bryan-johnson-dont-die-event/677535/,,theatlantic.com
 prmph,1,39512938,11,1708963826,"More women may be psychopaths than previously thought, says expert",story,https://www.theguardian.com/society/2024/feb/26/more-women-may-be-psychopaths-than-previously-thought-says-expert,,theguardian.com
