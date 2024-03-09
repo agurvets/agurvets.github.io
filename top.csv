@@ -1,9 +1,9 @@
 by,descendants,id,score,time,title,type,url,text,domain
-bryanrasmussen,29,39651876,36,1709995400,"""I Miss My Liver."" Nonmedical Sources in the History of Hepatocentrism",story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/,,ncbi.nlm.nih.gov
-beefman,21,39653125,65,1710004784,FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder,story,https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder,,businesswire.com
-kurthr,52,39652667,59,1710001251,An ALS Drug Fails. Again,story,https://www.science.org/content/blog-post/als-drug-fails-again,,science.org
-The-Old-Hacker,5,39628608,34,1709816971,"Earliest forest discovered, scientists say",story,https://www.bbc.co.uk/news/science-environment-68500649,,bbc.co.uk
-dgellow,38,39639944,94,1709895819,Plasticity: CAD for Artists,story,https://www.plasticity.xyz/,,plasticity.xyz
+beefman,33,39653125,80,1710004784,FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder,story,https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder,,businesswire.com
+kurthr,64,39652667,69,1710001251,An ALS Drug Fails. Again,story,https://www.science.org/content/blog-post/als-drug-fails-again,,science.org
+bryanrasmussen,35,39651876,37,1709995400,"""I Miss My Liver."" Nonmedical Sources in the History of Hepatocentrism",story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/,,ncbi.nlm.nih.gov
+The-Old-Hacker,5,39628608,37,1709816971,"Earliest forest discovered, scientists say",story,https://www.bbc.co.uk/news/science-environment-68500649,,bbc.co.uk
+dgellow,38,39639944,95,1709895819,Plasticity: CAD for Artists,story,https://www.plasticity.xyz/,,plasticity.xyz
 PaulHoule,66,39647681,124,1709939625,A simple dice game shines a bit of light on the psychology of regret,story,https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/,,thereader.mitpress.mit.edu
 gnicholas,330,39642851,148,1709916271,More doctors are charging fees to respond to patient messages,story,https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32,,wsj.com
 rntn,93,39642135,144,1709912794,Superconductivity scandal: the story of deception in a physics lab,story,https://www.nature.com/articles/d41586-024-00716-2,,nature.com
@@ -16,10 +16,10 @@ Brajeshwar,176,39617130,161,1709739859,World War II 'rumor clinics' helped Ameri
 ibobev,17,39628386,53,1709815468,Landmark study links microplastics to serious health problems,story,https://www.nature.com/articles/d41586-024-00650-3,,nature.com
 todsacerdoti,159,39610846,146,1709685129,BlackCat ransomware group implodes after apparent payment by Change Healthcare,story,https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/,,krebsonsecurity.com
 rbanffy,20,39614185,37,1709718825,"Visual Studio 2022 – 17.10 Preview 1: Productivity, Debugging, Diagnostics",story,https://www.infoq.com/news/2024/03/visual-studio-1710-preview-1/,,infoq.com
-mauvehaus,3,39651357,20,1709989419,Tank Museum in U.K. Playing Big Role in Keeping Ukraine's Armor on Track,story,https://www.twz.com/news-features/little-tank-museum-in-u-k-playing-big-role-in-keeping-ukraines-armor-on-track,,twz.com
 pseudolus,1,39632172,16,1709834015,Tracking ads industry faces another body blow in the EU,story,https://techcrunch.com/2024/03/07/iab-tcf-cjeu/,,techcrunch.com
+mauvehaus,3,39651357,20,1709989419,Tank Museum in U.K. Playing Big Role in Keeping Ukraine's Armor on Track,story,https://www.twz.com/news-features/little-tank-museum-in-u-k-playing-big-role-in-keeping-ukraines-armor-on-track,,twz.com
 Johnie,23,39645575,41,1709927812,Psychedelic news: The government fast-tracked LSD as an anxiety treatment,story,https://www.fastcompany.com/91050854/government-fast-tracked-lsd-as-anxiety-treatment-as-psychedelics-psilocybin-mdma-near-breakthrough,,fastcompany.com
 floobertoober,46,39625594,77,1709792074,On the Double-Slit Experiment and Quantum Interference in the Wolfram Model (2020),story,https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/,,wolframphysics.org
 geox,4,39635827,18,1709853471,Infant health suffered during baby formula shortage,story,https://www.ucdavis.edu/health/news/infant-health-suffered-during-baby-formula-shortage,,ucdavis.edu
-l0b0,261,39624842,374,1709782967,Leadership is a hell of a drug,story,https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/,,ludic.mataroa.blog
 jamapy,71,39616417,88,1709736053,GPS antenna mods make Starlink terminal immune to jammers,story,https://hackaday.com/2024/03/06/gps-antenna-mods-make-starlink-terminal-immune-to-jammers/,,hackaday.com
+l0b0,261,39624842,374,1709782967,Leadership is a hell of a drug,story,https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/,,ludic.mataroa.blog
