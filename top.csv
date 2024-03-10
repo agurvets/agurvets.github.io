@@ -1,17 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-benbreen,16,39654538,54,1710016651,Scientists built their own Stone Age tools to figure out how they were used,story,https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/,,arstechnica.com
-mpweiher,13,39655179,31,1710023022,The Mystery of Sudden Genius,story,https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius,,psychologytoday.com
-bryanrasmussen,47,39651876,46,1709995400,"""I Miss My Liver."" Nonmedical Sources in the History of Hepatocentrism (2018)",story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/,,ncbi.nlm.nih.gov
-kurthr,99,39652667,99,1710001251,"An ALS drug fails, again",story,https://www.science.org/content/blog-post/als-drug-fails-again,,science.org
-The-Old-Hacker,14,39628608,42,1709816971,"Earliest forest discovered, scientists say",story,https://www.bbc.co.uk/news/science-environment-68500649,,bbc.co.uk
-SoKamil,1,39653744,34,1710009217,Rigid Body Physics in Minecraft without mods [video],story,https://www.youtube.com/watch?v=DhCBCudKJTs,,youtube.com
-beefman,51,39653125,113,1710004784,FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder,story,https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder,,businesswire.com
-dgellow,39,39639944,97,1709895819,Plasticity: CAD for Artists,story,https://www.plasticity.xyz/,,plasticity.xyz
-PaulHoule,67,39647681,126,1709939625,A simple dice game shines a bit of light on the psychology of regret,story,https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/,,thereader.mitpress.mit.edu
-gnicholas,333,39642851,148,1709916271,More doctors are charging fees to respond to patient messages,story,https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32,,wsj.com
-rntn,95,39642135,145,1709912794,Superconductivity scandal: the story of deception in a physics lab,story,https://www.nature.com/articles/d41586-024-00716-2,,nature.com
-geox,0,39633813,11,1709841119,Doctors can now watch spinal cord activity during surgery,story,https://news.ucr.edu/articles/2024/03/07/doctors-can-now-watch-spinal-cord-activity-during-surgery,,news.ucr.edu
-gnabgib,63,39637216,91,1709865435,Fasting-mimicking diet causes markers indicating reduced age and disease risk,story,https://www.nature.com/articles/s41467-024-45260-9,,nature.com
+benbreen,36,39654538,75,1710016651,Scientists built their own Stone Age tools to figure out how they were used,story,https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/,,arstechnica.com
+bryanrasmussen,58,39651876,55,1709995400,"""I Miss My Liver."" Nonmedical Sources in the History of Hepatocentrism (2018)",story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/,,ncbi.nlm.nih.gov
+kurthr,105,39652667,113,1710001251,"An ALS drug fails, again",story,https://www.science.org/content/blog-post/als-drug-fails-again,,science.org
+mpweiher,46,39655179,58,1710023022,The Mystery of Sudden Genius,story,https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius,,psychologytoday.com
+SoKamil,1,39653744,40,1710009217,Rigid Body Physics in Minecraft without mods [video],story,https://www.youtube.com/watch?v=DhCBCudKJTs,,youtube.com
+The-Old-Hacker,15,39628608,45,1709816971,"Earliest forest discovered, scientists say",story,https://www.bbc.co.uk/news/science-environment-68500649,,bbc.co.uk
+dgellow,40,39639944,97,1709895819,Plasticity: CAD for Artists,story,https://www.plasticity.xyz/,,plasticity.xyz
+asymmetric,2,39654731,12,1710018388,NIST: Everyday Plastic Products Release Trillions of Microscopic Particles -2022,story,https://www.nist.gov/news-events/news/2022/04/nist-study-shows-everyday-plastic-products-release-trillions-microscopic,,nist.gov
+beefman,61,39653125,116,1710004784,FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder,story,https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder,,businesswire.com
+PaulHoule,68,39647681,127,1709939625,A simple dice game shines a bit of light on the psychology of regret,story,https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/,,thereader.mitpress.mit.edu
+gnicholas,341,39642851,150,1709916271,More doctors are charging fees to respond to patient messages,story,https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32,,wsj.com
+rntn,97,39642135,145,1709912794,Superconductivity scandal: the story of deception in a physics lab,story,https://www.nature.com/articles/d41586-024-00716-2,,nature.com
+geox,0,39633813,12,1709841119,Doctors can now watch spinal cord activity during surgery,story,https://news.ucr.edu/articles/2024/03/07/doctors-can-now-watch-spinal-cord-activity-during-surgery,,news.ucr.edu
+gnabgib,65,39637216,92,1709865435,Fasting-mimicking diet causes markers indicating reduced age and disease risk,story,https://www.nature.com/articles/s41467-024-45260-9,,nature.com
 ibobev,17,39628386,53,1709815468,Landmark study links microplastics to serious health problems,story,https://www.nature.com/articles/d41586-024-00650-3,,nature.com
 pseudolus,1,39632172,16,1709834015,Tracking ads industry faces another body blow in the EU,story,https://techcrunch.com/2024/03/07/iab-tcf-cjeu/,,techcrunch.com
 Johnie,23,39645575,41,1709927812,Psychedelic news: The government fast-tracked LSD as an anxiety treatment,story,https://www.fastcompany.com/91050854/government-fast-tracked-lsd-as-anxiety-treatment-as-psychedelics-psilocybin-mdma-near-breakthrough,,fastcompany.com
