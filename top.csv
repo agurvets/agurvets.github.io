@@ -1,24 +1,29 @@
 by,descendants,id,score,time,title,type,url,text,domain
-leotravis10,9,39674827,34,1710204086,Major medical provider drops patient for not having a Android or iOS device,story,https://mastodon.social/@lrvick/112079059323905912,,mastodon.social
-JumpCrisscross,1,39660104,22,1710085894,Raw Milk Went from a Whole Foods Staple to a Conservative Signal,story,https://www.politico.com/news/magazine/2024/03/10/the-alt-right-rebrand-of-raw-milk-00145625,,politico.com
+kasperset,0,39676030,32,1710215474,No installation required: how WebAssembly is changing scientific computing,story,https://www.nature.com/articles/d41586-024-00725-1,,nature.com
+lawrenceyan,2,39675181,12,1710206938,Nature Conformable to Herself (1992),story,https://www.sfipress.org/4-nature-conformable-to-herself,,sfipress.org
+fortran77,49,39675111,82,1710206297,The new science on what ultra-processed food does to the brain,story,https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827,,wsj.com
+paulpauper,0,39675172,18,1710206852,"High blood sugar, hypertension and obesity can add up to cancer risk",story,https://www.npr.org/sections/health-shots/2024/03/11/1237152025/metabolic-syndrome-cancer-risk-high-blood-sugar-obesity,,npr.org
+leotravis10,18,39674827,67,1710204086,Major medical provider drops patient for not having a Android or iOS device,story,https://mastodon.social/@lrvick/112079059323905912,,mastodon.social
+JumpCrisscross,2,39660104,23,1710085894,Raw Milk Went from a Whole Foods Staple to a Conservative Signal,story,https://www.politico.com/news/magazine/2024/03/10/the-alt-right-rebrand-of-raw-milk-00145625,,politico.com
 benbreen,81,39654538,102,1710016651,Scientists built their own Stone Age tools to figure out how they were used,story,https://arstechnica.com/science/2024/03/these-scientists-built-their-own-stone-age-tools-to-figure-out-how-they-were-used/,,arstechnica.com
-kurthr,128,39652667,134,1710001251,"An ALS drug fails, again",story,https://www.science.org/content/blog-post/als-drug-fails-again,,science.org
-dgellow,43,39639944,102,1709895819,Plasticity: CAD for Artists,story,https://www.plasticity.xyz/,,plasticity.xyz
+kurthr,129,39652667,134,1710001251,"An ALS drug fails, again",story,https://www.science.org/content/blog-post/als-drug-fails-again,,science.org
 bryanrasmussen,65,39651876,61,1709995400,"""I Miss My Liver."" Nonmedical Sources in the History of Hepatocentrism (2018)",story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078213/,,ncbi.nlm.nih.gov
 nkurz,55,39649185,89,1709955112,The 160-year mystery of Europe's Ice Age 'queens',story,https://www.bbc.com/future/article/20240307-the-160-year-mystery-of-the-stone-age-venus-figurines,,bbc.com
-SoKamil,1,39653744,64,1710009217,Rigid Body Physics in Minecraft without mods [video],story,https://www.youtube.com/watch?v=DhCBCudKJTs,,youtube.com
-The-Old-Hacker,17,39628608,53,1709816971,"Earliest forest discovered, scientists say",story,https://www.bbc.co.uk/news/science-environment-68500649,,bbc.co.uk
-luu,51,39637713,54,1709871461,Do we know enough about the safety of quat disinfectants? (2020),story,https://cen.acs.org/safety/consumer-safety/know-enough-safety-quat-disinfectants/98/i30,,cen.acs.org
-jpzk,2,39642968,18,1709916761,Biohacking: Cold Shower Therapy and Ritual,story,https://www.madewithtea.com/posts/cold-shower-therapy-and-ritual/,,madewithtea.com
-geox,0,39633813,13,1709841119,Doctors can now watch spinal cord activity during surgery,story,https://news.ucr.edu/articles/2024/03/07/doctors-can-now-watch-spinal-cord-activity-during-surgery,,news.ucr.edu
+SoKamil,1,39653744,65,1710009217,Rigid Body Physics in Minecraft without mods [video],story,https://www.youtube.com/watch?v=DhCBCudKJTs,,youtube.com
 PaulHoule,68,39647681,131,1709939625,A simple dice game shines a bit of light on the psychology of regret,story,https://thereader.mitpress.mit.edu/how-fear-of-regret-influences-our-decisions/,,thereader.mitpress.mit.edu
-gnicholas,352,39642851,156,1709916271,More doctors are charging fees to respond to patient messages,story,https://www.wsj.com/health/wellness/doctor-medical-bills-email-37005e32,,wsj.com
-rntn,98,39642135,152,1709912794,Superconductivity scandal: the story of deception in a physics lab,story,https://www.nature.com/articles/d41586-024-00716-2,,nature.com
-LaurenSerino,75,39655587,111,1710028304,"mRNA vaccines: let's eradicate herpes, cure cancer, and be sick a whole lot less",story,https://bessstillman.substack.com/p/mrna-vaccines-lets-be-sick-a-whole,,bessstillman.substack.com
-surprisetalk,58,39656510,59,1710041434,A copy of a copy of a copy: FDA medical device clearances,story,https://wcedmisten.fyi/post/medical-device-analysis/,,wcedmisten.fyi
-mpweiher,68,39655179,73,1710023022,The Mystery of Sudden Genius,story,https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius,,psychologytoday.com
-ibobev,17,39628386,54,1709815468,Landmark study links microplastics to serious health problems,story,https://www.nature.com/articles/d41586-024-00650-3,,nature.com
-gnabgib,67,39637216,94,1709865435,Fasting-mimicking diet causes markers indicating reduced age and disease risk,story,https://www.nature.com/articles/s41467-024-45260-9,,nature.com
+LaurenSerino,73,39655587,111,1710028304,"mRNA vaccines: let's eradicate herpes, cure cancer, and be sick a whole lot less",story,https://bessstillman.substack.com/p/mrna-vaccines-lets-be-sick-a-whole,,bessstillman.substack.com
+mpweiher,68,39655179,74,1710023022,The Mystery of Sudden Genius,story,https://www.psychologytoday.com/us/articles/202403/the-mystery-of-sudden-genius,,psychologytoday.com
+surprisetalk,59,39656510,59,1710041434,A copy of a copy of a copy: FDA medical device clearances,story,https://wcedmisten.fyi/post/medical-device-analysis/,,wcedmisten.fyi
 beefman,61,39653125,120,1710004784,FDA Designates MM120 (LSD) Breakthrough Therapy for Generalized Anxiety Disorder,story,https://www.businesswire.com/news/home/20240307733599/en/MindMed-Receives-FDA-Breakthrough-Therapy-Designation-and-Announces-Positive-12-Week-Durability-Data-From-Phase-2B-Study-of-MM120-for-Generalized-Anxiety-Disorder,,businesswire.com
 asymmetric,4,39654731,14,1710018388,NIST: Everyday Plastic Products Release Trillions of Microscopic Particles -2022,story,https://www.nist.gov/news-events/news/2022/04/nist-study-shows-everyday-plastic-products-release-trillions-microscopic,,nist.gov
-pseudolus,1,39632172,16,1709834015,Tracking ads industry faces another body blow in the EU,story,https://techcrunch.com/2024/03/07/iab-tcf-cjeu/,,techcrunch.com
+throwaway21432,60,39674117,18,1710197488,"Ask HN: If you could spend $100k to get healthy and fit, how would you do it?",story,,"I’m willing go spend up to $100,000 this coming year in order to:<p>* Lose 30 pounds
+* Eat a strict carnivore &#x2F; keto diet for a year
+* Get stronger
+* Be more flexible<p>I know what you’re thinking: It doesn’t cost much to eat healthy, go for walks, buy some running shoes. But these things never last for me.<p>I’m 47. Overweight (240lb), and I suffer from chronic digestive issues and inflammation. I’ve tried on and off for years everything under the sun but I just can’t stick with it. I run out of will power.<p>I’ve spent tens of thousands of dollars to figure out what’s going on with my body and this is what I know:<p>- I need to eat strictly carnivore (or Keto Low FODMap)
+- I need to lose weight.
+- I want to get strong.
+- I need to stretch.<p>Whenever I try and do these things myself it works for a few weeks, and then I go back to old habits. I’m done trying the same thing over and over, and then failing. Instead of a stupid cyber truck I want to buy good health.<p>If you were me, and you could spend 50k to get healthy. How would you overcome these will power issues?<p>Looking for creative ideas please. I don’t want to die early, and don’t want the diabetes….etc. 
+that’s coming down the pipeline if I continue this way.<p>I know you can&#x27;t buy discipline. But can I kick start it somehow? How would you do it?<p>I&#x27;ve read all the books, tried all the apps, need something that&#x27;s a higher level of intervention.<p>Side note: There might be a startup here. How many millionaires out there are happy to spend 100k for a high-touch, guaranteed upgrade to their health and well being?",
+paulpauper,37,39656472,25,1710040847,Argentina inflation seen cooling as Milei austerity tempers food prices,story,https://www.reuters.com/world/americas/argentina-inflation-seen-cooling-milei-austerity-tempers-food-prices-2024-03-08/,,reuters.com
+adrian_mrd,5,39654771,11,1710018645,Legal row could force mystery artist Banksy to reveal his real name,story,https://www.theguardian.com/artanddesign/2024/mar/09/legal-row-banksy-reveal-real-name-art-images-authenticity,,theguardian.com
+mauvehaus,3,39651357,21,1709989419,Tank Museum in U.K. Playing Big Role in Keeping Ukraine's Armor on Track,story,https://www.twz.com/news-features/little-tank-museum-in-u-k-playing-big-role-in-keeping-ukraines-armor-on-track,,twz.com
