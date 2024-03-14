@@ -1,22 +1,23 @@
 by,descendants,id,score,time,title,type,url,text,domain
-rbanffy,38,39696583,157,1710359670,IBM and NASA build language models to make scientific knowledge more accessible,story,https://research.ibm.com/blog/science-expert-LLM,,research.ibm.com
-peutetre,15,39699508,20,1710378068,Why are so many young people getting cancer? What the data say,story,https://www.nature.com/articles/d41586-024-00720-6,,nature.com
-panabee,74,39696876,140,1710361036,Prostate cancer includes two different evotypes,story,https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease,,ox.ac.uk
-belter,30,39693661,59,1710347588,Giant Volcano Discovered on Mars,story,https://phys.org/news/2024-03-giant-volcano-mars.html,,phys.org
-pseudolus,4,39686554,17,1710289435,Physicists Finally Find a Problem for Quantum Computers Alone,story,https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/,,quantamagazine.org
-geox,286,39683351,203,1710269608,Vehicle brakes produce charged particles that may harm public health: study,story,https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/,,news.uci.edu
-kasperset,46,39676030,102,1710215474,No installation required: how WebAssembly is changing scientific computing,story,https://www.nature.com/articles/d41586-024-00725-1,,nature.com
+sohkamyung,0,39704082,26,1710424674,The neuroscientist formerly known as Prince's audio engineer,story,https://www.nature.com/articles/d41586-024-00791-5,,nature.com
+rbanffy,42,39696583,174,1710359670,IBM and NASA build language models to make scientific knowledge more accessible,story,https://research.ibm.com/blog/science-expert-LLM,,research.ibm.com
+panabee,81,39696876,147,1710361036,Prostate cancer includes two different evotypes,story,https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease,,ox.ac.uk
+belter,32,39693661,59,1710347588,Giant Volcano Discovered on Mars,story,https://phys.org/news/2024-03-giant-volcano-mars.html,,phys.org
+pseudolus,4,39686554,18,1710289435,Physicists Finally Find a Problem for Quantum Computers Alone,story,https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/,,quantamagazine.org
+geox,288,39683351,204,1710269608,Vehicle brakes produce charged particles that may harm public health: study,story,https://news.uci.edu/2024/03/12/uc-irvine-study-vehicle-brakes-produce-charged-particles-that-may-harm-public-health/,,news.uci.edu
+peutetre,47,39699508,46,1710378068,Why are so many young people getting cancer? What the data say,story,https://www.nature.com/articles/d41586-024-00720-6,,nature.com
+kasperset,46,39676030,103,1710215474,No installation required: how WebAssembly is changing scientific computing,story,https://www.nature.com/articles/d41586-024-00725-1,,nature.com
 lawrenceyan,3,39675181,21,1710206938,Nature Conformable to Herself (1992),story,https://www.sfipress.org/4-nature-conformable-to-herself,,sfipress.org
 bediger4000,5,39686445,45,1710288449,Role of Covid-19 vaccines in preventing post-Covid-19 complications,story,https://heart.bmj.com/content/early/2024/01/24/heartjnl-2023-323483,,heart.bmj.com
 CharlesW,4,39688111,15,1710303982,Time-travel movies rated by scientific logic and entertainment value,story,https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/,,arstechnica.com
-WarOnPrivacy,31,39690877,63,1710335138,Warner Bros. Discovery Disappears Games People Already Purchased,story,https://www.techdirt.com/2024/03/12/warner-bros-discovery-disappears-games-people-already-purchased/,,techdirt.com
-gnabgib,20,39676560,30,1710222594,Want to build muscle? Why carbs could be just as important as protein,story,https://theconversation.com/want-to-build-muscle-why-carbs-could-be-just-as-important-as-protein-224305,,theconversation.com
+gnabgib,21,39676560,30,1710222594,Want to build muscle? Why carbs could be just as important as protein,story,https://theconversation.com/want-to-build-muscle-why-carbs-could-be-just-as-important-as-protein-224305,,theconversation.com
 walterbell,2,39677106,18,1710229672,Forced labour from North Korea is tainting the world's seafood supply,story,https://www.theglobeandmail.com/canada/article-china-seafood-north-korea/,,theglobeandmail.com
+WarOnPrivacy,31,39690877,64,1710335138,Warner Bros. Discovery Disappears Games People Already Purchased,story,https://www.techdirt.com/2024/03/12/warner-bros-discovery-disappears-games-people-already-purchased/,,techdirt.com
 fortran77,111,39675111,105,1710206297,The new science on what ultra-processed food does to the brain,story,https://www.wsj.com/health/wellness/ultra-processed-food-brain-health-7a3f9827,,wsj.com
 paulpauper,0,39675172,22,1710206852,"High blood sugar, hypertension and obesity can add up to cancer risk",story,https://www.npr.org/sections/health-shots/2024/03/11/1237152025/metabolic-syndrome-cancer-risk-high-blood-sugar-obesity,,npr.org
-ao98,81,39686426,75,1710288299,Airlines Colluded to Ensure Onboard Food Would Be Awful,story,https://viewfromthewing.com/airlines-colluded-bad-food/,,viewfromthewing.com
+ao98,81,39686426,76,1710288299,Airlines Colluded to Ensure Onboard Food Would Be Awful,story,https://viewfromthewing.com/airlines-colluded-bad-food/,,viewfromthewing.com
 leotravis10,27,39674827,92,1710204086,Major medical provider drops patient for not having a Android or iOS device,story,https://mastodon.social/@lrvick/112079059323905912,,mastodon.social
-throwaway21432,83,39674117,30,1710197488,"Ask HN: If you could spend $100k to get healthy and fit, how would you do it?",story,,"I’m willing go spend up to $100,000 this coming year in order to:<p>* Lose 30 pounds
+throwaway21432,84,39674117,31,1710197488,"Ask HN: If you could spend $100k to get healthy and fit, how would you do it?",story,,"I’m willing go spend up to $100,000 this coming year in order to:<p>* Lose 30 pounds
 * Eat a strict carnivore &#x2F; keto diet for a year
 * Get stronger
 * Be more flexible<p>I know what you’re thinking: It doesn’t cost much to eat healthy, go for walks, buy some running shoes. But these things never last for me.<p>I’m 47. Overweight (240lb), and I suffer from chronic digestive issues and inflammation. I’ve tried on and off for years everything under the sun but I just can’t stick with it. I run out of will power.<p>I’ve spent tens of thousands of dollars to figure out what’s going on with my body and this is what I know:<p>- I need to eat strictly carnivore (or Keto Low FODMap)
