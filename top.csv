@@ -1,21 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-chmaynard,5,39702475,56,1710415332,"Experiments in Printmaking, Part 1",story,https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html,,engineersneedart.com
-bikenaga,0,39718489,11,1710524515,Do black holes explode? The 50-year-old puzzle that challenges quantum physics,story,https://www.nature.com/articles/d41586-024-00768-4,,nature.com
-ninjha01,26,39707017,112,1710438962,Learning From DNA: a grand challenge in biology,story,https://hazyresearch.stanford.edu/blog/2024-03-14-evo,,hazyresearch.stanford.edu
-toomuchtodo,13,39711248,56,1710466954,"A simple blood test can detect colorectal cancer early, study finds",story,https://www.npr.org/sections/health-shots/2024/03/14/1238390033/a-simple-blood-test-can-detect-colorectal-cancer-early-study-finds,,npr.org
-sohkamyung,21,39704082,97,1710424674,The neuroscientist formerly known as Prince's audio engineer,story,https://www.nature.com/articles/d41586-024-00791-5,,nature.com
+chmaynard,6,39702475,63,1710415332,"Experiments in Printmaking, Part 1",story,https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html,,engineersneedart.com
+ninjha01,26,39707017,117,1710438962,Learning From DNA: a grand challenge in biology,story,https://hazyresearch.stanford.edu/blog/2024-03-14-evo,,hazyresearch.stanford.edu
+toomuchtodo,13,39711248,60,1710466954,"A simple blood test can detect colorectal cancer early, study finds",story,https://www.npr.org/sections/health-shots/2024/03/14/1238390033/a-simple-blood-test-can-detect-colorectal-cancer-early-study-finds,,npr.org
+bikenaga,0,39718489,15,1710524515,Do black holes explode? The 50-year-old puzzle that challenges quantum physics,story,https://www.nature.com/articles/d41586-024-00768-4,,nature.com
+sohkamyung,21,39704082,99,1710424674,The neuroscientist formerly known as Prince's audio engineer,story,https://www.nature.com/articles/d41586-024-00791-5,,nature.com
 rbanffy,42,39696583,183,1710359670,IBM and NASA build language models to make scientific knowledge more accessible,story,https://research.ibm.com/blog/science-expert-LLM,,research.ibm.com
-delichon,9,39711327,29,1710467925,"Scientists Discovered a 'Fear Switch' in the Brain, and How to Turn It Off",story,https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off,,sciencealert.com
+Timothee,1,39719220,13,1710528123,DNA parasite now plays key role in making critical nerve cell protein,story,https://arstechnica.com/science/2024/03/dna-that-was-once-a-virus-now-helps-make-a-key-protein-for-nerve-cells/,,arstechnica.com
 panabee,84,39696876,152,1710361036,Prostate cancer includes two different evotypes,story,https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease,,ox.ac.uk
-gmays,85,39711527,60,1710470424,Weak rules allow ultra-processed foods like Lunchables on school menus (2023),story,https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/,,washingtonpost.com
 belter,35,39693661,64,1710347588,Giant Volcano Discovered on Mars,story,https://phys.org/news/2024-03-giant-volcano-mars.html,,phys.org
-ajdude,12,39714502,64,1710503507,"""Certainly, here is a possible introduction for your topic"" in scientific paper",story,https://www.sciencedirect.com/science/article/abs/pii/S2468023024002402,,sciencedirect.com
+delichon,10,39711327,31,1710467925,"Scientists Discovered a 'Fear Switch' in the Brain, and How to Turn It Off",story,https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off,,sciencealert.com
 pseudolus,4,39686554,19,1710289435,Physicists Finally Find a Problem for Quantum Computers Alone,story,https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/,,quantamagazine.org
+gmays,87,39711527,61,1710470424,Weak rules allow ultra-processed foods like Lunchables on school menus (2023),story,https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/,,washingtonpost.com
 gnicholas,15,39712021,64,1710476172,Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct,story,https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe,,wsj.com
-thelastgallon,23,39719391,23,1710529047,12 months of record ocean heat has scientists puzzled and concerned,story,https://www.nbcnews.com/science/environment/oceans-record-hot-rcna143179,,nbcnews.com
 bediger4000,5,39686445,46,1710288449,Role of Covid-19 vaccines in preventing post-Covid-19 complications,story,https://heart.bmj.com/content/early/2024/01/24/heartjnl-2023-323483,,heart.bmj.com
+ajdude,13,39714502,69,1710503507,"""Certainly, here is a possible introduction for your topic"" in scientific paper",story,https://www.sciencedirect.com/science/article/abs/pii/S2468023024002402,,sciencedirect.com
 peutetre,50,39699508,56,1710378068,Why are so many young people getting cancer? What the data say,story,https://www.nature.com/articles/d41586-024-00720-6,,nature.com
 CharlesW,4,39688111,17,1710303982,Time-travel movies rated by scientific logic and entertainment value,story,https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/,,arstechnica.com
-chrisjj,5,39705430,21,1710430860,"Australian computer scientist is not Bitcoin creator Nakamoto, high court rules",story,https://www.theguardian.com/technology/2024/mar/14/australian-craig-wright-not-bitcoin-creator-satoshi-nakamoto-high-court-rules,,theguardian.com
-Freedom2,2,39709974,33,1710457113,Admin of darknet drug market demanding every user pays ransom after taking money,story,https://twitter.com/DrRebeccaTidy/status/1767670379609248180,,twitter.com
-WarOnPrivacy,31,39690877,64,1710335138,Warner Bros. Discovery Disappears Games People Already Purchased,story,https://www.techdirt.com/2024/03/12/warner-bros-discovery-disappears-games-people-already-purchased/,,techdirt.com
