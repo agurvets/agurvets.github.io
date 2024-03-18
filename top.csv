@@ -1,18 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-chmaynard,6,39702475,63,1710415332,"Experiments in Printmaking, Part 1",story,https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html,,engineersneedart.com
-ninjha01,26,39707017,117,1710438962,Learning From DNA: a grand challenge in biology,story,https://hazyresearch.stanford.edu/blog/2024-03-14-evo,,hazyresearch.stanford.edu
-toomuchtodo,13,39711248,60,1710466954,"A simple blood test can detect colorectal cancer early, study finds",story,https://www.npr.org/sections/health-shots/2024/03/14/1238390033/a-simple-blood-test-can-detect-colorectal-cancer-early-study-finds,,npr.org
-bikenaga,0,39718489,15,1710524515,Do black holes explode? The 50-year-old puzzle that challenges quantum physics,story,https://www.nature.com/articles/d41586-024-00768-4,,nature.com
+peutetre,59,39738547,125,1710713618,Mysterious Drones Swarmed Langley AFB for Weeks,story,https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks,,twz.com
+fagnerbrack,0,39733045,24,1710667037,Node.js 2023 Year in an Article,story,https://blog.rafaelgss.dev/nodejs-2023-year-in-review,,rafaelgss.dev
+bookofjoe,185,39725445,158,1710593345,U.S. is investigating Meta for role in drug sales,story,https://www.wsj.com/tech/u-s-is-investigating-meta-for-role-in-drug-sales-574944cb,,wsj.com
+misonic,56,39727217,99,1710606404,Mental Health in Open Source,story,https://antfu.me/posts/mental-health-oss,,antfu.me
+wglb,20,39723016,18,1710558608,"Snakes: The new, high-protein superfood",story,https://phys.org/news/2024-03-snakes-high-protein-superfood.html,,phys.org
+chmaynard,6,39702475,65,1710415332,"Experiments in Printmaking, Part 1",story,https://www.engineersneedart.com/blog/printexperiment1/printexperiment1.html,,engineersneedart.com
+ninjha01,26,39707017,119,1710438962,Learning From DNA: a grand challenge in biology,story,https://hazyresearch.stanford.edu/blog/2024-03-14-evo,,hazyresearch.stanford.edu
+toomuchtodo,15,39711248,65,1710466954,"A simple blood test can detect colorectal cancer early, study finds",story,https://www.npr.org/sections/health-shots/2024/03/14/1238390033/a-simple-blood-test-can-detect-colorectal-cancer-early-study-finds,,npr.org
 sohkamyung,21,39704082,99,1710424674,The neuroscientist formerly known as Prince's audio engineer,story,https://www.nature.com/articles/d41586-024-00791-5,,nature.com
-rbanffy,42,39696583,183,1710359670,IBM and NASA build language models to make scientific knowledge more accessible,story,https://research.ibm.com/blog/science-expert-LLM,,research.ibm.com
-Timothee,1,39719220,13,1710528123,DNA parasite now plays key role in making critical nerve cell protein,story,https://arstechnica.com/science/2024/03/dna-that-was-once-a-virus-now-helps-make-a-key-protein-for-nerve-cells/,,arstechnica.com
-panabee,84,39696876,152,1710361036,Prostate cancer includes two different evotypes,story,https://www.ox.ac.uk/news/2024-03-05-ai-reveals-prostate-cancer-not-just-one-disease,,ox.ac.uk
-belter,35,39693661,64,1710347588,Giant Volcano Discovered on Mars,story,https://phys.org/news/2024-03-giant-volcano-mars.html,,phys.org
-delichon,10,39711327,31,1710467925,"Scientists Discovered a 'Fear Switch' in the Brain, and How to Turn It Off",story,https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off,,sciencealert.com
-pseudolus,4,39686554,19,1710289435,Physicists Finally Find a Problem for Quantum Computers Alone,story,https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/,,quantamagazine.org
-gmays,87,39711527,61,1710470424,Weak rules allow ultra-processed foods like Lunchables on school menus (2023),story,https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/,,washingtonpost.com
+bikenaga,0,39718489,15,1710524515,Do black holes explode? The 50-year-old puzzle that challenges quantum physics,story,https://www.nature.com/articles/d41586-024-00768-4,,nature.com
+oalders,1,39728456,13,1710615394,Hackathon Perl / Open Food Facts in Paris,story,https://forum.openfoodfacts.org/t/hackathon-perl-open-food-facts-in-paris/530,,forum.openfoodfacts.org
+Timothee,1,39719220,14,1710528123,DNA parasite now plays key role in making critical nerve cell protein,story,https://arstechnica.com/science/2024/03/dna-that-was-once-a-virus-now-helps-make-a-key-protein-for-nerve-cells/,,arstechnica.com
+delichon,10,39711327,34,1710467925,"Scientists Discovered a 'Fear Switch' in the Brain, and How to Turn It Off",story,https://www.sciencealert.com/scientists-discovered-a-fear-switch-in-the-brain-and-how-to-turn-it-off,,sciencealert.com
+dtawfik1,60,39735382,44,1710691516,"A cheap, generic drug became a darling of longevity enthusiasts",story,https://www.washingtonpost.com/business/2024/03/15/rapamycin-longevity-drug/,,washingtonpost.com
+segasaturn,0,39709301,12,1710452507,Phage therapy: An alternative to antibiotics in the age of multi-drug resistance,story,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5547374/,,ncbi.nlm.nih.gov
+gmays,92,39711527,63,1710470424,Weak rules allow ultra-processed foods like Lunchables on school menus (2023),story,https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/,,washingtonpost.com
 gnicholas,15,39712021,64,1710476172,Harvard Probe Finds Honesty Researcher Engaged in Scientific Misconduct,story,https://www.wsj.com/us-news/education/harvard-investigation-francesa-gino-documents-9e334ffe,,wsj.com
-bediger4000,5,39686445,46,1710288449,Role of Covid-19 vaccines in preventing post-Covid-19 complications,story,https://heart.bmj.com/content/early/2024/01/24/heartjnl-2023-323483,,heart.bmj.com
-ajdude,13,39714502,69,1710503507,"""Certainly, here is a possible introduction for your topic"" in scientific paper",story,https://www.sciencedirect.com/science/article/abs/pii/S2468023024002402,,sciencedirect.com
-peutetre,50,39699508,56,1710378068,Why are so many young people getting cancer? What the data say,story,https://www.nature.com/articles/d41586-024-00720-6,,nature.com
-CharlesW,4,39688111,17,1710303982,Time-travel movies rated by scientific logic and entertainment value,story,https://arstechnica.com/features/2023/11/the-ars-guide-to-time-travel-in-the-movies/,,arstechnica.com
+ajdude,13,39714502,73,1710503507,"""Certainly, here is a possible introduction for your topic"" in scientific paper",story,https://www.sciencedirect.com/science/article/abs/pii/S2468023024002402,,sciencedirect.com
