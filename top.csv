@@ -1,15 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-consumer451,25,39797638,41,1711170843,"Beyond headlines of transmitted Alzheimer's, scientists see case for prions",story,https://www.fiercebiotech.com/research/alzheimers-transmission-medical-procedure-builds-case-prion-theory,,fiercebiotech.com
-Torlan,0,39754744,17,1710848404,"Explore the Paleobiology Database through space, time, and taxonomy",story,https://paleobiodb.org/navigator/,,paleobiodb.org
-rntn,64,39800648,73,1711207768,Why isn't dental health considered primary medical care?,story,https://knowablemagazine.org/content/article/health-disease/2024/why-isnt-dental-health-considered-primary-medical-care,,knowablemagazine.org
-kqr2,3,39796290,13,1711154229,The NakedCPU: Hardware Experiments and a Roadmap for Navigating Documentation [pdf],story,http://web.evolbio.mpg.de/~alexander.pozhitkov/hardware_experiments_files/259Pozhitkov.pdf,,web.evolbio.mpg.de
-wglb,0,39796469,13,1711155893,'junk proteins' identified as one cause of aging and possible source of ALS,story,https://medicalxpress.com/news/2024-03-accumulation-junk-proteins-aging-source.html,,medicalxpress.com
+consumer451,31,39797638,44,1711170843,"Beyond headlines of transmitted Alzheimer's, scientists see case for prions",story,https://www.fiercebiotech.com/research/alzheimers-transmission-medical-procedure-builds-case-prion-theory,,fiercebiotech.com
+Torlan,0,39754744,18,1710848404,"Explore the Paleobiology Database through space, time, and taxonomy",story,https://paleobiodb.org/navigator/,,paleobiodb.org
+kqr2,3,39796290,15,1711154229,The NakedCPU: Hardware Experiments and a Roadmap for Navigating Documentation [pdf],story,http://web.evolbio.mpg.de/~alexander.pozhitkov/hardware_experiments_files/259Pozhitkov.pdf,,web.evolbio.mpg.de
+rntn,75,39800648,78,1711207768,Why isn't dental health considered primary medical care?,story,https://knowablemagazine.org/content/article/health-disease/2024/why-isnt-dental-health-considered-primary-medical-care,,knowablemagazine.org
+wglb,0,39796469,14,1711155893,'junk proteins' identified as one cause of aging and possible source of ALS,story,https://medicalxpress.com/news/2024-03-accumulation-junk-proteins-aging-source.html,,medicalxpress.com
 smartmic,4,39792682,12,1711127023,Scilab – numerical computation for engineers and scientists,story,https://www.scilab.org/about/scilab-open-source-software,,scilab.org
 anfractuosity,6,39760482,40,1710884048,Cosmic cleaners: the scientists scouring English cathedral roofs for space dust,story,https://www.theguardian.com/science/2024/mar/17/cosmic-cathedrals-dust-rooftops-planetary-secrets-asteroids-comets,,theguardian.com
-pseudolus,60,39799137,45,1711193487,Doubts grow about the biosignature approach to alien-hunting,story,https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/,,quantamagazine.org
-divbzero,6,39797558,15,1711169756,Is early-onset cancer an emerging global epidemic? (2022),story,https://www.nature.com/articles/s41571-022-00672-8,,nature.com
+divbzero,6,39797558,17,1711169756,Is early-onset cancer an emerging global epidemic? (2022),story,https://www.nature.com/articles/s41571-022-00672-8,,nature.com
+pseudolus,60,39799137,46,1711193487,Doubts grow about the biosignature approach to alien-hunting,story,https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/,,quantamagazine.org
 PaulHoule,9,39791182,83,1711118349,Empty “backpacks” activate the immune system against cancer in mice,story,https://medicalxpress.com/news/2024-03-backpacks-neutrophils-immune-cancer.html,,medicalxpress.com
-udev4096,65,39778372,94,1711028265,UnitedHealth Group has paid more than $2B to providers following cyberattack,story,https://www.aol.com/news/unitedhealth-group-paid-more-2-125226015.html,,aol.com
+udev4096,65,39778372,95,1711028265,UnitedHealth Group has paid more than $2B to providers following cyberattack,story,https://www.aol.com/news/unitedhealth-group-paid-more-2-125226015.html,,aol.com
 jjgreen,2,39789652,22,1711107507,Database for UK nurse registration 'completely unacceptable',story,https://www.theregister.com/2024/03/22/nmc_database_whistleblower/,,theregister.com
 jonwachob91,101,39778415,107,1711028575,Surgeons transplant pig kidney into a patient,story,https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html,,nytimes.com
 thelastgallon,218,39762588,295,1710904828,"Study puts fermented foods, not fire, as pivotal moment in human brain growth",story,https://plantbasednews.org/news/science/fermented-foods-human-brain-growth/,,plantbasednews.org
@@ -21,5 +21,5 @@ perihelions,17,39744920,51,1710771577,Frederick Reines – The singing UCI Nobel
 pseudolus,26,39761431,48,1710891227,'A landmark moment': scientists use AI to design antibodies from scratch,story,https://www.nature.com/articles/d41586-024-00846-7,,nature.com
 Brajeshwar,4,39791588,25,1711120831,I discovered why seemingly healthy amphibians were being wiped out,story,https://www.theguardian.com/environment/2024/mar/21/i-discovered-world-amphibians-deaths-virus-scientists-aoe,,theguardian.com
 jspann,4,39768084,18,1710948967,Parkinson's Disease Can Now Be Detected Through the Skin,story,https://www.wsj.com/health/parkinsons-disease-can-now-be-detected-through-the-skin-5f9341e7,,wsj.com
-bookofjoe,14,39783700,19,1711051374,"Oral Bacterium Migrates to Gut, Helps Colorectal Tumors Grow",story,https://www.genengnews.com/topics/cancer/oral-bacterium-migrates-to-gut-helps-colorectal-tumors-grow/,,genengnews.com
 wahnfrieden,139,39762776,224,1710907615,Long Covid brain fog may be due to damaged blood vessels in the brain,story,https://www.sciencenews.org/article/long-covid-brain-fog-blood-brain-barrier-damage,,sciencenews.org
+bookofjoe,14,39783700,19,1711051374,"Oral Bacterium Migrates to Gut, Helps Colorectal Tumors Grow",story,https://www.genengnews.com/topics/cancer/oral-bacterium-migrates-to-gut-helps-colorectal-tumors-grow/,,genengnews.com
