@@ -1,15 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-laurex,81,39829681,100,1711470270,Hacking the genome of fungi for smart foods of the future,story,https://www.sciencedaily.com/releases/2024/03/240314122135.htm,,sciencedaily.com
-geox,48,39833512,105,1711491668,A living replacement knee to be tested in clinical trials within five years,story,https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement,,engineering.columbia.edu
-rokkitmensch,128,39831912,144,1711481700,"After Appalachian hospitals merged, their ERs became much slower",story,https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/,,kffhealthnews.org
-fuzztester,17,39820284,67,1711394416,How to criticize computer scientists (2001),story,https://www.cs.purdue.edu/homes/comer/essay.criticize.html,,cs.purdue.edu
-pseudolus,25,39831055,48,1711477071,Weird new electron behaviour in stacked graphene thrills physicists,story,https://www.nature.com/articles/d41586-024-00832-z,,nature.com
+geox,48,39833512,109,1711491668,A living replacement knee to be tested in clinical trials within five years,story,https://www.engineering.columbia.edu/news/arpa-h-awards-columbia-researchers-nearly-39m-develop-living-knee-replacement,,engineering.columbia.edu
+laurex,83,39829681,103,1711470270,Hacking the genome of fungi for smart foods of the future,story,https://www.sciencedaily.com/releases/2024/03/240314122135.htm,,sciencedaily.com
+rokkitmensch,134,39831912,149,1711481700,"After Appalachian hospitals merged, their ERs became much slower",story,https://kffhealthnews.org/news/article/ballad-health-er-wait-times-copa-monopoly-appalachia-hospitals/,,kffhealthnews.org
+fuzztester,17,39820284,69,1711394416,How to criticize computer scientists (2001),story,https://www.cs.purdue.edu/homes/comer/essay.criticize.html,,cs.purdue.edu
+pseudolus,26,39831055,48,1711477071,Weird new electron behaviour in stacked graphene thrills physicists,story,https://www.nature.com/articles/d41586-024-00832-z,,nature.com
 sizzle,155,39823146,124,1711414664,An AI robot is spotting sick tulips to slow disease through Dutch bulb fields,story,https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e,,apnews.com
+tambourine_man,150,39824100,173,1711424873,Scientists rename genes to stop Microsoft Excel from misreading them as dates (2020),story,https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates,,theverge.com
 PaulHoule,50,39831754,69,1711480783,GPT-4V(ision) Unsuitable for Clinical Care and Education: An Evaluation,story,https://arxiv.org/abs/2403.12046,,arxiv.org
-tambourine_man,150,39824100,170,1711424873,Scientists rename genes to stop Microsoft Excel from misreading them as dates (2020),story,https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates,,theverge.com
 dmarto,72,39804004,135,1711239185,TCP connection timeout mystery,story,https://devnonsense.com/posts/tcp-connection-timeout-mystery/,,devnonsense.com
-LinuxBender,3,39831962,16,1711481941,"Researchers Discover 40k-Strong EOL Router, IoT Botnet",story,https://www.securityweek.com/researchers-discover-40000-strong-eol-router-iot-botnet/,,securityweek.com
 dzdt,151,39803508,372,1711233267,New Aztec Codices Discovered: The Codices of San Andrés Tetepilco,story,https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/,,tlacuilolli.com
+LinuxBender,3,39831962,16,1711481941,"Researchers Discover 40k-Strong EOL Router, IoT Botnet",story,https://www.securityweek.com/researchers-discover-40000-strong-eol-router-iot-botnet/,,securityweek.com
 priyankanath,232,39805299,189,1711257534,Scientists have traced human tail loss to a short sequence of genetic code,story,https://www.cnn.com/2024/03/23/world/humans-tails-genetic-mutation-junk-dna-scn/index.html,,cnn.com
 mouse_,16,39819248,57,1711388632,The lifetime tooth decay vaccine is now available (in Honduras),story,https://en.wikipedia.org/wiki/Caries_vaccine,,en.wikipedia.org
 delichon,6,39804717,31,1711247817,Study: Higher gut bacteria diversity associated with lower risk of infection,story,https://medicalxpress.com/news/2024-03-bacteria-gut-hospitalization-infection-falls.html,,medicalxpress.com
