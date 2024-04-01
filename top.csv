@@ -1,15 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-geox,44,39883668,71,1711888264,Silicon spikes take out 96% of virus particles,story,https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes,,rmit.edu.au
+mmacpherson,15,39885107,59,1711898817,Can GPT optimize my taxes? An experiment in letting the LLM be the UX,story,https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/,,finedataproducts.com
+kungfudoi,1,39885772,20,1711903380,"Tardigrade proteins could slow aging in humans, small cell study finds",story,https://www.livescience.com/health/tardigrade-proteins-could-slow-aging-in-humans-small-cell-study-finds,,livescience.com
+geox,53,39883668,78,1711888264,Silicon spikes take out 96% of virus particles,story,https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes,,rmit.edu.au
 rbanffy,95,39867270,152,1711736283,"A muon collider could revolutionize particle physics, if it can be built",story,https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built,,science.org
 donatzsky,10,39873909,107,1711798954,Proteins let cells remember how well their last division went,story,https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/,,arstechnica.com
 lazyjeff,105,39871186,218,1711764468,Paint.net,story,https://www.getpaint.net/,,getpaint.net
 Al0neStar,5,39876447,40,1711817517,Benchmarking LLMs against human expert-curated biomedical knowledge graphs,story,https://www.sciencedirect.com/science/article/pii/S2667318524000023,,sciencedirect.com
-JumpCrisscross,1,39879498,17,1711839519,Vaccine investment is a no-brainer – so why aren't we doing it?,story,https://www.ft.com/content/ffded995-6bed-4961-bb2f-d1262ef1b0e3,,ft.com
+JumpCrisscross,1,39879498,19,1711839519,Vaccine investment is a no-brainer – so why aren't we doing it?,story,https://www.ft.com/content/ffded995-6bed-4961-bb2f-d1262ef1b0e3,,ft.com
+doener,5,39876523,11,1711818022,Are medical studies being written with ChatGPT?,story,https://twitter.com/jeremynguyenphd/status/1774021645709295840,,twitter.com
 dnetesn,2,39859522,34,1711675129,Faintest known star system orbiting the Milky Way discovered,story,https://phys.org/news/2024-03-faintest-star-orbiting-milky.html,,phys.org
 Brajeshwar,0,39850968,40,1711631879,How to make an old immune system young again,story,https://www.nature.com/articles/d41586-024-00871-6,,nature.com
-pg_1234,42,39879488,69,1711839389,Disillusioned Businesses Discovering That AI Kind of Sucks,story,https://futurism.com/the-byte/businesses-discovering-ai-sucks,,futurism.com
-paulpauper,206,39878156,119,1711829338,Novo Nordisk facing pressure as study finds $1k drug can be made for $5,story,https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/,,fortune.com
-rkwz,7,39874558,12,1711804499,"Ask HN: Recommended lightweight apps like Paint.NET, Notepad++, SumatraPDF etc",story,,,
-geox,44,39877443,31,1711823896,"California fast-food workers will get $20 minimum wage, starting Monday",story,https://www.npr.org/2024/03/30/1241451631/california-fast-food-20-minimum-wage,,npr.org
-thelastgallon,2,39859853,12,1711678313,A Drug Half as Good as Ozempic for One-30th the Price,story,https://www.theatlantic.com/health/archive/2024/03/topiramate-glp1-ozempic-alternatives/677884/,,theatlantic.com
-Brajeshwar,141,39850301,80,1711628288,Why Scientists Are Calling for the Moon to Be Better Protected from Development,story,https://www.smithsonianmag.com/smart-news/why-scientists-are-calling-for-the-moon-to-be-better-protected-from-development-180984026/,,smithsonianmag.com
+pg_1234,42,39879488,70,1711839389,Disillusioned Businesses Discovering That AI Kind of Sucks,story,https://futurism.com/the-byte/businesses-discovering-ai-sucks,,futurism.com
+paulpauper,206,39878156,120,1711829338,Novo Nordisk facing pressure as study finds $1k drug can be made for $5,story,https://fortune.com/europe/2024/03/28/ozempic-maker-novo-nordisk-facing-pressure-as-study-finds-1000-appetite-suppressant-can-be-made-for-just-5/,,fortune.com
+rkwz,7,39874558,13,1711804499,"Ask HN: Recommended lightweight apps like Paint.NET, Notepad++, SumatraPDF etc",story,,,
+thelastgallon,2,39859853,13,1711678313,A Drug Half as Good as Ozempic for One-30th the Price,story,https://www.theatlantic.com/health/archive/2024/03/topiramate-glp1-ozempic-alternatives/677884/,,theatlantic.com
+geox,46,39877443,32,1711823896,"California fast-food workers will get $20 minimum wage, starting Monday",story,https://www.npr.org/2024/03/30/1241451631/california-fast-food-20-minimum-wage,,npr.org
