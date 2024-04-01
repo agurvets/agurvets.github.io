@@ -1,10 +1,11 @@
 by,descendants,id,score,time,title,type,url,text,domain
-mmacpherson,15,39885107,59,1711898817,Can GPT optimize my taxes? An experiment in letting the LLM be the UX,story,https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/,,finedataproducts.com
-kungfudoi,1,39885772,20,1711903380,"Tardigrade proteins could slow aging in humans, small cell study finds",story,https://www.livescience.com/health/tardigrade-proteins-could-slow-aging-in-humans-small-cell-study-finds,,livescience.com
-geox,53,39883668,78,1711888264,Silicon spikes take out 96% of virus particles,story,https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes,,rmit.edu.au
+mmacpherson,18,39885107,72,1711898817,Can GPT optimize my taxes? An experiment in letting the LLM be the UX,story,https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/,,finedataproducts.com
+anjel,10,39889501,11,1711930236,Python farming as flexible efficient agricultural food security,story,https://www.nature.com/articles/s41598-024-54874-4,,nature.com
+kungfudoi,1,39885772,23,1711903380,"Tardigrade proteins could slow aging in humans, small cell study finds",story,https://www.livescience.com/health/tardigrade-proteins-could-slow-aging-in-humans-small-cell-study-finds,,livescience.com
+geox,54,39883668,78,1711888264,Silicon spikes take out 96% of virus particles,story,https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes,,rmit.edu.au
 rbanffy,95,39867270,152,1711736283,"A muon collider could revolutionize particle physics, if it can be built",story,https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built,,science.org
 donatzsky,10,39873909,107,1711798954,Proteins let cells remember how well their last division went,story,https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/,,arstechnica.com
-lazyjeff,105,39871186,218,1711764468,Paint.net,story,https://www.getpaint.net/,,getpaint.net
+lazyjeff,105,39871186,219,1711764468,Paint.net,story,https://www.getpaint.net/,,getpaint.net
 Al0neStar,5,39876447,40,1711817517,Benchmarking LLMs against human expert-curated biomedical knowledge graphs,story,https://www.sciencedirect.com/science/article/pii/S2667318524000023,,sciencedirect.com
 JumpCrisscross,1,39879498,19,1711839519,Vaccine investment is a no-brainer – so why aren't we doing it?,story,https://www.ft.com/content/ffded995-6bed-4961-bb2f-d1262ef1b0e3,,ft.com
 doener,5,39876523,11,1711818022,Are medical studies being written with ChatGPT?,story,https://twitter.com/jeremynguyenphd/status/1774021645709295840,,twitter.com
