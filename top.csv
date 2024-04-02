@@ -1,20 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-deluxeroyale,95,39891456,215,1711953834,First-in-human implantation of bionic device to halt Crohn's disease (2023),story,https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/,,florey.edu.au
-Brajeshwar,58,39894866,113,1711983801,"Cancer signs could be spotted years before symptoms, says new research institute",story,https://www.theguardian.com/science/2024/mar/31/cancer-signs-could-be-spotted-years-before-symptoms-says-new-research-institute,,theguardian.com
-mmacpherson,74,39885107,180,1711898817,Can GPT optimize my taxes? An experiment in letting the LLM be the UX,story,https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/,,finedataproducts.com
-wgj,1,39897875,14,1711998454,The Physics of Vim,story,http://www.robertames.com/blog.cgi/entries/physics-of-vim.html,,robertames.com
-thunderbong,280,39891607,273,1711955952,What we know about the xz Utils backdoor that almost infected the world,story,https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/,,arstechnica.com
-gnabgib,86,39896423,58,1711991480,Ketogenic Diet Intervention on Metabolic and Psychiatric Health,story,https://www.sciencedirect.com/science/article/pii/S0165178124001513,,sciencedirect.com
-kungfudoi,3,39885772,29,1711903380,"Tardigrade proteins could slow aging in humans, small cell study finds",story,https://www.livescience.com/health/tardigrade-proteins-could-slow-aging-in-humans-small-cell-study-finds,,livescience.com
-saalweachter,60,39898416,28,1712001243,'Vaccine lettuce' bill (food containing a vaccine is a drug) passes in Tennessee,story,https://www.wsmv.com/2024/03/29/vaccine-lettuce-bill-aiming-classify-food-containing-vaccine-drug-passes-tennessee/,,wsmv.com
+deluxeroyale,104,39891456,219,1711953834,First-in-human implantation of bionic device to halt Crohn's disease (2023),story,https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/,,florey.edu.au
+mmacpherson,75,39885107,181,1711898817,Can GPT optimize my taxes? An experiment in letting the LLM be the UX,story,https://finedataproducts.com/posts/2024-03-10-tax-scenarios-with-ai/,,finedataproducts.com
+Brajeshwar,62,39894866,118,1711983801,"Cancer signs could be spotted years before symptoms, says new research institute",story,https://www.theguardian.com/science/2024/mar/31/cancer-signs-could-be-spotted-years-before-symptoms-says-new-research-institute,,theguardian.com
+thunderbong,296,39891607,283,1711955952,What we know about the xz Utils backdoor that almost infected the world,story,https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/,,arstechnica.com
+wgj,2,39897875,17,1711998454,The Physics of Vim,story,http://www.robertames.com/blog.cgi/entries/physics-of-vim.html,,robertames.com
+kungfudoi,3,39885772,31,1711903380,"Tardigrade proteins could slow aging in humans, small cell study finds",story,https://www.livescience.com/health/tardigrade-proteins-could-slow-aging-in-humans-small-cell-study-finds,,livescience.com
+gnabgib,91,39896423,63,1711991480,Ketogenic Diet Intervention on Metabolic and Psychiatric Health,story,https://www.sciencedirect.com/science/article/pii/S0165178124001513,,sciencedirect.com
 rbanffy,95,39867270,154,1711736283,"A muon collider could revolutionize particle physics, if it can be built",story,https://www.science.org/content/article/muon-collider-could-revolutionize-particle-physics-if-it-can-be-built,,science.org
-anjel,17,39889501,18,1711930236,Python farming as flexible efficient agricultural food security,story,https://www.nature.com/articles/s41598-024-54874-4,,nature.com
-geox,64,39883668,82,1711888264,Silicon spikes take out 96% of virus particles,story,https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes,,rmit.edu.au
-donatzsky,11,39873909,109,1711798954,Proteins let cells remember how well their last division went,story,https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/,,arstechnica.com
+donatzsky,11,39873909,110,1711798954,Proteins let cells remember how well their last division went,story,https://arstechnica.com/science/2024/03/proteins-let-cells-remember-how-well-their-last-division-went/,,arstechnica.com
 lazyjeff,107,39871186,221,1711764468,Paint.net,story,https://www.getpaint.net/,,getpaint.net
+geox,65,39883668,82,1711888264,Silicon spikes take out 96% of virus particles,story,https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes,,rmit.edu.au
+anjel,17,39889501,18,1711930236,Python farming as flexible efficient agricultural food security,story,https://www.nature.com/articles/s41598-024-54874-4,,nature.com
 Al0neStar,5,39876447,40,1711817517,Benchmarking LLMs against human expert-curated biomedical knowledge graphs,story,https://www.sciencedirect.com/science/article/pii/S2667318524000023,,sciencedirect.com
-dnetesn,2,39859522,34,1711675129,Faintest known star system orbiting the Milky Way discovered,story,https://phys.org/news/2024-03-faintest-star-orbiting-milky.html,,phys.org
+dnetesn,2,39859522,35,1711675129,Faintest known star system orbiting the Milky Way discovered,story,https://phys.org/news/2024-03-faintest-star-orbiting-milky.html,,phys.org
 Brajeshwar,0,39850968,40,1711631879,How to make an old immune system young again,story,https://www.nature.com/articles/d41586-024-00871-6,,nature.com
+saalweachter,72,39898416,31,1712001243,'Vaccine lettuce' bill (food containing a vaccine is a drug) passes in Tennessee,story,https://www.wsmv.com/2024/03/29/vaccine-lettuce-bill-aiming-classify-food-containing-vaccine-drug-passes-tennessee/,,wsmv.com
 doener,6,39876523,11,1711818022,Are medical studies being written with ChatGPT?,story,https://twitter.com/jeremynguyenphd/status/1774021645709295840,,twitter.com
-JumpCrisscross,1,39879498,19,1711839519,Vaccine investment is a no-brainer – so why aren't we doing it?,story,https://www.ft.com/content/ffded995-6bed-4961-bb2f-d1262ef1b0e3,,ft.com
-thelastgallon,3,39859853,13,1711678313,A Drug Half as Good as Ozempic for One-30th the Price,story,https://www.theatlantic.com/health/archive/2024/03/topiramate-glp1-ozempic-alternatives/677884/,,theatlantic.com
+JumpCrisscross,1,39879498,21,1711839519,Vaccine investment is a no-brainer – so why aren't we doing it?,story,https://www.ft.com/content/ffded995-6bed-4961-bb2f-d1262ef1b0e3,,ft.com
