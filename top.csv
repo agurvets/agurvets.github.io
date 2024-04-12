@@ -1,17 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-cmpit,338,40001150,274,1712836257,Mental health in software engineering,story,https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/,,vadimkravcenko.com
-GavCo,92,40004887,106,1712858018,Storm: LLM system that researches a topic and generates full-length wiki article,story,https://github.com/stanford-oval/storm,,github.com
-fangpenlin,52,39970716,181,1712590121,I discovered a critical exploit in ZeroMQ with mostly pure luck,story,https://fangpenlin.com/posts/2024/04/07/how-i-discovered-a-9-point-8-critical-security-vulnerability-in-zeromq-with-mostly-pure-luck/,,fangpenlin.com
-janpot,65,40003138,167,1712848775,New paintings found at Pompeii,story,https://www.bbc.com/news/science-environment-68777741,,bbc.com
-ujeezy,16,40005670,96,1712862536,Discovering the xz backdoor with Andres Freund [audio],story,https://oxide.computer/podcasts/oxide-and-friends/1843393,,oxide.computer
-RickJWagner,49,39989577,70,1712749327,Surprising public health benefit of unemployment?,story,https://timharford.com/2024/04/the-surprising-public-health-benefit-of-unemployment/,,timharford.com
-angrygoat,104,39981034,936,1712679713,"Peter Higgs, physicist who discovered Higgs boson, has died",story,https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94,,theguardian.com
+bookofjoe,19,40012446,45,1712928150,Childhood Loneliness Linked to Later Psychosis,story,https://neurosciencenews.com/childhood-loneliness-psychosis-25891/,,neurosciencenews.com
+cmpit,373,40001150,295,1712836257,Mental health in software engineering,story,https://vadimkravcenko.com/shorts/mental-health-in-software-engineering/,,vadimkravcenko.com
+LinuxBender,40,40012466,168,1712928251,"96% of US hospital websites share visitor info with Meta, Google, data brokers",story,https://www.theregister.com/2024/04/11/hospital_website_data_sharing/,,theregister.com
+fangpenlin,57,39970716,188,1712590121,I discovered a critical exploit in ZeroMQ with mostly pure luck,story,https://fangpenlin.com/posts/2024/04/07/how-i-discovered-a-9-point-8-critical-security-vulnerability-in-zeromq-with-mostly-pure-luck/,,fangpenlin.com
+RickJWagner,50,39989577,72,1712749327,Surprising public health benefit of unemployment?,story,https://timharford.com/2024/04/the-surprising-public-health-benefit-of-unemployment/,,timharford.com
+janpot,68,40003138,172,1712848775,New paintings found at Pompeii,story,https://www.bbc.com/news/science-environment-68777741,,bbc.com
+GavCo,95,40004887,115,1712858018,Storm: LLM system that researches a topic and generates full-length wiki article,story,https://github.com/stanford-oval/storm,,github.com
+ujeezy,17,40005670,98,1712862536,Discovering the xz backdoor with Andres Freund [audio],story,https://oxide.computer/podcasts/oxide-and-friends/1843393,,oxide.computer
+angrygoat,104,39981034,938,1712679713,"Peter Higgs, physicist who discovered Higgs boson, has died",story,https://www.theguardian.com/science/2024/apr/09/peter-higgs-physicist-who-discovered-higgs-boson-dies-aged-94,,theguardian.com
 MaysonL,88,39986593,179,1712718535,A science fiction obsession led me to psychological war,story,https://buttondown.email/thehypothesis/archive/how-a-science-fiction-obsession-led-me-to/,,buttondown.email
 ulrischa,11,39971234,41,1712593166,New minerals on the moon explaining the mystery of the lunar landscape,story,https://www.scmp.com/news/china/science/article/3257914/chinese-scientists-find-two-new-minerals-moon-could-explain-mystery-lunar-landscape,,scmp.com
 mustache_kimono,6,39985643,33,1712707953,Oxide and Friends Podcast – Discovering the XZ Backdoor with Andres Freund [video],story,https://www.youtube.com/watch?v=jg5F9UupL6I,,youtube.com
-PaulHoule,114,39989564,70,1712749230,Animal-free egg protein startup Onego Bio is closer to cracking the egg market,story,https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/,,techcrunch.com
 belter,4,39973471,29,1712608765,Many cancer drugs remain unproven 5 years after accelerated approval,story,https://www.nbcnews.com/health/cancer/many-cancer-drugs-remain-unproven-5-years-accelerated-approval-study-f-rcna146813,,nbcnews.com
+PaulHoule,114,39989564,70,1712749230,Animal-free egg protein startup Onego Bio is closer to cracking the egg market,story,https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/,,techcrunch.com
 j-bos,18,39983682,39,1712693226,Cancer in Younger People on the Rise,story,https://www.yalemedicine.org/news/early-onset-cancer-in-younger-people-on-the-rise,,yalemedicine.org
 Jimmc414,0,39982952,13,1712689413,"Chemical Plants Must Curb Ethylene Oxide, Chloroprene Emissions Under EPA Ruling",story,https://www.wsj.com/politics/policy/chemical-plants-must-curb-ethylene-oxide-chloroprene-emissions-under-new-epa-rule-722fc929,,wsj.com
-isaacfrond,2,40000558,24,1712830918,Computer scientist wins Turing Award for seminal work on randomness,story,https://arstechnica.com/science/2024/04/computer-scientist-wins-turing-award-for-seminal-work-on-randomness/,,arstechnica.com
-crescit_eundo,11,39990096,15,1712753276,A key chemistry journal disappeared from the web. Others are at risk,story,https://www.chemistryworld.com/news/a-key-chemistry-journal-disappeared-from-the-web-others-are-at-risk/4019265.article,,chemistryworld.com
