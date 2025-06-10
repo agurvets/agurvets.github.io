@@ -1,16 +1,28 @@
-by,descendants,id,score,time,title,type,url,text,domain
-abhishaike,95,44217876,135,1749399512,Administering immunotherapy in the morning seems to matter. Why?,story,https://www.owlposting.com/p/the-time-of-day-that-immunotherapy,,owlposting.com
-aoli-al,42,44211779,138,1749322877,"Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray",story,https://aoli.al/blogs/jdk-bug/,,aoli.al
-5mv2,203,44210736,456,1749314409,My experiment living in a tent in Hong Kong's jungle,story,https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment,,corentin.trebaol.com
-speckx,222,44201872,524,1749223990,Meta: Shut down your invasive AI Discover feed,story,https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/,,mozillafoundation.org
-testrun,12,44214303,61,1749352409,CEO of Health Care Software Company Convicted of $1B Fraud Conspiracy,story,https://www.justice.gov/opa/pr/ceo-health-care-software-company-convicted-1b-fraud-conspiracy,,justice.gov
-XzetaU8,2,44211461,12,1749320268,What's a healthy amount of sleep? It differs from one country to another,story,https://news.ubc.ca/2025/05/whats-a-healthy-amount-of-sleep/,,news.ubc.ca
-rafaepta,13,44210390,47,1749311055,Asimov and the Disease of Boredom (1964),story,https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html,,archive.nytimes.com
-littlexsparkee,10,44214493,20,1749355764,How a mysterious epidemic of kidney disease is killing young men,story,https://www.nature.com/articles/d41586-025-01689-6,,nature.com
-Jimmc414,17,44205895,59,1749250789,Food additive titanium dioxide likely has more toxic effects than thought,story,https://www.theguardian.com/us-news/2025/jun/06/titanium-dioxide-food-additive-toxic,,theguardian.com
-mitchbob,21,44200850,42,1749217480,Doctors Were Preparing to Remove Their Organs. Then They Woke Up.,story,https://www.nytimes.com/2025/06/06/us/kentucky-organ-donations.html,,nytimes.com
-Geekette,64,44163428,280,1748900677,Japanese scientists develop artificial blood compatible with all blood types,story,https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/,,tokyoweekender.com
-us-merul,25,44196410,56,1749163912,Machine Learning: The Native Language of Biology,story,https://decodingbiology.substack.com/p/machine-learning-the-native-language,,decodingbiology.substack.com
-lentoutcry,13,44168810,25,1748950120,Scientific Publishing: Enough Is Enough,story,https://asterainstitute.substack.com/p/scientific-publishing-enough-is-enough,,asterainstitute.substack.com
-rbanffy,45,44190371,56,1749120852,Experimenting with no-build Web Applications,story,https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html,,andregarzia.com
-thunderbong,1,44208017,12,1749280500,Physicists observe a new form of magnetism,story,https://news.mit.edu/2025/physicists-observe-new-form-magnetism-0605,,news.mit.edu
+by,descendants,id,score,text,time,title,type,url,domain
+Gazoche,70,44226879,204,"Hello HN!<p>Showing off the first version of Munal OS, an experimental operating system I have been writing in Rust on and off for the past few years.<p><a href=""https:&#x2F;&#x2F;github.com&#x2F;Askannz&#x2F;munal-os"">https:&#x2F;&#x2F;github.com&#x2F;Askannz&#x2F;munal-os</a><p>It&#x27;s an unikernel design that is compiled as a single EFI binary and does not use virtual address spaces for process isolation. Instead, applications are compiled to WASM and run inside of an embedded WASM engine.<p>Other features:<p>* Fully graphical interface in HD resolution with mouse and keyboard support<p>* Desktop shell with window manager and contextual radial menus<p>* PCI and VirtIO drivers<p>* Ethernet and TCP stack<p>* Customizable UI toolkit providing various widgets, responsive layouts and flexible text rendering<p>* Embedded selection of applications including:<p><pre><code>  * A web browser supporting DNS, HTTPS and very basic HTML
+
+  * A text editor
+
+  * A Python terminal
+</code></pre>
+Checkout the README for the technical breakdown.<p>Demo video: <a href=""https:&#x2F;&#x2F;streamable.com&#x2F;5xqjcf"" rel=""nofollow"">https:&#x2F;&#x2F;streamable.com&#x2F;5xqjcf</a>",1749490469,Show HN: Munal OS: a graphical experimental OS with WASM sandboxing,story,https://github.com/Askannz/munal-os,github.com
+purpleko,14,44224874,129,,1749479250,Doctors could hack the nervous system with ultrasound,story,https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes,spectrum.ieee.org
+ceejayoz,251,44229533,186,"See also:
+<i>Kennedy guts CDC&#x27;s vaccine panel of independent experts</i> <a href=""https:&#x2F;&#x2F;www.nbcnews.com&#x2F;health&#x2F;health-news&#x2F;kennedy-guts-acip-cdc-vaccine-panel-rcna211935"" rel=""nofollow"">https:&#x2F;&#x2F;www.nbcnews.com&#x2F;health&#x2F;health-news&#x2F;kennedy-guts-acip...</a>
+<i>RFK Jr. ousts entire CDC vaccine advisory committee</i> - <a href=""https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;kennedy-cdc-acip-vaccines-3790c89f45b6314c5c7b686db0e3a8f9"" rel=""nofollow"">https:&#x2F;&#x2F;apnews.com&#x2F;article&#x2F;kennedy-cdc-acip-vaccines-3790c89...</a>",1749503493,RFK Jr.: HHS moves to restore public trust in vaccines,story,https://www.wsj.com/opinion/rfk-jr-hhs-moves-to-restore-public-trust-in-vaccines-45495112,wsj.com
+gmays,40,44228550,74,,1749498073,Astronomers have discovered a mysterious object flashing signals from deep space,story,https://www.livescience.com/space/unlike-anything-we-have-seen-before-astronomers-discover-mysterious-object-firing-strange-signals-at-earth-every-44-minutes,livescience.com
+abhishaike,179,44217876,228,,1749399512,Administering immunotherapy in the morning seems to matter. Why?,story,https://www.owlposting.com/p/the-time-of-day-that-immunotherapy,owlposting.com
+aoli-al,50,44211779,151,,1749322877,"Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray",story,https://aoli.al/blogs/jdk-bug/,aoli.al
+Anon84,53,44224745,99,,1749478384,"Mushrooms communicate with each other using up to 50 'words', scientist claims (2022)",story,https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study,theguardian.com
+5mv2,212,44210736,475,,1749314409,My experiment living in a tent in Hong Kong's jungle,story,https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment,corentin.trebaol.com
+geox,1,44230389,15,,1749509101,Kennedy dismisses entire US CDC vaccine panel,story,https://www.reuters.com/business/healthcare-pharmaceuticals/all-members-vaccine-advisory-panel-will-be-retired-us-health-secretary-kennedy-2025-06-09/,reuters.com
+divbzero,0,44231785,12,,1749521671,Health Secretary RFK Jr. abruptly fires CDC vaccine advisory panel,story,https://www.statnews.com/2025/06/09/rfk-jr-fires-every-member-of-cdc-vaccine-expert-panel-acip/,statnews.com
+speckx,224,44201872,530,,1749223990,Meta: Shut down your invasive AI Discover feed,story,https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/,mozillafoundation.org
+testrun,15,44214303,71,,1749352409,CEO of Health Care Software Company Convicted of $1B Fraud Conspiracy,story,https://www.justice.gov/opa/pr/ceo-health-care-software-company-convicted-1b-fraud-conspiracy,justice.gov
+XzetaU8,2,44211461,12,,1749320268,What's a healthy amount of sleep? It differs from one country to another,story,https://news.ubc.ca/2025/05/whats-a-healthy-amount-of-sleep/,news.ubc.ca
+rafaepta,13,44210390,49,,1749311055,Asimov and the Disease of Boredom (1964),story,https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html,archive.nytimes.com
+Jimmc414,17,44205895,59,,1749250789,Food additive titanium dioxide likely has more toxic effects than thought,story,https://www.theguardian.com/us-news/2025/jun/06/titanium-dioxide-food-additive-toxic,theguardian.com
+mitchbob,21,44200850,43,,1749217480,Doctors Were Preparing to Remove Their Organs. Then They Woke Up.,story,https://www.nytimes.com/2025/06/06/us/kentucky-organ-donations.html,nytimes.com
+littlexsparkee,10,44214493,21,,1749355764,How a mysterious epidemic of kidney disease is killing young men,story,https://www.nature.com/articles/d41586-025-01689-6,nature.com
+lentoutcry,13,44168810,25,,1748950120,Scientific Publishing: Enough Is Enough,story,https://asterainstitute.substack.com/p/scientific-publishing-enough-is-enough,asterainstitute.substack.com
+us-merul,25,44196410,56,,1749163912,Machine Learning: The Native Language of Biology,story,https://decodingbiology.substack.com/p/machine-learning-the-native-language,decodingbiology.substack.com
