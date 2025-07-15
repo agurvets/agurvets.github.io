@@ -1,27 +1,27 @@
 by,descendants,id,score,time,title,type,url,text,domain
-reaperducer,14,44566034,46,1752532088,DEWLine Museum – The Distant Early Warning Radar Line,story,https://dewlinemuseum.com/,,dewlinemuseum.com
-Thevet,14,44545695,47,1752359097,I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor,story,https://thewalrus.ca/empress-of-ireland-survivor-mystery/,,thewalrus.ca
-PaulHoule,4,44566982,11,1752542436,Mass timber for hospitals: engineered wood resists microbes more than plastic,story,https://techxplore.com/news/2025-07-mass-timber-elevate-hospital-wood.html,,techxplore.com
-decryption,194,44540402,1024,1752309915,MacPaint Art from the Mid-80s Still Looks Great Today,story,https://blog.decryption.net.au/posts/macpaint.html,,decryption.net.au
-zzzeek,0,44566839,25,1752540540,'Tremendous uncertainty' for cancer research as US gov target mRNA vaccines,story,https://www.theguardian.com/us-news/2025/jul/12/mrna-vaccine-cancer-research-trump-administration,,theguardian.com
-goinggetthem,319,44553389,284,1752438217,Five companies now control over 90% of the restaurant food delivery market,story,https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90,,marketsaintefficient.substack.com
-pseudolus,18,44549149,47,1752402367,"AI therapy bots fuel delusions and give dangerous advice, Stanford study finds",story,https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/,,arstechnica.com
-bwidlar,11,44507931,66,1752053637,Experimental imperative-style music sequence generator engine,story,https://github.com/renoise/pattrns,,github.com
-DocFeind,4,44563827,20,1752518832,"Brain drug: The deadliest ""addiction"" isn't a drug. It's something much worse",story,https://slate.com/life/2025/07/drug-brain-addiction-revenge-public-health-death.html,,slate.com
+saisrirampur,23,44567888,78,1752554588,When Sigterm Does Nothing: A Postgres Mystery,story,https://clickhouse.com/blog/sigterm-postgres-mystery,,clickhouse.com
+Thevet,46,44545695,85,1752359097,I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor,story,https://thewalrus.ca/empress-of-ireland-survivor-mystery/,,thewalrus.ca
+reaperducer,16,44566034,68,1752532088,DEWLine Museum – The Distant Early Warning Radar Line,story,https://dewlinemuseum.com/,,dewlinemuseum.com
+matt_d,1,44565682,32,1752529309,Clang: -Wexperimental-lifetime-safety: Experimental C++ Lifetime Safety Analysis,story,https://github.com/llvm/llvm-project/commit/3076794e924f,,github.com
+decryption,194,44540402,1026,1752309915,MacPaint Art from the Mid-80s Still Looks Great Today,story,https://blog.decryption.net.au/posts/macpaint.html,,decryption.net.au
+goinggetthem,325,44553389,288,1752438217,Five companies now control over 90% of the restaurant food delivery market,story,https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90,,marketsaintefficient.substack.com
+pseudolus,18,44549149,48,1752402367,"AI therapy bots fuel delusions and give dangerous advice, Stanford study finds",story,https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/,,arstechnica.com
+bwidlar,11,44507931,67,1752053637,Experimental imperative-style music sequence generator engine,story,https://github.com/renoise/pattrns,,github.com
+PaulHoule,7,44566982,13,1752542436,Mass timber for hospitals: engineered wood resists microbes more than plastic,story,https://techxplore.com/news/2025-07-mass-timber-elevate-hospital-wood.html,,techxplore.com
 pseudolus,48,44549134,112,1752402218,Gaming cancer: How citizen science games could help cure disease,story,https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/,,thereader.mitpress.mit.edu
-NaOH,8,44545599,34,1752358019,"Daniel Kleppner, Physicist Who Brought Atomic Clock Precision to GPS, Has Died",story,https://www.nytimes.com/2025/07/12/science/daniel-kleppner-dead.html,,nytimes.com
-duxup,3,44564255,18,1752521158,"Plastic surgeon off the hook for alleged Covid fraud, injecting kids with saline",story,https://arstechnica.com/health/2025/07/bondi-drops-case-on-doc-accused-of-giving-kids-saline-shots-instead-of-vaccines/,,arstechnica.com
-perihelions,211,44533337,385,1752247997,Lead pigment in turmeric is the culprit in a global poisoning mystery (2024),story,https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh,,npr.org
+NaOH,8,44545599,35,1752358019,"Daniel Kleppner, Physicist Who Brought Atomic Clock Precision to GPS, Has Died",story,https://www.nytimes.com/2025/07/12/science/daniel-kleppner-dead.html,,nytimes.com
+perihelions,212,44533337,386,1752247997,Lead pigment in turmeric is the culprit in a global poisoning mystery (2024),story,https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh,,npr.org
+zzzeek,0,44566839,27,1752540540,'Tremendous uncertainty' for cancer research as US gov target mRNA vaccines,story,https://www.theguardian.com/us-news/2025/jul/12/mrna-vaccine-cancer-research-trump-administration,,theguardian.com
 toomuchtodo,43,44500815,137,1751987793,First malaria treatment for babies approved for use,story,https://www.bbc.com/news/articles/c89e872jdjxo,,bbc.com
+DocFeind,6,44563827,20,1752518832,"Brain drug: The deadliest ""addiction"" isn't a drug. It's something much worse",story,https://slate.com/life/2025/07/drug-brain-addiction-revenge-public-health-death.html,,slate.com
 layer8,416,44484207,300,1751837248,LLMs should not replace therapists,story,https://arxiv.org/abs/2504.18412,,arxiv.org
-gnabgib,114,44545858,124,1752360494,Light exposure at night predicts incidence of cardiovascular diseases,story,https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1,,medrxiv.org
-timthorn,7,44529008,36,1752215918,Gut microbes could protect us from toxic 'forever chemicals',story,https://www.cam.ac.uk/research/news/gut-microbes-could-protect-us-from-toxic-forever-chemicals,,cam.ac.uk
 Anon84,59,44480363,120,1751806171,"The most otherworldly, mysterious forms of lightning on Earth",story,https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms,,nationalgeographic.com
-joak,50,44539433,104,1752296479,Psilocybin shows promise as anti-aging therapy,story,https://neurosciencenews.com/psilocybin-longevity-aging-29425/,,neurosciencenews.com
-paulpauper,5,44555249,17,1752453779,Nobody Wants to Hear Good News About Psychiatric Medicine,story,https://freddiedeboer.substack.com/p/nobody-wants-to-hear-good-news-about,,freddiedeboer.substack.com
+timthorn,7,44529008,36,1752215918,Gut microbes could protect us from toxic 'forever chemicals',story,https://www.cam.ac.uk/research/news/gut-microbes-could-protect-us-from-toxic-forever-chemicals,,cam.ac.uk
+duxup,3,44564255,18,1752521158,"Plastic surgeon off the hook for alleged Covid fraud, injecting kids with saline",story,https://arstechnica.com/health/2025/07/bondi-drops-case-on-doc-accused-of-giving-kids-saline-shots-instead-of-vaccines/,,arstechnica.com
+gnabgib,114,44545858,124,1752360494,Light exposure at night predicts incidence of cardiovascular diseases,story,https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1,,medrxiv.org
 GavCo,37,44513843,222,1752088808,Biomni: A General-Purpose Biomedical AI Agent,story,https://github.com/snap-stanford/Biomni,,github.com
+joak,51,44539433,104,1752296479,Psilocybin shows promise as anti-aging therapy,story,https://neurosciencenews.com/psilocybin-longevity-aging-29425/,,neurosciencenews.com
 todsacerdoti,2,44529116,25,1752217153,Sipgate discovers null-pointer-dereference in Mediatek VoLTE stack firmware,story,https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware,,sipgate.de
-XzetaU8,4,44518381,36,1752133378,"Large-scale DNA study maps 37,000 years of human disease history",story,https://www.cam.ac.uk/research/news/large-scale-dna-study-maps-37000-years-of-human-disease-history,,cam.ac.uk
 wglb,114,44461082,207,1751602572,"Hymn to Babylon, missing for a millennium, has been discovered",story,https://phys.org/news/2025-07-hymn-babylon-millennium.html,,phys.org
-mgh2,119,44553949,121,1752442532,Big Data was used to see if TCM was scientific (2023),story,https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science,,mcgill.ca
+XzetaU8,4,44518381,36,1752133378,"Large-scale DNA study maps 37,000 years of human disease history",story,https://www.cam.ac.uk/research/news/large-scale-dna-study-maps-37000-years-of-human-disease-history,,cam.ac.uk
 bookofjoe,167,44463429,225,1751627081,The chemical secrets that help keep honey fresh for so long,story,https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long,,bbc.com
