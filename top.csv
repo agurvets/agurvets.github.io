@@ -1,25 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-saisrirampur,31,44567888,108,1752554588,When Sigterm Does Nothing: A Postgres Mystery,story,https://clickhouse.com/blog/sigterm-postgres-mystery,,clickhouse.com
-reaperducer,19,44566034,75,1752532088,DEWLine Museum – The Distant Early Warning Radar Line,story,https://dewlinemuseum.com/,,dewlinemuseum.com
+1659447091,2,44587116,13,1752702215,Babies made using three people's DNA are born free of mitochondrial disease,story,https://www.bbc.com/news/articles/cn8179z199vo,,bbc.com
+saisrirampur,33,44567888,112,1752554588,When Sigterm Does Nothing: A Postgres Mystery,story,https://clickhouse.com/blog/sigterm-postgres-mystery,,clickhouse.com
+reaperducer,19,44566034,76,1752532088,DEWLine Museum – The Distant Early Warning Radar Line,story,https://dewlinemuseum.com/,,dewlinemuseum.com
+bookofjoe,3,44564155,15,1752520491,High-resolution imaging method details nerves across a mouse’s body,story,https://www.nature.com/articles/d41586-025-02156-y,,nature.com
+decryption,195,44540402,1036,1752309915,MacPaint Art from the Mid-80s Still Looks Great Today,story,https://blog.decryption.net.au/posts/macpaint.html,,decryption.net.au
 matt_d,1,44565682,40,1752529309,Clang: -Wexperimental-lifetime-safety: Experimental C++ Lifetime Safety Analysis,story,https://github.com/llvm/llvm-project/commit/3076794e924f,,github.com
-Thevet,52,44545695,91,1752359097,I solved the century-old mystery of a shipwreck survivor,story,https://thewalrus.ca/empress-of-ireland-survivor-mystery/,,thewalrus.ca
-pseudolus,5,44577282,17,1752624422,Large study squashes anti-vaccine talking points about aluminum,story,https://arstechnica.com/health/2025/07/large-study-squashes-anti-vaccine-talking-points-about-aluminum/,,arstechnica.com
-decryption,194,44540402,1030,1752309915,MacPaint Art from the Mid-80s Still Looks Great Today,story,https://blog.decryption.net.au/posts/macpaint.html,,decryption.net.au
-goinggetthem,328,44553389,291,1752438217,Five companies now control over 90% of the restaurant food delivery market,story,https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90,,marketsaintefficient.substack.com
-maartenscholl,6,44576946,15,1752621577,Billionaires Convince Themselves Chatbots Close to Making Scientific Discoveries,story,https://gizmodo.com/billionaires-convince-themselves-ai-is-close-to-making-new-scientific-discoveries-2000629060,,gizmodo.com
-pseudolus,19,44549149,50,1752402367,"AI therapy bots fuel delusions and give dangerous advice, Stanford study finds",story,https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/,,arstechnica.com
+Thevet,53,44545695,93,1752359097,I solved the century-old mystery of a shipwreck survivor,story,https://thewalrus.ca/empress-of-ireland-survivor-mystery/,,thewalrus.ca
+goinggetthem,329,44553389,291,1752438217,Five companies now control over 90% of the restaurant food delivery market,story,https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90,,marketsaintefficient.substack.com
+pseudolus,19,44549149,52,1752402367,"AI therapy bots fuel delusions and give dangerous advice, Stanford study finds",story,https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/,,arstechnica.com
 bwidlar,12,44507931,68,1752053637,Experimental imperative-style music sequence generator engine,story,https://github.com/renoise/pattrns,,github.com
 pseudolus,48,44549134,112,1752402218,Gaming cancer: How citizen science games could help cure disease,story,https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/,,thereader.mitpress.mit.edu
-aspenmayer,2,44573500,11,1752599675,Israel and Iran Usher in New Era of Psychological Warfare,story,https://www.nytimes.com/2025/07/15/technology/israel-iran-psychological-warfare.html,,nytimes.com
-NaOH,8,44545599,35,1752358019,"Daniel Kleppner, Physicist Who Brought Atomic Clock Precision to GPS, Has Died",story,https://www.nytimes.com/2025/07/12/science/daniel-kleppner-dead.html,,nytimes.com
 perihelions,213,44533337,386,1752247997,Lead pigment in turmeric is the culprit in a global poisoning mystery (2024),story,https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh,,npr.org
-toomuchtodo,43,44500815,137,1751987793,First malaria treatment for babies approved for use,story,https://www.bbc.com/news/articles/c89e872jdjxo,,bbc.com
+NaOH,8,44545599,35,1752358019,"Daniel Kleppner, Physicist Who Brought Atomic Clock Precision to GPS, Has Died",story,https://www.nytimes.com/2025/07/12/science/daniel-kleppner-dead.html,,nytimes.com
 layer8,416,44484207,300,1751837248,LLMs should not replace therapists,story,https://arxiv.org/abs/2504.18412,,arxiv.org
-PaulHoule,7,44566982,13,1752542436,Mass timber for hospitals: engineered wood resists microbes more than plastic,story,https://techxplore.com/news/2025-07-mass-timber-elevate-hospital-wood.html,,techxplore.com
-Anon84,59,44480363,121,1751806171,"The most otherworldly, mysterious forms of lightning on Earth",story,https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms,,nationalgeographic.com
-DocFeind,13,44571954,26,1752592160,Secret changes to major U.S. health datasets raise alarms,story,https://www.psypost.org/secret-changes-to-major-u-s-health-datasets-raise-alarms/,,psypost.org
-timthorn,7,44529008,36,1752215918,Gut microbes could protect us from toxic 'forever chemicals',story,https://www.cam.ac.uk/research/news/gut-microbes-could-protect-us-from-toxic-forever-chemicals,,cam.ac.uk
-DocFeind,7,44563827,23,1752518832,"Brain drug: The deadliest ""addiction"" isn't a drug. It's something much worse",story,https://slate.com/life/2025/07/drug-brain-addiction-revenge-public-health-death.html,,slate.com
-zzzeek,0,44566839,27,1752540540,'Tremendous uncertainty' for cancer research as US gov target mRNA vaccines,story,https://www.theguardian.com/us-news/2025/jul/12/mrna-vaccine-cancer-research-trump-administration,,theguardian.com
-gnabgib,114,44545858,124,1752360494,Light exposure at night predicts incidence of cardiovascular diseases,story,https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1,,medrxiv.org
-GavCo,37,44513843,222,1752088808,Biomni: A General-Purpose Biomedical AI Agent,story,https://github.com/snap-stanford/Biomni,,github.com
+toomuchtodo,43,44500815,137,1751987793,First malaria treatment for babies approved for use,story,https://www.bbc.com/news/articles/c89e872jdjxo,,bbc.com
