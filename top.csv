@@ -1,23 +1,22 @@
 by,descendants,id,score,time,title,type,url,text,domain
-marcodiego,7,44625360,67,1753020686,The old Caveman Chemistry website (1996-2000),story,https://cavemanchemistry.com/oldcave/,,cavemanchemistry.com
-Bluestein,5,44627827,29,1753035713,New Antimatter Physics Discovered at the Large Hadron Collider,story,https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/,,scientificamerican.com
-Anon84,55,44591775,160,1752748985,Mushroom learns to crawl after being given robot body (2024),story,https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html,,the-independent.com
-1659447091,208,44587116,289,1752702215,Babies made using three people's DNA are born free of mitochondrial disease,story,https://www.bbc.com/news/articles/cn8179z199vo,,bbc.com
-thunderbong,22,44624454,31,1753013692,Scientists reveal a widespread but unidentified psychological phenomenon,story,https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/,,psypost.org
-paulpauper,2,44627239,12,1753031966,Employers planning to pass the rising healthcare costs to the employees in 2026,story,https://www.cnn.com/2025/07/16/economy/health-care-costs-employees-2026,,cnn.com
+marcodiego,8,44625360,72,1753020686,The old Caveman Chemistry website (1996-2000),story,https://cavemanchemistry.com/oldcave/,,cavemanchemistry.com
+Bluestein,7,44627827,38,1753035713,New Antimatter Physics Discovered at the Large Hadron Collider,story,https://www.scientificamerican.com/article/the-large-hadron-collider-discovers-antimatter-behaving-oddly-in-new-class/,,scientificamerican.com
+Anon84,58,44591775,162,1752748985,Mushroom learns to crawl after being given robot body (2024),story,https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html,,the-independent.com
+1659447091,211,44587116,290,1752702215,Babies made using three people's DNA are born free of mitochondrial disease,story,https://www.bbc.com/news/articles/cn8179z199vo,,bbc.com
+thunderbong,23,44624454,32,1753013692,Scientists reveal a widespread but unidentified psychological phenomenon,story,https://www.psypost.org/scientists-reveal-a-widespread-but-previously-unidentified-psychological-phenomenon/,,psypost.org
 bookofjoe,137,44608295,308,1752863946,Cancer DNA is detectable in blood years before diagnosis,story,https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening,,sciencenews.org
 Bluestein,284,44603267,268,1752836228,Psilocybin decreases depression and anxiety in cancer patients (2016),story,https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/,,pmc.ncbi.nlm.nih.gov
-anigbrowl,279,44610732,258,1752879656,EPA says it will eliminate its scientific research arm,story,https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html,,nytimes.com
+paulpauper,2,44627239,12,1753031966,Employers planning to pass the rising healthcare costs to the employees in 2026,story,https://www.cnn.com/2025/07/16/economy/health-care-costs-employees-2026,,cnn.com
+anigbrowl,280,44610732,258,1752879656,EPA says it will eliminate its scientific research arm,story,https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html,,nytimes.com
 Hooke,141,44572954,116,1752597204,A 1960s schools experiment that created a new alphabet,story,https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell,,theguardian.com
 randycupertino,72,44608170,166,1752863182,Third patient dies from acute liver failure caused by a Sarepta gene therapy,story,https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy,,biocentury.com
-01-_-,44,44618595,118,1752953659,'Universal cancer vaccine' trains the immune system to kill any tumor,story,https://newatlas.com/cancer/universal-cancer-vaccine/,,newatlas.com
+01-_-,45,44618595,118,1752953659,'Universal cancer vaccine' trains the immune system to kill any tumor,story,https://newatlas.com/cancer/universal-cancer-vaccine/,,newatlas.com
 MaysonL,19,44599711,55,1752796914,Astronomers Discover Rare Distant Object in Sync with Neptune,story,https://pweb.cfa.harvard.edu/news/astronomers-discover-rare-distant-object-sync-neptune,,pweb.cfa.harvard.edu
-hhs,87,44626107,63,1753025347,The landlord gutting America’s hospitals,story,https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/,,motherjones.com
 saisrirampur,33,44567888,115,1752554588,When Sigterm Does Nothing: A Postgres Mystery,story,https://clickhouse.com/blog/sigterm-postgres-mystery,,clickhouse.com
 reaperducer,19,44566034,76,1752532088,DEWLine Museum – The Distant Early Warning Radar Line,story,https://dewlinemuseum.com/,,dewlinemuseum.com
 MPSFounder,3,44617718,12,1752947702,EPA shutters its scientific research arm,story,https://www.cbsnews.com/news/epa-shutters-its-scientific-research-arm-hundreds-of-scientists-expected-to-be-impacted/,,cbsnews.com
 nehal96,61,44573193,73,1752598133,What's going on with gene therapies?,story,https://nehalslearnings.substack.com/p/whats-going-on-with-gene-therapies,,nehalslearnings.substack.com
 mooreds,3,44594183,14,1752764662,Termination of Regional Food Business Centers Programs,story,https://www.ams.usda.gov/press-release/termination-regional-food-business-centers-programs,,ams.usda.gov
+hhs,93,44626107,63,1753025347,The landlord gutting America’s hospitals,story,https://www.motherjones.com/politics/2025/07/the-landlord-gutting-americas-hospitals/,,motherjones.com
 Medusalix,4,44593975,22,1752763390,Reverse Engineering the Miele Diagnostic Interface,story,https://medusalix.github.io/posts/miele-interface/,,medusalix.github.io
 matt_d,1,44565682,42,1752529309,Clang: -Wexperimental-lifetime-safety: Experimental C++ Lifetime Safety Analysis,story,https://github.com/llvm/llvm-project/commit/3076794e924f,,github.com
-jrflowers,0,44608448,23,1752864867,OpenAI Investor Appears to Be Suffering a ChatGPT-Related Mental Health Crisis,story,https://futurism.com/openai-investor-chatgpt-mental-health,,futurism.com
