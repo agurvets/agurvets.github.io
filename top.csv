@@ -1,18 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-ibobev,2,44703180,28,1753639092,Profiling without Source code – how I diagnosed Trackmania stuttering,story,https://larstofus.com/2025/07/27/profiling-without-source-code-how-i-diagnosed-trackmania-stuttering/,,larstofus.com
-severusdd,2,44745913,11,1753971465,Google is experimenting with machine-learning powered age estimation tech in US,story,https://techcrunch.com/2025/07/31/google-is-experimenting-with-machine-learning-powered-age-estimation-tech-in-the-u-s/,,techcrunch.com
-mooreds,20,44745113,44,1753966035,How Scientific Empires End,story,https://www.theatlantic.com/science/archive/2025/07/science-empire-america-decline/683711/,,theatlantic.com
-mihau,5,44716356,11,1753740704,ReproZip – reproducible experiments from command-line executions,story,https://github.com/VIDA-NYU/reprozip,,github.com
-jonbaer,28,44742117,37,1753933307,Suspending Duty-Free De Minimis Treatment for All Countries,story,https://www.whitehouse.gov/presidential-actions/2025/07/suspending-duty-free-de-minimis-treatment-for-all-countries/,,whitehouse.gov
-perihelions,0,44743513,18,1753949830,Woman Who Died of Heart Disease in ICE Custody Wasn't Allowed to See Doctor,story,https://reason.com/2025/07/30/woman-who-died-of-heart-disease-in-ice-custody-reportedly-told-son-she-wasnt-allowed-to-see-doctor-for-chest-pains/,,reason.com
-alex77456,9,44729169,34,1753829447,Phenome-wide analysis of diseases in relation to sleep traits,story,https://spj.science.org/doi/10.34133/hds.0161,,spj.science.org
-MBCook,167,44711612,365,1753715160,"FDA has approved Yeztugo, a drug that provides protection against HIV infection",story,https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/,,newatlas.com
-bj-rn,74,44721204,139,1753782134,Nothing to watch – Experimental gallery visualizing 50k film posters,story,https://nothing-to-watch.port80.ch,,nothing-to-watch.port80.ch
-jdkee,5,44728843,20,1753827064,Spy agencies are experimenting with the newest AI models,story,https://www.economist.com/international/2025/07/29/how-spy-agencies-are-experimenting-with-the-newest-ai-models,,economist.com
-mykowebhn,142,44724898,127,1753804425,The hit film about overworked nurses that's causing alarm across Europe,story,https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare,,theguardian.com
+samuell,90,44745984,93,1753971820,Carbon Language: An experimental successor to C++,story,https://docs.carbon-lang.dev/,,carbon-lang.dev
+ibobev,5,44703180,43,1753639092,Profiling without Source code – how I diagnosed Trackmania stuttering,story,https://larstofus.com/2025/07/27/profiling-without-source-code-how-i-diagnosed-trackmania-stuttering/,,larstofus.com
+wiry,4,44747004,12,1753977796,How Not to Study a Disease (2023),story,https://neurofrontiers.blog/book-review-how-not-to-study-a-disease/,,neurofrontiers.blog
+PaulHoule,5,44747721,18,1753981769,"Real milk proteins, no cows: Engineered bacteria for vegan cheese and yogurt",story,https://phys.org/news/2025-07-real-proteins-cows-bacteria-pave.html,,phys.org
+01-_-,2,44747335,14,1753979759,People Have Disappeared in Mexico. Scientists Are Using Dead Pigs to Find Them,story,https://www.popularmechanics.com/science/a65546567/dead-pigs-human-graves/,,popularmechanics.com
+mooreds,38,44745113,55,1753966035,How Scientific Empires End,story,https://www.theatlantic.com/science/archive/2025/07/science-empire-america-decline/683711/,,theatlantic.com
+severusdd,3,44745913,15,1753971465,Google is experimenting with machine-learning powered age estimation tech in US,story,https://techcrunch.com/2025/07/31/google-is-experimenting-with-machine-learning-powered-age-estimation-tech-in-the-u-s/,,techcrunch.com
+mihau,6,44716356,12,1753740704,ReproZip – reproducible experiments from command-line executions,story,https://github.com/VIDA-NYU/reprozip,,github.com
+jonbaer,31,44742117,39,1753933307,Suspending Duty-Free De Minimis Treatment for All Countries,story,https://www.whitehouse.gov/presidential-actions/2025/07/suspending-duty-free-de-minimis-treatment-for-all-countries/,,whitehouse.gov
+MBCook,168,44711612,365,1753715160,"FDA has approved Yeztugo, a drug that provides protection against HIV infection",story,https://newatlas.com/infectious-diseases/hiv-prevention-fda-lenacapavir/,,newatlas.com
+alex77456,9,44729169,35,1753829447,Phenome-wide analysis of diseases in relation to sleep traits,story,https://spj.science.org/doi/10.34133/hds.0161,,spj.science.org
+bj-rn,75,44721204,139,1753782134,Nothing to watch – Experimental gallery visualizing 50k film posters,story,https://nothing-to-watch.port80.ch,,nothing-to-watch.port80.ch
+jdkee,5,44728843,21,1753827064,Spy agencies are experimenting with the newest AI models,story,https://www.economist.com/international/2025/07/29/how-spy-agencies-are-experimenting-with-the-newest-ai-models,,economist.com
+mykowebhn,144,44724898,127,1753804425,The hit film about overworked nurses that's causing alarm across Europe,story,https://www.theguardian.com/film/2025/jul/29/late-shift-swiss-hospital-nurses-overworked-healthcare,,theguardian.com
 stubish,31,44698928,237,1753590933,Chemical process produces critical battery metals with no waste,story,https://spectrum.ieee.org/nmc-battery-aspiring-materials,,spectrum.ieee.org
+perihelions,0,44743513,19,1753949830,Woman Who Died of Heart Disease in ICE Custody Wasn't Allowed to See Doctor,story,https://reason.com/2025/07/30/woman-who-died-of-heart-disease-in-ice-custody-reportedly-told-son-she-wasnt-allowed-to-see-doctor-for-chest-pains/,,reason.com
 horseradish,133,44688096,124,1753475662,Experimental surgery performed by AI-driven surgical robot,story,https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/,,arstechnica.com
-EA-3167,1,44729638,11,1753833668,SSRIs as Cancer Therapy,story,https://www.science.org/content/blog-post/ssris-cancer-therapy,,science.org
 MattSayar,469,44676817,404,1753394359,Scientists may have found a way to eliminate chromosome linked to Down syndrome,story,https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019,,academic.oup.com
-wiry,3,44728686,28,1753826020,New drug could halt Alzheimer's,story,https://www.telegraph.co.uk/news/2025/07/28/new-drug-could-halt-alzheimers-disease/,,telegraph.co.uk
-lightlyused,156,44700923,213,1753620271,Beetroot juice lowers blood pressure by changing oral microbiome: study,story,https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/beetroot-juice-lowers-blood-pressure-in-older-people-by-changing-oral-microbiome/,,news.exeter.ac.uk
