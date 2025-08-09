@@ -1,9 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-quadrin,4,44800336,13,1754411767,The Day Novartis Chose Discovery,story,https://www.alexkesin.com/p/the-day-novartis-chose-discovery,,alexkesin.com
-speckx,508,44836219,289,1754656076,"Food, housing, & health care costs are a source of major stress for many people",story,https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/,,apnorc.org
-pseudolus,381,44796526,416,1754391367,"Scientific fraud has become an 'industry,' analysis finds",story,https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds,,science.org
-detaro,42,44767727,216,1754143386,Indian Sign Painting: A typeface designer's take on the craft,story,https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/,,bl.ag
-binarymax,6,44837367,16,1754663155,GPT-5 streaming requires submission of biometric data,story,,"OpenAI is requiring people to submit their biometric information to Persona, if you want to use GPT-5 in streaming mode through the API.<p>This is the error you will receive:<p><pre><code>  error: {
+pabs3,120,44843605,184,1754706657,Let's properly analyze an AI article for once,story,https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html,,nibblestew.blogspot.com
+oumua_don17,6,44847175,34,1754752480,Man-eating' screw worm turns hospital into horror show,story,https://www.telegraph.co.uk/global-health/science-and-disease/man-eater-screw-worm-parasite-honduras-central-america/,,telegraph.co.uk
+lxm,81,44846226,83,1754745297,Intermittent fasting strategies and their effects on body weight,story,https://www.bmj.com/content/389/bmj-2024-082007,,bmj.com
+skeptrune,6,44801363,15,1754415444,Debugging a mysterious HTTP streaming issue,story,https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything,,mintlify.com
+quadrin,8,44800336,26,1754411767,The Day Novartis Chose Discovery,story,https://www.alexkesin.com/p/the-day-novartis-chose-discovery,,alexkesin.com
+lentoutcry,4,44845442,20,1754735901,Doctors horrified after Google's healthcare AI makes up body part,story,https://futurism.com/neoscope/google-healthcare-ai-makes-up-body-part,,futurism.com
+speckx,523,44836219,297,1754656076,"Food, housing, & health care costs are a source of major stress for many people",story,https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/,,apnorc.org
+pseudolus,383,44796526,417,1754391367,"Scientific fraud has become an 'industry,' analysis finds",story,https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds,,science.org
+mitchbob,219,44781116,119,1754268088,Why doctors hate their computers (2018),story,https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers,,newyorker.com
+sohkamyung,47,44785238,107,1754312838,Scientists shine a laser through a human head,story,https://spectrum.ieee.org/optical-brain-imaging,,spectrum.ieee.org
+PaulHoule,1,44788107,13,1754325048,Synthetic Biology for Space Exploration,story,https://www.nature.com/articles/s41526-025-00488-7,,nature.com
+binarymax,7,44837367,29,1754663155,GPT-5 streaming requires submission of biometric data,story,,"OpenAI is requiring people to submit their biometric information to Persona, if you want to use GPT-5 in streaming mode through the API.<p>This is the error you will receive:<p><pre><code>  error: {
     message: &#x27;Your organization must be verified to stream this model. Please go to: https:&#x2F;&#x2F;platform.openai.com&#x2F;settings&#x2F;organization&#x2F;general and click on Verify Organization. If you just verified, it can take up to 15 minutes for access to propagate.&#x27;,
     type: &#x27;invalid_request_error&#x27;,
     param: &#x27;stream&#x27;,
@@ -11,12 +18,7 @@ binarymax,6,44837367,16,1754663155,GPT-5 streaming requires submission of biomet
   }
 </code></pre>
 Clicking through and pressing verify you are challenged to submit your ID and with this message:<p>&gt; <i>By filling the checkbox below, you consent to Persona, OpenAI’s vendor, collecting, using, and utilizing its service providers to process your biometric information to verify your identity, identify fraud, and conduct quality assurance for Persona’s platform in accordance with its Privacy Policy and OpenAI’s privacy policy. Your biometric information will be stored for no more than 1 year.</i>",
-tigerlily,44,44840982,42,1754682727,Disney 1985 film The Black Cauldron was an experiment that failed,story,https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney,,bbc.com
-mitchbob,219,44781116,119,1754268088,Why doctors hate their computers (2018),story,https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers,,newyorker.com
-PaulHoule,1,44788107,12,1754325048,Synthetic Biology for Space Exploration,story,https://www.nature.com/articles/s41526-025-00488-7,,nature.com
-gamechangr,19,44830685,32,1754602622,"If GLP-1 Drugs Are Good for Everything, Should We All Be on Them?",story,https://www.derekthompson.org/p/why-does-it-seem-like-glp-1-drugs,,derekthompson.org
-sohkamyung,47,44785238,107,1754312838,Scientists shine a laser through a human head,story,https://spectrum.ieee.org/optical-brain-imaging,,spectrum.ieee.org
-benbreen,11,44776505,57,1754228140,The mystery of Winston Churchill's dead platypus was finally solved,story,https://www.bbc.com/news/articles/cglzl1ez283o,,bbc.com
-LAsteNERD,11,44787073,25,1754320851,Scientists have recreated the Universe's first molecule,story,https://www.sciencedaily.com/releases/2025/08/250803011840.htm,,sciencedaily.com
-cratermoon,5,44829824,21,1754597885,"After using ChatGPT, man swaps his salt for sodium bromide–and suffers psychosis",story,https://arstechnica.com/health/2025/08/after-using-chatgpt-man-swaps-his-salt-for-sodium-bromide-and-suffers-psychosis/,,arstechnica.com
-samuell,193,44745984,155,1753971820,Carbon Language: An experimental successor to C++,story,https://docs.carbon-lang.dev/,,carbon-lang.dev
+amichail,1,44843235,14,1754701857,A Routine Vaccine May Lower Dementia Risk by as Much as 20%,story,https://www.sciencealert.com/a-routine-vaccine-may-lower-dementia-risk-by-as-much-as-20,,sciencealert.com
+tigerlily,44,44840982,44,1754682727,Disney 1985 film The Black Cauldron was an experiment that failed,story,https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney,,bbc.com
+gamechangr,21,44830685,32,1754602622,"If GLP-1 Drugs Are Good for Everything, Should We All Be on Them?",story,https://www.derekthompson.org/p/why-does-it-seem-like-glp-1-drugs,,derekthompson.org
+LAsteNERD,11,44787073,26,1754320851,Scientists have recreated the Universe's first molecule,story,https://www.sciencedaily.com/releases/2025/08/250803011840.htm,,sciencedaily.com
