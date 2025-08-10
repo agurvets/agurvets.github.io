@@ -1,14 +1,15 @@
 by,descendants,id,score,time,title,type,url,text,domain
-lxm,135,44845273,53,1754733271,Did California's fast food minimum wage reduce employment?,story,https://www.nber.org/papers/w34033,,nber.org
-amichail,12,44804768,21,1754430190,The mystery of Alice in Wonderland syndrome,story,https://www.bbc.com/future/article/20230313-the-mystery-of-alice-in-wonderland-syndrome,,bbc.com
-pabs3,124,44843605,190,1754706657,Let's properly analyze an AI article for once,story,https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html,,nibblestew.blogspot.com
-lxm,87,44846226,87,1754745297,Intermittent fasting strategies and their effects on body weight,story,https://www.bmj.com/content/389/bmj-2024-082007,,bmj.com
+lxm,201,44845273,102,1754733271,Did California's fast food minimum wage reduce employment?,story,https://www.nber.org/papers/w34033,,nber.org
+dskhatri,1,44815002,13,1754501365,The Scroll Art (Animated ASCII) Museum,story,https://scrollart.org/,,scrollart.org
+pabs3,125,44843605,201,1754706657,Let's properly analyze an AI article for once,story,https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html,,nibblestew.blogspot.com
+amichail,13,44804768,24,1754430190,The mystery of Alice in Wonderland syndrome,story,https://www.bbc.com/future/article/20230313-the-mystery-of-alice-in-wonderland-syndrome,,bbc.com
 skeptrune,6,44801363,15,1754415444,Debugging a mysterious HTTP streaming issue,story,https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything,,mintlify.com
+lxm,88,44846226,92,1754745297,Intermittent fasting strategies and their effects on body weight,story,https://www.bmj.com/content/389/bmj-2024-082007,,bmj.com
 quadrin,8,44800336,26,1754411767,The Day Novartis Chose Discovery,story,https://www.alexkesin.com/p/the-day-novartis-chose-discovery,,alexkesin.com
-oumua_don17,6,44847175,40,1754752480,Man-eating' screw worm turns hospital into horror show,story,https://www.telegraph.co.uk/global-health/science-and-disease/man-eater-screw-worm-parasite-honduras-central-america/,,telegraph.co.uk
+oumua_don17,6,44847175,41,1754752480,Man-eating' screw worm turns hospital into horror show,story,https://www.telegraph.co.uk/global-health/science-and-disease/man-eater-screw-worm-parasite-honduras-central-america/,,telegraph.co.uk
 lentoutcry,4,44845442,21,1754735901,Doctors horrified after Google's healthcare AI makes up body part,story,https://futurism.com/neoscope/google-healthcare-ai-makes-up-body-part,,futurism.com
-speckx,525,44836219,297,1754656076,"Food, housing, & health care costs are a source of major stress for many people",story,https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/,,apnorc.org
 pseudolus,383,44796526,417,1754391367,"Scientific fraud has become an 'industry,' analysis finds",story,https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds,,science.org
+speckx,525,44836219,297,1754656076,"Food, housing, & health care costs are a source of major stress for many people",story,https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/,,apnorc.org
 mitchbob,219,44781116,119,1754268088,Why doctors hate their computers (2018),story,https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers,,newyorker.com
 sohkamyung,47,44785238,107,1754312838,Scientists shine a laser through a human head,story,https://spectrum.ieee.org/optical-brain-imaging,,spectrum.ieee.org
 PaulHoule,1,44788107,13,1754325048,Synthetic Biology for Space Exploration,story,https://www.nature.com/articles/s41526-025-00488-7,,nature.com
@@ -20,7 +21,3 @@ binarymax,7,44837367,30,1754663155,GPT-5 streaming requires submission of biomet
   }
 </code></pre>
 Clicking through and pressing verify you are challenged to submit your ID and with this message:<p>&gt; <i>By filling the checkbox below, you consent to Persona, OpenAI’s vendor, collecting, using, and utilizing its service providers to process your biometric information to verify your identity, identify fraud, and conduct quality assurance for Persona’s platform in accordance with its Privacy Policy and OpenAI’s privacy policy. Your biometric information will be stored for no more than 1 year.</i>",
-amichail,1,44843235,14,1754701857,A Routine Vaccine May Lower Dementia Risk by as Much as 20%,story,https://www.sciencealert.com/a-routine-vaccine-may-lower-dementia-risk-by-as-much-as-20,,sciencealert.com
-tigerlily,44,44840982,44,1754682727,Disney 1985 film The Black Cauldron was an experiment that failed,story,https://www.bbc.com/culture/article/20250807-the-radical-film-that-became-a-disaster-for-disney,,bbc.com
-gamechangr,21,44830685,32,1754602622,"If GLP-1 Drugs Are Good for Everything, Should We All Be on Them?",story,https://www.derekthompson.org/p/why-does-it-seem-like-glp-1-drugs,,derekthompson.org
-LAsteNERD,11,44787073,26,1754320851,Scientists have recreated the Universe's first molecule,story,https://www.sciencedaily.com/releases/2025/08/250803011840.htm,,sciencedaily.com
