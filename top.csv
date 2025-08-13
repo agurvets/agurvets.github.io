@@ -1,16 +1,13 @@
 by,descendants,id,score,time,title,type,url,text,domain
-logan1085,93,44865813,147,1754928274,"Claude is the drug, Cursor is the dealer",story,https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the,,middlelayer.substack.com
-sbirulo,2,44824811,46,1754576499,A simple pixel physics simulator in Rust using Macroquad,story,https://github.com/gale93/sbixel,,github.com
-vinhnx,18,44862112,203,1754902786,Hand-picked selection of articles on AI fundamentals/concepts,story,https://aman.ai/primers/ai/,,aman.ai
-pabs3,135,44843605,226,1754706657,Let's properly analyze an AI article for once,story,https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html,,nibblestew.blogspot.com
-lxm,478,44845273,193,1754733271,Did California's fast food minimum wage reduce employment?,story,https://www.nber.org/papers/w34033,,nber.org
-mooreds,3,44810565,23,1754479578,Suzhou Imperial Kiln Ruins Park and Museum of Imperial Kiln Brick (2018),story,https://www.theplan.it/eng/award-2018-Culture/suzhou-imperial-kiln-ruins-park-museum-of-imperial-kiln-brick-1,,theplan.it
-littlexsparkee,14,44866670,36,1754932038,Canada Gave Citizens the Right to Die. Doctors Are Struggling to Meet Demand,story,https://www.theatlantic.com/magazine/archive/2025/09/canada-euthanasia-demand-maid-policy/683562/,,theatlantic.com
-amichail,18,44804768,33,1754430190,The mystery of Alice in Wonderland syndrome,story,https://www.bbc.com/future/article/20230313-the-mystery-of-alice-in-wonderland-syndrome,,bbc.com
-austinallegro,4,44865073,12,1754925242,One-size-fits-all pancreatic cancer vaccine showed promise in early trial,story,https://www.nbcnews.com/health/cancer/pancreatic-cancer-vaccine-prevents-recurrence-phase-1-clinical-trial-rcna223980,,nbcnews.com
-quadrin,10,44800336,29,1754411767,The Day Novartis Chose Discovery,story,https://www.alexkesin.com/p/the-day-novartis-chose-discovery,,alexkesin.com
+PaulHoule,29,44837124,71,1754661978,Artificial biosensor can better measure the body's main stress hormone,story,https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html,,medicalxpress.com
+vhcr,71,44844647,236,1754723271,The Article in the Most Languages,story,https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report,,en.wikipedia.org
+mitchbob,1,44879241,14,1755018881,How an Ultra-Rare Disease Accelerates Aging,story,https://www.newyorker.com/magazine/2025/08/18/how-an-ultra-rare-disease-accelerates-aging,,newyorker.com
+logan1085,116,44865813,174,1754928274,"Claude is the drug, Cursor is the dealer",story,https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the,,middlelayer.substack.com
+sbirulo,4,44824811,49,1754576499,A simple pixel physics simulator in Rust using Macroquad,story,https://github.com/gale93/sbixel,,github.com
+bdev12345,0,44879177,19,1755018660,"Generic drugs, dirty plants, and FDA exemptions",story,https://www.propublica.org/article/fda-inspections-sun-pharma-drug-exemptions,,propublica.org
+vinhnx,18,44862112,213,1754902786,Hand-picked selection of articles on AI fundamentals/concepts,story,https://aman.ai/primers/ai/,,aman.ai
+pabs3,137,44843605,226,1754706657,Let's properly analyze an AI article for once,story,https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html,,nibblestew.blogspot.com
+zzzeek,44,44883475,44,1755046281,AI Eroded Doctors' Ability to Spot Cancer Within Months in Study,story,https://www.bloomberg.com/news/articles/2025-08-12/ai-eroded-doctors-ability-to-spot-cancer-within-months-in-study,,bloomberg.com
+lxm,484,44845273,195,1754733271,Did California's fast food minimum wage reduce employment?,story,https://www.nber.org/papers/w34033,,nber.org
 dskhatri,1,44815002,16,1754501365,The Scroll Art (Animated ASCII) Museum,story,https://scrollart.org/,,scrollart.org
-skeptrune,6,44801363,16,1754415444,Debugging a mysterious HTTP streaming issue,story,https://mintlify.com/blog/debugging-a-mysterious-http-streaming-issue-when-cloudflare-compression-breaks-everything,,mintlify.com
-pseudolus,383,44796526,419,1754391367,"Scientific fraud has become an 'industry,' analysis finds",story,https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds,,science.org
-mitchbob,219,44781116,120,1754268088,Why doctors hate their computers (2018),story,https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers,,newyorker.com
-jmsflknr,0,44867745,11,1754937260,Medical journal rejects Kennedy's call for retraction of vaccine study,story,https://www.reuters.com/business/healthcare-pharmaceuticals/medical-journal-rejects-kennedys-call-for-retraction-vaccine-study-2025-08-11/,,reuters.com
+littlexsparkee,16,44866670,41,1754932038,Canada Gave Citizens the Right to Die. Doctors Are Struggling to Meet Demand,story,https://www.theatlantic.com/magazine/archive/2025/09/canada-euthanasia-demand-maid-policy/683562/,,theatlantic.com
