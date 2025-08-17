@@ -1,18 +1,16 @@
 by,descendants,id,score,time,title,type,url,text,domain
-bookofjoe,217,44912861,162,1755268064,ADHD drug treatment and risk of negative events and outcomes,story,https://www.bmj.com/content/390/bmj-2024-083658,,bmj.com
-PaulHoule,13,44911571,77,1755261163,Non-invasive vagus nerve stimulation and exercise capacity in healthy volunteers,story,https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false,,academic.oup.com
-Anon84,19,44916233,50,1755284496,"Entities enabling scientific fraud at scale are large, and growing rapidly",story,https://www.pnas.org/doi/10.1073/pnas.2420092122,,pnas.org
-breve,57,44899339,223,1755172580,New protein therapy shows promise as antidote for carbon monoxide poisoning,story,https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html,,medschool.umaryland.edu
-reaperducer,240,44893254,389,1755115910,Illinois limits the use of AI in therapy and psychotherapy,story,https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/,,washingtonpost.com
-geox,161,44889580,341,1755098219,New treatment eliminates bladder cancer in 82% of patients,story,https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/,,news.keckmedicine.org
+brightbeige,72,44925476,61,1755366392,Monday – A personality experiment,story,https://chatgpt.com/g/g-67ec3b78892481918c89067962526695-monday,,chatgpt.com
+bookofjoe,441,44912861,339,1755268064,ADHD drug treatment and risk of negative events and outcomes,story,https://www.bmj.com/content/390/bmj-2024-083658,,bmj.com
+PaulHoule,17,44911571,99,1755261163,Non-invasive vagus nerve stimulation and exercise capacity in healthy volunteers,story,https://academic.oup.com/eurheartj/article/46/17/1634/8023896?login=false,,academic.oup.com
+jgwil2,23,44923404,38,1755352112,A Race to Save a Signature American Tree from a Deadly Disease,story,https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html,,nytimes.com
+breve,57,44899339,224,1755172580,New protein therapy shows promise as antidote for carbon monoxide poisoning,story,https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html,,medschool.umaryland.edu
+Anon84,21,44916233,56,1755284496,"Entities enabling scientific fraud at scale are large, and growing rapidly",story,https://www.pnas.org/doi/10.1073/pnas.2420092122,,pnas.org
+reaperducer,241,44893254,390,1755115910,Illinois limits the use of AI in therapy and psychotherapy,story,https://www.washingtonpost.com/nation/2025/08/12/illinois-ai-therapy-ban/,,washingtonpost.com
+geox,162,44889580,343,1755098219,New treatment eliminates bladder cancer in 82% of patients,story,https://news.keckmedicine.org/new-treatment-eliminates-bladder-cancer-in-82-of-patients/,,news.keckmedicine.org
+PaulHoule,32,44837124,78,1754661978,Artificial biosensor can better measure the body's main stress hormone,story,https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html,,medicalxpress.com
 FinnLobsien,6,44897271,13,1755152314,Why hasn't medical science cured headaches?,story,https://www.newyorker.com/magazine/2025/08/18/the-headache-tom-zeller-jr-book-review,,newyorker.com
-PaulHoule,32,44837124,77,1754661978,Artificial biosensor can better measure the body's main stress hormone,story,https://medicalxpress.com/news/2025-07-artificial-biosensor-body-main-stress.html,,medicalxpress.com
-amarcheschi,217,44898934,382,1755168700,"Meta accessed women's health data from Flo app without consent, says court",story,https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court,,malwarebytes.com
+pabs3,140,44843605,226,1754706657,Let's properly analyze an AI article for once,story,https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html,,nibblestew.blogspot.com
 sbirulo,4,44824811,50,1754576499,A simple pixel physics simulator in Rust using Macroquad,story,https://github.com/gale93/sbixel,,github.com
-logan1085,121,44865813,177,1754928274,"Claude is the drug, Cursor is the dealer",story,https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the,,middlelayer.substack.com
-pabs3,139,44843605,226,1754706657,Let's properly analyze an AI article for once,story,https://nibblestew.blogspot.com/2025/08/lets-properly-analyze-ai-article-for.html,,nibblestew.blogspot.com
-pseudolus,3,44907788,19,1755222771,"Just 1% of Hiroshima and Nagasaki survivors died from radiation cancers, study",story,https://www.ft.com/content/1b398769-2784-45f2-997c-03c4b923eb29,,ft.com
-vhcr,75,44844647,241,1754723271,The Article in the Most Languages,story,https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report,,en.wikipedia.org
-fortran77,25,44891846,17,1755108683,Why Hasn't Medical Science Cured Chronic Headaches?,story,https://www.newyorker.com/magazine/2025/08/18/the-headache-tom-zeller-jr-book-review,,newyorker.com
-alexcos,2,44905505,14,1755204280,MIT engineers develop DNA sensor to detect HIV and cancer at home for under $1,story,https://news.mit.edu/2025/mit-engineers-develop-electrochemical-sensors-cheap-disposable-diagnostics-0701,,news.mit.edu
-lxm,490,44845273,196,1754733271,Did California's fast food minimum wage reduce employment?,story,https://www.nber.org/papers/w34033,,nber.org
+logan1085,121,44865813,178,1754928274,"Claude is the drug, Cursor is the dealer",story,https://middlelayer.substack.com/p/i-claude-is-the-drug-cursor-is-the,,middlelayer.substack.com
+amarcheschi,218,44898934,383,1755168700,"Meta accessed women's health data from Flo app without consent, says court",story,https://www.malwarebytes.com/blog/news/2025/08/meta-accessed-womens-health-data-from-flo-app-without-consent-says-court,,malwarebytes.com
+vhcr,76,44844647,241,1754723271,The Article in the Most Languages,story,https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-08-09/Disinformation_report,,en.wikipedia.org
