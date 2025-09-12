@@ -1,16 +1,19 @@
-by,descendants,id,score,text,time,title,type,url,domain
-marc__1,65,45188945,317,"<a href=""https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;pii&#x2F;S1535610825003198"" rel=""nofollow"">https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;pii&#x2F;S153561082...</a>",1757451316,Immunotherapy drug clinical trial results: half of tumors shrink or disappear,story,https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/,rockefeller.edu
-geerlingguy,228,45177683,171,,1757394983,YouTube is a mysterious monopoly,story,https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly,anderegg.ca
-darccio,63,45182770,187,,1757429672,A new experimental Go API for JSON,story,https://go.dev/blog/jsonv2-exp,go.dev
-hawski,3,45187349,22,,1757445676,"Astronomers spot mysterious gamma-ray explosion, unlike any detected before",story,https://www.eso.org/public/news/eso2514/,eso.org
-doener,24,45144129,82,,1757109435,Deluxe Paint on the Commodore Amiga,story,https://stonetools.ghost.io/deluxepaint-amiga/,stonetools.ghost.io
-arunc,1,45186484,23,,1757442892,"Chagas disease, which can be deadly, is now considered endemic in the U.S.",story,https://www.uclahealth.org/news/article/chagas-disease-which-can-be-deadly-now-considered-endemic-us,uclahealth.org
-frontsideair,254,45168953,377,,1757342597,Experimenting with Local LLMs on macOS,story,https://blog.6nok.org/experimenting-with-local-llms-on-macos/,6nok.org
-makaimc,6,45185335,22,,1757438890,Czech Police Arrest Driver of Mysterious Fake Ferrari F1 Car After 6 Years,story,https://www.roadandtrack.com/news/a66013606/czech-police-finally-arrest-mysterious-driver-fake-ferrari-f1-car-6-year-chase/,roadandtrack.com
-bookofjoe,37,45121010,184,"<a href=""https:&#x2F;&#x2F;archive.ph&#x2F;FqrQ9"" rel=""nofollow"">https:&#x2F;&#x2F;archive.ph&#x2F;FqrQ9</a>",1756938098,"Like humans, every tree has its own microbiome, a new study has found",story,https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html,nytimes.com
-baruchel,37,45101675,141,,1756812922,New knot theory discovery overturns long-held mathematical assumption,story,https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/,scientificamerican.com
-NaOH,3,45107605,53,,1756839927,Museum of Color,story,https://emergencemagazine.org/essay/museum-of-color/,emergencemagazine.org
-mgh2,1,45176859,15,,1757386451,"Chagas disease, or deadly ""kissing bug"" disease, has spread in the U.S.",story,https://www.cbsnews.com/news/chagas-disease-deadly-kissing-bug-spread-us/,cbsnews.com
-andsoitis,3,45191588,13,,1757464587,"Trump breaks from RFK on vaccines: ""Pure and simple, they work""",story,https://www.axios.com/2025/09/05/trump-rfk-jr-covid-vaccine-cdc,axios.com
-paulpauper,11,45168720,26,,1757341586,Microdosing GLP-1 drugs became a longevity 'craze',story,https://www.washingtonpost.com/health/2025/09/03/microdosing-glp-1-longevity-wellness/,washingtonpost.com
-lentoutcry,97,45152403,94,,1757188906,How often do health insurers say no to patients? (2023),story,https://www.propublica.org/article/how-often-do-health-insurers-deny-patients-claims,propublica.org
+by,descendants,id,score,time,title,type,url,text,domain
+PaulHoule,0,45217499,16,1757637066,Backprompting: Leveraging synthetic production data for health advice guardrails,story,https://arxiv.org/abs/2508.18384,,arxiv.org
+arch_deluxe,376,45199931,1120,1757521255,I didn't bring my son to a museum to look at screens,story,https://sethpurcell.com/writing/screens-in-museums/,,sethpurcell.com
+walterbell,19,45201549,43,1757527731,Vietnam to close 86M bank accounts for lack of biometric data,story,https://vietnamnet.vn/en/vietnam-to-close-86-million-inactive-bank-accounts-by-september-2407820.html,,vietnamnet.vn
+marc__1,91,45188945,470,1757451316,Immunotherapy drug clinical trial results: half of tumors shrink or disappear,story,https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/,"<a href=""https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;pii&#x2F;S1535610825003198"" rel=""nofollow"">https:&#x2F;&#x2F;www.sciencedirect.com&#x2F;science&#x2F;article&#x2F;pii&#x2F;S153561082...</a>",rockefeller.edu
+geerlingguy,477,45177683,367,1757394983,YouTube is a mysterious monopoly,story,https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly,,anderegg.ca
+bookofjoe,0,45215933,11,1757623352,Resistance or high-intensity interval training suppresses cancer cell growth,story,https://pubmed.ncbi.nlm.nih.gov/40608178/,,pubmed.ncbi.nlm.nih.gov
+stevenjgarner,105,45202613,116,1757533347,Minerals represent potential biosignatures in the search for life on Mars,story,https://www.nature.com/articles/s41586-025-09413-0,,nature.com
+darccio,100,45182770,267,1757429672,A new experimental Go API for JSON,story,https://go.dev/blog/jsonv2-exp,,go.dev
+hawski,7,45187349,42,1757445676,"Astronomers spot mysterious gamma-ray explosion, unlike any detected before",story,https://www.eso.org/public/news/eso2514/,,eso.org
+doener,27,45144129,89,1757109435,Deluxe Paint on the Commodore Amiga,story,https://stonetools.ghost.io/deluxepaint-amiga/,,stonetools.ghost.io
+frontsideair,259,45168953,383,1757342597,Experimenting with Local LLMs on macOS,story,https://blog.6nok.org/experimenting-with-local-llms-on-macos/,,6nok.org
+GMoromisato,8,45199899,48,1757521105,NASA Says Mars Rover Discovered Potential Biosignature in 2024,story,https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/,,nasa.gov
+zdw,1,45193234,13,1757478027,Exploring the Japanese Toilet Culture Museum,story,https://spoon-tamago.com/toilet-culture-museum/,,spoon-tamago.com
+bookofjoe,40,45121010,186,1756938098,"Like humans, every tree has its own microbiome, a new study has found",story,https://www.nytimes.com/2025/08/27/science/biology-trees-microbiomes.html,"<a href=""https:&#x2F;&#x2F;archive.ph&#x2F;FqrQ9"" rel=""nofollow"">https:&#x2F;&#x2F;archive.ph&#x2F;FqrQ9</a>",nytimes.com
+rntn,0,45205326,16,1757545497,US shows slowest progress in chronic disease deaths among high income nations,story,https://www.cnn.com/2025/09/10/health/chronic-disease-deaths-global-study-wellness,,cnn.com
+arunc,1,45186484,36,1757442892,"Chagas disease, which can be deadly, is now considered endemic in the U.S.",story,https://www.uclahealth.org/news/article/chagas-disease-which-can-be-deadly-now-considered-endemic-us,,uclahealth.org
+soared,3,45191969,12,1757467833,World Lung Cancer Expert Diagnosed with Advanced Lung Cancer,story,https://news.cuanschutz.edu/cancer-center/ross-camidge-lung-cancer-diagnosis,,news.cuanschutz.edu
+baruchel,37,45101675,141,1756812922,New knot theory discovery overturns long-held mathematical assumption,story,https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/,,scientificamerican.com
