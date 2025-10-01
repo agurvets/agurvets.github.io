@@ -1,22 +1,17 @@
 by,descendants,id,score,time,title,type,url,text,domain
-sandslash,51,45414933,84,1759159211,John Jumper: AI is revolutionizing scientific discovery [video],story,https://www.youtube.com/watch?v=2Yguz5U-Nic,,youtube.com
-abhinavsns,59,45417637,69,1759173400,Don't Become a Scientist (1999),story,https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm,,yangxiao.cs.ua.edu
-program,4,45417300,36,1759171575,Diagnosing a Linux Performance Regression,story,https://automattic.com/2024/03/14/systems-report-linux-performance-regression/,,automattic.com
-PaulHoule,3,45381032,34,1758845838,Myoelectric Stimulation Silent Subwoofer for Body-Sensory Acoustic Sensation,story,https://ieeexplore.ieee.org/document/10979899/,,ieeexplore.ieee.org
-zdw,137,45363465,263,1758735150,Supermicro server motherboards can be infected with unremovable malware,story,https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/,,arstechnica.com
-Kaibeezy,4,45417237,24,1759171187,A blue jay and a green jay mated. Their offspring is a scientific marvel,story,https://www.cnn.com/2025/09/29/science/blue-jay-green-jay-hybrid,,cnn.com
-mooreds,35,45409227,91,1759104961,Health officials in the US are sounding the alarm over drug-resistant bacteria,story,https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us,,aljazeera.com
+brandonb,216,45430498,371,1759262421,Inflammation now predicts heart disease more strongly than cholesterol,story,https://www.empirical.health/blog/inflammation-and-heart-health/,,empirical.health
+sandslash,84,45414933,119,1759159211,John Jumper: AI is revolutionizing scientific discovery [video],story,https://www.youtube.com/watch?v=2Yguz5U-Nic,,youtube.com
+abhinavsns,108,45417637,123,1759173400,Don't Become a Scientist (1999),story,https://yangxiao.cs.ua.edu/Don%27t%20Become%20a%20Scientist!.htm,,yangxiao.cs.ua.edu
+program,4,45417300,47,1759171575,Diagnosing a Linux Performance Regression,story,https://automattic.com/2024/03/14/systems-report-linux-performance-regression/,,automattic.com
+zdw,141,45363465,264,1758735150,Supermicro server motherboards can be infected with unremovable malware,story,https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/,,arstechnica.com
+PaulHoule,5,45381032,36,1758845838,Myoelectric Stimulation Silent Subwoofer for Body-Sensory Acoustic Sensation,story,https://ieeexplore.ieee.org/document/10979899/,,ieeexplore.ieee.org
+bundie,7,45423490,20,1759223573,Man lands in hospital after Samsung smart ring battery swells and traps finger,story,https://www.neowin.net/news/youtuber-lands-in-hospital-after-samsung-smart-ring-battery-swells-and-traps-finger/,,neowin.net
 kevlened,132,45389267,466,1758909686,SimpleFold: Folding proteins is simpler than you think,story,https://github.com/apple/ml-simplefold,"<a href=""https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.18480"" rel=""nofollow"">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2509.18480</a>",github.com
-LittleCat38,8,45404216,38,1759066298,World Lung Cancer Expert Diagnosed with Advanced Lung Cancer,story,https://news.cuanschutz.edu/cancer-center/ross-camidge-lung-cancer-diagnosis,,news.cuanschutz.edu
-XzetaU8,154,45393501,186,1758952841,A lifetime of social ties adds up to healthy aging,story,https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging,,news.cornell.edu
-fibo,79,45347072,601,1758635650,Brutalita Sans: An Experimental Font and Font Editor,story,https://brutalita.com/,,brutalita.com
-_zie,120,45358940,706,1758713850,Huntington's disease treated for first time,story,https://www.bbc.com/news/articles/cevz13xkxpro,,bbc.com
-hilux,15,45418100,14,1759176136,"Ig Nobel Prize: UVC light sterilizes shoes, kills odor",story,https://www.bbc.com/news/articles/cpq51xp4e91o,,bbc.com
+mooreds,36,45409227,92,1759104961,Health officials in the US are sounding the alarm over drug-resistant bacteria,story,https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us,,aljazeera.com
+XzetaU8,156,45393501,186,1758952841,A lifetime of social ties adds up to healthy aging,story,https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging,,news.cornell.edu
+LittleCat38,8,45404216,39,1759066298,World Lung Cancer Expert Diagnosed with Advanced Lung Cancer,story,https://news.cuanschutz.edu/cancer-center/ross-camidge-lung-cancer-diagnosis,,news.cuanschutz.edu
+Kaibeezy,4,45417237,28,1759171187,A blue jay and a green jay mated. Their offspring is a scientific marvel,story,https://www.cnn.com/2025/09/29/science/blue-jay-green-jay-hybrid,,cnn.com
 PaulHoule,62,45362254,182,1758729822,"New bacteria, and two potential antibiotics, discovered in soil",story,https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/,,rockefeller.edu
 bmau5,77,45389464,149,1758910833,Oral Microbes Linked to 3-Fold Increased Risk of Pancreatic Cancer,story,https://nyulangone.org/news/oral-microbes-linked-increased-risk-pancreatic-cancer,,nyulangone.org
-PaulHoule,1,45418511,12,1759178454,Epstein-Barr virus reorganizes genome and drives nasopharyngeal cancer spread,story,https://medicalxpress.com/news/2025-09-epstein-barr-virus-dna-genome.html,,medicalxpress.com
-eagleislandsong,11,45406979,27,1759086691,Chinese scientists set world record with magnetic field 700k times Earth's,story,https://english.news.cn/20250928/a00ea1b8b8db49018bcd3e606df0b06d/c.html,,english.news.cn
 lossolo,29,45364450,109,1758739719,How fast is Go? Simulating particles on a smart TV,story,https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv,,dgerrells.com
 fidotron,24,45378871,50,1758833405,"New Quasi-Moon Discovered Orbiting Earth, but It's Been Around for Decades",story,https://explorersweb.com/new-quasi-moon-discovered-orbiting-earth-but-its-been-around-for-decades/,,explorersweb.com
-XzetaU8,107,45344756,111,1758620014,Permeable materials in homes act as sponges for harmful chemicals: study,story,https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/,,news.uci.edu
-prismatic,17,45355746,40,1758682218,What Happens to Artists' Studios After They Die?,story,https://www.nytimes.com/2025/09/22/t-magazine/artist-studio-legacy-posthumous.html,,nytimes.com
