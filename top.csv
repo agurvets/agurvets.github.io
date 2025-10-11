@@ -1,44 +1,27 @@
 by,descendants,id,score,time,title,type,url,text,domain
-smartmic,54,45550049,179,1760197642,GNU Health,story,https://www.gnuhealth.org/about-us.html,,gnuhealth.org
-jordanf,179,45543475,509,1760128459,I built physical album cards with NFC tags to teach my son music discovery,story,https://fulghum.io/album-cards,,fulghum.io
-NalNezumi,1,45549118,18,1760190413,"Kitagawa, who found a use for the useless, wins the Nobel Prize",story,https://www.asahi.com/ajw/articles/16081940,,asahi.com
-hackthemack,126,45541600,166,1760117863,The illegible nature of software development talent,story,https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/,,surfingcomplexity.blog
-westurner,3,45492704,58,1759766009,Origami Patterns Solve a Major Physics Riddle,story,https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/,,quantamagazine.org
-pykello,661,45536700,575,1760086996,Nobel Peace Prize 2025: María Corina Machado,story,https://www.nobelprize.org/prizes/peace/2025/summary/,,nobelprize.org
+smartmic,89,45550049,303,1760197642,GNU Health,story,https://www.gnuhealth.org/about-us.html,,gnuhealth.org
+jordanf,187,45543475,539,1760128459,I built physical album cards with NFC tags to teach my son music discovery,story,https://fulghum.io/album-cards,,fulghum.io
+NalNezumi,4,45549118,23,1760190413,"Kitagawa, who found a use for the useless, wins the Nobel Prize",story,https://www.asahi.com/ajw/articles/16081940,,asahi.com
+westurner,3,45492704,59,1759766009,Origami Patterns Solve a Major Physics Riddle,story,https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/,,quantamagazine.org
+hackthemack,126,45541600,168,1760117863,The illegible nature of software development talent,story,https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/,,surfingcomplexity.blog
+pykello,665,45536700,579,1760086996,Nobel Peace Prize 2025: María Corina Machado,story,https://www.nobelprize.org/prizes/peace/2025/summary/,,nobelprize.org
 self_awareness,133,45528308,265,1760020612,"New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice",story,https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/,,drugtargetreview.com
 PikelEmi,98,45527003,229,1760014458,Nobel Prize in Literature 2025: László Krasznahorkai,story,https://www.nobelprize.org/prizes/literature/2025/press-release/,,nobelprize.org
-ceejayoz,337,45526754,236,1760013365,The fight between doctors and insurance companies over 'downcoding',story,https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714,,nbcnews.com
-onnnon,45,45539845,130,1760108451,The Molecular Basis of Long Covid Brain Fog,story,https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html,,yokohama-cu.ac.jp
+ceejayoz,338,45526754,237,1760013365,The fight between doctors and insurance companies over 'downcoding',story,https://www.nbcnews.com/health/health-care/guilty-proven-innocent-fight-doctors-insurance-companies-downcoding-rcna230714,,nbcnews.com
 baruchel,46,45490434,175,1759752145,Mathematicians discover prime number pattern in fractal chaos,story,https://www.scientificamerican.com/article/mathematicians-discover-prime-number-pattern-in-fractal-chaos/,,scientificamerican.com
+onnnon,45,45539845,130,1760108451,The Molecular Basis of Long Covid Brain Fog,story,https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html,,yokohama-cu.ac.jp
 pykello,58,45514164,319,1759916976,Nobel Prize in Chemistry 2025,story,https://www.nobelprize.org/prizes/chemistry/2025/popular-information/,,nobelprize.org
-SchwKatze,48,45529748,70,1760026508,"Goiaba: An experimental Go compiler, written in Rust",story,https://github.com/raphamorim/goiaba,,github.com
-luisb,99,45501189,472,1759830649,Nobel Prize in Physics 2025,story,https://www.nobelprize.org/prizes/physics/2025/popular-information/,"<a href=""https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c98d00nq47jo"" rel=""nofollow"">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c98d00nq47jo</a>",nobelprize.org
+luisb,99,45501189,473,1759830649,Nobel Prize in Physics 2025,story,https://www.nobelprize.org/prizes/physics/2025/popular-information/,"<a href=""https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c98d00nq47jo"" rel=""nofollow"">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c98d00nq47jo</a>",nobelprize.org
 tymscar,27,45477983,81,1759624766,When Curl Works but IntelliJ Doesn't: The Ollama Connection Mystery,story,https://blog.tymscar.com/posts/intellijollamaconnectionmystery/,,tymscar.com
+SchwKatze,49,45529748,70,1760026508,"Goiaba: An experimental Go compiler, written in Rust",story,https://github.com/raphamorim/goiaba,,github.com
 doener,6,45489191,46,1759740662,A Tissue Therapeutics Revolution,story,https://cutiss.swiss/,,cutiss.swiss
 lode,78,45489533,346,1759743676,Nobel Prize in Physiology or Medicine 2025,story,https://www.nobelprize.org/prizes/medicine/2025/press-release/,,nobelprize.org
-DDerTyp,8,45536708,17,1760087055,Nobel Peace Prize 2025: Venezuelan Politician Maria Corina Machado,story,https://www.bbc.com/news/live/c1l80g1qe4gt,,bbc.com
-breve,80,45511265,140,1759889182,Bob Ross paintings to be auctioned to fund US public broadcasting,story,https://www.bbc.com/news/articles/cly10275v5zo,,bbc.com
-Kaibeezy,258,45525041,195,1759998834,California passes law to ban ultra-processed foods from school lunches,story,https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/,,gov.ca.gov
 WolfOliver,34,45489999,60,1759748294,Show HN: I've build a platform for writing technical/scientific documents,story,https://www.monsterwriter.com,,monsterwriter.com
+breve,80,45511265,140,1759889182,Bob Ross paintings to be auctioned to fund US public broadcasting,story,https://www.bbc.com/news/articles/cly10275v5zo,,bbc.com
 pseudolus,5,45498469,80,1759800872,Origami Patterns Solve a Major Physics Riddle,story,https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/,,quantamagazine.org
-sipofwater,59,45524502,71,1759993889,"Man gets drunk, wakes up with a medical mystery that nearly kills him",story,https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/,,arstechnica.com
+DDerTyp,9,45536708,17,1760087055,Nobel Peace Prize 2025: Venezuelan Politician Maria Corina Machado,story,https://www.bbc.com/news/live/c1l80g1qe4gt,,bbc.com
+Kaibeezy,260,45525041,195,1759998834,California passes law to ban ultra-processed foods from school lunches,story,https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/,,gov.ca.gov
 t-vi,69,45472678,202,1759579138,The Buchstabenmuseum Berlin is closing,story,https://www.buchstabenmuseum.de/en/,,buchstabenmuseum.de
+sipofwater,59,45524502,71,1759993889,"Man gets drunk, wakes up with a medical mystery that nearly kills him",story,https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/,,arstechnica.com
 speckx,102,45502748,164,1759843324,"3M May Escape Toxic Chemical, PFAS Manufacturing Legacy",story,https://www.bloomberg.com/features/2025-3m-pfas-toxic-legacy-turnaround/,,bloomberg.com
-01-_-,1,45538113,11,1760098691,Astronomers Find Mystery Dark Object in Distant Universe,story,https://www.ucdavis.edu/news/astronomers-find-mystery-dark-object-distant-universe,,ucdavis.edu
 mindcrime,24,45486306,92,1759708307,Rule-Based Expert Systems: The Mycin Experiments (1984),story,https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm,,shortliffe.net
-lleong1618,46,45541874,44,1760119195,Show HN: Modeling the human body in Rust so I can cmd+click through it,story,https://github.com/lantos1618/open_human_ontology,"I started this trying to understand two things: why my Asian friends turn red after drinking, and why several friends all seemed to have migraine clusters.<p>I was reading medical papers and textbooks, but kept getting lost jumping between topics. I thought: what if I could just Cmd+Click through this like code? What if &quot;ALDH2 gene&quot; was actually clickable, and took me to the variant, the phenotype, the population frequencies?<p>So I started modeling human biology in Rust with my Ralph agent (Claude in a loop, ty ghuntley). Turns out the type system is perfect for this. Every biological entity is strongly-typed with relationships enforced at compile time.<p>After 1 day of agent coding:
-- 277 Rust files, ~95k lines of code 
-- 1,561 tests passing
-- 13 complete organ systems
-- Genetics with ancestry-specific variants
-- Clinical pathology models<p>Try it:<p>git clone <a href=""https:&#x2F;&#x2F;github.com&#x2F;lantos1618&#x2F;open_human_ontology"" rel=""nofollow"">https:&#x2F;&#x2F;github.com&#x2F;lantos1618&#x2F;open_human_ontology</a>
-cd open_human_ontology
-cargo run --example ide_navigation_demo<p>Then open `examples&#x2F;ide_navigation_demo.rs` and Cmd+Click through:<p>Understanding Asian flush:<p>AsianGeneticVariantsCatalog::get_metabolic_variants()<p>&#x2F;&#x2F; Click through to:<p>&#x2F;&#x2F; → ALDH2 gene on chromosome 12q24.12<p>&#x2F;&#x2F; → rs671 variant (Glu504Lys)<p>&#x2F;&#x2F; → 40% frequency in Japanese population<p>&#x2F;&#x2F; → Alcohol flush reaction<p>&#x2F;&#x2F; → 10x esophageal cancer risk with alcohol<p>&#x2F;&#x2F; → Acetaldehyde metabolism pathway<p>Understanding migraines:
-Migraine {
-    subtype: WithAura,
-    triggers: [Stress, LackOfSleep, HormonalChanges],
-    genetic_variants: [&quot;rs2075968&quot;, &quot;rs1835740&quot;],
-    ...
-}<p>&#x2F;&#x2F; Click through to:<p>&#x2F;&#x2F; → 17 migraine trigger types<p>&#x2F;&#x2F; → 12 aura symptom types<p>&#x2F;&#x2F; → Genetic risk factors<p>&#x2F;&#x2F; → Why clusters happen (HormonalChanges → Menstruation)<p>Now I can actually <i>navigate</i> the connections instead of flipping through PDFs. Heart → CoronaryArtery → Plaque. VisualCortex → 200M neurons → NeuralConnection pathways. It&#x27;s like Wikipedia but type-checked and with jump-to-definition.<p>This isn&#x27;t production medical software - it&#x27;s a learning tool. But it&#x27;s way more useful than textbooks for understanding how biological systems connect.<p>The agent keeps expanding it. Sometimes it OOMs but that&#x27;s part of the fun.<p>Tech: Rust, nalgebra, serde, rayon, proptest<p>I am not a dr or medical professional this is for my education you can commit to it if you want to or review and open some PR&#x27;s if you find wrong information or want to add references.",github.com
-v4rp1ng,6,45467193,30,1759521872,Finding treasures with physics: the fingerprint matrix,story,https://www.tuwien.at/en/tu-wien/news/news-articles/news/physik-fuer-die-schatzsuche-die-fingerabdruck-matrix,,tuwien.at
-doener,9,45540519,20,1760112448,MIT Rejects a White House Offer for Special Funding Treatment,story,https://www.nytimes.com/2025/10/10/us/mit-rejects-white-house-compact.html,,nytimes.com
