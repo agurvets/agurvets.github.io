@@ -1,11 +1,13 @@
 by,descendants,id,score,time,title,type,url,text,domain
-TheWiggles,30,45709988,125,1761466548,Clojure Land – Discover open-source Clojure libraries and frameworks,story,https://clojure.land/,,clojure.land
-simonw,128,45695621,273,1761319517,Code like a surgeon,story,https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon,,geoffreylitt.com
-reaperducer,78,45699285,19,1761341319,Dead soldiers' teeth reveal diseases that doomed Napoleon's army,story,https://www.washingtonpost.com/science/2025/10/24/napoleons-army-diseases-ancient-dna-teeth/,"<a href=""https:&#x2F;&#x2F;www.gavi.org&#x2F;vaccineswork&#x2F;dna-reveals-real-killers-brought-down-napoleons-army"" rel=""nofollow"">https:&#x2F;&#x2F;www.gavi.org&#x2F;vaccineswork&#x2F;dna-reveals-real-killers-b...</a><p><a href=""https:&#x2F;&#x2F;www.cell.com&#x2F;current-biology&#x2F;fulltext&#x2F;S0960-9822(25)01247-3"" rel=""nofollow"">https:&#x2F;&#x2F;www.cell.com&#x2F;current-biology&#x2F;fulltext&#x2F;S0960-9822(25)...</a>",washingtonpost.com
-melissapan,58,45688236,133,1761258922,Automating Algorithm Discovery: A Case Study in MoE Load Balancing,story,https://adrs-ucb.notion.site/moe-load-balancing,,adrs-ucb.notion.site
-slow_typist,55,45661306,213,1761078707,Erowid - Documenting the Complex Relationship Between Humans and Psychoactives,story,https://www.erowid.org,,erowid.org
-CXSHNGCB,11,45706572,12,1761422702,Norwegian Peace Council cancels event to honor Nobel winner Maria Corina Machado,story,https://www.norgesfredsrad.no/pressemelding-norges-fredsrad-arrangerer-ikke-fakkeltog-for-nobels-fredspris-2025/,,norgesfredsrad.no
-keernan,30,45700404,74,1761351666,Google Demanded My Drivers Lic Before Letting Me Read an Article,story,,"2025-10-24<p>ME: Yesterday I tried to read an article and google blocked me demanding I upload my driver’s
+rolph,0,45631753,15,1760841884,Computer Assisted Biologically Augmented Lifeform,story,https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform,,cnc.fandom.com
+TheWiggles,46,45709988,174,1761466548,Clojure Land – Discover open-source Clojure libraries and frameworks,story,https://clojure.land/,,clojure.land
+simonw,135,45695621,277,1761319517,Code like a surgeon,story,https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon,,geoffreylitt.com
+melissapan,58,45688236,134,1761258922,Automating Algorithm Discovery: A Case Study in MoE Load Balancing,story,https://adrs-ucb.notion.site/moe-load-balancing,,adrs-ucb.notion.site
+slow_typist,55,45661306,214,1761078707,Erowid - Documenting the Complex Relationship Between Humans and Psychoactives,story,https://www.erowid.org,,erowid.org
+reaperducer,80,45699285,19,1761341319,Dead soldiers' teeth reveal diseases that doomed Napoleon's army,story,https://www.washingtonpost.com/science/2025/10/24/napoleons-army-diseases-ancient-dna-teeth/,"<a href=""https:&#x2F;&#x2F;www.gavi.org&#x2F;vaccineswork&#x2F;dna-reveals-real-killers-brought-down-napoleons-army"" rel=""nofollow"">https:&#x2F;&#x2F;www.gavi.org&#x2F;vaccineswork&#x2F;dna-reveals-real-killers-b...</a><p><a href=""https:&#x2F;&#x2F;www.cell.com&#x2F;current-biology&#x2F;fulltext&#x2F;S0960-9822(25)01247-3"" rel=""nofollow"">https:&#x2F;&#x2F;www.cell.com&#x2F;current-biology&#x2F;fulltext&#x2F;S0960-9822(25)...</a>",washingtonpost.com
+adityaathalye,371,45673479,295,1761158944,Criticisms of “The Body Keeps the Score”,story,https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit,,josepheverettwil.substack.com
+giuliomagnifico,0,45711992,19,1761487617,"Under President Trump's Direction, Scientific Protections Are Disappearing",story,https://blog.ucs.org/science-blogger/under-trumps-direction-scientific-protections-are-disappearing-at-record-speed/,,ucs.org
+keernan,30,45700404,76,1761351666,Google Demanded My Drivers Lic Before Letting Me Read an Article,story,,"2025-10-24<p>ME: Yesterday I tried to read an article and google blocked me demanding I upload my driver’s
 license, passport, or other information to prove my age (I declined). What was that all about?<p>GoogleAI: The prompt for age verification is due to Google&#x27;s new system, which uses AI to
 estimate users&#x27; ages to comply with a global push for online age-verification laws. This system
 may flag adult users as minors, restricting access to certain content until their age is confirmed
@@ -27,8 +29,7 @@ a risk many users are unwilling to take.<p>This initiative is driven by pressure
 U.K., who are pushing for stricter age-verification measures to protect minors online. However,
 this is also a highly debated issue, with concerns raised about the impact on adult users&#x27; privacy
 and freedom of access to information.",
-nobodyandproud,8,45703689,24,1761398427,Tech industry men getting plastic surgery decades earlier,story,https://www.wsj.com/style/fashion/why-tech-bros-are-getting-face-lifts-now-94278bb7,,wsj.com
-adityaathalye,370,45673479,294,1761158944,Criticisms of “The Body Keeps the Score”,story,https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit,,josepheverettwil.substack.com
+westurner,2,45711896,14,1761486842,Scientists Discover New Path to Room-Temperature Superconductors,story,https://scitechdaily.com/the-holy-grail-of-physics-scientists-discover-new-path-to-room-temperature-superconductors/,,scitechdaily.com
 breve,103,45661399,186,1761079192,Mosquitoes discovered in Iceland for the first time,story,https://www.cnn.com/2025/10/21/climate/iceland-mosquito-discovery,,cnn.com
-croemer,1,45708307,14,1761441531,SARS-CoV-2 mRNA vaccines sensitize tumours to immune checkpoint blockade,story,https://www.nature.com/articles/s41586-025-09655-y,,nature.com
-donsupreme,70,45696183,43,1761322958,Ivy League psychologist: 'Bring your whole self to work' is bad advice,story,https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html,,cnbc.com
+CXSHNGCB,12,45706572,14,1761422702,Norwegian Peace Council cancels event to honor Nobel winner Maria Corina Machado,story,https://www.norgesfredsrad.no/pressemelding-norges-fredsrad-arrangerer-ikke-fakkeltog-for-nobels-fredspris-2025/,,norgesfredsrad.no
+nobodyandproud,8,45703689,24,1761398427,Tech industry men getting plastic surgery decades earlier,story,https://www.wsj.com/style/fashion/why-tech-bros-are-getting-face-lifts-now-94278bb7,,wsj.com
