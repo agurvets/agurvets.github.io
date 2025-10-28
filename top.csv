@@ -1,12 +1,14 @@
 by,descendants,id,score,time,title,type,url,text,domain
-rolph,0,45631753,15,1760841884,Computer Assisted Biologically Augmented Lifeform,story,https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform,,cnc.fandom.com
-TheWiggles,46,45709988,174,1761466548,Clojure Land – Discover open-source Clojure libraries and frameworks,story,https://clojure.land/,,clojure.land
-simonw,135,45695621,277,1761319517,Code like a surgeon,story,https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon,,geoffreylitt.com
+rolph,1,45631753,18,1760841884,Computer Assisted Biologically Augmented Lifeform,story,https://cnc.fandom.com/wiki/Computer_Assisted_Biologically_Augmented_Lifeform,,cnc.fandom.com
+TheWiggles,47,45709988,177,1761466548,Clojure Land – Discover open-source Clojure libraries and frameworks,story,https://clojure.land/,,clojure.land
+LopRabbit,0,45725382,22,1761593993,Covid-19 mRNA vaccines trigger the immune system to recognize and kill cancer,story,https://theconversation.com/covid-19-mrna-vaccines-could-unlock-the-next-revolution-in-cancer-treatment-new-research-258992,,theconversation.com
+simonw,134,45695621,278,1761319517,Code like a surgeon,story,https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon,,geoffreylitt.com
 melissapan,58,45688236,134,1761258922,Automating Algorithm Discovery: A Case Study in MoE Load Balancing,story,https://adrs-ucb.notion.site/moe-load-balancing,,adrs-ucb.notion.site
-slow_typist,55,45661306,214,1761078707,Erowid - Documenting the Complex Relationship Between Humans and Psychoactives,story,https://www.erowid.org,,erowid.org
+slow_typist,55,45661306,215,1761078707,Erowid - Documenting the Complex Relationship Between Humans and Psychoactives,story,https://www.erowid.org,,erowid.org
 reaperducer,80,45699285,19,1761341319,Dead soldiers' teeth reveal diseases that doomed Napoleon's army,story,https://www.washingtonpost.com/science/2025/10/24/napoleons-army-diseases-ancient-dna-teeth/,"<a href=""https:&#x2F;&#x2F;www.gavi.org&#x2F;vaccineswork&#x2F;dna-reveals-real-killers-brought-down-napoleons-army"" rel=""nofollow"">https:&#x2F;&#x2F;www.gavi.org&#x2F;vaccineswork&#x2F;dna-reveals-real-killers-b...</a><p><a href=""https:&#x2F;&#x2F;www.cell.com&#x2F;current-biology&#x2F;fulltext&#x2F;S0960-9822(25)01247-3"" rel=""nofollow"">https:&#x2F;&#x2F;www.cell.com&#x2F;current-biology&#x2F;fulltext&#x2F;S0960-9822(25)...</a>",washingtonpost.com
 adityaathalye,371,45673479,295,1761158944,Criticisms of “The Body Keeps the Score”,story,https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit,,josepheverettwil.substack.com
-giuliomagnifico,0,45711992,19,1761487617,"Under President Trump's Direction, Scientific Protections Are Disappearing",story,https://blog.ucs.org/science-blogger/under-trumps-direction-scientific-protections-are-disappearing-at-record-speed/,,ucs.org
+giuliomagnifico,0,45711992,20,1761487617,"Under President Trump's Direction, Scientific Protections Are Disappearing",story,https://blog.ucs.org/science-blogger/under-trumps-direction-scientific-protections-are-disappearing-at-record-speed/,,ucs.org
+CXSHNGCB,12,45706572,15,1761422702,Norwegian Peace Council cancels event to honor Nobel winner Maria Corina Machado,story,https://www.norgesfredsrad.no/pressemelding-norges-fredsrad-arrangerer-ikke-fakkeltog-for-nobels-fredspris-2025/,,norgesfredsrad.no
 keernan,30,45700404,76,1761351666,Google Demanded My Drivers Lic Before Letting Me Read an Article,story,,"2025-10-24<p>ME: Yesterday I tried to read an article and google blocked me demanding I upload my driver’s
 license, passport, or other information to prove my age (I declined). What was that all about?<p>GoogleAI: The prompt for age verification is due to Google&#x27;s new system, which uses AI to
 estimate users&#x27; ages to comply with a global push for online age-verification laws. This system
@@ -29,7 +31,3 @@ a risk many users are unwilling to take.<p>This initiative is driven by pressure
 U.K., who are pushing for stricter age-verification measures to protect minors online. However,
 this is also a highly debated issue, with concerns raised about the impact on adult users&#x27; privacy
 and freedom of access to information.",
-westurner,2,45711896,14,1761486842,Scientists Discover New Path to Room-Temperature Superconductors,story,https://scitechdaily.com/the-holy-grail-of-physics-scientists-discover-new-path-to-room-temperature-superconductors/,,scitechdaily.com
-breve,103,45661399,186,1761079192,Mosquitoes discovered in Iceland for the first time,story,https://www.cnn.com/2025/10/21/climate/iceland-mosquito-discovery,,cnn.com
-CXSHNGCB,12,45706572,14,1761422702,Norwegian Peace Council cancels event to honor Nobel winner Maria Corina Machado,story,https://www.norgesfredsrad.no/pressemelding-norges-fredsrad-arrangerer-ikke-fakkeltog-for-nobels-fredspris-2025/,,norgesfredsrad.no
-nobodyandproud,8,45703689,24,1761398427,Tech industry men getting plastic surgery decades earlier,story,https://www.wsj.com/style/fashion/why-tech-bros-are-getting-face-lifts-now-94278bb7,,wsj.com
