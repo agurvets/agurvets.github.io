@@ -1,33 +1,13 @@
 by,descendants,id,score,time,title,type,url,text,domain
-TheWiggles,47,45709988,177,1761466548,Clojure Land – Discover open-source Clojure libraries and frameworks,story,https://clojure.land/,,clojure.land
-LopRabbit,0,45725382,22,1761593993,Covid-19 mRNA vaccines trigger the immune system to recognize and kill cancer,story,https://theconversation.com/covid-19-mrna-vaccines-could-unlock-the-next-revolution-in-cancer-treatment-new-research-258992,,theconversation.com
-simonw,134,45695621,278,1761319517,Code like a surgeon,story,https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon,,geoffreylitt.com
+stevenhubertron,758,45734582,855,1761667138,Using AI to negotiate a $195k hospital bill down to $33k,story,https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw,,threads.com
+abhishaike,25,45736608,121,1761675130,Mapping the off-target effects of every FDA-approved drug in existence,story,https://www.owlposting.com/p/mapping-the-off-target-effects-of,,owlposting.com
+rdhyee,0,45741383,22,1761699916,Men need twice as much exercise as women to lower heart disease risk,story,https://www.theguardian.com/society/2025/oct/27/men-need-twice-as-much-exercise-as-women-to-lower-heart-disease-risk-study-finds,,theguardian.com
+o4c,3,45730607,44,1761642167,Geometry and Physics of Wrinkling (2003) [pdf],story,https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf,,softmath.seas.harvard.edu
+speckx,1,45736426,24,1761674385,Cancer Survival Rates Are Misleading,story,https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/,,allendowney.com
+PaulHoule,2,45728525,38,1761616858,GLP-1 Therapeutics: Their Emerging Role in Alcohol and Substance Use Disorders,story,https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false,,academic.oup.com
+TheWiggles,48,45709988,180,1761466548,Clojure Land – Discover open-source Clojure libraries and frameworks,story,https://clojure.land/,,clojure.land
 melissapan,58,45688236,134,1761258922,Automating Algorithm Discovery: A Case Study in MoE Load Balancing,story,https://adrs-ucb.notion.site/moe-load-balancing,,adrs-ucb.notion.site
+simonw,134,45695621,279,1761319517,Code like a surgeon,story,https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon,,geoffreylitt.com
+kalap_ur,7,45732431,13,1761657082,Can Substrate disrupt ASML using particle acceleration?,story,https://www.nytimes.com/2025/10/28/business/can-a-start-up-make-computer-chips-cheaper-than-the-industrys-giants.html,,nytimes.com
+adityaathalye,371,45673479,296,1761158944,Criticisms of “The Body Keeps the Score”,story,https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit,,josepheverettwil.substack.com
 reaperducer,80,45699285,19,1761341319,Dead soldiers' teeth reveal diseases that doomed Napoleon's army,story,https://www.washingtonpost.com/science/2025/10/24/napoleons-army-diseases-ancient-dna-teeth/,"<a href=""https:&#x2F;&#x2F;www.gavi.org&#x2F;vaccineswork&#x2F;dna-reveals-real-killers-brought-down-napoleons-army"" rel=""nofollow"">https:&#x2F;&#x2F;www.gavi.org&#x2F;vaccineswork&#x2F;dna-reveals-real-killers-b...</a><p><a href=""https:&#x2F;&#x2F;www.cell.com&#x2F;current-biology&#x2F;fulltext&#x2F;S0960-9822(25)01247-3"" rel=""nofollow"">https:&#x2F;&#x2F;www.cell.com&#x2F;current-biology&#x2F;fulltext&#x2F;S0960-9822(25)...</a>",washingtonpost.com
-adityaathalye,371,45673479,295,1761158944,Criticisms of “The Body Keeps the Score”,story,https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit,,josepheverettwil.substack.com
-CXSHNGCB,12,45706572,15,1761422702,Norwegian Peace Council cancels event to honor Nobel winner Maria Corina Machado,story,https://www.norgesfredsrad.no/pressemelding-norges-fredsrad-arrangerer-ikke-fakkeltog-for-nobels-fredspris-2025/,,norgesfredsrad.no
-giuliomagnifico,0,45711992,20,1761487617,"Under President Trump's Direction, Scientific Protections Are Disappearing",story,https://blog.ucs.org/science-blogger/under-trumps-direction-scientific-protections-are-disappearing-at-record-speed/,,ucs.org
-keernan,30,45700404,77,1761351666,Google Demanded My Drivers Lic Before Letting Me Read an Article,story,,"2025-10-24<p>ME: Yesterday I tried to read an article and google blocked me demanding I upload my driver’s
-license, passport, or other information to prove my age (I declined). What was that all about?<p>GoogleAI: The prompt for age verification is due to Google&#x27;s new system, which uses AI to
-estimate users&#x27; ages to comply with a global push for online age-verification laws. This system
-may flag adult users as minors, restricting access to certain content until their age is confirmed
-with a government ID, credit card, or a selfie.<p>How Google&#x27;s AI age verification works<p>• AI age estimation: Google&#x27;s system analyzes user activity, such as search history and
-YouTube viewing habits, to estimate a user&#x27;s age.<p>• Widespread enforcement: While initially affecting only a &quot;small set&quot; of users, this
-system is now rolling out more widely and affecting multiple Google services, including
-Search, YouTube, and the Google Play Store.<p>• Restricted content: When the AI flags an account as potentially belonging to someone
-underage, it applies the same restrictions as if the user had self-identified as a minor. This
-includes turning on SafeSearch and restricting access to mature content.<p>• Incorrect flagging: The system is not foolproof and has been known to incorrectly flag
-adult users, causing them to be locked out of content they previously accessed without
-issue.<p>Your options for age verification
-If your account was incorrectly flagged, you can verify your age using one of Google&#x27;s approved
-methods:<p>• Government ID: Upload a photo of a government-issued ID, like a driver&#x27;s license or
-passport. Google states it stores these documents securely and deletes them after your age
-has been successfully verified.<p>• Credit card: Provide your credit card details to confirm your age. Any authorization is
-temporary and will be fully refunded.<p>• Selfie: Use a selfie-based verification service.<p>Privacy concerns and context<p>For users who are hesitant to provide private documents to a large tech company, this situation
-presents a privacy conflict. While it&#x27;s Google&#x27;s official process, providing personal information is
-a risk many users are unwilling to take.<p>This initiative is driven by pressure from lawmakers in various countries, including the U.S. and
-U.K., who are pushing for stricter age-verification measures to protect minors online. However,
-this is also a highly debated issue, with concerns raised about the impact on adult users&#x27; privacy
-and freedom of access to information.",
-westurner,2,45711896,14,1761486842,Scientists Discover New Path to Room-Temperature Superconductors,story,https://scitechdaily.com/the-holy-grail-of-physics-scientists-discover-new-path-to-room-temperature-superconductors/,,scitechdaily.com
-nobodyandproud,8,45703689,24,1761398427,Tech industry men getting plastic surgery decades earlier,story,https://www.wsj.com/style/fashion/why-tech-bros-are-getting-face-lifts-now-94278bb7,,wsj.com
