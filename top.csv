@@ -1,15 +1,21 @@
 by,descendants,id,score,time,title,type,url,text,domain
-lermontov,0,45679046,31,1761203167,The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel,story,https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/,,lithub.com
-vintagedave,34,45761042,73,1761837706,ZOZO's Contact Solver for physics-based simulations,story,https://github.com/st-tech/ppf-contact-solver,,github.com
-speckx,63,45736426,104,1761674385,Cancer survival rates are misleading,story,https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/,,allendowney.com
-PaulHoule,186,45728525,248,1761616858,GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders,story,https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false,,academic.oup.com
-furcyd,0,45723737,24,1761585637,Why imperfection could be key to Turing patterns in nature,story,https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/,,arstechnica.com
-abhishaike,36,45736608,159,1761675130,Mapping the off-target effects of every FDA-approved drug in existence,story,https://www.owlposting.com/p/mapping-the-off-target-effects-of,,owlposting.com
+dw64,125,45782136,301,1762009085,Updated practice for review articles and position papers in ArXiv CS category,story,https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/,,arxiv.org
+ementally,35,45781397,91,1762002767,CharlotteOS – An Experimental Modern Operating System,story,https://github.com/charlotte-os/Catten,,github.com
+ako,51,45680366,56,1761216333,A classic graphic reveals nature's most efficient traveler,story,https://www.scientificamerican.com/article/a-human-on-a-bicycle-is-among-the-most-efficient-forms-of-travel-in-the/,,scientificamerican.com
+zdw,23,45700368,46,1761351218,Family Mart Designed Cute Teary-Eyed Stickers to Combat Food Loss,story,https://spoon-tamago.com/family-mart-food-loss-stickers/,,spoon-tamago.com
+lermontov,0,45679046,42,1761203167,The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel,story,https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/,,lithub.com
+rawgabbit,10,45767688,27,1761877578,"Consolidation in Hospital Sector Leading to Higher Health Care Costs, Study Find",story,https://harris.uchicago.edu/news-events/news/consolidation-hospital-sector-leading-higher-health-care-costs-study-finds,,harris.uchicago.edu
+vintagedave,41,45761042,78,1761837706,ZOZO's Contact Solver for physics-based simulations,story,https://github.com/st-tech/ppf-contact-solver,,github.com
+PaulHoule,188,45728525,251,1761616858,GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders,story,https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false,,academic.oup.com
+speckx,64,45736426,106,1761674385,Cancer survival rates are misleading,story,https://www.allendowney.com/blog/2025/10/27/cancer-survival-rates-are-misleading/,,allendowney.com
+abhishaike,36,45736608,161,1761675130,Mapping the off-target effects of every FDA-approved drug in existence,story,https://www.owlposting.com/p/mapping-the-off-target-effects-of,,owlposting.com
+warrenm,37,45770928,35,1761910885,"After delays, Egypt set for lavish opening of grand museum",story,https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html,,phys.org
+furcyd,0,45723737,25,1761585637,Why imperfection could be key to Turing patterns in nature,story,https://arstechnica.com/science/2025/10/why-imperfection-could-be-key-to-turing-patterns-in-nature/,,arstechnica.com
+saikatsg,0,45768563,11,1761886450,Could a 50-year-old maths problem have kept the Louvre museum safe?,story,https://www.bbc.com/future/article/20251030-louvre-robbery-the-50-year-old-maths-problem-that-can-boost-museum-security,,bbc.com
+stevenhubertron,916,45734582,1026,1761667138,Using AI to negotiate a $195k hospital bill down to $33k,story,https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw,,threads.com
 goloroden,8,45752635,22,1761769816,The Port 6000 Mystery,story,https://docs.eventsourcingdb.io/blog/2025/10/30/the-port-6000-mystery/,,eventsourcingdb.io
-stevenhubertron,909,45734582,1024,1761667138,Using AI to negotiate a $195k hospital bill down to $33k,story,https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw,,threads.com
-pillars,0,45701803,14,1761374642,Vibration Analysis and Control in Particle Accelerator (2018) [pdf],story,https://indico.cern.ch/event/694811/contributions/2863859/attachments/1595533/2526938/2018_02_06_FCCee_MDI_workshop_Serluca.pdf,,indico.cern.ch
-TheWiggles,53,45709988,182,1761466548,Clojure Land – Discover open-source Clojure libraries and frameworks,story,https://clojure.land/,,clojure.land
+TheWiggles,54,45709988,182,1761466548,Clojure Land – Discover open-source Clojure libraries and frameworks,story,https://clojure.land/,,clojure.land
+f_of_t_,20,45773095,13,1761924305,"Scientists can't define consciousness, yet we think AI will have it",story,,"Everyone’s talking about “conscious AI” or “emergent AGI,”
+but step back for a second — scientists still don’t have a working definition of what consciousness actually is.<p>Is it computation? Information integration? Or something else we can’t yet measure?<p>If we can’t define the target, how can we tell whether a machine has hit it?<p>Are we building intelligence, or just better mimicry?<p>(Genuinely curious how the HN crowd thinks about this — engineers, neuroscientists, philosophers all welcome.)<p>Posted by f_of_t",
 o4c,3,45730607,47,1761642167,Geometry and Physics of Wrinkling (2003) [pdf],story,https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2003-03.pdf,,softmath.seas.harvard.edu
-PaulHoule,1,45753223,31,1761772972,"Brain health could be improved with high-fat, low-carb diet, study finds",story,https://medicalxpress.com/news/2025-10-brain-health-high-fat-carb.html,,medicalxpress.com
-ck2,4,45747853,25,1761750668,Cancerous oil-field wastewater is spreading through Oklahoma water supply,story,https://www.propublica.org/article/oklahoma-oil-gas-wastewater-pollution,,propublica.org
-melissapan,58,45688236,134,1761258922,Automating Algorithm Discovery: A Case Study in MoE Load Balancing,story,https://adrs-ucb.notion.site/moe-load-balancing,,adrs-ucb.notion.site
+pillars,0,45701803,14,1761374642,Vibration Analysis and Control in Particle Accelerator (2018) [pdf],story,https://indico.cern.ch/event/694811/contributions/2863859/attachments/1595533/2526938/2018_02_06_FCCee_MDI_workshop_Serluca.pdf,,indico.cern.ch
