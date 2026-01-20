@@ -1,17 +1,18 @@
 by,descendants,id,score,time,title,type,url,text,domain
-Scramblejams,73,46684958,106,1768859287,Nanolang: A tiny experimental language designed to be targeted by coding LLMs,story,https://github.com/jordanhubbard/nanolang,,github.com
-minimaxir,8,46682115,43,1768844858,"Show HN: An interactive physics simulator with 1000’s of balls, in your terminal",story,https://github.com/minimaxir/ballin,,github.com
+Scramblejams,78,46684958,119,1768859287,Nanolang: A tiny experimental language designed to be targeted by coding LLMs,story,https://github.com/jordanhubbard/nanolang,,github.com
+tbmtbmtbmtbmtbm,1,46688122,20,1768885737,Chatbot Psychosis,story,https://en.wikipedia.org/wiki/Chatbot_psychosis,,en.wikipedia.org
+minimaxir,10,46682115,50,1768844858,"Show HN: An interactive physics simulator with 1000’s of balls, in your terminal",story,https://github.com/minimaxir/ballin,,github.com
 giuliomagnifico,47,46619021,34,1768411630,"Study: Minimal evidence links social media, gaming to teen mental health issues",story,https://www.manchester.ac.uk/about/news/time-spent-on-gaming-and-social-media/,,manchester.ac.uk
-elC0mpa,20,46675092,49,1768797305,Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go,story,https://github.com/elC0mpa/aws-doctor,,github.com
+elC0mpa,20,46675092,50,1768797305,Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go,story,https://github.com/elC0mpa/aws-doctor,,github.com
 todsacerdoti,25,46666777,107,1768734284,Agent Psychosis: Are We Going Insane?,story,https://lucumr.pocoo.org/2026/1/18/agent-psychosis/,,lucumr.pocoo.org
-gmays,73,46664540,123,1768706572,How scientists are using Claude to accelerate research and discovery,story,https://www.anthropic.com/news/accelerating-scientific-research,,anthropic.com
+gmays,73,46664540,124,1768706572,How scientists are using Claude to accelerate research and discovery,story,https://www.anthropic.com/news/accelerating-scientific-research,,anthropic.com
 el_pa_b,48,46656358,160,1768639568,Show HN: Streaming gigabyte medical images from S3 without downloading them,story,https://github.com/PABannier/WSIStreamer,,github.com
 embedding-shape,306,46646777,716,1768574269,Cursor's latest “browser experiment” implied success without evidence,story,https://embedding-shapes.github.io/cursor-implied-success-without-evidence/,"Related: <i>Scaling long-running autonomous coding</i> - <a href=""https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46624541"">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46624541</a> - Jan 2026 (174 comments)",embedding-shapes.github.io
 giuliomagnifico,95,46649489,102,1768586163,Emoji Use in the Electronic Health Record is Increasing,story,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2843883,,jamanetwork.com
-robtherobber,161,46678430,262,1768827208,"Article by article, how Big Tech shaped the EU's roll-back of digital rights",story,https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights,,corporateeurope.org
 bookofjoe,171,46646263,370,1768571065,"Michelangelo's first painting, created when he was 12 or 13",story,https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html,,openculture.com
+robtherobber,161,46678430,262,1768827208,"Article by article, how Big Tech shaped the EU's roll-back of digital rights",story,https://corporateeurope.org/en/2026/01/article-article-how-big-tech-shaped-eus-roll-back-digital-rights,,corporateeurope.org
 andsoitis,2,46672260,26,1768771258,The most useful indicator of your overall health,story,https://www.economist.com/science-and-technology/2026/01/16/the-most-useful-indicator-of-your-overall-health,,economist.com
 brendanashworth,21,46629295,70,1768462575,Use of Bayesian methodology in clinical trials of drug and biological products [pdf],story,https://www.fda.gov/media/190505/download,,fda.gov
 arunc,7,46655667,22,1768628963,Meditation and Unconscious: A Buddhist Monk and a Neuroscientist (2022),story,https://thereader.mitpress.mit.edu/meditation-and-the-unconscious-buddhism-neuroscience-conversation/,,thereader.mitpress.mit.edu
-ndsipa_pomu,37,46679194,55,1768832078,Trump links Greenland dispute to not getting Nobel Peace Prize,story,https://www.bbc.co.uk/news/articles/cy7mev35x2lo,,bbc.co.uk
+ndsipa_pomu,37,46679194,56,1768832078,Trump links Greenland dispute to not getting Nobel Peace Prize,story,https://www.bbc.co.uk/news/articles/cy7mev35x2lo,,bbc.co.uk
 lonelyasacloud,4,46657116,38,1768648495,"Gut micro-organisms associated with health, nutrition and dietary intervention",story,https://www.nature.com/articles/s41586-025-09854-7?lid=t94o71j7gslg,,nature.com
