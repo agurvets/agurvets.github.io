@@ -1,14 +1,14 @@
 by,descendants,id,score,time,title,type,url,text,domain
-rvermeulen98,79,46731432,224,1769169293,"Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",story,https://github.com/ramonvermeulen/whosthere,,github.com
+rvermeulen98,81,46731432,233,1769169293,"Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",story,https://github.com/ramonvermeulen/whosthere,,github.com
 kaycebasques,84,46715600,286,1769058946,Doctors in Brazil using tilapia fish skin to treat burn victims (2017),story,https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims,,pbs.org
-colincooke,74,46722853,142,1769104862,Recent discoveries on the acquisition of the highest levels of human performance,story,https://www.science.org/doi/abs/10.1126/science.adt7790,,science.org
+colincooke,74,46722853,143,1769104862,Recent discoveries on the acquisition of the highest levels of human performance,story,https://www.science.org/doi/abs/10.1126/science.adt7790,,science.org
 mikhael,58,46723694,127,1769108636,'Active' sitting is better for brain health: review of studies,story,https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health,,sciencealert.com
-jxmorris12,59,46669001,126,1768752971,Keeping 20k GPUs healthy,story,https://modal.com/blog/gpu-health,,modal.com
+jxmorris12,60,46669001,126,1768752971,Keeping 20k GPUs healthy,story,https://modal.com/blog/gpu-health,,modal.com
 anticlickwise,21,46675669,84,1768804617,Show HN: Interactive physics simulations I built while teaching my daughter,story,https://www.projectlumen.app/,"I started teaching my daughter physics by showing her how things actually work - plucking guitar strings to explain vibration, mixing paints to understand light, dropping objects to see gravity in action.<p>She learned so much faster through hands-on exploration than through books or videos. That&#x27;s when I realized: what if I could recreate these physical experiments as interactive simulations?<p>Lumen is the result - an interactive physics playground covering sound, light, motion, life, and mechanics. Each module lets you manipulate variables in real-time and see&#x2F;hear the results immediately.<p>Try it: <a href=""https:&#x2F;&#x2F;www.projectlumen.app&#x2F;"" rel=""nofollow"">https:&#x2F;&#x2F;www.projectlumen.app&#x2F;</a>",projectlumen.app
 coloneltcb,0,46739364,14,1769210812,Rx Inspector: Look Up Where Your Generic Prescription Drugs Were Made,story,https://projects.propublica.org/rx-inspector/,,projects.propublica.org
-dcgudeman,3,46739922,13,1769215613,Anti-vax sentiment pushes Moderna away from new late-stage infectious diseases,story,https://www.fiercebiotech.com/biotech/anti-vaccine-sentiment-pushes-moderna-away-new-late-stage-infectious-disease-trials,,fiercebiotech.com
-geox,14,46733522,24,1769181561,"Scientists used the same data, but their politics predicted the results",story,https://www.psypost.org/158-scientists-used-the-same-data-but-their-politics-predicted-the-results/,,psypost.org
-saikatsg,91,46709179,300,1769018736,Scientists find a way to regrow cartilage in mice and human tissue samples,story,https://www.sciencedaily.com/releases/2026/01/260120000333.htm,,sciencedaily.com
+geox,16,46733522,24,1769181561,"Scientists used the same data, but their politics predicted the results",story,https://www.psypost.org/158-scientists-used-the-same-data-but-their-politics-predicted-the-results/,,psypost.org
+saikatsg,91,46709179,301,1769018736,Scientists find a way to regrow cartilage in mice and human tissue samples,story,https://www.sciencedaily.com/releases/2026/01/260120000333.htm,,sciencedaily.com
+dcgudeman,3,46739922,14,1769215613,Anti-vax sentiment pushes Moderna away from new late-stage infectious diseases,story,https://www.fiercebiotech.com/biotech/anti-vaccine-sentiment-pushes-moderna-away-new-late-stage-infectious-disease-trials,,fiercebiotech.com
 bmau5,31,46723190,58,1769106349,Colorectal cancer is now the top cause of cancer death in younger people,story,https://www.wsj.com/health/healthcare/colorectal-cancer-is-now-the-top-cause-of-cancer-death-in-younger-people-02f08587,,wsj.com
 mailyk,5,46670503,30,1768760314,Mystery of the Head Activator,story,https://www.asimov.press/p/head-activator,,asimov.press
 rbanffy,19,46698623,55,1768948583,Lunar Radio Telescope to Unlock Cosmic Mysteries,story,https://spectrum.ieee.org/lunar-radio-telescope,,spectrum.ieee.org
@@ -16,6 +16,6 @@ AndrewGYork,10,46710560,26,1769024685,Magnetic remote control of biology,story,h
 minimaxir,15,46682115,75,1768844858,"Show HN: An interactive physics simulator with 1000’s of balls, in your terminal",story,https://github.com/minimaxir/ballin,,github.com
 cdrnsf,163,46705952,128,1769004752,Comic-Con Bans AI Art After Artist Pushback,story,https://www.404media.co/comic-con-bans-ai-art-after-artist-pushback/,,404media.co
 Scramblejams,202,46684958,231,1768859287,Nanolang: A tiny experimental language designed to be targeted by coding LLMs,story,https://github.com/jordanhubbard/nanolang,,github.com
-todsacerdoti,26,46666777,132,1768734284,Agent Psychosis: Are We Going Insane?,story,https://lucumr.pocoo.org/2026/1/18/agent-psychosis/,,lucumr.pocoo.org
+todsacerdoti,26,46666777,133,1768734284,Agent Psychosis: Are We Going Insane?,story,https://lucumr.pocoo.org/2026/1/18/agent-psychosis/,,lucumr.pocoo.org
 rbanffy,5,46708458,39,1769015448,How North Carolina erased medical debt for 2.5M people,story,https://www.npr.org/2026/01/21/nx-s1-5678541/north-carolina-undue-medical-debt-erased,,npr.org
 elC0mpa,21,46675092,51,1768797305,Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go,story,https://github.com/elC0mpa/aws-doctor,,github.com
