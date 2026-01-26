@@ -1,7 +1,8 @@
 by,descendants,id,score,time,title,type,url,text,domain
-bananaboy,10,46753708,147,1769345693,Web-based image editor modeled after Deluxe Paint,story,https://github.com/steffest/DPaint-js,,github.com
-modulovalue,66,46693460,141,1768925401,"I built a 2x faster lexer, then discovered I/O was the real bottleneck",story,https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/,,modulovalue.com
-aleroawani,3,46697390,15,1768941169,Article on the History of Spot Instances: Analyzing Spot Instance Pricing Change,story,https://spot.rackspace.com/blogs/history-of-spot-instances,,spot.rackspace.com
+bananaboy,12,46753708,164,1769345693,Web-based image editor modeled after Deluxe Paint,story,https://github.com/steffest/DPaint-js,,github.com
+modulovalue,76,46693460,151,1768925401,"I built a 2x faster lexer, then discovered I/O was the real bottleneck",story,https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/,,modulovalue.com
+brandonb,14,46758093,12,1769374475,Cholesterol levels cut in half with one-time gene editing drug in trial,story,https://www.nbcnews.com/health/health-news/harmful-cholesterol-levels-cut-half-one-time-gene-editing-drug-early-t-rcna242320,,nbcnews.com
+aleroawani,3,46697390,16,1768941169,Article on the History of Spot Instances: Analyzing Spot Instance Pricing Change,story,https://spot.rackspace.com/blogs/history-of-spot-instances,,spot.rackspace.com
 kaycebasques,84,46715600,288,1769058946,Doctors in Brazil using tilapia fish skin to treat burn victims (2017),story,https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims,,pbs.org
 colincooke,74,46722853,146,1769104862,Recent discoveries on the acquisition of the highest levels of human performance,story,https://www.science.org/doi/abs/10.1126/science.adt7790,,science.org
 mikhael,58,46723694,131,1769108636,'Active' sitting is better for brain health: review of studies,story,https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health,,sciencealert.com
