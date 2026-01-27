@@ -1,21 +1,19 @@
 by,descendants,id,score,time,title,type,url,text,domain
-bookofjoe,191,46766031,342,1769437620,Google AI Overviews cite YouTube more than any medical site for health queries,story,https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study,,theguardian.com
-djwide,45,46766507,46,1769439969,OracleGPT: Thought Experiment on an AI Powered Executive,story,https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM,,senteguard.com
-mikhael,88,46760099,299,1769386242,Scientists identify brain waves that define the limits of 'you',story,https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you,"Original paper: <a href=""https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-025-67657-w"" rel=""nofollow"">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-025-67657-w</a>",sciencealert.com
-surprisetalk,6,46710981,21,1769026639,Clinic-in-the-loop,story,https://www.asimov.press/p/clinic-loop,,asimov.press
-ciconia,111,46765092,83,1769432263,"Water 'Bankruptcy' Era Has Begun for Billions, Scientists Say",story,https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say,,bloomberg.com
-modulovalue,89,46693460,179,1768925401,"I built a 2x faster lexer, then discovered I/O was the real bottleneck",story,https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/,,modulovalue.com
-bananaboy,27,46753708,243,1769345693,Web-based image editor modeled after Deluxe Paint,story,https://github.com/steffest/DPaint-js,,github.com
-weiwenhao,2,46705337,11,1769001653,Integrating WebView with Nature Programming Language,story,https://nature-lang.org/blog/20260121,,nature-lang.org
-sbuttgereit,2,46756530,20,1769364949,On the Methodology of Actual Physics [video],story,https://www.youtube.com/watch?v=SaZFgtmOFek,,youtube.com
-Geekette,8,46763779,25,1769422152,"Bro, Enough with the Protein. You're Just Making Expensive Pee",story,https://thewalrus.ca/enough-with-the-protein/,,thewalrus.ca
+sohkamyung,4,46731513,11,1769169911,The threat eating away at museum treasures,story,https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/,,scientificamerican.com
+paulpauper,7,46785813,23,1769544809,Ultraprocessed foods make up to 70% of the US food supply,story,https://www.cnn.com/2025/02/26/health/ultraprocessed-hyperpalatable-foods-wellness,,cnn.com
+kerim-ca,46,46728878,127,1769147390,"The Universal Pattern Popping Up in Math, Physics and Biology (2013)",story,https://www.quantamagazine.org/in-mysterious-pattern-math-and-nature-converge-20130205/,,quantamagazine.org
+bookofjoe,207,46766031,401,1769437620,Google AI Overviews cite YouTube more than any medical site for health queries,story,https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study,,theguardian.com
+djwide,50,46766507,58,1769439969,OracleGPT: Thought Experiment on an AI Powered Executive,story,https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM,,senteguard.com
+modulovalue,89,46693460,185,1768925401,"I built a 2x faster lexer, then discovered I/O was the real bottleneck",story,https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/,,modulovalue.com
+mikhael,96,46760099,313,1769386242,Scientists identify brain waves that define the limits of 'you',story,https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you,"Original paper: <a href=""https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-025-67657-w"" rel=""nofollow"">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41467-025-67657-w</a>",sciencealert.com
+bananaboy,30,46753708,244,1769345693,Web-based image editor modeled after Deluxe Paint,story,https://github.com/steffest/DPaint-js,,github.com
+surprisetalk,7,46710981,23,1769026639,Clinic-in-the-loop,story,https://www.asimov.press/p/clinic-loop,,asimov.press
+ciconia,122,46765092,93,1769432263,"Water 'Bankruptcy' Era Has Begun for Billions, Scientists Say",story,https://www.bloomberg.com/news/articles/2026-01-20/water-bankruptcy-era-has-begun-for-billions-scientists-say,,bloomberg.com
 kaycebasques,84,46715600,288,1769058946,Doctors in Brazil using tilapia fish skin to treat burn victims (2017),story,https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims,,pbs.org
-colincooke,75,46722853,146,1769104862,Recent discoveries on the acquisition of the highest levels of human performance,story,https://www.science.org/doi/abs/10.1126/science.adt7790,,science.org
-mikhael,58,46723694,133,1769108636,'Active' sitting is better for brain health: review of studies,story,https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health,,sciencealert.com
-aleroawani,3,46697390,16,1768941169,Article on the History of Spot Instances: Analyzing Spot Instance Pricing Change,story,https://spot.rackspace.com/blogs/history-of-spot-instances,,spot.rackspace.com
-rvermeulen98,89,46731432,276,1769169293,"Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",story,https://github.com/ramonvermeulen/whosthere,,github.com
-jerlam,9,46760102,18,1769386257,The clever way food trucks are now using e-bike batteries,story,https://electrek.co/2026/01/25/the-clever-way-food-trucks-are-now-using-e-bike-batteries/,,electrek.co
-brandonb,27,46758093,19,1769374475,Cholesterol levels cut in half with one-time gene editing drug in trial,story,https://www.nbcnews.com/health/health-news/harmful-cholesterol-levels-cut-half-one-time-gene-editing-drug-early-t-rcna242320,,nbcnews.com
-saikatsg,94,46709179,305,1769018736,Scientists find a way to regrow cartilage in mice and human tissue samples,story,https://www.sciencedaily.com/releases/2026/01/260120000333.htm,,sciencedaily.com
-rbanffy,19,46698623,57,1768948583,Lunar Radio Telescope to Unlock Cosmic Mysteries,story,https://spectrum.ieee.org/lunar-radio-telescope,,spectrum.ieee.org
-MaysonL,6,46750053,55,1769307779,"mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say",story,https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/,,arstechnica.com
+colincooke,75,46722853,147,1769104862,Recent discoveries on the acquisition of the highest levels of human performance,story,https://www.science.org/doi/abs/10.1126/science.adt7790,,science.org
+sbuttgereit,2,46756530,20,1769364949,On the Methodology of Actual Physics [video],story,https://www.youtube.com/watch?v=SaZFgtmOFek,,youtube.com
+mikhael,58,46723694,134,1769108636,'Active' sitting is better for brain health: review of studies,story,https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health,,sciencealert.com
+weiwenhao,2,46705337,12,1769001653,Integrating WebView with Nature Programming Language,story,https://nature-lang.org/blog/20260121,,nature-lang.org
+rvermeulen98,89,46731432,277,1769169293,"Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go",story,https://github.com/ramonvermeulen/whosthere,,github.com
+Geekette,13,46763779,27,1769422152,"Bro, Enough with the Protein. You're Just Making Expensive Pee",story,https://thewalrus.ca/enough-with-the-protein/,,thewalrus.ca
+aleroawani,3,46697390,17,1768941169,Article on the History of Spot Instances: Analyzing Spot Instance Pricing Change,story,https://spot.rackspace.com/blogs/history-of-spot-instances,,spot.rackspace.com
