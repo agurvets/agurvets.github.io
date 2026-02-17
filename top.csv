@@ -1,20 +1,21 @@
-by,descendants,id,score,text,time,title,type,url,domain
-yihac1,1,47049743,17,"Hi HN,<p>I’ve been experimenting with archive format design and built 6cy as a research project.<p>The goal is not to replace zip&#x2F;7z, but to explore:
+by,descendants,id,score,time,title,type,url,text,domain
+rbanffy,0,47007117,18,1771013127,Physicists Make Electrons Flow Like Water,story,https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/,,quantamagazine.org
+yihac1,4,47049743,21,1771347668,Show HN: 6cy – Experimental streaming archive format with per-block codecs,story,https://github.com/byte271/6cy,"Hi HN,<p>I’ve been experimenting with archive format design and built 6cy as a research project.<p>The goal is not to replace zip&#x2F;7z, but to explore:
 • block-level codec polymorphism (different compression per block)
 • streaming-first layout (no global seek required)
 • better crash recovery characteristics
 • plugin-based architecture so proprietary codecs can exist without changing the format<p>Right now this is an experimental v0.x format.
-The specification may still change and compatibility is not guaranteed yet.<p>I’m mainly looking for feedback on the format design rather than performance comparisons.<p>Thanks for taking a look.",1771347668,Show HN: 6cy – Experimental streaming archive format with per-block codecs,story,https://github.com/byte271/6cy,github.com
-bigbobbeeper,266,47048248,171,,1771340658,America's pensions can't beat Vanguard but they can close a hospital,story,https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard,governance.fyi
-righthand,122,47035679,364,,1771253305,UK Discord users were part of a Peter Thiel-linked data collection experiment,story,https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment,rockpapershotgun.com
-bikenaga,204,47026071,301,,1771180194,Editor's Note: Retraction of article containing fabricated quotations,story,https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/,arstechnica.com
-brandonb,266,47008607,158,,1771021315,How often do full-body MRIs find cancer?,story,https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/,usatoday.com
-cdrnsf,122,47025624,318,,1771177030,Palantir Gets Millions of Dollars from New York City's Public Hospitals,story,https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/,theintercept.com
-davidbarker,399,47006594,572,,1771010412,GPT-5.2 derives a new result in theoretical physics,story,https://openai.com/index/new-result-theoretical-physics/,openai.com
-bookofjoe,3,47039607,26,,1771272325,Dozens of Australians diagnosed with rare tattoo-related vision loss,story,https://www.abc.net.au/news/health/2026-02-14/tattoo-eye-inflammation/106315444,abc.net.au
-shpat,7,47040573,25,,1771277326,Should Drug Companies Be Advertising to Consumers?,story,https://www.nytimes.com/2026/02/16/health/drug-advertisements-consumers.html,nytimes.com
-andsoitis,27,47026273,81,,1771181432,Shingles Vaccine Linked to Slower Biological Aging in Older Adults,story,https://gero.usc.edu/2026/01/19/shingles-vaccine-slower-biological-aging/,gero.usc.edu
-rbanffy,25,46987425,139,,1770895575,"Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",story,https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/,arstechnica.com
-pavel_lishin,2,47027450,13,,1771188915,Ars Technica Pulls Article with AI Fabricated Quotes About AI Generated Article,story,https://www.404media.co/ars-technica-pulls-article-with-ai-fabricated-quotes-about-ai-generated-article/,404media.co
-jandrewrogers,0,47004422,16,,1770999602,Are the Mysteries of Quantum Mechanics Beginning to Dissolve?,story,https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/,quantamagazine.org
-PaulHoule,0,47026289,14,,1771181546,Scientists observe a 300M-year-old brain rhythm in several animal species,story,https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html,phys.org
+The specification may still change and compatibility is not guaranteed yet.<p>I’m mainly looking for feedback on the format design rather than performance comparisons.<p>Thanks for taking a look.",github.com
+bigbobbeeper,281,47048248,175,1771340658,America's pensions can't beat Vanguard but they can close a hospital,story,https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard,,governance.fyi
+righthand,122,47035679,365,1771253305,UK Discord users were part of a Peter Thiel-linked data collection experiment,story,https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment,,rockpapershotgun.com
+bikenaga,204,47026071,301,1771180194,Editor's Note: Retraction of article containing fabricated quotations,story,https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/,,arstechnica.com
+brandonb,266,47008607,158,1771021315,How often do full-body MRIs find cancer?,story,https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/,,usatoday.com
+cdrnsf,122,47025624,318,1771177030,Palantir Gets Millions of Dollars from New York City's Public Hospitals,story,https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/,,theintercept.com
+davidbarker,399,47006594,573,1771010412,GPT-5.2 derives a new result in theoretical physics,story,https://openai.com/index/new-result-theoretical-physics/,,openai.com
+bookofjoe,3,47039607,26,1771272325,Dozens of Australians diagnosed with rare tattoo-related vision loss,story,https://www.abc.net.au/news/health/2026-02-14/tattoo-eye-inflammation/106315444,,abc.net.au
+andsoitis,27,47026273,81,1771181432,Shingles Vaccine Linked to Slower Biological Aging in Older Adults,story,https://gero.usc.edu/2026/01/19/shingles-vaccine-slower-biological-aging/,,gero.usc.edu
+shpat,7,47040573,25,1771277326,Should Drug Companies Be Advertising to Consumers?,story,https://www.nytimes.com/2026/02/16/health/drug-advertisements-consumers.html,,nytimes.com
+rbanffy,25,46987425,139,1770895575,"Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",story,https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/,,arstechnica.com
+pavel_lishin,2,47027450,13,1771188915,Ars Technica Pulls Article with AI Fabricated Quotes About AI Generated Article,story,https://www.404media.co/ars-technica-pulls-article-with-ai-fabricated-quotes-about-ai-generated-article/,,404media.co
+jandrewrogers,0,47004422,16,1770999602,Are the Mysteries of Quantum Mechanics Beginning to Dissolve?,story,https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/,,quantamagazine.org
+PaulHoule,0,47026289,14,1771181546,Scientists observe a 300M-year-old brain rhythm in several animal species,story,https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html,,phys.org
