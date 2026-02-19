@@ -1,8 +1,8 @@
 by,descendants,id,score,time,title,type,url,text,domain
-paraschopra,18,47074083,24,1771511180,Against Theory-Motivated Experimentation,story,https://journals.sagepub.com/doi/10.1177/26339137261421577,,journals.sagepub.com
-simonebrunozzi,56,47074869,66,1771515042,Dinosaur Food: 100M year old foods we still eat today (2022),story,https://borischerny.com/food/2022/01/17/Dinosaur-food.html,,borischerny.com
-elliotbnvl,28,47073684,37,1771508989,Famous Signatures Through History,story,https://signatory.app/#famous-signatures,,signatory.app
-underscoreF,73,47064845,96,1771441338,What Every Experimenter Must Know About Randomization,story,https://spawn-queue.acm.org/doi/pdf/10.1145/3778029,,spawn-queue.acm.org
+simonebrunozzi,59,47074869,72,1771515042,Dinosaur Food: 100M year old foods we still eat today (2022),story,https://borischerny.com/food/2022/01/17/Dinosaur-food.html,,borischerny.com
+paraschopra,21,47074083,25,1771511180,Against Theory-Motivated Experimentation,story,https://journals.sagepub.com/doi/10.1177/26339137261421577,,journals.sagepub.com
+elliotbnvl,29,47073684,38,1771508989,Famous Signatures Through History,story,https://signatory.app/#famous-signatures,,signatory.app
+underscoreF,74,47064845,96,1771441338,What Every Experimenter Must Know About Randomization,story,https://spawn-queue.acm.org/doi/pdf/10.1145/3778029,,spawn-queue.acm.org
 yihac1,8,47049743,34,1771347668,Show HN: 6cy – Experimental streaming archive format with per-block codecs,story,https://github.com/byte271/6cy,"Hi HN,<p>I’ve been experimenting with archive format design and built 6cy as a research project.<p>The goal is not to replace zip&#x2F;7z, but to explore:
 • block-level codec polymorphism (different compression per block)
 • streaming-first layout (no global seek required)
@@ -17,3 +17,6 @@ thelastgallon,13,47063568,36,1771435572,"No food, no fuel, no tourists: Under US
 andsoitis,27,47026273,82,1771181432,Shingles Vaccine Linked to Slower Biological Aging in Older Adults,story,https://gero.usc.edu/2026/01/19/shingles-vaccine-slower-biological-aging/,,gero.usc.edu
 cyrusradfar,2,47066233,19,1771448031,FDA reverses course on rejection of Moderna's mRNA flu vaccine,story,https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/,,arstechnica.com
 bookofjoe,3,47039607,26,1771272325,Dozens of Australians diagnosed with rare tattoo-related vision loss,story,https://www.abc.net.au/news/health/2026-02-14/tattoo-eye-inflammation/106315444,,abc.net.au
+shpat,7,47040573,26,1771277326,Should Drug Companies Be Advertising to Consumers?,story,https://www.nytimes.com/2026/02/16/health/drug-advertisements-consumers.html,,nytimes.com
+DamnInteresting,8,47047932,20,1771338967,The mathematical mystery inside the legendary '90s shooter Quake 3,story,https://www.scientificamerican.com/article/the-mathematical-mystery-inside-the-legendary-90s-shooter-quake-3/,,scientificamerican.com
+robtherobber,2,47062084,11,1771428634,Reddit and Discord users forced to use biometric ID system backed by Palantir,story,https://www.openrightsgroup.org/press-releases/roblox-reddit-and-discord-users-compelled-to-use-biometric-id-system-backed-by-palantir-co-founder-peter-thiel/,,openrightsgroup.org
