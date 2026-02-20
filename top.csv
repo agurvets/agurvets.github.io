@@ -1,23 +1,24 @@
 by,descendants,id,score,time,title,type,url,text,domain
-simonebrunozzi,79,47074869,90,1771515042,Dinosaur Food: 100M year old foods we still eat today (2022),story,https://borischerny.com/food/2022/01/17/Dinosaur-food.html,,borischerny.com
-dabinat,42,47080267,75,1771538904,"Single vaccine could protect against all coughs, colds and flus",story,https://www.bbc.com/news/articles/cx2g8rz7yedo,,bbc.com
-ZeroGravitas,80,47078840,90,1771533129,"Overall, the colorectal cancer story is encouraging",story,https://www.hankgreen.com/crc,,hankgreen.com
-vinni2,41,47079590,56,1771536087,A psychedelic medicine performs well against depression,story,https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression,"<a href=""https:&#x2F;&#x2F;archive.ph&#x2F;rIPvX"" rel=""nofollow"">https:&#x2F;&#x2F;archive.ph&#x2F;rIPvX</a>",economist.com
-paraschopra,25,47074083,33,1771511180,Can random experimental choice lead to better theories?,story,https://journals.sagepub.com/doi/10.1177/26339137261421577,,journals.sagepub.com
-elliotbnvl,32,47073684,44,1771508989,Famous Signatures Through History,story,https://signatory.app/#famous-signatures,,signatory.app
-underscoreF,75,47064845,97,1771441338,What Every Experimenter Must Know About Randomization,story,https://spawn-queue.acm.org/doi/pdf/10.1145/3778029,,spawn-queue.acm.org
-yihac1,8,47049743,34,1771347668,Show HN: 6cy – Experimental streaming archive format with per-block codecs,story,https://github.com/byte271/6cy,"Hi HN,<p>I’ve been experimenting with archive format design and built 6cy as a research project.<p>The goal is not to replace zip&#x2F;7z, but to explore:
+debo_,4,47030387,49,1771210735,The Rediscovery of 103 Hokusai Lost Sketches (2021),story,https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/,,japan-forward.com
+simonebrunozzi,95,47074869,129,1771515042,Dinosaur Food: 100M year old foods we still eat today (2022),story,https://borischerny.com/food/2022/01/17/Dinosaur-food.html,,borischerny.com
+tartoran,77,47083735,129,1771561671,Mystery donor gives Japanese city $3.6M in gold bars to fix water system,story,https://www.bbc.com/news/articles/c3ew5jlqz87o,,bbc.com
+ZeroGravitas,147,47078840,152,1771533129,"Overall, the colorectal cancer story is encouraging",story,https://www.hankgreen.com/crc,,hankgreen.com
+PaulHoule,97,47087143,90,1771590242,"Exercise has 'similar effect' to therapy, study on depression shows",story,https://medicalxpress.com/news/2026-01-similar-effect-therapy-depression.html,,medicalxpress.com
+paraschopra,29,47074083,38,1771511180,Can random experimental choice lead to better theories?,story,https://journals.sagepub.com/doi/10.1177/26339137261421577,,journals.sagepub.com
+vinni2,63,47079590,83,1771536087,A psychedelic medicine performs well against depression,story,https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression,"<a href=""https:&#x2F;&#x2F;archive.ph&#x2F;rIPvX"" rel=""nofollow"">https:&#x2F;&#x2F;archive.ph&#x2F;rIPvX</a>",economist.com
+dabinat,124,47080267,187,1771538904,"Single vaccine could protect against all coughs, colds and flus",story,https://www.bbc.com/news/articles/cx2g8rz7yedo,,bbc.com
+elliotbnvl,32,47073684,50,1771508989,Famous Signatures Through History,story,https://signatory.app/#famous-signatures,,signatory.app
+underscoreF,80,47064845,101,1771441338,What Every Experimenter Must Know About Randomization,story,https://spawn-queue.acm.org/doi/pdf/10.1145/3778029,,spawn-queue.acm.org
+jbegley,8,47083715,28,1771561455,FBI 'Asset' Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years,story,https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/,,wired.com
+yihac1,8,47049743,35,1771347668,Show HN: 6cy – Experimental streaming archive format with per-block codecs,story,https://github.com/byte271/6cy,"Hi HN,<p>I’ve been experimenting with archive format design and built 6cy as a research project.<p>The goal is not to replace zip&#x2F;7z, but to explore:
 • block-level codec polymorphism (different compression per block)
 • streaming-first layout (no global seek required)
 • better crash recovery characteristics
 • plugin-based architecture so proprietary codecs can exist without changing the format<p>Right now this is an experimental v0.x format.
 The specification may still change and compatibility is not guaranteed yet.<p>I’m mainly looking for feedback on the format design rather than performance comparisons.<p>Thanks for taking a look.",github.com
-bikenaga,205,47026071,301,1771180194,Editor's Note: Retraction of article containing fabricated quotations,story,https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/,,arstechnica.com
+bikenaga,205,47026071,303,1771180194,Editor's Note: Retraction of article containing fabricated quotations,story,https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/,,arstechnica.com
 righthand,129,47035679,378,1771253305,UK Discord users were part of a Peter Thiel-linked data collection experiment,story,https://www.rockpapershotgun.com/good-news-uk-discord-users-were-part-of-a-peter-thiel-linked-data-collection-experiment,,rockpapershotgun.com
-bhouston,3,47064130,20,1771438274,Nature: The political effects of X's feed algorithm,story,https://www.nature.com/articles/s41586-026-10098-2,,nature.com
-thelastgallon,13,47063568,37,1771435572,"No food, no fuel, no tourists: Under US pressure, life in Cuba grinds to a halt",story,https://www.cnn.com/2026/02/18/americas/cuba-us-trump-oil-tourism-intl-latam,,cnn.com
+o4c,1,47075869,12,1771519930,Helicobacter Pylori: A Nobel Pursuit?,story,https://pmc.ncbi.nlm.nih.gov/articles/PMC2661189/,,pmc.ncbi.nlm.nih.gov
 andsoitis,27,47026273,82,1771181432,Shingles Vaccine Linked to Slower Biological Aging in Older Adults,story,https://gero.usc.edu/2026/01/19/shingles-vaccine-slower-biological-aging/,,gero.usc.edu
-cyrusradfar,2,47066233,19,1771448031,FDA reverses course on rejection of Moderna's mRNA flu vaccine,story,https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/,,arstechnica.com
-bookofjoe,3,47039607,26,1771272325,Dozens of Australians diagnosed with rare tattoo-related vision loss,story,https://www.abc.net.au/news/health/2026-02-14/tattoo-eye-inflammation/106315444,,abc.net.au
-shpat,7,47040573,26,1771277326,Should Drug Companies Be Advertising to Consumers?,story,https://www.nytimes.com/2026/02/16/health/drug-advertisements-consumers.html,,nytimes.com
-DamnInteresting,8,47047932,20,1771338967,The mathematical mystery inside the legendary '90s shooter Quake 3,story,https://www.scientificamerican.com/article/the-mathematical-mystery-inside-the-legendary-90s-shooter-quake-3/,,scientificamerican.com
+bhouston,3,47064130,20,1771438274,Nature: The political effects of X's feed algorithm,story,https://www.nature.com/articles/s41586-026-10098-2,,nature.com
+thelastgallon,14,47063568,37,1771435572,"No food, no fuel, no tourists: Under US pressure, life in Cuba grinds to a halt",story,https://www.cnn.com/2026/02/18/americas/cuba-us-trump-oil-tourism-intl-latam,,cnn.com
