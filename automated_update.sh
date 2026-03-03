@@ -7,8 +7,8 @@ whoami
 git pull
 # Requires ANTHROPIC_API_KEY to be set in the environment
 pip3 install requests Frozen-Flask humanize anthropic
-/usr/bin/python3 fetch_data.py
-/usr/bin/python3 frozen_flask.py
+python3 fetch_data.py
+python3 frozen_flask.py
 cp -R hackermd/src/build/* .
 git add --all
 git commit -m "automated update"
