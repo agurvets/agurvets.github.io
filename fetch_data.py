@@ -50,8 +50,7 @@ def filter_relevant_stories(stories):
             "be relevant to this audience, including topics like: medicine, "
             "biotech, health policy, clinical technology, medical devices, "
             "pharmaceuticals, health AI, genomics, neuroscience, public health, "
-            "scientific research, and biology. Also include general technology "
-            "stories that would be broadly interesting to a tech-savvy audience. "
+            "scientific research, and biology.  "
             "Respond with ONLY a JSON array of the story numbers that are "
             "relevant, e.g. [0, 3, 7]. No other text."
         ),
@@ -78,7 +77,7 @@ if __name__ == '__main__':
     candidates = []
     for story in stories:
         item = scrape_item(story)
-        if item and item.get('score', 0) > 10:
+        if item and item.get('score', 0) > 100:
             candidates.append(item)
 
     items = filter_relevant_stories(candidates)
