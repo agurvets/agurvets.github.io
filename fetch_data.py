@@ -77,7 +77,7 @@ if __name__ == '__main__':
     candidates = []
     for story in stories:
         item = scrape_item(story)
-        if item and item.get('score', 0) > 100:
+        if item and item.get('score', 0) > 50:
             candidates.append(item)
 
     items = filter_relevant_stories(candidates)
