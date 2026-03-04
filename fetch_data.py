@@ -50,7 +50,8 @@ def filter_relevant_stories(stories):
             "be relevant to this audience, including topics like: medicine, "
             "biotech, health policy, clinical technology, medical devices, "
             "pharmaceuticals, health AI, genomics, neuroscience, public health, "
-            "scientific research, and biology.  "
+            "scientific research related to medicine, and biology. Don't include " 
+            "stories purely about technology with no health angle."
             "Respond with ONLY a JSON array of the story numbers that are "
             "relevant, e.g. [0, 3, 7]. No other text."
         ),
